@@ -28,12 +28,29 @@ interface FinancialMetric {
   notes: string;
 }
 
+interface Director {
+  company_code: string;
+  meeting_year: number;
+  name: string;
+  current_title: string;
+  is_inside_director: boolean;
+  is_outside_director: boolean;
+  is_independent: boolean;
+  is_president: boolean;
+  is_ceo: boolean;
+  is_chair: boolean;
+  has_representative_authority: boolean;
+  is_board_chair: boolean;
+  is_female: boolean;
+}
+
 interface SavedCondition {
   id: string;
   name: string;
   vote: "all" | "反対" | "賛成";
   issueType: string;
   detailTag: string;
+  roleCondition: string;
   keyword: string;
   roeBelow: string;
 }
@@ -42,6 +59,7 @@ interface Props {
   investorId: string;
   records: VoteRecord[];
   financialMetrics: FinancialMetric[];
+  directors: Director[];
 }
 
 const issueLabels: Record<string, string> = {
@@ -74,10 +92,59 @@ function recentMetrics(metrics: FinancialMetric[], companyCode: string, meetingD
     .reverse();
 }
 
-function matchesCondition(record: VoteRecord, metrics: FinancialMetric[], condition: SavedCondition) {
+const roleConditionLabels: Record<string, string> = {
+  all: "指定なし",
+  current_president_or_ceo: "現任社長/CEOがいる",
+  current_representative_chair: "現任の代表権付き会長がいる",
+  current_board_chair: "取締役会議長がいる",
+  current_inside_director: "社内取締役がいる",
+  current_outside_director: "社外取締役がいる",
+  current_independent_outside_director: "独立社外取締役がいる",
+  current_female_director: "女性取締役がいる",
+  current_female_outside_director: "女性社外取締役がいる",
+  former_president_within_3_years: "過去3年以内の社長経験者がいる（履歴データ待ち）",
+  former_representative_chair_within_3_years: "過去3年以内の代表権付き会長経験者がいる（履歴データ待ち）",
+};
+
+function roleLabel(roleCondition: string) {
+  return roleConditionLabels[roleCondition] ?? roleCondition;
+}
+
+function directorMatchesRole(director: Director, roleCondition: string) {
+  if (roleCondition === "all") return true;
+  if (roleCondition === "current_president_or_ceo") return director.is_president || director.is_ceo;
+  if (roleCondition === "current_representative_chair") return director.is_chair && director.has_representative_authority;
+  if (roleCondition === "current_board_chair") return director.is_board_chair;
+  if (roleCondition === "current_inside_director") return director.is_inside_director;
+  if (roleCondition === "current_outside_director") return director.is_outside_director;
+  if (roleCondition === "current_independent_outside_director") return director.is_outside_director && director.is_independent;
+  if (roleCondition === "current_female_director") return director.is_female;
+  if (roleCondition === "current_female_outside_director") return director.is_female && director.is_outside_director;
+  return false;
+}
+
+function companyMatchesRole(record: VoteRecord, directors: Director[], roleCondition: string) {
+  if (roleCondition === "all") return true;
+  const meetingYear = Number(String(record.meeting_date).slice(0, 4)) || 2025;
+  return directors
+    .filter((director) => director.company_code === record.company_code && director.meeting_year <= meetingYear)
+    .some((director) => directorMatchesRole(director, roleCondition));
+}
+
+function matchedDirectorNames(record: VoteRecord, directors: Director[], roleCondition: string) {
+  if (roleCondition === "all") return [];
+  const meetingYear = Number(String(record.meeting_date).slice(0, 4)) || 2025;
+  return directors
+    .filter((director) => director.company_code === record.company_code && director.meeting_year <= meetingYear)
+    .filter((director) => directorMatchesRole(director, roleCondition))
+    .map((director) => `${director.name}（${director.current_title}）`);
+}
+
+function matchesCondition(record: VoteRecord, metrics: FinancialMetric[], directors: Director[], condition: SavedCondition) {
   if (condition.vote !== "all" && record.vote !== condition.vote) return false;
   if (condition.issueType !== "all" && record.issue_type !== condition.issueType) return false;
   if (condition.detailTag !== "all" && !(record.detail_tags ?? []).includes(condition.detailTag)) return false;
+  if (!companyMatchesRole(record, directors, condition.roleCondition)) return false;
 
   const keyword = condition.keyword.trim().toLowerCase();
   if (keyword) {
@@ -101,12 +168,13 @@ function defaultCondition(): SavedCondition {
     vote: "反対",
     issueType: "low_roe",
     detailTag: "all",
+    roleCondition: "current_president_or_ceo",
     keyword: "社長 会長 代表 CEO",
     roeBelow: "5",
   };
 }
 
-export function InvestorAnalysisWorkspace({ investorId, records, financialMetrics }: Props) {
+export function InvestorAnalysisWorkspace({ investorId, records, financialMetrics, directors }: Props) {
   const [tab, setTab] = useState<"list" | "conditions" | "roe">("list");
   const [draft, setDraft] = useState<SavedCondition>(defaultCondition);
   const [conditions, setConditions] = useState<SavedCondition[]>([]);
@@ -206,6 +274,11 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
               <option value="all">すべての詳細条件</option>
               {detailTags.map((tag) => <option key={tag} value={tag}>{tag}</option>)}
             </select>
+            <select className="rounded border bg-white px-3 py-2 text-sm" value={draft.roleCondition} onChange={(event) => setDraft({ ...draft, roleCondition: event.target.value })}>
+              {Object.entries(roleConditionLabels).map(([value, label]) => (
+                <option key={value} value={value}>{label}</option>
+              ))}
+            </select>
             <input className="rounded border px-3 py-2 text-sm" value={draft.keyword} onChange={(event) => setDraft({ ...draft, keyword: event.target.value })} placeholder="キーワード: 社長 会長 代表 CEO" />
             <input className="rounded border px-3 py-2 text-sm" value={draft.roeBelow} onChange={(event) => setDraft({ ...draft, roeBelow: event.target.value })} placeholder="直近3期ROEが全て未満: 5" />
           </div>
@@ -216,7 +289,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
 
           <div className="mt-5 space-y-3">
             {[draft, ...conditions].map((condition, index) => {
-              const matched = investorRecords.filter((record) => matchesCondition(record, financialMetrics, condition));
+              const matched = investorRecords.filter((record) => matchesCondition(record, financialMetrics, directors, condition));
               const against = matched.filter((record) => record.vote === "反対").length;
               const forVotes = matched.filter((record) => record.vote === "賛成").length;
               const ratio = matched.length > 0 ? Math.round((against / matched.length) * 100) : 0;
@@ -226,7 +299,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                     <div>
                       <p className="font-semibold">{index === 0 ? "プレビュー: " : ""}{condition.name}</p>
                       <p className="mt-1 text-xs text-slate-500">
-                        行使={condition.vote} / 論点={condition.issueType === "all" ? "全て" : issueLabel(condition.issueType)} / 詳細={condition.detailTag === "all" ? "全て" : condition.detailTag} / キーワード={condition.keyword || "-"} / ROE&lt;{condition.roeBelow || "-"}
+                        行使={condition.vote} / 論点={condition.issueType === "all" ? "全て" : issueLabel(condition.issueType)} / 詳細={condition.detailTag === "all" ? "全て" : condition.detailTag} / 役割={roleLabel(condition.roleCondition)} / キーワード={condition.keyword || "-"} / ROE&lt;{condition.roeBelow || "-"}
                       </p>
                     </div>
                     {index > 0 && <button type="button" onClick={() => deleteCondition(condition.id)} className="rounded border px-3 py-1 text-xs text-slate-600">削除</button>}
@@ -237,10 +310,26 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                     <div className="rounded bg-green-50 p-2"><p className="text-xs text-green-700">賛成</p><p className="text-lg font-bold text-green-700">{forVotes}</p></div>
                     <div className="rounded bg-amber-50 p-2"><p className="text-xs text-amber-700">反対比率</p><p className="text-lg font-bold text-amber-700">{ratio}%</p></div>
                   </div>
+                  {condition.roleCondition !== "all" && matched.length > 0 && (
+                    <div className="mt-3 rounded bg-slate-50 p-3 text-xs leading-5 text-slate-600">
+                      <p className="font-semibold text-slate-800">役割条件に該当した候補者例</p>
+                      {matched.slice(0, 5).map((record) => {
+                        const names = matchedDirectorNames(record, directors, condition.roleCondition);
+                        return (
+                          <p key={`${record.company_code}-${record.meeting_date}-${record.issue_type}`}>
+                            {record.company_name || record.company_code}: {names.length > 0 ? names.join("、") : "候補者データ未整備"}
+                          </p>
+                        );
+                      })}
+                    </div>
+                  )}
                 </div>
               );
             })}
           </div>
+          <p className="mt-4 rounded bg-amber-50 px-3 py-2 text-xs leading-5 text-amber-800">
+            過去3年以内の社長・代表権付き会長は、役職履歴データの取り込み後に自動判定できます。現段階では現任役職とキーワード条件で仮説確認してください。
+          </p>
         </section>
       )}
 

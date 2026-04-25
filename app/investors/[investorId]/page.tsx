@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { GuidelineRuleModalList } from "@/components/GuidelineRuleModalList";
 import { InvestorAnalysisWorkspace } from "@/components/InvestorAnalysisWorkspace";
 import { IssueTaxonomyModalList } from "@/components/IssueTaxonomyModalList";
-import { companies, financialMetrics, getGuidelineRules, getGuidelineSources, getInvestor } from "@/lib/data";
+import { companies, directors, financialMetrics, getGuidelineRules, getGuidelineSources, getInvestor } from "@/lib/data";
 import { issueTaxonomy } from "@/lib/inference";
 import mufgVoteSummary from "@/data/generated/mufg_vote_summary.json";
 import oppositionRecords from "@/data/generated/investor_opposition_records.json";
@@ -46,6 +46,7 @@ export default async function InvestorPage({ params }: Props) {
         investorId={investorId}
         records={oppositionRecords.records}
         financialMetrics={financialMetrics}
+        directors={directors}
       />
 
       <section className="rounded-xl border bg-white p-5 shadow-sm">
