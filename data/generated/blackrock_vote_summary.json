@@ -1,0 +1,9 @@
+{
+  "investor_id": "blackrock",
+  "generated_at": "2026-04-25T22:04:27.755Z",
+  "source_format": "PDF",
+  "parser_status": "PDF取得済み。簡易テキスト抽出では本文を取得できないため、OCRまたはPDF表専用パーサが必要。",
+  "total_files": 4,
+  "text_layer_files": 0,
+  "detected_issue_types": []
+}

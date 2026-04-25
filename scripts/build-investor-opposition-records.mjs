@@ -6,6 +6,7 @@ const GENERATED_DIR = path.join(ROOT, "data", "generated");
 const OUTPUT = path.join(GENERATED_DIR, "investor_opposition_records.json");
 
 const CASE_FILES = [
+  "blackrock_vote_cases.json",
   "mufg_vote_cases.json",
   "nomura_am_vote_cases.json",
   "resona_am_vote_cases.json",

@@ -4,6 +4,11 @@ import { pathToFileURL } from "node:url";
 
 const ROOT = process.cwd();
 const LOG_DIR = path.join(ROOT, "data", "generated", "pipeline_logs");
+const downloadLimit = process.env.DATA_DOWNLOAD_LIMIT || "220";
+const includeVotePdfs = process.env.INCLUDE_VOTE_PDFS !== "false";
+const downloadKinds = includeVotePdfs
+  ? ["guideline", "vote_result", "vote_result_excel"]
+  : ["guideline", "vote_result_excel"];
 
 const steps = [
   {
@@ -27,9 +32,14 @@ const steps = [
     args: []
   },
   {
+    name: "seed-director-role-history",
+    script: "scripts/seed-director-role-history.mjs",
+    args: []
+  },
+  {
     name: "download-sources",
     script: "scripts/download-sources.mjs",
-    args: ["guideline", "vote_result_excel", "--limit=180"]
+    args: [...downloadKinds, `--limit=${downloadLimit}`]
   },
   {
     name: "profile-downloaded-sources",
@@ -54,6 +64,11 @@ const steps = [
   {
     name: "analyze-daiwa-votes",
     script: "scripts/analyze-daiwa-vote-excel.mjs",
+    args: []
+  },
+  {
+    name: "analyze-blackrock-votes",
+    script: "scripts/analyze-blackrock-vote-pdf.mjs",
     args: []
   },
   {
@@ -100,7 +115,19 @@ async function runStep(step) {
 
 await mkdir(LOG_DIR, { recursive: true });
 
-const results = [];
+const results = [{
+  name: "pipeline-settings",
+  script: "scripts/run-data-pipeline.mjs",
+  args: [],
+  started_at: new Date().toISOString(),
+  finished_at: new Date().toISOString(),
+  status: "OK",
+  settings: {
+    data_download_limit: downloadLimit,
+    include_vote_pdfs: includeVotePdfs,
+    download_kinds: downloadKinds
+  }
+}];
 for (const step of steps) {
   console.log(`\n=== ${step.name} ===`);
   const result = await runStep(step);

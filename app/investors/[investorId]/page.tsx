@@ -3,14 +3,48 @@ import { notFound } from "next/navigation";
 import { GuidelineRuleModalList } from "@/components/GuidelineRuleModalList";
 import { InvestorAnalysisWorkspace } from "@/components/InvestorAnalysisWorkspace";
 import { IssueTaxonomyModalList } from "@/components/IssueTaxonomyModalList";
-import { companies, directors, financialMetrics, getGuidelineRules, getGuidelineSources, getInvestor } from "@/lib/data";
+import { companies, companyGovernanceMetrics, directorRoleHistory, directors, financialMetrics, getGuidelineRules, getGuidelineSources, getInvestor } from "@/lib/data";
 import { issueTaxonomy } from "@/lib/inference";
+import blackrockVoteSummary from "@/data/generated/blackrock_vote_summary.json";
 import mufgVoteSummary from "@/data/generated/mufg_vote_summary.json";
 import oppositionRecords from "@/data/generated/investor_opposition_records.json";
 
 interface Props {
   params: Promise<{ investorId: string }>;
 }
+
+const investorTypeLabels: Record<string, string> = {
+  "Asset manager": "アセットマネージャー",
+  "Trust bank": "信託銀行",
+};
+
+const countryLabels: Record<string, string> = {
+  Japan: "日本",
+  US: "米国",
+};
+
+const documentTypeLabels: Record<string, string> = {
+  guideline: "ガイドライン",
+  guideline_changes: "改定情報",
+  vote_result: "議決権行使結果",
+};
+
+const issueLabels: Record<string, string> = {
+  attendance: "出席率",
+  board_independence: "取締役会独立性",
+  compensation: "役員報酬",
+  gender_diversity: "女性・ジェンダー",
+  independence_failure: "独立性欠如",
+  low_pbr: "PBR",
+  low_roe: "ROE・資本効率",
+  low_tsr: "TSR・株価",
+  overboarding: "兼職数",
+  policy_shareholdings: "政策保有株式",
+  shareholder_proposal: "株主提案",
+  takeover_defense: "買収防衛策",
+  tenure: "在任期間",
+  other: "その他",
+};
 
 export default async function InvestorPage({ params }: Props) {
   const { investorId } = await params;
@@ -35,9 +69,11 @@ export default async function InvestorPage({ params }: Props) {
       </div>
 
       <section className="rounded-xl border bg-white p-6 shadow-sm">
-        <p className="text-xs font-semibold uppercase tracking-wide text-slate-500">Investor Guideline</p>
+        <p className="text-xs font-semibold tracking-wide text-slate-500">投資家ガイドライン</p>
         <h1 className="mt-1 text-2xl font-bold">{investor.investor_name}</h1>
-        <p className="mt-1 text-sm text-slate-500">{investor.country} / {investor.investor_type}</p>
+        <p className="mt-1 text-sm text-slate-500">
+          {countryLabels[investor.country] ?? investor.country} / {investorTypeLabels[investor.investor_type] ?? investor.investor_type}
+        </p>
         <p className="mt-4 rounded-lg bg-slate-50 px-4 py-3 text-sm text-slate-700">{investor.basis_policy}</p>
         <p className="mt-2 text-sm leading-6 text-slate-600">{investor.notes}</p>
       </section>
@@ -46,8 +82,43 @@ export default async function InvestorPage({ params }: Props) {
         investorId={investorId}
         records={oppositionRecords.records}
         financialMetrics={financialMetrics}
+        governanceMetrics={companyGovernanceMetrics}
         directors={directors}
+        roleHistory={directorRoleHistory}
       />
+
+      {investorId === "blackrock" && (
+        <section className="rounded-xl border bg-white p-5 shadow-sm">
+          <div className="flex flex-wrap items-start justify-between gap-3">
+            <div>
+              <h2 className="text-lg font-bold">BlackRock 行使結果PDFの取込状況</h2>
+              <p className="mt-1 text-xs leading-5 text-slate-500">
+                BlackRockは行使結果がPDF中心のため、Excel形式の投資家より抽出工程が一段多くなります。
+              </p>
+            </div>
+            <span className="rounded bg-amber-50 px-3 py-1 text-xs font-semibold text-amber-700">
+              {blackrockVoteSummary.parser_status}
+            </span>
+          </div>
+          <div className="mt-4 grid gap-3 md:grid-cols-3">
+            <div className="rounded-lg border bg-slate-50 p-4">
+              <p className="text-xs text-slate-500">PDFファイル数</p>
+              <p className="mt-1 text-2xl font-bold">{blackrockVoteSummary.total_files.toLocaleString()}</p>
+            </div>
+            <div className="rounded-lg border bg-slate-50 p-4">
+              <p className="text-xs text-slate-500">テキスト層あり</p>
+              <p className="mt-1 text-2xl font-bold">{blackrockVoteSummary.text_layer_files.toLocaleString()}</p>
+            </div>
+            <div className="rounded-lg border bg-slate-50 p-4">
+              <p className="text-xs text-slate-500">次の処理</p>
+              <p className="mt-1 text-sm font-semibold text-slate-900">会社・議案・賛否の行単位テーブル化</p>
+            </div>
+          </div>
+          <p className="mt-3 rounded bg-blue-50 px-3 py-2 text-xs leading-5 text-blue-800">
+            週次収集ではBlackRockのPDFリンクも対象に追加済みです。PDF取得後、テキスト層を抽出できるものから行使先一覧へ反映します。画像PDFの場合はOCR工程が必要です。
+          </p>
+        </section>
+      )}
 
       <section className="rounded-xl border bg-white p-5 shadow-sm">
         <h2 className="text-lg font-bold">分析対象企業</h2>
@@ -94,7 +165,7 @@ export default async function InvestorPage({ params }: Props) {
           <div className="mt-4 grid gap-2 md:grid-cols-2">
             {extractedIssues.slice(0, 8).map((item) => (
               <div key={item.issueType} className="flex items-center justify-between rounded-lg border px-3 py-2 text-sm">
-                <span className="font-mono text-xs text-slate-600">{item.issueType}</span>
+                <span className="text-xs text-slate-600">{issueLabels[item.issueType] ?? item.issueType}</span>
                 <span className="font-semibold text-slate-900">{item.count.toLocaleString()}件</span>
               </div>
             ))}
@@ -111,7 +182,7 @@ export default async function InvestorPage({ params }: Props) {
           {sources.map((source) => (
             <div key={source.source_id} className="rounded-lg border px-4 py-3 text-sm">
               <div className="flex flex-wrap gap-2">
-                <span className="rounded bg-blue-50 px-2 py-0.5 text-xs text-blue-700">{source.document_type}</span>
+                <span className="rounded bg-blue-50 px-2 py-0.5 text-xs text-blue-700">{documentTypeLabels[source.document_type] ?? source.document_type}</span>
                 <span className="rounded bg-slate-100 px-2 py-0.5 text-xs">{source.year}</span>
                 <span className="rounded bg-green-50 px-2 py-0.5 text-xs text-green-700">日本語</span>
               </div>

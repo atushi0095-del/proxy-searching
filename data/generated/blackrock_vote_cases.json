@@ -1,0 +1,12 @@
+{
+  "investor_name": "BlackRock Investment",
+  "generated_at": "2026-04-25T22:04:27.755Z",
+  "parser_status": "PDF取得済み。簡易テキスト抽出では本文を取得できないため、OCRまたはPDF表専用パーサが必要。",
+  "source_files": [
+    "data/generated/sources/217_blackrock_vote_result_議案別議決権行使状況（国内株式）2025年10月～12月.pdf",
+    "data/generated/sources/218_blackrock_vote_result_議案別議決権行使状況（国内株式）2025年7月～9月.pdf",
+    "data/generated/sources/219_blackrock_vote_result_議案別議決権行使状況（国内株式）2025年4月～6月.pdf",
+    "data/generated/sources/220_blackrock_vote_result_議案別議決権行使状況（国内株式）2025年1月～3月.pdf"
+  ],
+  "issues": []
+}

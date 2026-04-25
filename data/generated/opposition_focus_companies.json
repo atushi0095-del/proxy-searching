@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T10:21:30.865Z",
+  "generated_at": "2026-04-25T22:04:06.634Z",
   "purpose": "反対された企業を中心に企業FACT・ガバナンス・候補者データを追加収集するための優先リスト。",
   "source_files": [
     "mufg_vote_cases.json",
@@ -4051,6 +4051,44 @@
           "proposal_type": "取締役の選解任",
           "reason": "出席状況について当社基準に抵触しているため",
           "source_url": "https://www.daiwa-am.co.jp/company/stewardship/files/202506.xlsx"
+        }
+      ]
+    },
+    {
+      "company_code": "6406",
+      "company_name": "ﾌｼﾞﾃｯｸ",
+      "against_count": 3,
+      "investors": {
+        "nomura_am": 2,
+        "resona_am": 1
+      },
+      "issues": {
+        "shareholder_proposal": 3
+      },
+      "recent_examples": [
+        {
+          "investor_id": "nomura_am",
+          "issue_type": "shareholder_proposal",
+          "meeting_date": "2023/02/24",
+          "proposal_type": "取締役の選解任",
+          "reason": "候補者は当社基準を満たすものの、定款上の員数の上限を超える候補者が付議される中、株主提案による候補者に比べて選任の理由が明確でないと判断し、反対しました。",
+          "source_url": "https://www.nomura-am.co.jp/special/esg/excel/vote2023_q1.xlsx"
+        },
+        {
+          "investor_id": "nomura_am",
+          "issue_type": "shareholder_proposal",
+          "meeting_date": "2023/02/24",
+          "proposal_type": "取締役の選解任",
+          "reason": "候補者は当社基準を満たすものの、定款上の員数の上限を超える候補者が付議される中、株主提案による候補者に比べて選任の理由が明確でないと判断し、反対しました。",
+          "source_url": "https://www.nomura-am.co.jp/special/esg/excel/vote2023_q1.xlsx"
+        },
+        {
+          "investor_id": "resona_am",
+          "issue_type": "shareholder_proposal",
+          "meeting_date": "20230621",
+          "proposal_type": "剰余金の処分",
+          "reason": "内部留保等の水準を考慮し会社提案の剰余金処分方針に賛同のため、株主提案に反対",
+          "source_url": "https://www.resona-am.co.jp/sustainability/pdf/giketuken_202304.xls"
         }
       ]
     },
@@ -8434,27 +8472,6 @@
           "investor_id": "resona_am",
           "issue_type": "shareholder_proposal",
           "meeting_date": "20230629",
-          "proposal_type": "剰余金の処分",
-          "reason": "内部留保等の水準を考慮し会社提案の剰余金処分方針に賛同のため、株主提案に反対",
-          "source_url": "https://www.resona-am.co.jp/sustainability/pdf/giketuken_202304.xls"
-        }
-      ]
-    },
-    {
-      "company_code": "6406",
-      "company_name": "フジテック",
-      "against_count": 1,
-      "investors": {
-        "resona_am": 1
-      },
-      "issues": {
-        "shareholder_proposal": 1
-      },
-      "recent_examples": [
-        {
-          "investor_id": "resona_am",
-          "issue_type": "shareholder_proposal",
-          "meeting_date": "20230621",
           "proposal_type": "剰余金の処分",
           "reason": "内部留保等の水準を考慮し会社提案の剰余金処分方針に賛同のため、株主提案に反対",
           "source_url": "https://www.resona-am.co.jp/sustainability/pdf/giketuken_202304.xls"

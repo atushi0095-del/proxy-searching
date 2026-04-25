@@ -43,6 +43,13 @@ function shouldDownload(item) {
   return kinds.has(item.kind);
 }
 
+function kindPriority(kind) {
+  if (kind === "guideline") return 1;
+  if (kind === "vote_result_excel") return 2;
+  if (kind === "vote_result") return 3;
+  return 9;
+}
+
 function extensionFor(item, contentType) {
   const fromUrl = new URL(item.url).pathname.match(/\.([a-z0-9]+)$/i)?.[1];
   if (fromUrl) return fromUrl.toLowerCase();
@@ -108,7 +115,12 @@ async function download(item, index, policy) {
 }
 
 const registry = JSON.parse(await readFile(REGISTRY_FILE, "utf8"));
-const targets = registry.filter(shouldDownload).slice(0, downloadLimit ?? undefined);
+const targets = registry
+  .filter(shouldDownload)
+  .map((item, sourceIndex) => ({ item, sourceIndex }))
+  .sort((a, b) => kindPriority(a.item.kind) - kindPriority(b.item.kind) || a.sourceIndex - b.sourceIndex)
+  .map(({ item }) => item)
+  .slice(0, downloadLimit ?? undefined);
 const policy = await loadPolicy();
 
 await mkdir(OUT_DIR, { recursive: true });

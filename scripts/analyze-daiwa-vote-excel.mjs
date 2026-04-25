@@ -1,4 +1,4 @@
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import XLSX from "xlsx";
 import {
@@ -77,8 +77,10 @@ function parseWorkbook(filePath, source) {
 }
 
 const manifest = JSON.parse(await readFile(MANIFEST_FILE, "utf8").catch(() => "[]"));
-const files = (await readdir(SOURCE_DIR).catch(() => []))
-  .filter((fileName) => fileName.includes("daiwa_am_vote_result_excel") && fileName.endsWith(".xlsx"));
+const files = manifest
+  .filter((item) => item.investor_id === "daiwa_am" && item.kind === "vote_result_excel" && item.file_name)
+  .map((item) => item.file_name)
+  .filter((fileName, index, self) => self.indexOf(fileName) === index);
 
 const records = [];
 for (const fileName of files) {

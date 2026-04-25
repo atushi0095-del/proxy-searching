@@ -2,8 +2,22 @@ name: Weekly data collection
 
 on:
   workflow_dispatch:
+    inputs:
+      download_limit:
+        description: "Maximum number of public source files to download"
+        required: false
+        default: "220"
+      include_vote_pdfs:
+        description: "Include vote result PDFs. Keep true for BlackRock; set false if free-minute usage grows."
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
   schedule:
-    # JST Monday 08:00 = UTC Sunday 23:00
+    # GitHub cron uses UTC. JST Monday 08:00 = UTC Sunday 23:00.
+    # Scheduled runs can be delayed by GitHub. Keep the job bounded for the free tier.
     - cron: "0 23 * * 0"
 
 permissions:
@@ -17,6 +31,9 @@ jobs:
   collect:
     runs-on: ubuntu-latest
     timeout-minutes: 60
+    env:
+      DATA_DOWNLOAD_LIMIT: ${{ github.event.inputs.download_limit || '220' }}
+      INCLUDE_VOTE_PDFS: ${{ github.event.inputs.include_vote_pdfs || 'true' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4

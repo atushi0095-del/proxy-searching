@@ -31,6 +31,9 @@ yarn-error.log*
 .pnpm-debug.log*
 .next-start*.log
 
+# downloaded public source files are cached locally / in Actions, not committed
+data/generated/sources/
+
 # env files (can opt-in for committing if needed)
 .env*
 
