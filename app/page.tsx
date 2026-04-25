@@ -2,11 +2,12 @@ import Link from "next/link";
 import { GuidelineRuleModalList } from "@/components/GuidelineRuleModalList";
 import { IssueTaxonomyModalList } from "@/components/IssueTaxonomyModalList";
 import { SearchBox } from "@/components/SearchBox";
-import { companies, getGuidelineRules, investors } from "@/lib/data";
+import { companies, financialMetrics, getGuidelineRules, investors } from "@/lib/data";
 import { issueTaxonomy, issueLabels } from "@/lib/inference";
 
 export default function HomePage() {
   const mainRules = investors.flatMap((investor) => getGuidelineRules(investor.investor_id));
+  const latestYear = Math.max(...financialMetrics.map((metric) => metric.fiscal_year), 2025);
 
   // SearchBox 用データを整形（サーバーで準備してクライアントへ渡す）
   const searchCompanies = companies.map((c) => ({
@@ -74,7 +75,7 @@ export default function HomePage() {
       <section className="rounded-xl border bg-white p-5 shadow-sm">
         <div className="mb-3 flex items-center justify-between">
           <h2 className="text-lg font-bold">対象企業</h2>
-          <span className="text-xs text-slate-500">実データシード / 2025年</span>
+          <span className="text-xs text-slate-500">実データシード / {latestYear}年</span>
         </div>
         <div className="grid gap-3 md:grid-cols-2">
           {companies.map((company) => (
@@ -87,14 +88,14 @@ export default function HomePage() {
                   <Link
                     key={investor.investor_id}
                     className="rounded bg-slate-900 px-3 py-1.5 text-xs text-white"
-                    href={`/companies/${company.company_code}?year=2025&investor=${investor.investor_id}`}
+                    href={`/companies/${company.company_code}?year=${latestYear}&investor=${investor.investor_id}`}
                   >
                     {investor.investor_name}
                   </Link>
                 ))}
                 <Link
                   className="rounded border px-3 py-1.5 text-xs text-slate-700"
-                  href={`/companies/${company.company_code}?year=2025`}
+                  href={`/companies/${company.company_code}?year=${latestYear}`}
                 >
                   両投資家を見る
                 </Link>

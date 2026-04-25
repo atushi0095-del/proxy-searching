@@ -92,6 +92,13 @@ function actualVoteSummary(votes: VoteResult[]) {
   };
 }
 
+function latestMetricYear(companyCode: string) {
+  const years = getFinancialMetrics(companyCode)
+    .map((metric) => metric.fiscal_year)
+    .filter((value) => Number.isFinite(value));
+  return years.length > 0 ? Math.max(...years) : 2025;
+}
+
 function InvestorOppositionOverview({
   judgments,
   companyCode,
@@ -385,7 +392,7 @@ function InvestorPanel({ judgment, voteView }: { judgment: InvestorJudgment; vot
 export default async function CompanyPage({ params, searchParams }: Props) {
   const { companyCode } = await params;
   const { year, investor, voteView: rawVoteView } = await searchParams;
-  const meetingYear = year ? Number(year) : 2025;
+  const meetingYear = year ? Number(year) : latestMetricYear(companyCode);
   const voteView: VoteView =
     rawVoteView === "all" || rawVoteView === "exceptions" || rawVoteView === "opposition"
       ? rawVoteView
@@ -425,15 +432,33 @@ export default async function CompanyPage({ params, searchParams }: Props) {
         <SectionTitle label="FACT 事実データ" tone="fact" />
         <div className="grid gap-4 md:grid-cols-3">
           <div className="rounded-lg border p-4">
-            <h3 className="font-bold">過去3期ROE</h3>
+            <div className="flex items-center justify-between gap-3">
+              <h3 className="font-bold">直近3期 財務指標</h3>
+              <span className="rounded bg-slate-100 px-2 py-0.5 text-xs text-slate-600">
+                {metrics.slice(-3)[0]?.fiscal_year ?? "-"} - {metrics.slice(-3).at(-1)?.fiscal_year ?? "-"}
+              </span>
+            </div>
             <div className="mt-3 space-y-2">
               {metrics.slice(-3).map((metric) => (
-                <div key={metric.fiscal_year} className="flex justify-between rounded bg-slate-50 px-3 py-2 text-sm">
-                  <span>{metric.fiscal_year}年</span>
-                  <span>ROE {metric.roe?.toFixed(1) ?? "N/A"}%</span>
+                <div key={metric.fiscal_year} className="rounded bg-slate-50 px-3 py-2 text-sm">
+                  <div className="flex justify-between gap-3">
+                    <span className="font-semibold">{metric.fiscal_year}年</span>
+                    <span>ROE {metric.roe?.toFixed(1) ?? "N/A"}% / PBR {metric.pbr?.toFixed(1) ?? "N/A"}</span>
+                  </div>
+                  <div className="mt-1 flex items-center justify-between gap-3 text-xs text-slate-500">
+                    <span className="truncate">{metric.notes}</span>
+                    {metric.source_url && (
+                      <a className="shrink-0 text-blue-700 hover:underline" href={metric.source_url} target="_blank" rel="noreferrer">
+                        エビデンス
+                      </a>
+                    )}
+                  </div>
                 </div>
               ))}
             </div>
+            <p className="mt-3 text-xs leading-5 text-slate-500">
+              判定は対象年度以下の直近3期を使用します。翌年データが追加されると、自動的に1年分スライドします。
+            </p>
           </div>
           <div className="rounded-lg border p-4 md:col-span-2">
             <h3 className="font-bold">取締役会構成</h3>

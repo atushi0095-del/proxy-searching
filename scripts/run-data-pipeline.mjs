@@ -55,6 +55,11 @@ const steps = [
     name: "analyze-daiwa-votes",
     script: "scripts/analyze-daiwa-vote-excel.mjs",
     args: []
+  },
+  {
+    name: "build-opposition-focus-companies",
+    script: "scripts/build-opposition-focus-companies.mjs",
+    args: []
   }
 ];
 
