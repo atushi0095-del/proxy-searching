@@ -60,6 +60,11 @@ const steps = [
     name: "build-opposition-focus-companies",
     script: "scripts/build-opposition-focus-companies.mjs",
     args: []
+  },
+  {
+    name: "build-investor-opposition-records",
+    script: "scripts/build-investor-opposition-records.mjs",
+    args: []
   }
 ];
 

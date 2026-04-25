@@ -17,6 +17,7 @@
     "profile:sources": "node scripts/profile-downloaded-sources.mjs",
     "seed:investor-rules": "node scripts/seed-additional-investor-rules.mjs",
     "build:opposition-focus": "node scripts/build-opposition-focus-companies.mjs",
+    "build:opposition-records": "node scripts/build-investor-opposition-records.mjs",
     "sync:companies": "node scripts/sync-company-universe.mjs",
     "collect:data": "node scripts/run-data-pipeline.mjs"
   },
