@@ -1,0 +1,74 @@
+[
+  {
+    "pattern_id": "BR_ROE_TARGET_001",
+    "investor_id": "blackrock",
+    "issue_type": "low_roe",
+    "condition_summary": "3期連続ROE5%未満に抵触し、現任社長が取締役候補者である場合",
+    "target_pattern": "current_president",
+    "evidence_count": 12,
+    "for_count": 2,
+    "against_count": 10,
+    "confidence": "High",
+    "notes": "現任社長への反対傾向が強い"
+  },
+  {
+    "pattern_id": "BR_ROE_TARGET_002",
+    "investor_id": "blackrock",
+    "issue_type": "low_roe",
+    "condition_summary": "3期連続ROE5%未満に抵触し、過去3期以内に社長だった代表権付き会長が候補者である場合",
+    "target_pattern": "former_president_representative_chair",
+    "evidence_count": 8,
+    "for_count": 3,
+    "against_count": 5,
+    "confidence": "Medium-High",
+    "notes": "前社長・代表権付き会長への反対傾向あり"
+  },
+  {
+    "pattern_id": "BR_ROE_TARGET_003",
+    "investor_id": "blackrock",
+    "issue_type": "low_roe",
+    "condition_summary": "3期連続ROE5%未満に抵触し、過去3期以内に社長だった代表権なし会長が候補者である場合",
+    "target_pattern": "former_president_non_representative_chair",
+    "evidence_count": 6,
+    "for_count": 4,
+    "against_count": 2,
+    "confidence": "Medium",
+    "notes": "代表権なし会長への反対は限定的。ケースバイケース"
+  },
+  {
+    "pattern_id": "BR_ROE_TARGET_004",
+    "investor_id": "blackrock",
+    "issue_type": "low_roe",
+    "condition_summary": "3期連続ROE5%未満に抵触し、社外取締役議長のみが候補者である場合",
+    "target_pattern": "outside_board_chair_only",
+    "evidence_count": 5,
+    "for_count": 5,
+    "against_count": 0,
+    "confidence": "Low",
+    "notes": "社外取締役議長のみへの反対事例はほぼなし"
+  },
+  {
+    "pattern_id": "MU_TENURE_TARGET_001",
+    "investor_id": "mufg_trust",
+    "issue_type": "long_tenure",
+    "condition_summary": "社外取締役の在任期間が12年超の場合",
+    "target_pattern": "outside_director_tenure_over_12",
+    "evidence_count": 15,
+    "for_count": 0,
+    "against_count": 15,
+    "confidence": "High",
+    "notes": "ガイドライン上明確。該当者への反対はほぼ確実"
+  },
+  {
+    "pattern_id": "MU_DIVERSITY_TARGET_001",
+    "investor_id": "mufg_trust",
+    "issue_type": "diversity",
+    "condition_summary": "女性取締役がゼロの場合、指名委員会委員長に反対",
+    "target_pattern": "nomination_committee_chair",
+    "evidence_count": 10,
+    "for_count": 1,
+    "against_count": 9,
+    "confidence": "High",
+    "notes": "指名委員会委員長がいない場合は取締役会議長に反対"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "investor_id": "blackrock",
+    "investor_name": "BlackRock Investment Stewardship",
+    "country": "US",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 公式ガイドライン / 過去行使結果 / 推定パターン",
+    "notes": "日本株式向けBenchmark PoliciesをMVPの公式ルールとして使用。反対対象が抽象的な箇所は推定として表示する。"
+  },
+  {
+    "investor_id": "mufg_trust",
+    "investor_name": "三菱UFJ信託銀行",
+    "country": "Japan",
+    "investor_type": "Trust bank / asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 公式基準ベース / 過去事例による補正",
+    "notes": "国内株式の議決権行使方針と行使結果開示をMVPの参照元として使用。"
+  },
+  {
+    "investor_id": "nomura_am",
+    "investor_name": "野村アセットマネジメント",
+    "country": "Japan",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 公式ガイドライン / 個別開示 / 推定パターン",
+    "notes": "日本企業に対する議決権行使基準と個別開示を優先して、反対理由と賛成事例を照合する。"
+  },
+  {
+    "investor_id": "resona_am",
+    "investor_name": "りそなアセットマネジメント",
+    "country": "Japan",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 公式基準 / 行使結果 / 推定パターン",
+    "notes": "国内株式の議決権行使基準と議決権行使結果を参照し、基準別の反対対象を推定する。"
+  },
+  {
+    "investor_id": "sumitomo_mitsui_trust_am",
+    "investor_name": "三井住友トラスト・アセットマネジメント",
+    "country": "Japan",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 公式基準 / 国内株式行使結果 / 推定パターン",
+    "notes": "国内株式議決権行使結果と議決権行使の考え方を照合して、反対理由の境界を分析する。"
+  },
+  {
+    "investor_id": "am_one",
+    "investor_name": "アセットマネジメントOne",
+    "country": "Japan",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 公式ガイドライン / 行使指図結果 / 個社別開示",
+    "notes": "国内株式の議決権行使ガイドライン、議案判断基準、個社別開示を優先して取り込む。"
+  },
+  {
+    "investor_id": "daiwa_am",
+    "investor_name": "大和アセットマネジメント",
+    "country": "Japan",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 公式方針 / 行使結果開示ツール / 推定パターン",
+    "notes": "議決権行使に関する方針と行使結果開示ツールを参照する。"
+  },
+  {
+    "investor_id": "amova_am",
+    "investor_name": "アモーヴァ・アセットマネジメント",
+    "country": "Japan",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 公式基準 / 議決権行使結果 / 推定パターン",
+    "notes": "旧日興アセットマネジメント。2025年9月1日以降のアモーヴァ表記を優先する。"
+  },
+  {
+    "investor_id": "mufg_am",
+    "investor_name": "三菱UFJアセットマネジメント",
+    "country": "Japan",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 公式方針 / 個別開示 / 推定パターン",
+    "notes": "スチュワードシップ活動ページの議決権行使方針とExcel個別開示を優先する。"
+  },
+  {
+    "investor_id": "nissay_am",
+    "investor_name": "ニッセイアセットマネジメント",
+    "country": "Japan",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 公式方針 / 判断基準 / 行使結果",
+    "notes": "国内株式議決権行使の方針と判断基準、四半期のPDF/Excel結果を参照する。"
+  },
+  {
+    "investor_id": "goldman_sachs_am",
+    "investor_name": "ゴールドマン・サックス・アセット・マネジメント",
+    "country": "Japan / Global",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: 日本語スチュワードシップ開示 / グローバル方針 / 行使結果",
+    "notes": "日本語のスチュワードシップ活動・議決権行使ページを入口に、必要に応じてグローバル方針を補助的に参照する。"
+  },
+  {
+    "investor_id": "fidelity_japan",
+    "investor_name": "フィディリティ投信",
+    "country": "Japan / Global",
+    "investor_type": "Asset manager",
+    "applies_to_japan": true,
+    "basis_policy": "根拠区分: フィディリティ投信開示 / 議決権行使原則 / 行使結果",
+    "notes": "FMRではなく、フィディリティ投信株式会社またはフィデリティ・インターナショナルの日本向け開示を優先する。"
+  }
+]

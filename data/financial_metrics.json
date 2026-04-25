@@ -1,0 +1,33 @@
+[
+  { "company_code": "7203", "fiscal_year": 2022, "roe": 7.3,  "pbr": 1.0, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://global.toyota/jp/ir/", "notes": "MVP概算値" },
+  { "company_code": "7203", "fiscal_year": 2023, "roe": 9.0,  "pbr": 1.3, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://global.toyota/jp/ir/", "notes": "Toyota Annual Report 2023" },
+  { "company_code": "7203", "fiscal_year": 2024, "roe": 15.8, "pbr": 1.5, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://global.toyota/jp/ir/", "notes": "Toyota Annual Report 2024" },
+
+  { "company_code": "6758", "fiscal_year": 2022, "roe": 11.5, "pbr": 1.8, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.sony.com/ja/SonyInfo/IR/", "notes": "MVP概算値" },
+  { "company_code": "6758", "fiscal_year": 2023, "roe": 13.5, "pbr": 2.1, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.sony.com/ja/SonyInfo/IR/", "notes": "Sony Sustainability Report 2025" },
+  { "company_code": "6758", "fiscal_year": 2024, "roe": 13.0, "pbr": 2.3, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.sony.com/ja/SonyInfo/IR/", "notes": "Sony Annual Report 2024" },
+
+  { "company_code": "9984", "fiscal_year": 2022, "roe": -3.5, "pbr": 1.2, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://group.softbank/ja/ir", "notes": "Vision Fund損失影響。MVPシナリオ: 3期連続ROE5%未満→ROE基準抵触" },
+  { "company_code": "9984", "fiscal_year": 2023, "roe": 2.8,  "pbr": 1.5, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://group.softbank/ja/ir", "notes": "Vision Fund部分回復。5%未満継続" },
+  { "company_code": "9984", "fiscal_year": 2024, "roe": 4.2,  "pbr": 1.8, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://group.softbank/ja/ir", "notes": "AI投資効果。5%未満継続→3期連続抵触" },
+
+  { "company_code": "8316", "fiscal_year": 2022, "roe": 8.9,  "pbr": 0.7, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.smfg.co.jp/investor/", "notes": "MVP概算値" },
+  { "company_code": "8316", "fiscal_year": 2023, "roe": 9.2,  "pbr": 0.8, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.smfg.co.jp/investor/", "notes": "SMFG Annual Report 2023" },
+  { "company_code": "8316", "fiscal_year": 2024, "roe": 10.1, "pbr": 0.9, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.smfg.co.jp/investor/", "notes": "SMFG Annual Report 2024。ROE良好、在任12年超の社外役員あり→tenure基準抵触" },
+
+  { "company_code": "6501", "fiscal_year": 2022, "roe": 10.5, "pbr": 2.1, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.hitachi.co.jp/IR/", "notes": "MVP概算値" },
+  { "company_code": "6501", "fiscal_year": 2023, "roe": 12.3, "pbr": 2.8, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.hitachi.co.jp/IR/", "notes": "Hitachi Annual Report 2023" },
+  { "company_code": "6501", "fiscal_year": 2024, "roe": 13.8, "pbr": 3.5, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.hitachi.co.jp/IR/", "notes": "Hitachi Annual Report 2024。ガバナンス改革後に改善" },
+
+  { "company_code": "4502", "fiscal_year": 2022, "roe": 1.2,  "pbr": 1.5, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.takeda.com/ja-jp/investors/", "notes": "シャイアー買収後の減損・のれん償却影響。MVPシナリオ: 3期連続5%未満→ROE抵触" },
+  { "company_code": "4502", "fiscal_year": 2023, "roe": 3.4,  "pbr": 1.8, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.takeda.com/ja-jp/investors/", "notes": "5%未満継続" },
+  { "company_code": "4502", "fiscal_year": 2024, "roe": 4.8,  "pbr": 1.3, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.takeda.com/ja-jp/investors/", "notes": "5%未満継続→3期連続抵触" },
+
+  { "company_code": "8058", "fiscal_year": 2022, "roe": 14.2, "pbr": 1.1, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.mitsubishicorp.com/jp/ja/ir/", "notes": "資源価格上昇恩恵" },
+  { "company_code": "8058", "fiscal_year": 2023, "roe": 17.8, "pbr": 1.5, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.mitsubishicorp.com/jp/ja/ir/", "notes": "Berkshire Hathaway投資公表後株価上昇" },
+  { "company_code": "8058", "fiscal_year": 2024, "roe": 15.6, "pbr": 1.8, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.mitsubishicorp.com/jp/ja/ir/", "notes": "高ROE維持" },
+
+  { "company_code": "6954", "fiscal_year": 2022, "roe": 15.2, "pbr": 3.5, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.fanuc.co.jp/ja/ir/", "notes": "高収益。ガバナンス課題: 社外比率低・女性役員ゼロ" },
+  { "company_code": "6954", "fiscal_year": 2023, "roe": 18.9, "pbr": 4.2, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.fanuc.co.jp/ja/ir/", "notes": "FA需要堅調" },
+  { "company_code": "6954", "fiscal_year": 2024, "roe": 21.3, "pbr": 3.8, "tsr_3y_rank_percentile": null, "net_income": null, "shareholders_equity": null, "source_url": "https://www.fanuc.co.jp/ja/ir/", "notes": "ROE良好だが、女性・多様性・独立性基準で抵触可能性" }
+]

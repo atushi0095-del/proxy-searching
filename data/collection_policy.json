@@ -1,0 +1,30 @@
+{
+  "policy_version": 1,
+  "purpose": "公開されている公式IR・議決権行使資料を低頻度で収集し、ローカルJSONへ蓄積する。",
+  "principles": [
+    "ログイン、認証、CAPTCHA、非公開API、個人情報を必要とする取得は行わない。",
+    "日本語の公式ページ・公式PDF・公式Excelを優先する。",
+    "取得済みファイルはキャッシュし、同じURLを短時間に繰り返し取得しない。",
+    "一括取得は対象URLを明示したホワイトリスト方式で行う。",
+    "アクセス間隔を置き、対象サイトへの負荷を抑える。",
+    "取得した内容はFACT/GUIDELINE/INFERENCEを混ぜず、推定は推定として扱う。"
+  ],
+  "default_delay_ms": 2000,
+  "max_download_bytes": 30000000,
+  "user_agent": "proxy-vote-pattern-app-research/0.1 (+local SR IR analysis; public official sources only)",
+  "allowed_source_types": [
+    "official_ir_page",
+    "official_guideline_page",
+    "official_pdf",
+    "official_excel",
+    "official_html"
+  ],
+  "disallowed_actions": [
+    "login",
+    "captcha",
+    "form_submission",
+    "personal_data_collection",
+    "bypass_paywall",
+    "high_frequency_crawling"
+  ]
+}

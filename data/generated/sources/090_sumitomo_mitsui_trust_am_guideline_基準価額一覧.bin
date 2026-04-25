@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KXSZDPD');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript" src="//js.rtoaster.jp/Rtoaster.js"></script>
+<script type="text/javascript">
+Rtoaster.init("RTA-64fc-ffb10c6deef7");
+Rtoaster.track();
+</script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>基準価額一覧 | 三井住友トラスト・アセットマネジメント</title>
+    <meta name="description" content="三井住友トラスト・アセットマネジメントの基準価額一覧。最新の基準価額をご確認頂けます。">
+    <meta name="keywords" content="基準価額,投資信託,ファンド,騰落率,前日比,純資産総額,決算回数,分配金,三井住友トラスト・アセットマネジメント,smtam">  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,400,500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" />
+  <link rel="stylesheet" href="/shared/assets/css/foundation.css" />
+  <link rel="stylesheet" href="/shared/assets/css/common.css" />
+  <link rel="stylesheet" href="/shared/assets/css/component.css" />
+  <link rel="stylesheet" href="/shared/assets/css/project.css" />
+  <link rel="stylesheet" href="/shared/assets/vendor/swiper/swiper.min.css" />
+<link rel="stylesheet" href="/shared/assets/css/utilities.css" />
+<script src="/shared/assets/vendor/jquery/jquery-3.3.1.min.js"></script>
+<script src="/shared/assets/vendor/swiper/swiper.min.js"></script>
+<script src="/shared/assets/vendor/picturefill/picturefill.min.js"></script>
+<script src="/shared/assets/vendor/jquery.cookie/jquery.cookie.js"></script>
+<script src="/shared/assets/vendor/svgxuse/svgxuse.min.js"></script>
+<script type="text/javascript" charset="UTF-8" src="https://ssl-cache.stream.ne.jp/www50/eqd127yhet/jmc_pub/jmc_swf/player/t3/if.js"></script>
+<script src="/shared/assets/vendor/bootstrap/tab.js"></script>
+<script src="/shared/assets/vendor/bootstrap/modal.js"></script>
+<script src="/shared/assets/vendor/bootstrap/collapse.js"></script>
+<script src="/shared/assets/vendor/bootstrap/transition.js"></script>
+<script src="/shared/assets/vendor/underscore/underscore-min.js"></script>
+<script src="/shared/assets/vendor/smooth-scroll/smooth-scroll.polyfills.min.js"></script>
+<script src="/shared/assets/js/entries/modalPlayer.js"></script>
+<script src="/shared/assets/js/entries/floatmenu.js"></script>
+<script src="/shared/assets/js/entries/favoriteFund.js"></script>
+<script src="/shared/assets/js/entries/megaDropNavigation.js"></script>
+<script src="/shared/assets/js/entries/drawer.js"></script>
+<script src="/shared/assets/js/entries/fontsizeManager.js"></script>
+<script src="/shared/assets/js/entries/main.js"></script>
+<script src="/shared/assets/js/entry.js"></script>
+    <script src="/shared/assets/js/entries/commonMs.js"></script>
+    <script src="/shared/assets/js/pages/fund/fund_pricelist/index.js"></script>
+    
+
+  </head>
+  <body><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXSZDPD" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="SMTAM-header">
+    <div class="SMTAM-header-container">
+        <div class="display-flex align-items-center">
+            <div class="SMTAM-header-identity">
+                <a href="/"><img src="/shared/assets/images/common/header_logo.svg" alt="三井住友トラスト・アセットマネジメント"
+                        class="img-responsive" /></a>
+            </div>
+            <div class="margin-vert-10px margin-left-auto SMTAM-header-masthead-contents">
+                <div class="margin-vert-10px display-flex align-items-center justify-content-flex-end">
+                    <div class="SMTAM-header-fontsizechanger">
+                        <div class="SMTAM-header-fontsizechanger-label">文字サイズ</div>
+                        <div class="SMTAM-header-fontsizechanger-button-group">
+                            <button class="SMTAM-header-fontsizechanger-button-default" data-toggle="font-size" data-font-size="medium">
+                                <span class="SMTAM-header-fontsizechanger-button-default-text">標準</span>
+                            </button>
+                            <button class="SMTAM-header-fontsizechanger-button-large" data-toggle="font-size" data-font-size="large">
+                                <span class="SMTAM-header-fontsizechanger-button-large-text">大</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div>
+                        <a href="/company/" class="SMTAM-header-company-alink"><span
+                                class="vertical-align-middle">会社情報</span></a>
+                        <a href="/company/recruiting/" class="SMTAM-header-company-alink"><span class="vertical-align-middle">採用情報</span></a>
+                    </div>
+                    <div>
+                        <a href="https://www.smtg.jp/" target="_blank"><img
+                                src="/shared/assets/images/common/header_group_logo.png" alt="三井住友トラスト・グループ" /></a>
+                    </div>
+                </div>
+                <div class="margin-vert-10px display-flex">
+                    <ul class="SMTAM-header-utility-nav-list">
+                        <li class="SMTAM-header-utility-nav-list-item">
+                            <a href="https://www.sumitrust-am.com" class="SMTAM-header-utility-nav-list-item-alink">English</a>
+                        </li>
+                        <li class="SMTAM-header-utility-nav-list-item">
+                            <a href="/static/inquiry/" class="SMTAM-header-utility-nav-list-item-alink">お問い合わせ</a>
+                        </li>
+                        <li class="SMTAM-header-utility-nav-list-item">
+                            <a href="/static/faq/" class="SMTAM-header-utility-nav-list-item-alink">よくあるご質問</a>
+                        </li>
+                        <li class="SMTAM-header-utility-nav-list-item">
+                            <a href="/static/sitemap/" class="SMTAM-header-utility-nav-list-item-alink">サイトマップ</a>
+                        </li>
+                    </ul>
+                    <form name="SS_searchForm" id="SS_searchForm" class="SMTAM-header-search-form" action="https://pro.syncsearch.jp/search" method="get" enctype="application/x-www-form-urlencoded">
+                        <input type="hidden" name="site" value="4XE8N6BE" />
+                        <input type="hidden" name="charset" value="UTF-8" />
+                        <input type="hidden" name="group" value="1" />
+                        <input type="hidden" name="design" value="1" />
+                        <input type="text" name="query" value="" placeholder="サイト内検索" id="SS_searchQuery" class="SMTAM-header-search-text" />
+                        <input type="submit" name="submit" value="検索" id="SS_searchSubmit" class="SMTAM-header-search-submit" />
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button class="SMTAM-header-toggle-button" data-toggle="drawer" data-target="#smtamMobileMenu">
+        <span class="SMTAM-header-toggle-button-hamburger">
+            <span class="SMTAM-header-toggle-button-bar"></span>
+            <span class="SMTAM-header-toggle-button-bar"></span>
+            <span class="SMTAM-header-toggle-button-bar"></span>
+        </span>
+    </button>
+    <div class="SMTAM-header-gnav-bar">
+        <div class="SMTAM-header-container-collapse">
+            <div class="display-flex">
+                <div class="SMTAM-header-gnav-home"><a href="/" class="SMTAM-header-gnav-home-alink">
+                        <svg viewBox="0 0 128 128" class="SMTAM-header-gnav-home-alink-svg fill-current-color">
+                            <use xlink:href="/shared/assets/svg/sprite.svg#house"></use>
+                        </svg>
+                    </a></div>
+                <nav class="flex-grow">
+                    <ul class="SMTAM-header-gnav-list display-flex">
+                        <li class="SMTAM-header-gnav-list-item">
+                            <a href="/guide/" class="SMTAM-header-gnav-list-item-alink"
+                                data-sectionid="item1">はじめての資産運用</a>
+                        </li>
+                        <li class="SMTAM-header-gnav-list-item">
+                            <a href="/fund/" class="SMTAM-header-gnav-list-item-alink" data-sectionid="item2">ファンド情報</a>
+                        </li>
+                        <li class="SMTAM-header-gnav-list-item">
+                            <a href="/report_column/" class="SMTAM-header-gnav-list-item-alink"
+                                data-sectionid="item3">レポート・コラム</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div class="SMTAM-megaMenu">
+        <div class="SMTAM-megaMenu-item SMTAM-megaMenu-item--category-guide" data-sectionid="item1">
+            <div class="margin-vert-50px">
+                <div class="SMTAM-megaMenu-item-container">
+                                        <div class="row-gutter-20px">
+                                                <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/guide/management/"
+                                        class="SMTAM-megaMenu-nav-item-alink">資産運用をはじめてみよう</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/guide/introduction/"
+                                        class="SMTAM-megaMenu-nav-item-alink">投資信託入門</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/pickup/nisa/"
+                                        class="SMTAM-megaMenu-nav-item-alink">NISA（少額投資非課税制度）</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/pickup/pension/"
+                                        class="SMTAM-megaMenu-nav-item-alink">確定拠出年金</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/pickup/reit/"
+                                        class="SMTAM-megaMenu-nav-item-alink">よくわかるＲＥＩＴ</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/guide/glossary/kana_a/"
+                                        class="SMTAM-megaMenu-nav-item-alink">用語集</a></div>
+                            </div>
+                                            </div>
+                                </div>
+            </div>
+        </div>
+        <div class="SMTAM-megaMenu-item SMTAM-megaMenu-item--category-fund" data-sectionid="item2">
+            <div class="margin-vert-50px">
+                <div class="SMTAM-megaMenu-item-container">
+                                        <div class="row-gutter-20px">
+                                                <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/fund/fund_pricelist/"
+                                        class="SMTAM-megaMenu-nav-item-alink">基準価額一覧</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/fund/fund_favorite/"
+                                        class="SMTAM-megaMenu-nav-item-alink">お気に入りファンド一覧</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/fund/fund_search/"
+                                        class="SMTAM-megaMenu-nav-item-alink">ファンド検索</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/movie/"
+                                        class="SMTAM-megaMenu-nav-item-alink">動画コーナー</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="https://www.smtam.jp/static/hikaku_jump/"
+                                        class="SMTAM-megaMenu-nav-item-alink">比較＆シミュレーション</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/fund/fund_ranking/"
+                                        class="SMTAM-megaMenu-nav-item-alink">ファンドランキング</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/fund/report_all/"
+                                        class="SMTAM-megaMenu-nav-item-alink">運用レポート一覧</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/fund/fund_dividend/"
+                                        class="SMTAM-megaMenu-nav-item-alink">分配金・償還価額一覧</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/fund/pdf/calendar.pdf"
+                                        class="SMTAM-megaMenu-nav-item-alink">ファンドの申込不可日</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/fund/sales_bank/"
+                                        class="SMTAM-megaMenu-nav-item-alink">販売会社一覧</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="https://www.smtam.jp/fund/fundgroup/24/"
+                                        class="SMTAM-megaMenu-nav-item-alink">SMT ETFファンドの一覧</a></div>
+                            </div>
+                                            </div>
+                                        <div class="margin-vert-20px">
+                        <p class="h3 margin-vert-5px">スペシャルサイト</p>
+                                <div class="row-gutter-20px">
+                                                <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/special/5g/"
+                                        class="SMTAM-megaMenu-nav-item-alink">THE 5G</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="https://www.smtam.jp/special/smt-index/"
+                                        class="SMTAM-megaMenu-nav-item-alink">SMT インデックスシリーズ</a></div>
+                            </div>
+                                            </div>
+                            </div>
+                                </div>
+            </div>
+        </div>
+        <div class="SMTAM-megaMenu-item SMTAM-megaMenu-item--category-report-column" data-sectionid="item3">
+            <div class="margin-vert-50px">
+                <div class="SMTAM-megaMenu-item-container">
+                                    <div class="margin-vert-20px">
+                        <p class="h3 margin-vert-5px">ウィークリーレポート・マンスリーレポート</p>
+                                <div class="row-gutter-20px">
+                                                <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_01/"
+                                        class="SMTAM-megaMenu-nav-item-alink">ウィークリーレポート</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_02/"
+                                        class="SMTAM-megaMenu-nav-item-alink">マーケットフォーカス</a></div>
+                            </div>
+                                            </div>
+                            </div>
+                                        <div class="margin-vert-20px">
+                        <p class="h3 margin-vert-5px">タイムリーレポート</p>
+                                <div class="row-gutter-20px">
+                                                <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_03/"
+                                        class="SMTAM-megaMenu-nav-item-alink">マーケットレポート</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_04/"
+                                        class="SMTAM-megaMenu-nav-item-alink">ファンドレポート</a></div>
+                            </div>
+                                            </div>
+                            </div>
+                                        <div class="margin-vert-20px">
+                        <p class="h3 margin-vert-5px">コラム</p>
+                                <div class="row-gutter-20px">
+                                                <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_05/"
+                                        class="SMTAM-megaMenu-nav-item-alink">投資のヒント</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_07/"
+                                        class="SMTAM-megaMenu-nav-item-alink">投資INSIDE-OUT</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_38/"
+                                        class="SMTAM-megaMenu-nav-item-alink">まるわかり新NISA</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_06/"
+                                        class="SMTAM-megaMenu-nav-item-alink">5G通信</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_28/"
+                                        class="SMTAM-megaMenu-nav-item-alink">脱炭素通信</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_45/"
+                                        class="SMTAM-megaMenu-nav-item-alink">半導体通信</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_09/"
+                                        class="SMTAM-megaMenu-nav-item-alink">インデックスなび</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_10/"
+                                        class="SMTAM-megaMenu-nav-item-alink">世界経済INSIDE-OUT</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/special/kinyu_kouza/"
+                                        class="SMTAM-megaMenu-nav-item-alink">いちばんはじめの金融講座</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/detail/cat_19/01482/"
+                                        class="SMTAM-megaMenu-nav-item-alink">ビギナーママ うだひろえの投資信託案内</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/kakei_soudanshitsu/"
+                                        class="SMTAM-megaMenu-nav-item-alink">家計のお悩み相談室</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/detail/cat_23/01943/"
+                                        class="SMTAM-megaMenu-nav-item-alink"> ～豊かな暮らしにつながる～「未来のチカラ」   </a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_22/"
+                                        class="SMTAM-megaMenu-nav-item-alink">よくわかるJ-REIT</a></div>
+                            </div>
+                                        <div class="col-2of10">
+                                <div class="SMTAM-megaMenu-nav-item"><a href="/report_column/cat_24/"
+                                        class="SMTAM-megaMenu-nav-item-alink">SMTAMの考えるESG</a></div>
+                            </div>
+                                            </div>
+                            </div>
+                                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="SMTAM-mobile-menu" id="smtamMobileMenu">
+        <div class="SMTAM-mobile-menu-scrollable">
+
+            <form name="SS_searchForm" id="SS_searchForm" class="SMTAM-mobile-menu-search-form expanded" action="https://pro.syncsearch.jp/search" method="get" enctype="application/x-www-form-urlencoded">
+                <input type="hidden" name="site" value="4XE8N6BE" />
+                <input type="hidden" name="charset" value="UTF-8" />
+                <input type="hidden" name="group" value="1" />
+                <input type="hidden" name="design" value="1" />
+                <input type="text" name="query" value="" placeholder="サイト内検索" id="SS_searchQuery" class="SMTAM-mobile-menu--search-text" />
+                <input type="submit" name="submit" value="検索" id="SS_searchSubmit" class="SMTAM-mobile-menu--search-submit" />
+            </form>
+            <div class="SMTAM-mobile-menu-main-nav">
+                <div class="SMTAM-mobile-menu-main-nav-item">
+                        <div class="SMTAM-mobile-menu-main-nav-item-header">
+                        <h2 class="SMTAM-mobile-menu-main-nav-item-heading">はじめての資産運用</h2><button
+                            class="SMTAM-mobile-menu-main-nav-item-collapse-button" data-toggle="collapse"
+                            data-target="#mobileMenuCatagoryGuide" aria-expanded="true"
+                            aria-controls="mobileMenuCatagoryGuide">開く</button>
+                    </div>
+                    <div class="collapse background-color-f2f5f5" id="mobileMenuCatagoryGuide">
+                        <ul class="SMTAM-mobile-menu-sub-nav-list">
+                            <li class="SMTAM-mobile-menu-sub-nav-item background-color-f2f5f5">
+                                <a href="/guide/" class="SMTAM-mobile-menu-sub-nav-item-alink">はじめての資産運用トップ</a>
+                            </li>
+                        </ul>
+                            <ul class="SMTAM-mobile-menu-sub-nav-list background-color-striped-pattern-ffffff">
+                                                <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/guide/management/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">資産運用をはじめてみよう</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/guide/introduction/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">投資信託入門</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/pickup/nisa/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">NISA（少額投資非課税制度）</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/pickup/pension/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">確定拠出年金</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/pickup/reit/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">よくわかるＲＥＩＴ</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/guide/glossary/kana_a/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">用語集</a></li>
+                                    </ul>
+                    </div>
+                </div>
+                <div class="SMTAM-mobile-menu-main-nav-item">
+                        <div class="SMTAM-mobile-menu-main-nav-item-header">
+                        <h2 class="SMTAM-mobile-menu-main-nav-item-heading">ファンド情報</h2><button
+                            class="SMTAM-mobile-menu-main-nav-item-collapse-button" data-toggle="collapse"
+                            data-target="#mobileMenuCatagoryFund" aria-expanded="true"
+                            aria-controls="mobileMenuCatagoryFund">開く</button>
+                    </div>
+                    <div class="collapse background-color-f2f5f5" id="mobileMenuCatagoryFund">
+                        <ul class="SMTAM-mobile-menu-sub-nav-list">
+                            <li class="SMTAM-mobile-menu-sub-nav-item background-color-f2f5f5">
+                                <a href="/fund/" class="SMTAM-mobile-menu-sub-nav-item-alink">ファンド情報トップ</a>
+                            </li>
+                        </ul>
+                            <ul class="SMTAM-mobile-menu-sub-nav-list background-color-striped-pattern-ffffff">
+                                                <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/fund/fund_pricelist/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">基準価額一覧</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/fund/fund_favorite/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">お気に入りファンド一覧</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/fund/fund_search/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">ファンド検索</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/movie/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">動画コーナー</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="https://www.smtam.jp/static/hikaku_jump/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">比較＆シミュレーション</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/fund/fund_ranking/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">ファンドランキング</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/fund/report_all/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">運用レポート一覧</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/fund/fund_dividend/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">分配金・償還価額一覧</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/fund/pdf/calendar.pdf"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">ファンドの申込不可日</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/fund/sales_bank/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">販売会社一覧</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="https://www.smtam.jp/fund/fundgroup/24/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">SMT ETFファンドの一覧</a></li>
+                                                        <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/special/5g/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">THE 5G</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="https://www.smtam.jp/special/smt-index/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">SMT インデックスシリーズ</a></li>
+                                    </ul>
+                    </div>
+                </div>
+                <div class="SMTAM-mobile-menu-main-nav-item">
+                        <div class="SMTAM-mobile-menu-main-nav-item-header">
+                        <h2 class="SMTAM-mobile-menu-main-nav-item-heading">レポート・コラム</h2><button
+                            class="SMTAM-mobile-menu-main-nav-item-collapse-button" data-toggle="collapse"
+                            data-target="#mobileMenuCatagoryReportColumn" aria-expanded="true"
+                            aria-controls="mobileMenuCatagoryReportColumn">開く</button>
+                    </div>
+                    <div class="collapse background-color-f2f5f5" id="mobileMenuCatagoryReportColumn">
+                        <ul class="SMTAM-mobile-menu-sub-nav-list">
+                             <li class="SMTAM-mobile-menu-sub-nav-item background-color-f2f5f5">
+                                <a href="/report_column/" class="SMTAM-mobile-menu-sub-nav-item-alink">レポート・コラムトップ</a>
+                            </li>
+                        </ul>
+                            <ul class="SMTAM-mobile-menu-sub-nav-list background-color-striped-pattern-ffffff">
+                                                <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_01/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">ウィークリーレポート</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_02/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">マーケットフォーカス</a></li>
+                                                        <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_03/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">マーケットレポート</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_04/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">ファンドレポート</a></li>
+                                                        <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_05/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">投資のヒント</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_07/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">投資INSIDE-OUT</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_38/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">まるわかり新NISA</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_06/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">5G通信</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_28/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">脱炭素通信</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_45/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">半導体通信</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_09/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">インデックスなび</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_10/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">世界経済INSIDE-OUT</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/special/kinyu_kouza/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">いちばんはじめの金融講座</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/detail/cat_19/01482/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">ビギナーママ うだひろえの投資信託案内</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/kakei_soudanshitsu/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">家計のお悩み相談室</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/detail/cat_23/01943/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink"> ～豊かな暮らしにつながる～「未来のチカラ」   </a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_22/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">よくわかるJ-REIT</a></li>
+                                    <li class="SMTAM-mobile-menu-sub-nav-item"><a href="/report_column/cat_24/"
+                                    class="SMTAM-mobile-menu-sub-nav-item-alink">SMTAMの考えるESG</a></li>
+                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <ul class="SMTAM-mobile-menu-secondary-nav">
+                <li class="SMTAM-mobile-menu-secondary-nav-item"><a href="/institutional/"
+                        class="SMTAM-mobile-menu-secondary-nav-item-alink">機関投資家の皆様</a></li>
+                <li class="SMTAM-mobile-menu-secondary-nav-item"><a href="https://www.sumitrust-am.com"
+                        class="SMTAM-mobile-menu-secondary-nav-item-alink">English</a></li>
+            </ul>
+            <ul class="SMTAM-mobile-menu-utility-nav-list">
+                <li class="SMTAM-mobile-menu-utility-nav-item"><a href="/company/"
+                        class="SMTAM-mobile-menu-utility-nav-item-alink">会社情報</a></li>
+                <li class="SMTAM-mobile-menu-utility-nav-item"><a href="/company/recruiting/"
+                        class="SMTAM-mobile-menu-utility-nav-item-alink">採用情報</a></li>
+                <li class="SMTAM-mobile-menu-utility-nav-item"><a href="/static/inquiry/"
+                        class="SMTAM-mobile-menu-utility-nav-item-alink">お問い合わせ</a></li>
+                <li class="SMTAM-mobile-menu-utility-nav-item"><a href="/static/faq/"
+                        class="SMTAM-mobile-menu-utility-nav-item-alink">よくあるご質問</a></li>
+                <li class="SMTAM-mobile-menu-utility-nav-item"><a href="/static/sitemap/"
+                        class="SMTAM-mobile-menu-utility-nav-item-alink">サイトマップ</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    <div class="SMTAM-breadcrumbs">
+      <div class="SMTAM-breadcrumbs-container">
+        <ul class="SMTAM-breadcrumbs-list">
+          <li class="SMTAM-breadcrumbs-list-item"><a class="SMTAM-breadcrumbs-list-item-alink" href="/">ホーム</a></li>
+          <li class="SMTAM-breadcrumbs-list-item"><a class="SMTAM-breadcrumbs-list-item-alink" href="/fund/">ファンド情報</a></li>
+          <li class="SMTAM-breadcrumbs-list-item">基準価額一覧</li>
+        </ul>
+      </div>
+    </div>
+    <div class="SMTAM-contents">
+      <div class="background-color-ceedf2 overflow-hidden">
+        <div class="container">
+          <h1 class="c-headingA01">基準価額一覧</h1>
+        </div>
+      </div>
+      <div class="errornotice-txt background-color-fdd244 overflow-hidden is-err display-none">
+        <div class="container">
+            <p>一時的に処理が混み合っております。時間をおいて再度ご確認をお願いいたします。</p>
+        </div>
+      </div>
+      <div class="background-color-ffffff overflow-hidden">
+        <div class="margin-vert-30px large-margin-vert-60px">
+          <div class="container">
+            <div class="row-gutter-0px large-row-gutter-20px">
+              <div class="col-4of12 large-col-4of12"><a class="c-button-A02 expanded display-flex align-items-center justify-content-center streched active" href="/fund/fund_pricelist/">全ファンド</a></div>
+              <div class="col-4of12 large-col-4of12"><a class="c-button-A02 expanded display-flex align-items-center justify-content-center streched" href="/fund/fund_pricelist_sma/">ラップ口座（SMA）</a></div>
+              <div class="col-4of12 large-col-4of12"><a class="c-button-A02 expanded display-flex align-items-center justify-content-center streched" href="/fund/fund_pricelist_dc/">確定拠出年金（DC）</a></div>
+            </div>
+            <p class="large-text-small">※ ラップ口座（SMA）および確定拠出年金（DC）の専用ファンドは除いています。</p>
+          </div>
+        </div>
+        <div class="margin-vert-30px large-margin-vert-60px">
+          <div class="container">
+            <div class="display-flex flex-wrap-wrap filter">
+            </div>
+          </div>
+        </div>
+        <div class="background-color-f2f5f5 overflow-hidden is-data" id="list-top">
+          <div class="margin-vert-30px large-margin-vert-60px">
+            <div class="container">
+              <p>検索結果　<span class="text-weight-bold total-num">-件</span>　該当しました。</p>
+              <div class="display-none align-items-center justify-content-space-between pager-box-up">
+                <div class="margin-right-5px"><a class="c-button-A03 c-button-icon-A02 text-small large-text-demi-small prev-btn" href="">前の50件<span class="display-none large-display-inline">を表示する</span></a></div>
+                <div class="margin-left-auto margin-right-auto pager-up"></div>
+                <div class="margin-left-5px"><a class="c-button-A03 c-button-icon-A01 text-small large-text-demi-small next-btn" href=""> 次の50件<span class="display-none large-display-inline">を表示する</span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="margin-vert-30px large-margin-vert-60px">
+            <div class="container">
+              <p class="text-right large-text-small">基準日：<span class="base-date">-</span></p>
+              <p class="text-right large-text-small">（前回分配金（実績）：基準価額の表示口数当たり、税引前）</p>
+            </div>
+            <div class="medium-container">
+              <!-- -->
+              <table class="p-fund-table expanded display-none medium-display-table table1">
+                <colgroup>
+                  <col width="20%">
+                  <col>
+                  <col width="10%">
+                  <col>
+                  <col width="13%">
+                  <col>
+                  <col>
+                  <col>
+                  <col>
+                </colgroup>
+                <thead class="p-fund-table__thead">
+                  <tr>
+                    <th class="p-fund-table__thead__th" data-sort-head="fandmei">ファンド名<br> （愛称）</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="toushitaisho">投資対象</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="kijunkakaku">基準価額</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="zenjituhi">前日比<br>（騰落率）</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="junshisansougaku">純資産総額</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="kessankaisu">決算回数</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="zenkaibunpaikin">前回分配金<br> （実績）</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" rowspan="2">チャート</th>
+                    <th class="p-fund-table__thead__th" rowspan="2">
+                      <div class="white-space-nowrap large-text-xsmall line-height-2xtight margin-vert-10px margin-top-0px">お気に入り<br>登録</div>
+                      <div class="white-space-nowrap large-text-xsmall line-height-2xtight margin-vert-10px margin-bottom-0px">基準価額・<br>レポート配信</div>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="fandmei">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="fandmei">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="toushitaisho">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="toushitaisho">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="kijunkakaku">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="kijunkakaku">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="zenjituhi">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="zenjituhi">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="junshisansougaku">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="junshisansougaku">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="kessankaisu">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="kessankaisu">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="zenkaibunpaikin">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="zenkaibunpaikin">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody class="p-fund-table__tbody">
+                  <tr class="display-none">
+                    <td class="text-left name"><a href="/fund/detail/_id_XXXXXX/"></a><span class="nickname"></span></td>
+                    <td>
+                      <div class="p-fund-table__fund-target-badge target"><img class="img-responsive" src="" alt=""></div>
+                    </td>
+                    <td class="text-right white-space-nowrap base-price">-</td>
+                    <td class="text-right">
+                      <div class="white-space-nowrap zenjitsu-value">-</div>
+                      <div class="white-space-nowrap zenjitsu-rate">-</div>
+                    </td>
+                    <td class="white-space-nowrap text-right net-asset">-</td>
+                    <td class="frequency">-</td>
+                    <td class="text-right dividend">-</td>
+                    <td class="chart"><a class="p-chart-button" href="/fund/detail/_id_XXXXXX/#kijyunkagakuJyunshisansougakuChart"><svg viewBox="0 0 128 128" class="fill-current-color"><use xlink:href="/shared/assets/svg/sprite.svg#chart"></use></svg></a>
+                    </td>
+                    <td> 
+                      <div>
+                        <button class="p-add-bookmark-button fav" data-fund-id=""><svg viewBox="0 0 128 128" class="fill-current-color"><use xlink:href="/shared/assets/svg/sprite.svg#bookmark"></use></svg></button>
+                      </div>
+                      <div><a class="p-register-mail-distribution-button" href="" target="_blank"><svg viewBox="0 0 128 128" class="fill-current-color"><use xlink:href="/shared/assets/svg/sprite.svg#mail"></use></svg></a>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- -->
+              <table class="p-fund-table expanded medium-display-none table2">
+                <colgroup>
+                  <col>
+                  <col>
+                  <col>
+                  <col>
+                </colgroup>
+                <thead class="p-fund-table__thead">
+                  <tr>
+                    <th class="p-fund-table__thead__th" colspan="4" data-sort-head="fandmei_sp" style="border-bottom:none;">ファンド名（愛称）</th>
+                  </tr>
+                  <tr>
+                    <th class="p-fund-table__thead__th" colspan="4" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="fandmei_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="fandmei_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="toushitaisho_sp" style="border-bottom:none;">投資対象</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="kijunkakaku_sp" style="border-bottom:none;">基準価額</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="zenjituhi_sp" style="border-bottom:none;">前日比<br> (騰落率)</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="junshisansougaku_sp" style="border-bottom:none;">純資産総額</th>
+                  </tr>
+                  <tr>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="toushitaisho_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="toushitaisho_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="kijunkakaku_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="kijunkakaku_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="zenjituhi_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="zenjituhi_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="junshisansougaku_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="junshisansougaku_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="kessankaisu_sp" style="border-bottom:none;">決算回数</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" data-sort-head="zenkaibunpaikin_sp" style="border-bottom:none;">前回分配金<br> （実績）</th>
+                    <th class="p-fund-table__thead__th white-space-nowrap" rowspan="2">チャート</th>
+                    <th class="p-fund-table__thead__th" rowspan="2">
+                      <div class="white-space-nowrap large-text-xsmall line-height-2xtight margin-vert-10px margin-top-0px">お気に入り<br>登録</div>
+                      <div class="white-space-nowrap large-text-xsmall line-height-2xtight margin-vert-10px margin-bottom-0px">基準価額・<br>レポート配信</div>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="kessankaisu_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="kessankaisu_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                    <th class="p-fund-table__thead__th" style="border-top:none;">
+                      <button class="p-sort-asc-button" data-sort="zenkaibunpaikin_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-up"></use>
+                        </svg>
+                      </button>
+                      <button class="p-sort-desc-button" data-sort="zenkaibunpaikin_sp">
+                        <svg class="fill-current-color" viewbox="0 0 128 128"> 
+                          <use xlink:href="/shared/assets/svg/sprite.svg#triangle-down"></use>
+                        </svg>
+                      </button>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody class="p-fund-table__tbody display-none">
+                  <tr>
+                    <td class="text-left name" colspan="4"><a class="text-weight-bold" href="/fund/detail/_id_XXXXXX/"></a><span class="nickname"></span></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="p-fund-table__fund-target-badge target"><img class="img-responsive" src="" alt=""></div>
+                    </td>
+                    <td class="text-right white-space-nowrap base-price">-</td>
+                    <td class="white-space-nowrap text-right">
+                      <div class="white-space-nowrap zenjitsu-value">-</div>
+                      <div class="white-space-nowrap zenjitsu-rate">-</div>
+                    </td>
+                    <td class="text-right white-space-nowrap net-asset">-</td>
+                  </tr>
+                  <tr>
+                    <td class="frequency">-</td>
+                    <td class="text-right white-space-nowrap dividend">-</td>
+                    <td class="white-space-nowrap chart"><a class="p-chart-button" href="/fund/detail/_id_XXXXXX/#kijyunkagakuJyunshisansougakuChart"><svg viewBox="0 0 128 128" class="fill-current-color"><use xlink:href="/shared/assets/svg/sprite.svg#chart"></use></svg></a>
+                    </td>
+                    <td>
+                      <div class="white-space-nowrap large-text-xsmall line-height-2xtight display-inline-block">
+                        <button class="p-add-bookmark-button fav" data-fund-id=""><svg viewBox="0 0 128 128" class="fill-current-color"><use xlink:href="/shared/assets/svg/sprite.svg#bookmark"></use></svg></button>
+                      </div>
+                      <div class="white-space-nowrap large-text-xsmall line-height-2xtight display-inline-block"><a class="p-register-mail-distribution-button" href="" target="_blank"><svg viewBox="0 0 128 128" class="fill-current-color"><use xlink:href="/shared/assets/svg/sprite.svg#mail"></use></svg></a>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="container">
+              <p class="large-text-small u-text-indent">※ 騰落率は分配金を考慮していません。</p>
+              <p class="large-text-small u-text-indent">※ 前回分配金（実績）は基準価額の表示口数当たり、税引前となります。ETFについては口数単位がファンドごとに異なる為、詳しくは各ファンドの商品概要ページをご覧ください。</p>
+            </div>
+          </div>
+        </div>
+        <div class="background-color-f2f5f5 overflow-hidden pager-box-down is-data">
+          <div class="margin-vert-30px large-margin-vert-60px">
+            <div class="container">
+              <div class="display-flex align-items-center justify-content-space-between">
+                <div class="margin-right-5px"><a class="c-button-A03 c-button-icon-A02 text-small large-text-demi-small prev-btn" href="">前の50件<span class="display-none large-display-inline">を表示する</span></a></div>
+                <div class="margin-left-auto margin-right-auto pager-down"></div>
+                <div class="margin-left-5px"><a class="c-button-A03 c-button-icon-A01 text-small large-text-demi-small next-btn" href=""> 次の50件<span class="display-none large-display-inline">を表示する</span></a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="background-color-f2f5f5 overflow-hidden display-none is-empty">
+          <div class="margin-vert-30px large-margin-vert-60px container">
+            <p>只今掲載する情報はありません</p>
+          </div>
+        </div>
+      </div>
+      <div class="c-section-A01">
+        <div class="container"><h2 class="c-headingB01">
+    <span class="c-headingB01__main-text text-family-Roboto-Condensed"><span class="text-color-e30052">C</span>heck</span>&ensp;<span class="c-headingB01__sub-text">こんなファンドも見られています</span>
+</h2>
+<div class="row-gutter-20px medium-row-gutter-20px" id="rtoaster_fund">
+        <div class="col-6of12 medium-col-2of10 pickup-fund-1" data-pf="510093">
+      <div class="p-pickup-fund-item">
+                <div class="p-pickup-fund-item__thumb"><a href="/fund/detail/_id_510093/"><img class="img-responsive" src="/fund/images/visual/510093/510093.jpg" alt="インバウンド関連日本株ファンド"></a></div>
+                <div class="p-pickup-fund-item__content">
+            <p><a href="/fund/detail/_id_510093/" class="c-icon-angle-right">インバウンド関連日本株ファンド　愛称：ビジット・ジャパン</a></p>
+        </div>
+      </div>
+    </div>
+        <div class="col-6of12 medium-col-2of10 pickup-fund-1" data-pf="510158">
+      <div class="p-pickup-fund-item">
+                <div class="p-pickup-fund-item__thumb"><a href="/fund/detail/_id_510158/"><img class="img-responsive" src="/fund/images/visual/510158/510158.jpg" alt="NWQフレキシブル・インカムファンド 為替ヘッジなし（毎月決算型）"></a></div>
+                <div class="p-pickup-fund-item__content">
+            <p><a href="/fund/detail/_id_510158/" class="c-icon-angle-right">NWQフレキシブル・インカムファンド 為替ヘッジなし（毎月決算型）</a></p>
+        </div>
+      </div>
+    </div>
+        <div class="col-6of12 medium-col-2of10">
+        <div id="rtoaster_fund_1">
+        </div>
+    </div>
+    <div class="col-6of12 medium-col-2of10">
+        <div id="rtoaster_fund_2">
+        </div>
+    </div>
+    <div class="col-6of12 medium-col-2of10">
+        <div id="rtoaster_fund_3">
+        </div>
+    </div>
+</div>
+</div>
+      </div>
+    </div>  <div class="SMTAM-floatmenu">
+      
+    <div class="SMTAM-floatmenu-nav-list-item"><a href="/fund/fund_favorite/" class="SMTAM-floatmenu-nav-list-item-button SMTAM-floatmenu-nav-list-item-button--favorite">
+        <div class="SMTAM-floatmenu-nav-list-item-figure">
+        <svg viewBox="0 0 128 128" class="fill-current-color"><use xlink:href="/shared/assets/svg/sprite.svg#bookmark"></use></svg>
+        </div>
+        <p class="SMTAM-floatmenu-nav-list-item-button-text">お気に入り<br>ファンド</p>
+      </a></div>
+  </div>  <div class="SMTAM-footer">
+  <div class="SMTAM-footer-upper">
+    <div class="SMTAM-footer-container">
+      <div class="overflow-hidden">
+        <div class="SMTAM-footer-disclosure">
+          <ul class="SMTAM-footer-disclosure-list">
+            <li class="SMTAM-footer-disclosure-list-item">当資料は三井住友トラスト・アセットマネジメントが作成したものであり、金融商品取引法に基づく開示書類ではありません。</li>
+            <li class="SMTAM-footer-disclosure-list-item">ご購入のお申込みの際は最新の投資信託説明書（交付目論見書）の内容を必ずご確認のうえ、ご自身でご判断ください。</li>
+            <li class="SMTAM-footer-disclosure-list-item">投資信託は値動きのある有価証券等（外貨建資産には為替変動リスクを伴います。）に投資しますので基準価額は変動します。したがって、投資元本や利回りが保証されるものではありません。ファンドの運用による損益は全て投資者の皆様に帰属します。</li>
+            <li class="SMTAM-footer-disclosure-list-item">投資信託は預貯金や保険契約とは異なり預金保険機構および保険契約者保護機構等の保護の対象ではありません。また、証券会社以外でご購入いただいた場合は、投資者保護基金の保護の対象ではありません。</li>
+            <li class="SMTAM-footer-disclosure-list-item">当資料は信頼できると判断した各種情報等に基づき作成していますが、その正確性、完全性を保証するものではありません。また、今後予告なく変更される場合があります。</li>
+            <li class="SMTAM-footer-disclosure-list-item">当資料中の図表、数値、その他データについては、過去のデータに基づき作成したものであり、将来の成果を示唆あるいは保証するものではありません。また、将来の市場環境の変動等により運用方針等が変更される場合があります。</li>
+            <li class="SMTAM-footer-disclosure-list-item">当資料で使用している各指数に関する著作権等の知的財産権、その他の一切の権利はそれぞれの指数の開発元もしくは公表元に帰属します。</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="SMTAM-footer-bottom relative">
+    <div class="SMTAM-footer-nav-bar">
+      <div class="SMTAM-footer-container">
+        <div class="overflow-hidden">
+          <ul class="SMTAM-footer-nav-list">
+            <li class="SMTAM-footer-nav-list-item">
+              <a href="/static/notice/" class="SMTAM-footer-nav-list-item-alink">投資に関する留意事項</a>
+            </li>
+            <li class="SMTAM-footer-nav-list-item">
+              <a href="/static/claim/" class="SMTAM-footer-nav-list-item-alink">当社の苦情処理措置および紛争解決措置について</a>
+            </li>
+            <li class="SMTAM-footer-nav-list-item">
+              <a href="https://www.fsa.go.jp/sesc/watch/index.html" class="SMTAM-footer-nav-list-item-alink" target="_blank">証券取引等監視委員会 情報提供窓口</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="SMTAM-footer-utility-nav-bar">
+      <div class="SMTAM-footer-container">
+        <ul class="SMTAM-footer-utility-nav-list">
+          <li class="SMTAM-footer-utility-nav-list-item">
+            <a href="/static/privacy_policy/" class="SMTAM-footer-utility-nav-list-item-alink">個人情報保護宣言</a>
+          </li>
+          <li class="SMTAM-footer-utility-nav-list-item">
+            <a href="/static/site_policy/" class="SMTAM-footer-utility-nav-list-item-alink">サイトポリシー</a>
+          </li>
+          <li class="SMTAM-footer-utility-nav-list-item">
+            <a href="/static/social-media/social-medeia.html" class="SMTAM-footer-utility-nav-list-item-alink">ソーシャルメディアご利用規約</a>
+          </li>
+          <li class="SMTAM-footer-utility-nav-list-item">
+            <a href="/company/information/financial/#notification" class="SMTAM-footer-utility-nav-list-item-alink">決算公告</a>
+          </li>
+          <li class="SMTAM-footer-utility-nav-list-item">
+            <a href="/company/policy/fiduciary/" class="SMTAM-footer-utility-nav-list-item-alink">フィデューシャリー・デューティーへの取組み</a>
+          </li>
+          <li class="SMTAM-footer-utility-nav-list-item">
+            <a href="/company/" class="SMTAM-footer-utility-nav-list-item-alink">会社情報</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="SMTAM-footer-container overflow-hidden">
+      <div class="SMTAM-footer-siteinfo">
+        <div class="large-display-flex align-items-flex-end flex-direction-row-reverse">
+          <div class="SMTAM-footer-identity margin-left-auto">
+          </div>
+          <div>
+            <p class="SMTAM-footer-siteinfo-text">
+              三井住友トラスト・アセットマネジメント株式会社<br />
+              金融商品取引業者 関東財務局長（金商）第347号<br />
+              <a href="/file/194/PR2024_003.pdf" target="_blank">商品投資顧問業者 経 (2) 第25号</a><br />
+              加入協会：一般社団法人 資産運用業協会
+            </p>
+            <p class="SMTAM-footer-copyright-text margin-bottom-0px">
+              Copyright &copy; Sumitomo Mitsui Trust Asset Management Co., Ltd.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <button class="SMTAM-footer-pagetop-button">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="#ffffff" ><title></title><polygon points="73.75 74.03 64 44.76 54.24 74.03 61.38 74.03 61.38 101.42 66.63 101.42 66.63 74.03 73.75 74.03"/><rect x="27.25" y="26.93" width="73.51" height="5.25"/></svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+    <div class="modal fade" id="JMCPlayerModal" tabindex="-1" role="dialog" aria-labelledby="JMCPlayerModal">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">
+            <svg viewBox="0 0 128 128" class="fill-current-color">
+              <use xlink:href="/shared/assets/svg/sprite.svg#close"></use>
+            </svg>
+          </span></button>
+        <div class="modal-body">
+          <div class="aspect-ratio aspect-ratio--16x9">
+            <div id="JMCPlayer" class="aspect-ratio--object"></div>
+            <noscript>
+              <div>このコンテンツを見るためにはJavaScriptを有効にしてください。Please enable JavaScript to watch this content.</div>
+            </noscript>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<script src="//pro.syncsearch.jp/common/js/sync_suggest.js"></script>
+<script type="text/javascript">
+SYNCSEARCH_SITE="4XE8N6BE";
+SYNCSEARCH_GROUP=1;
+</script>
+
+<script type="text/javascript">
+Rtoaster.recommendNow("rtoaster_popup","rtoaster_fund");
+</script>
+
+  </body>
+</html>

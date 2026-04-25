@@ -1,0 +1,1702 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#" lang="ja-JP" xml:lang="ja-JP">
+<head>
+<link rel="preload" href="/apac-retail-c-assets/include/bundles/minified-fab0cb55fe8be8760d8d64be8008cb48.css" as="style" />
+<link rel="preload" href="/apac-retail-c-assets/include/bundles/minified-eb5f949416983d7a4172c0d850a22506.css" as="style" />
+<link rel="preload" href="/apac-retail-c-assets/include/bundles/minified-efa42b25bbdf85e81a708509b7373eeb.css" as="style" />
+<link rel="preload" href="/apac-retail-c-assets/include/bundles/minified-7ff1ffb9b6db4f4fb1165edfd2cd9de.css" as="style" />
+<link rel="preload" href="/apac-retail-c-assets/include/bundles/minified-15f4773f70136f39f9888a057fce8e84.css" as="style" />
+<script nonce="NdTcPLZiwSZdtEP98ksyZA==">
+//<![CDATA[
+var vice= { config: { viceAccountId: 'blackrock', viceSiteId: 'blackrockprod', viceZoneId: '', viceSectionId: '' } }
+//]]>
+</script>
+<script src="//sourcedefense.blackrock.com/cdncch/vice_loader/blackrock/blackrockprod"></script>
+<script nonce="NdTcPLZiwSZdtEP98ksyZA==">
+//<![CDATA[
+var ASSET_PREFIX_PATH='/apac-retail-c-assets/';
+window['adrum-start-time'] = new Date().getTime();
+var BLK = { deferredFunctions: [], ready: function(f) { BLK.deferredFunctions.push(f); } };
+/* Returns the nonce. */
+BLK.getScriptNonce = function () {
+var script = document.querySelector && document.querySelector('script[nonce]');
+if (script) {
+var nonce = script['nonce'] || script.getAttribute('nonce');
+return nonce;
+}
+return '';
+};
+//]]>
+</script>
+<script nonce="NdTcPLZiwSZdtEP98ksyZA==">
+//<![CDATA[
+(function(){
+if (typeof BLK === "undefined" || !BLK) {
+window.BLK = {};
+}
+BLK["isAtmos"] = true;
+})();
+//]]>
+</script>
+<link rel="stylesheet" href="/apac-retail-c-assets/include/bundles/minified-fab0cb55fe8be8760d8d64be8008cb48.css" />
+<link rel="stylesheet" href="/apac-retail-c-assets/include/bundles/minified-eb5f949416983d7a4172c0d850a22506.css" />
+<link rel="stylesheet" href="/apac-retail-c-assets/include/bundles/minified-efa42b25bbdf85e81a708509b7373eeb.css" />
+<link rel="stylesheet" href="/apac-retail-c-assets/include/bundles/minified-7ff1ffb9b6db4f4fb1165edfd2cd9de.css" />
+<link rel="stylesheet" href="/apac-retail-c-assets/include/bundles/minified-15f4773f70136f39f9888a057fce8e84.css" />
+<script src="/apac-retail-c-assets/include/bundles/minified-205948414ca6f4b58f3fe67fa0e6a2a5.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-4254136ed827e0e35f3a3bf9ee6266b6.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-e0151fd0733c326edd6308433101b1b8.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-24632094e877a46bdd1c4a03a60bf143.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-159eda097b905917bd3830aaa00fe04.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-a6f6620030d4e7c3136ffa9f3e251e0a.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-7e3bdfb802edaf2da1cbd97022d55b31.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-8f27a6343dab0fdc42c0adc553f54f5d.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-ed9a2c65e7a9c73f91a0967c65da67e1.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-f8c4eb146880451b968988a3d0823d80.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-7f1a32383491b044e9bcb93fd375da04.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-11c9f4415cfeee29da52e7ce0d91cdd6.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-217424af072d0b1766ddee685cb9c22c.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-97988d506359571b8291029a97696506.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-1334a57fa07ced42ad8b4632cf10275f.js" defer="defer"></script>
+<script src="/apac-retail-c-assets/include/bundles/minified-29749fc0e1871efe2fb9e585854c7fc.js" defer="defer"></script>
+<title>お客様本位の業務運営に関する方針と取組 | 重要事項と各種方針 | ブラックロック・ジャパン株式会社</title>
+<script nonce="NdTcPLZiwSZdtEP98ksyZA==">
+var autoBlockScriptTag = document.createElement('script'), head = document.getElementsByTagName('head')[0];
+autoBlockScriptTag.defer = true;
+autoBlockScriptTag.type = 'text/javascript';
+autoBlockScriptTag.src = 'https://cdn.cookielaw.org/consent/1d844f07-6416-4f37-97e9-e7e8b80732f2/OtAutoBlock.js';
+head.appendChild(autoBlockScriptTag);
+</script>
+<script nonce="NdTcPLZiwSZdtEP98ksyZA==" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" defer="defer" charset="UTF-8"
+data-domain-script="1d844f07-6416-4f37-97e9-e7e8b80732f2"
+data-document-language="true"
+></script>
+<script nonce="NdTcPLZiwSZdtEP98ksyZA==">
+//<![CDATA[
+var adobe_report_suite_id,adobe_portfolio_id,adobe_ticker,adobe_product_type,adobe_logged_in,adobe_logged_out,adobe_registration_submitted,partner_name,partner_user_id,partner_firm_name,ignore_adobe_for_user;
+adobe_report_suite_id='blk-global-prod,blk-jp-one-prod';
+var globalAnalyticsParams = {
+googleSiteId: "UA-11733486-12",
+envNet: "dmz",
+envType: "prod",
+pageName: "about-us/corporate-information/fiduciary-duty",
+siteName: "jp-one",
+country: "jp",
+languageSelector: "ja",
+isInternalTraffic: "false",
+isInternalLogin: "false",
+siteSection: "administration",
+siteSubSection: "company information",
+siteSubSubSection: "about us",
+padlockedContent: "no",
+webTrackingId: "",
+loggedIn: "no",
+analyticsAllowed: "false",
+enableAbTesting: "false",
+analyticsRegime: "OTHER",
+usState: "",
+usAccessLevel: ""
+};
+var NTPT_GLBLEXTRA = "site=jp-one"
++ "&env=prod"
++ "&language=ja"
++ "&country=" + globalAnalyticsParams.country
++ "&usertype=individual"
++ "&investorType="
++ "&un="
++ "&loggedin=no"
++ "&firm=" + encodeURIComponent("")
++ "&pagename=" + encodeURIComponent(globalAnalyticsParams.pageName)
++ "&cc1=" + encodeURIComponent("administration")
++ "&cc2=" + encodeURIComponent("company information")
++ "&cc3=" + encodeURIComponent("about us")
++ "&padlocked=no"
+;
+function getCookie(name) {
+var value = "; " + document.cookie;
+var parts = value.split("; " + name + "=");
+if (parts.length == 2) return parts.pop().split(";").shift();
+}
+var forceReconsent = getCookie("ForceReconsent");
+if (forceReconsent) {
+document.cookie = 'OptanonAlertBoxClosed=; domain=.'
++ window.location.hostname
++ '; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+document.cookie = 'ForceReconsent=false; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;'
+document.cookie = 'OptanonCookieCleared=true; max-age=7776000; path=/;'
+}
+globalAnalyticsParams.bannerAcceptBtn= "not listening"
+globalAnalyticsParams.pcAllowAllBtn= "not listening"
+globalAnalyticsParams.pcSaveBtn = "not listening"
+OptanonWrapper = function() {
+console.log("OptanonWrapper called");
+var OABCcookieName = "OptanonAlertBoxClosed";
+var bannerAcceptBtn = document.getElementById("onetrust-accept-btn-handler");
+var pcAllowAllBtn = document.getElementById("accept-recommended-btn-handler");
+var pcSaveBtn = document.getElementsByClassName("save-preference-btn-handler onetrust-close-btn-handler")[0];
+var OABCcookie = getCookie(OABCcookieName);
+if (!OABCcookie && bannerAcceptBtn && globalAnalyticsParams.bannerAcceptBtn =="not listening") {
+bannerAcceptBtn.addEventListener('click', function(event){
+utag.link(
+{ "link_name": "Allowed all via Banner" }
+);
+});
+globalAnalyticsParams.bannerAcceptBtn="listening";
+}
+if (pcAllowAllBtn && globalAnalyticsParams.pcAllowAllBtn=="not listening"){
+pcAllowAllBtn.addEventListener('click', function(event){
+utag.link(
+{ "link_name": "Allowed all via Preference Center" }
+);
+});
+globalAnalyticsParams.pcAllowAllBtn="listening";
+}
+if (pcSaveBtn && globalAnalyticsParams.pcSaveBtn=="not listening"){
+pcSaveBtn.addEventListener('click', function(event){
+utag.link(
+{ "link_name": "Set custom settings via Preference Center" }
+);
+});
+globalAnalyticsParams.pcSaveBtn="listening"
+}
+}
+BLK.isCwpUserSignedIn = false;
+BLK.siteName = "jp-one";
+BLK.apiGatewayUrl = "https://www.blackrock.com/api-gateway";
+BLK.apigeePath = "https://api.blackrock.com";
+//]]>
+</script>
+<script src="//tags.tiqcdn.com/utag/blackrock/main/prod/utag.js" type="text/javascript" defer="defer"></script>
+<meta name="cmsPageId" content="1652177046812" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="ブラックロック・ジャパン株式会社は、金融庁が2017年3月30日に公表、2021年1月15日に改訂した「顧客本位の業務運営に関する原則」に掲げられた7つの原則を全て採択し、以下の通り公表します。" />
+<meta name="keywords" content="" />
+<link rel="alternate" href="https://www.blackrock.com/jp/individual/ja/about-us/corporate-information/fiduciary-duty" hreflang="ja-JP" />
+<meta name="articleTitle" content="お客様本位の業務運営に関する方針と取組 | 重要事項と各種方針 | ブラックロック・ジャパン株式会社" />
+<meta name="pageSummary" content="ブラックロック・ジャパン株式会社は、金融庁が2017年3月30日に公表、2021年1月15日に改訂した「顧客本位の業務運営に関する原則」に掲げられた7つの原則を全て採択し、以下の通り公表します。" />
+<meta name="featureImageAltText" content="お客様本位の業務運営に関する方針と取組 | 重要事項と各種方針 | ブラックロック・ジャパン株式会社" />
+<meta property="og:title" content="お客様本位の業務運営に関する方針と取組 | 重要事項と各種方針 | ブラックロック・ジャパン株式会社" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="/apac-retail-c-assets/include/common/images/blackrock_logo.png" />
+<meta property="og:site_name" content="BlackRock" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:url" content="https://www.blackrock.com/jp/individual/ja/about-us/corporate-information/fiduciary-duty" />
+<link rel="canonical" href="https://www.blackrock.com/jp/individual/ja/about-us/corporate-information/fiduciary-duty" />
+<script src="/apac-retail-c-assets/include/bundles/minified-578a55e3f7b8da7d353cf69c6f065504.js" defer="defer"></script>
+<script nonce="89c7b3a6fbfcfc4a80b850d5e9736b86">bazadebezolkohpepadr="301680699"</script><script type="text/javascript" src="https://www.blackrock.com/akam/13/11fb49ca" nonce="89c7b3a6fbfcfc4a80b850d5e9736b86" defer></script></head>
+<body id="jp-one" class="blkPage ds-non-ishares-site page-class-fiduciary-duty blk-responsive ja_JP" tabindex="-1">
+<div class="ls-canvas content-page-wide-12"><div class="ls-row" id="mastheadWrapper" role="banner">
+<div class="ls-area">
+<div class="ls-cmp-wrap"  id="w1652177046813" >
+<div class="iw_component"  id="c1652177046813" >
+
+<!-- COMPONENT: vi16-page-frame/Masthead -->
+<a id="skip-to-content" href="#bodyWrapper">Skip to content</a>
+<div data-componentName="Masthead" class="vi20 unified-masthead blackrock" id="vi20UnifiedMasthead"> <div class="masthead desktop hide-on-mobile">
+<div class="navigation-bar col-12">
+<div class="left brand-links">
+<div >
+<div class="cta-container-box">
+<a href="/jp/individual/ja" data-link-event="cta:ブラックロック" target="_self" class="cta link"> <span class="label"><span>ブラックロック</span></span>
+<span class="short label">
+<span>ブラックロック</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</div>
+<div >
+<div class="cta-container-box">
+<a href="/jp/individual/ja/ishares" data-link-event="cta:iシェアーズ" target="_self" class="cta link"> <span class="label"><span>iシェアーズ</span></span>
+<span class="short label">
+<span>iシェアーズ</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</div>
+<div >
+<div class="cta-container-box">
+<a href="/jp/individual/ja/aladdin" data-link-event="cta:アラディン" target="_self" class="cta link"> <span class="label"><span>アラディン</span></span>
+<span class="short label">
+<span>アラディン</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</div>
+<div >
+<div class="cta-container-box">
+<a href="https://www.blackrock.com/corporate" data-link-event="cta:コーポレート（英語）" target="_self" class="cta link"> <span class="label"><span>コーポレート（英語）</span></span>
+<span class="short label">
+<span>コーポレート（英語）</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="a-btn-holder">
+<button id="locationTypeSelector" class="location nav" aria-expanded="false" aria-controls="nav-location-container-id">
+Japan - 日本 <span class="fa fa-chevron-down"></span>
+</button>
+</div>
+</div>
+</div>
+<div class="nav-dropdown location" id="nav-location-container-id">
+<div class="col-12">
+<div class="heading-wrap">
+<span class="icon icon-globe"></span>
+<div class="heading-3" id="locationHeader" tabindex="-1">国・地域を変更する</div>
+<button class="fa fa-white fa-close" aria-label="Close the location selector block"></button>
+</div>
+<div class="selector">
+<a href="https://www.blackrock.com/americas-offshore/" id="cs-LM" lang="en" data-link-event="country:Americas Offshore" class="country-flag-sprite marker"> Americas Offshore
+</a><a href="https://www.blackrock.com/au" id="cs-AU" lang="en" data-link-event="country:Australia" class="country-flag-sprite marker"> Australia
+</a><a href="https://www.blackrock.com/at" id="cs-AT" lang="en" data-link-event="country:Austria" class="country-flag-sprite marker"> Austria
+</a><a href="https://www.blackrock.com/be" id="cs-BE" lang="en" data-link-event="country:Belgium" class="country-flag-sprite marker"> Belgium
+</a><a href="https://www.blackrock.com/br" id="cs-BR" lang="en" data-link-event="country:Brazil" class="country-flag-sprite marker"> Brazil
+</a><a href="https://www.blackrock.com/ca" id="cs-CA" lang="en" data-link-event="country:Canada" class="country-flag-sprite marker"> Canada
+</a><a href="https://www.blackrock.com/cl" id="cs-CL" lang="en" data-link-event="country:Chile" class="country-flag-sprite marker"> Chile
+</a><a href="https://www.blackrock.com/cn" id="cs-CN" lang="en" data-link-event="country:China Offshore - 中国境外" class="country-flag-sprite marker"> China Offshore - 中国境外
+</a><a href="https://www.blackrock.com.cn" id="cs-cn-on" lang="en" data-link-event="country:China Onshore - 中国境内" class="country-flag-sprite marker"> China Onshore - 中国境内
+</a><a href="https://www.blackrock.com/co" id="cs-CO" lang="en" data-link-event="country:Colombia" class="country-flag-sprite marker"> Colombia
+</a><a href="https://www.blackrock.com/cz" id="cs-CZ" lang="en" data-link-event="country:Czech Republic" class="country-flag-sprite marker"> Czech Republic
+</a><a href="https://www.blackrock.com/dk" id="cs-DK" lang="en" data-link-event="country:Denmark" class="country-flag-sprite marker"> Denmark
+</a><a href="https://www.blackrock.com/ae" id="cs-AE" lang="en" data-link-event="country:Dubai (IFC)" class="country-flag-sprite marker"> Dubai (IFC)
+</a><a href="https://www.blackrock.com/fi" id="cs-FI" lang="en" data-link-event="country:Finland" class="country-flag-sprite marker"> Finland
+</a><a href="https://www.blackrock.com/fr" id="cs-FR" lang="en" data-link-event="country:France" class="country-flag-sprite marker"> France
+</a><a href="https://www.blackrock.com/de" id="cs-DE" lang="en" data-link-event="country:Germany" class="country-flag-sprite marker"> Germany
+</a><a href="https://www.blackrock.com/hk" id="cs-HK" lang="en" data-link-event="country:Hong Kong - 香港" class="country-flag-sprite marker"> Hong Kong - 香港
+</a><a href="https://www.blackrock.com/hu" id="cs-HU" lang="en" data-link-event="country:Hungary" class="country-flag-sprite marker"> Hungary
+</a><a href="https://www.blackrock.com/il" id="cs-IL" lang="en" data-link-event="country:Israel" class="country-flag-sprite marker"> Israel
+</a><a href="https://www.blackrock.com/it" id="cs-IT" lang="en" data-link-event="country:Italy" class="country-flag-sprite marker"> Italy
+</a><a href="https://www.blackrock.com/jp/individual/ja" id="cs-JP" lang="en" data-link-event="country:Japan - 日本" class="country-flag-sprite marker"> Japan - 日本
+</a><a href="https://www.blackrock.com/kw" id="cs-KW" lang="en" data-link-event="country:Kuwait" class="country-flag-sprite marker"> Kuwait
+</a><a href="https://www.blackrock.com/lu" id="cs-LU" lang="en" data-link-event="country:Luxembourg" class="country-flag-sprite marker"> Luxembourg
+</a><a href="https://www.blackrock.com/mx" id="cs-MX" lang="en" data-link-event="country:México" class="country-flag-sprite marker"> México
+</a><a href="https://www.blackrock.com/nl" id="cs-NL" lang="en" data-link-event="country:Netherlands" class="country-flag-sprite marker"> Netherlands
+</a><a href="https://www.blackrock.com/no" id="cs-NO" lang="en" data-link-event="country:Norway" class="country-flag-sprite marker"> Norway
+</a><a href="https://www.blackrock.com/pl" id="cs-PL" lang="en" data-link-event="country:Poland" class="country-flag-sprite marker"> Poland
+</a><a href="https://www.blackrock.com/pt" id="cs-PT" lang="en" data-link-event="country:Portugal" class="country-flag-sprite marker"> Portugal
+</a><a href="https://www.blackrock.com/sa" id="cs-SA" lang="en" data-link-event="country:Saudi Arabia" class="country-flag-sprite marker"> Saudi Arabia
+</a><a href="https://www.blackrock.com/sg" id="cs-SG" lang="en" data-link-event="country:Singapore" class="country-flag-sprite marker"> Singapore
+</a><a href="https://www.blackrock.com/sk" id="cs-SK" lang="en" data-link-event="country:Slovakia" class="country-flag-sprite marker"> Slovakia
+</a><a href="https://www.blackrock.com/za" id="cs-ZA" lang="en" data-link-event="country:South Africa" class="country-flag-sprite marker"> South Africa
+</a><a href="https://www.blackrock.com/es" id="cs-ES" lang="en" data-link-event="country:Spain" class="country-flag-sprite marker"> Spain
+</a><a href="https://www.blackrock.com/se" id="cs-SE" lang="en" data-link-event="country:Sweden" class="country-flag-sprite marker"> Sweden
+</a><a href="https://www.blackrock.com/ch" id="cs-CH" lang="en" data-link-event="country:Switzerland" class="country-flag-sprite marker"> Switzerland
+</a><a href="https://www.blackrock.com/tw" id="cs-TW" lang="en" data-link-event="country:Taiwan - 台灣" class="country-flag-sprite marker"> Taiwan - 台灣
+</a><a href="https://www.blackrock.com/uk" id="cs-GB" lang="en" data-link-event="country:United Kingdom" class="country-flag-sprite marker"> United Kingdom
+</a><a href="https://www.blackrock.com/us/individual" id="cs-US" lang="en" data-link-event="country:United States" class="country-flag-sprite marker"> United States
+</a><a href="https://www.blackrock.com/corporate" id="cs-ZZ" lang="en" data-link-event="country:Location not listed" class="country-flag-sprite marker"> Location not listed
+</a> </div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class="ls-area" id="navWrapper">
+<div class="ls-cmp-wrap"  id="w1652177046814" >
+<div class="iw_component"  id="c1652177046814" >
+
+<!-- COMPONENT: vi16-page-frame/Main Nav -->
+<div data-componentName="Main Nav"><nav id="vi20-primary-navigation" aria-label="Primary Navigation" class="blackrock">
+<input type="hidden" value="false" name="isArabianSite" />
+<div class="navigation-top-bar-container">
+<div class="navigation-top-bar-container__logo-container">
+<a href="/jp/individual/ja" class="navigation-logo-link"><img src="/apac-retail-c-assets/cache-1542607942000/images/media-bin/web/global/wordmark/blackrock-logo-nav.svg" alt="BlackRock" width="152px" height="22px"/></a> </div>
+<div class="navigation-top-bar-container__menu-and-search-container">
+<div class="navigation-top-bar-container__menu-container-l1" role="menu">
+<div class="l1-navigation-wrapper" id="l1-desktop-item-hwhk348l">
+<a href="#" class="menu-container-l1 non-clickable" id="l1-navigation-hwhk348l" data-link-event="Products Info" aria-expanded="false" aria-haspopup="true" aria-controls="l1-tray-nav-list-hwhk348l" role="menuitem">
+ファンド・ETF情報 </a>
+<div class="l1-navigation-marker"></div>
+</div>
+<div class="l1-navigation-wrapper" id="l1-desktop-item-j8406lk1">
+<a href="#" class="menu-container-l1 non-clickable" id="l1-navigation-j8406lk1" data-link-event="About Investments" aria-expanded="false" aria-haspopup="true" aria-controls="l1-tray-nav-list-j8406lk1" role="menuitem">
+投資を学ぶ </a>
+<div class="l1-navigation-marker"></div>
+</div>
+<div class="l1-navigation-wrapper" id="l1-desktop-item-j8406lml">
+<a href="#" class="menu-container-l1 non-clickable" id="l1-navigation-j8406lml" data-link-event="Retirement" aria-expanded="false" aria-haspopup="true" aria-controls="l1-tray-nav-list-j8406lml" role="menuitem">
+退職後の資金準備 </a>
+<div class="l1-navigation-marker"></div>
+</div>
+<div class="l1-navigation-wrapper" id="l1-desktop-item-hwhk349g">
+<a href="#" class="menu-container-l1 non-clickable" id="l1-navigation-hwhk349g" data-link-event="Resources" aria-expanded="false" aria-haspopup="true" aria-controls="l1-tray-nav-list-hwhk349g" role="menuitem">
+各種資料 </a>
+<div class="l1-navigation-marker"></div>
+</div>
+<div class="l1-navigation-wrapper" id="l1-desktop-item-je6kuzmj">
+<a href="#" class="menu-container-l1 non-clickable" id="l1-navigation-je6kuzmj" data-link-event="About us" aria-expanded="false" aria-haspopup="true" aria-controls="l1-tray-nav-list-je6kuzmj" role="menuitem">
+会社情報 </a>
+<div class="l1-navigation-marker"></div>
+</div>
+<div class="l1-navigation-wrapper" id="l1-desktop-item-l2vyqdwj">
+<a href="#" class="menu-container-l1 non-clickable" id="l1-navigation-l2vyqdwj" data-link-event="Insititutional investor" aria-expanded="false" aria-haspopup="true" aria-controls="l1-tray-nav-list-l2vyqdwj" role="menuitem">
+機関投資家のお客様 </a>
+<div class="l1-navigation-marker"></div>
+</div>
+<div class="l1-navigation-wrapper" id="l1-desktop-item-ir6201ao">
+<a href="#" class="menu-container-l1 non-clickable" id="l1-navigation-ir6201ao" data-link-event="English" aria-expanded="false" aria-haspopup="true" aria-controls="l1-tray-nav-list-ir6201ao" role="menuitem">
+English </a>
+<div class="l1-navigation-marker"></div>
+</div>
+</div>
+<div class="navigation-top-bar-container__search-container">
+<span hidden id="primaryNavigationAriaLabelOpenSearch">Open Search</span>
+<span hidden id="primaryNavigationAriaLabelCloseSearch">Close Search</span>
+<button aria-haspopup="true" aria-expanded="false" aria-label="Open Search" role="search"><i class="fa fa-search"></i></button>
+</div>
+</div>
+</div>
+<div class="navigation-tray-container" id="l1-tray-hwhk348l">
+<div class="navigation-tray-container__l1-item-container">
+</div>
+<ul class="navigation-tray-container__4-column-l2-l3-items-container" id="l1-tray-nav-list-hwhk348l">
+<li class="l2-l3-items-column">
+<div class="l2-header">取扱商品一覧</div>
+<ul class="l3-item-container" aria-label="取扱商品一覧">
+<li>
+<a href="/jp/individual/ja/products/products-list#!type=mutualFunds&amp;style=All&amp;view=perfNav" data-id="Mutual Funds" id="mm-hwhk348m" data-link-event="Products Info:Mutual Funds" class="l3-item">投資信託</a> </li>
+<li>
+<a href="/jp/individual/ja/products/products-list#!type=tselisted&amp;tab=overview&amp;view=list" data-id="iShares TSE Products" id="mm-j8406jn4" data-link-event="Products Info:iShares TSE Products" class="l3-item">東証上場iシェアーズETF</a> </li>
+<li>
+<a href="/jp/individual/ja/products/products-list#!type=ishares&amp;tab=overview&amp;view=list" data-id="iShares All" id="mm-j8406jn9" data-link-event="Products Info:iShares All" class="l3-item">全iシェアーズETF</a> </li>
+</ul>
+</li>
+<li class="l2-l3-items-column">
+<div class="l2-header">注目商品 - 投資信託</div>
+<ul class="l3-item-container" aria-label="注目商品 - 投資信託">
+<li>
+<a href="/jp/individual/ja/featured-funds/binc-fund" data-id="Binc fund" id="mm-m0ffza75" data-link-event="Products Info:Binc fund" class="l3-item">インカムは裏切らない -ブラックロック・フレキシブル・インカム・ファンド/BINC</a> </li>
+<li>
+<a href="/jp/individual/ja/featured-funds/blackrock-healthscience-fund" data-id="Blackrock healthscience fund" id="mm-lxg1ubaa" data-link-event="Products Info:Blackrock healthscience fund" class="l3-item">需要が高まる世界のヘルスサイエンス関連企業に投資</a> </li>
+<li>
+<a href="/jp/individual/ja/featured-funds/blackrock-gold" data-id="BlackRock gold" id="mm-lsd4mv8n" data-link-event="Products Info:BlackRock gold" class="l3-item">金鉱企業を中心とした割安銘柄に厳選投資</a> </li>
+<li>
+<a href="/jp/individual/ja/featured-funds/ishares-tsumitate-sp500" data-id="iShares Tsumitate sp500" id="mm-lpi5szgj" data-link-event="Products Info:iShares Tsumitate sp500" class="l3-item">米国企業の成長性につみたて投資</a> </li>
+<li>
+<a href="/jp/individual/ja/featured-funds/blackrock-global-equity-income-open" data-id="Blackrock Global Equity Income Open" id="mm-lksbnes8" data-link-event="Products Info:Blackrock Global Equity Income Open" class="l3-item">厳選された世界の好配当企業に投資</a> </li>
+<li>
+<a href="/jp/individual/ja/retirement/target-year-funds" data-id="Target Year Fund" id="mm-j8o0wgan" data-link-event="Products Info:Target Year Fund" class="l3-item">ターゲット・イヤー・ファンドで老後資金の準備をシンプルに</a> </li>
+</ul>
+</li>
+<li class="l2-l3-items-column">
+<div class="l2-header">注目商品 - iシェアーズETF</div>
+<ul class="l3-item-container" aria-label="注目商品 - iシェアーズETF">
+<li>
+<a href="/jp/individual/ja/ishares/recommended-products/low-core-fee" data-id="Low core fee" id="mm-mdl2aoqj" data-link-event="Products Info:Low core fee" class="l3-item">iシェアーズETFなら低コストでポートフォリオが組める</a> </li>
+<li>
+<a href="/jp/individual/ja/ishares/sp500-series" data-id="SP500-series " id="mm-mm6a69n7" data-link-event="Products Info:SP500-series " class="l3-item">S&amp;P500への投資をiシェアーズでアップグレード</a> </li>
+<li>
+<a href="/jp/individual/ja/ishares/bai-etf" data-id="Bai etf" id="mm-mexvs8p6" data-link-event="Products Info:Bai etf" class="l3-item">AIの未来を、この1本で</a> </li>
+<li>
+<a href="/jp/individual/ja/ishares/qtop-etf" data-id="Qtop etf" id="mm-mdl2aoqk" data-link-event="Products Info:Qtop etf" class="l3-item">米国の成長を牽引するNASDAQのトップ30社を厳選</a> </li>
+<li>
+<a href="/jp/individual/ja/ishares/gold-etf" data-id="Gold etf" id="mm-mdl2aoqr" data-link-event="Products Info:Gold etf" class="l3-item">金への分散投資を、ETFで手軽に</a> </li>
+<li>
+<a href="/jp/individual/ja/ishares/us-treasury-bond-25-year-long-duration-etf" data-id="US Treasury Bond 25 year long duration etf" id="mm-m1t6uh2h" data-link-event="Products Info:US Treasury Bond 25 year long duration etf" class="l3-item">iシェアーズ東証上場債券ETFに米国超長期債に連動するETF2本が仲間入り</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="navigation-tray-container__special-links-container has-content">
+<li>
+<div class="cta-container-box">
+<a href="/jp/individual/ja/products/products-list" data-link-event="cta:全ての取扱商品を見る" aria-label="投資信託、iシェアーズETF、全ての取扱商品を見る" target="_self" class="cta link navigation-tray-container-special-link"> <span class="label"><span class="icon fa fa-angle-right" aria-hidden="true"></span><span>全ての取扱商品を見る</span></span>
+<span class="short label"><span class="icon fa fa-angle-right" aria-hidden="true"></span>
+<span>全ての取扱商品を見る</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+<li>
+<div class="cta-container-box">
+<a href="/jp/individual/ja/ishares" data-link-event="cta:iシェアーズETF情報" aria-label="iシェアーズETF情報を見る" target="_self" class="cta link navigation-tray-container-special-link"> <span class="label"><span class="icon fa fa-angle-right" aria-hidden="true"></span><span>iシェアーズETF情報</span></span>
+<span class="short label"><span class="icon fa fa-angle-right" aria-hidden="true"></span>
+<span>iシェアーズETF情報</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="navigation-tray-container" id="l1-tray-j8406lk1">
+<div class="navigation-tray-container__l1-item-container">
+</div>
+<ul class="navigation-tray-container__4-column-l2-l3-items-container" id="l1-tray-nav-list-j8406lk1">
+<li class="l2-l3-items-column">
+<div class="l2-header">マーケット情報</div>
+<ul class="l3-item-container" aria-label="マーケット情報">
+<li>
+<a href="/jp/individual/ja/insights" data-id="Insights" id="mm-j8406lk8" data-link-event="About Investments:Insights" class="l3-item">ブラックロックのインサイト</a> </li>
+<li>
+<a href="/jp/individual/ja/insights/rick-rieder-insights" data-id="Rick rieder insights" id="mm-ji28mc51" data-link-event="About Investments:Rick rieder insights" class="l3-item">リック・リーダーのインサイト</a> </li>
+<li>
+<a href="/jp/individual/ja/insights/weathering-uncertain-markets" data-id="Weathering uncertain market" id="mm-l7w38tvm" data-link-event="About Investments:Weathering uncertain market" class="l3-item">不透明な市場環境を乗り切るために</a> </li>
+<li>
+<a href="/jp/individual/ja/insights/blackrock-investment-institute/outlook" data-id="Global Investment Outlook" id="mm-mir04yjf" data-link-event="About Investments:Global Investment Outlook" class="l3-item">Global Investment Outlook</a> </li>
+</ul>
+</li>
+<li class="l2-l3-items-column">
+<div class="l2-header">投資アイデア</div>
+<ul class="l3-item-container" aria-label="投資アイデア">
+<li>
+<a href="/jp/individual/ja/strategies/alternative-investing" data-id="Alternative Investing(Index)" id="mm-kr0rty91" data-link-event="About Investments:Alternative Investing(Index)" class="l3-item">オルタナティブ投資</a> </li>
+<li>
+<a href="/jp/individual/ja/strategies/sustainable-transition-investing" data-id="Sustainable Investing" id="mm-j8406llp" data-link-event="About Investments:Sustainable Investing" class="l3-item">サステナブル投資とトランジション（移行）投資</a> </li>
+<li>
+<a href="/jp/individual/ja/strategies/factor" data-id="Factor" id="mm-jmk33r9q" data-link-event="About Investments:Factor" class="l3-item">ファクター投資</a> </li>
+</ul>
+</li>
+<li class="l2-l3-items-column">
+<div class="l2-header">基礎講座（はじめての方へ）</div>
+<ul class="l3-item-container" aria-label="基礎講座（はじめての方へ）">
+<li>
+<a href="/jp/individual/ja/ishares/about-etf" data-id="What is ETF" id="mm-kg844cnh" data-link-event="About Investments:What is ETF" class="l3-item">ETFとは</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="navigation-tray-container__special-links-container has-content">
+<li>
+<div class="cta-container-box">
+<a href="/jp/individual/ja/insights/insights-education" data-link-event="cta:資産形成のための投資ソリューション" aria-label="資産形成のための投資ソリューションページへ" target="_top" class="cta link navigation-tray-container-special-link"> <span class="label"><span class="icon fa fa-angle-right" aria-hidden="true"></span><span>資産形成のための投資ソリューション</span></span>
+<span class="short label"><span class="icon fa fa-angle-right" aria-hidden="true"></span>
+<span>資産形成のための投資ソリューション</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+<li>
+<div class="cta-container-box">
+<a href="/jp/individual/ja/strategies/portfolio-managers" data-link-event="cta: 運用体制のご紹介" aria-label="運用体制のご紹介" target="_self" class="cta link navigation-tray-container-special-link"> <span class="label"><span class="icon fa fa-angle-right" aria-hidden="true"></span><span> 運用体制のご紹介</span></span>
+<span class="short label"><span class="icon fa fa-angle-right" aria-hidden="true"></span>
+<span> 運用体制のご紹介</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="navigation-tray-container" id="l1-tray-j8406lml">
+<div class="navigation-tray-container__l1-item-container">
+</div>
+<ul class="navigation-tray-container__4-column-l2-l3-items-container" id="l1-tray-nav-list-j8406lml">
+<li class="l2-l3-items-column">
+<div class="l2-header">はじめに</div>
+<ul class="l3-item-container" aria-label="はじめに">
+<li>
+<a href="/jp/individual/ja/retirement/defined-contribution" data-id="Defined Contribution" id="mm-kol5hhqs" data-link-event="Retirement:Defined Contribution" class="l3-item">ゆとりある老後資金をDCで準備する</a> </li>
+</ul>
+</li>
+<li class="l2-l3-items-column">
+<div class="l2-header">注目商品</div>
+<ul class="l3-item-container" aria-label="注目商品">
+<li>
+<a href="/jp/individual/ja/retirement/defined-contribution/esg-investing" data-id="ESG Investing" id="mm-kol5hhr1" data-link-event="Retirement:ESG Investing" class="l3-item">ESG投資で変化する社会に備える</a> </li>
+<li>
+<a href="/jp/individual/ja/retirement/target-year-funds" data-id="Target Year Fund" id="mm-j8406loy" data-link-event="Retirement:Target Year Fund" class="l3-item">ターゲット・イヤー・ファンドで老後資金の準備をシンプルに</a> </li>
+</ul>
+</li>
+<li class="l2-l3-items-column">
+<div class="l2-header">調査・統計から知る</div>
+<ul class="l3-item-container" aria-label="調査・統計から知る">
+<li>
+<a href="/jp/individual/ja/retirement/retirement-roundtable-2022" data-id="Retirement Roundtable 2022" id="mm-lk10mu7w" data-link-event="Retirement:Retirement Roundtable 2022" class="l3-item">何が日本人の資産形成を阻んでいるのか</a> </li>
+<li>
+<a href="/jp/individual/ja/retirement/retirement-roundtable" data-id="Retirement Roundtable" id="mm-kr0rtym5" data-link-event="Retirement:Retirement Roundtable" class="l3-item">人生100年時代に考えたいお金のこと</a> </li>
+<li>
+<a href="/jp/individual/ja/retirement/investor-pulse" data-id="Investor Pulse" id="mm-kr0rtykp" data-link-event="Retirement:Investor Pulse" class="l3-item">資産とウェルビーイングに関するグローバル調査</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="navigation-tray-container__special-links-container ">
+</ul>
+</div>
+<div class="navigation-tray-container" id="l1-tray-hwhk349g">
+<div class="navigation-tray-container__l1-item-container">
+</div>
+<ul class="navigation-tray-container__4-column-l2-l3-items-container" id="l1-tray-nav-list-hwhk349g">
+<li class="l2-l3-items-column">
+<div class="l2-header">重要なお知らせ</div>
+<ul class="l3-item-container" aria-label="重要なお知らせ">
+<li>
+<a href="/jp/individual/ja/about-us/important-information/electronic-notifications" data-id="Electronic notifications" id="mm-kprn7qow" data-link-event="Resources:Electronic notifications" class="l3-item">電子公告</a> </li>
+<li>
+<a href="/jp/individual/ja/document-centre?materialType=fund+announcement" data-id="Product related information" id="mm-jf65fq39" data-link-event="Resources:Product related information" class="l3-item">商品に関わるお知らせ</a> </li>
+<li>
+<a href="/jp/individual/ja/document-centre?materialType=NAV+announcement" data-id=" NAV announcement" id="mm-jf65fq3p" data-link-event="Resources: NAV announcement" class="l3-item">基準価額に関わるお知らせ</a> </li>
+</ul>
+</li>
+<li class="l2-l3-items-column">
+<div class="l2-header">商品情報</div>
+<ul class="l3-item-container" aria-label="商品情報">
+<li>
+<a href="/jp/individual/ja/document-centre?brand=blackrock" data-id="Brand BlackRock" id="mm-kprn7qpm" data-link-event="Resources:Brand BlackRock" class="l3-item">投資信託</a> </li>
+<li>
+<a href="/jp/individual/ja/document-centre?brand=ishares" data-id="Brand iShares" id="mm-kprn7qpu" data-link-event="Resources:Brand iShares" class="l3-item">iシェアーズETF</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="navigation-tray-container__special-links-container has-content">
+<li>
+<div class="cta-container-box">
+<a href="/jp/individual/ja/document-centre" data-link-event="cta:資料一覧" aria-label="各種資料全般を見る" target="_self" class="cta link navigation-tray-container-special-link"> <span class="label"><span class="icon fa fa-angle-right" aria-hidden="true"></span><span>資料一覧</span></span>
+<span class="short label"><span class="icon fa fa-angle-right" aria-hidden="true"></span>
+<span>資料一覧</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="navigation-tray-container" id="l1-tray-je6kuzmj">
+<div class="navigation-tray-container__l1-item-container">
+</div>
+<ul class="navigation-tray-container__4-column-l2-l3-items-container" id="l1-tray-nav-list-je6kuzmj">
+<li class="l2-l3-items-column">
+<div class="l2-header">会社案内</div>
+<ul class="l3-item-container" aria-label="会社案内">
+<li>
+<a href="/jp/individual/ja/about-us" data-id="Overview" id="mm-je6kuzmv" data-link-event="About us:Overview" class="l3-item">ブラックロックのご紹介</a> </li>
+<li>
+<a href="/jp/individual/ja/about-us/investment-stewardship" data-id="Investment Stewardship" id="mm-k4f52sed" data-link-event="About us:Investment Stewardship" target="_top" class="l3-item">インベストメント・スチュワードシップ</a> </li>
+<li>
+<a href="/jp/individual/ja/about-us/corporate-information/fiduciary-duty" data-id="Fiduciary duty" id="mm-md88u8gy" data-link-event="About us:Fiduciary duty" class="l3-item">お客様本位の業務運営に関する方針と取組</a> </li>
+</ul>
+</li>
+<li class="l2-l3-items-column">
+<div class="l2-header">ニュースルーム</div>
+<ul class="l3-item-container" aria-label="ニュースルーム">
+<li>
+<a href="/jp/individual/ja/about-us/press-release" data-id="Press Release" id="mm-kt2ou9sx" data-link-event="About us:Press Release" class="l3-item">プレスリリース</a> </li>
+<li>
+<a href="/jp/individual/ja/about-us/media-information" data-id="Media Information" id="mm-kt2ou9t3" data-link-event="About us:Media Information" class="l3-item">メディア掲載情報</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="navigation-tray-container__special-links-container has-content">
+<li>
+<div class="cta-container-box">
+<a href="/jp/individual/ja/larry-fink-annual-chairmans-letter" data-link-event="cta:ラリー・フィンクから投資家の皆様への年次書簡" aria-label="ラリー・フィンクから投資家の皆様への年次書簡" target="_top" class="cta link navigation-tray-container-special-link"> <span class="label"><span class="icon fa fa-angle-right" aria-hidden="true"></span><span>ラリー・フィンクから投資家の皆様への年次書簡</span></span>
+<span class="short label"><span class="icon fa fa-angle-right" aria-hidden="true"></span>
+<span>ラリー・フィンクから投資家の皆様への年次書簡</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+<li>
+<div class="cta-container-box">
+<a href="/jp/individual/ja/about-us/careers" data-link-event="cta:採用情報" aria-label="採用情報を見る" target="_self" class="cta link navigation-tray-container-special-link"> <span class="label"><span class="icon fa fa-angle-right" aria-hidden="true"></span><span>採用情報</span></span>
+<span class="short label"><span class="icon fa fa-angle-right" aria-hidden="true"></span>
+<span>採用情報</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="navigation-tray-container" id="l1-tray-l2vyqdwj">
+<div class="navigation-tray-container__l1-item-container">
+</div>
+<ul class="navigation-tray-container__4-column-l2-l3-items-container" id="l1-tray-nav-list-l2vyqdwj">
+<li class="l2-l3-items-column">
+<div class="l2-header">機関投資家のお客様</div>
+<ul class="l3-item-container" aria-label="機関投資家のお客様">
+<li>
+<a href="https://www.blackrock.com/jp/ja/institutional-investor" data-id="Institutional Investors" id="mm-l2k0n752" data-link-event="Insititutional investor:Institutional Investors" class="l3-item">機関投資家のお客様サイトを見る</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="navigation-tray-container__special-links-container ">
+</ul>
+</div>
+<div class="navigation-tray-container" id="l1-tray-ir6201ao">
+<div class="navigation-tray-container__l1-item-container">
+</div>
+<ul class="navigation-tray-container__4-column-l2-l3-items-container" id="l1-tray-nav-list-ir6201ao">
+<li class="l2-l3-items-column">
+<div class="l2-header">Product List</div>
+<ul class="l3-item-container" aria-label="Product List">
+<li>
+<a href="https://www.blackrock.com/jp/individual-en/en/products/products-list" data-id="iShares ETFs" id="mm-kprn7qkf" data-link-event="English:iShares ETFs" target="_top" class="l3-item">iShares ETFs</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="navigation-tray-container__special-links-container ">
+</ul>
+</div>
+</nav><nav id="vi20-primary-navigation-mobile" aria-label="Primary Navigation" class="blackrock">
+<div class="menu-top-bar-container">
+<div class="menu-button">
+<button class="hamburger hamburger--squeeze" type="button" aria-label="Main menu" aria-controls="navigation">
+<span class="hamburger-box">
+<span class="hamburger-inner"></span>
+<span class="info-bell-container inactive"><span class="info-bell"></span></span>
+</span>
+</button>
+</div>
+<div class="menu-top-bar-container__logo-container">
+<a href="/jp/individual/ja" title="BlackRock"><img src="/apac-retail-c-assets/cache-1542607942000/images/media-bin/web/global/wordmark/blackrock-logo-nav-mobile.svg" alt="BlackRock homepage" width="113px" height="16px"/></a> </div>
+<div class="menu-top-bar-container__search-button-container">
+<span hidden id="primaryNavigationAriaLabelOpenSearch">Open Search</span>
+<span hidden id="primaryNavigationAriaLabelCloseSearch">Close Search</span>
+<button aria-haspopup="true" aria-expanded="false" aria-label="Open Search" role="search"><i class="fa fa-search"></i></button>
+</div>
+</div>
+<div class="view-space">
+<ul class="menu-l1-container">
+<li class="entry-ribbon-container inactive"></li>
+<li class="navigation-menu-item">
+<button id="l1-mobile-hwhk348l">
+ファンド・ETF情報 <span class="fa fa-chevron-right"></span>
+</button>
+</li>
+<li class="navigation-menu-item">
+<button id="l1-mobile-j8406lk1">
+投資を学ぶ <span class="fa fa-chevron-right"></span>
+</button>
+</li>
+<li class="navigation-menu-item">
+<button id="l1-mobile-j8406lml">
+退職後の資金準備 <span class="fa fa-chevron-right"></span>
+</button>
+</li>
+<li class="navigation-menu-item">
+<button id="l1-mobile-hwhk349g">
+各種資料 <span class="fa fa-chevron-right"></span>
+</button>
+</li>
+<li class="navigation-menu-item">
+<button id="l1-mobile-je6kuzmj">
+会社情報 <span class="fa fa-chevron-right"></span>
+</button>
+</li>
+<li class="navigation-menu-item">
+<button id="l1-mobile-l2vyqdwj">
+機関投資家のお客様 <span class="fa fa-chevron-right"></span>
+</button>
+</li>
+<li class="navigation-menu-item">
+<button id="l1-mobile-ir6201ao">
+English <span class="fa fa-chevron-right"></span>
+</button>
+</li>
+<li class="user-type-selector-menu-item">
+<button id="l1-mobile-user-type-selector"></button>
+</li>
+<li class="country-selector-menu-item">
+<button id="l1-mobile-country-selector"></button>
+</li>
+<li class="language-selector-menu-item"></li>
+<li class="sign-in-menu-item">
+<button id="l1-mobile-sign-in" data-link-event="sign in block:dropdown:close"><span class="fa fa-chevron-right"></span></button>
+</li>
+</ul>
+<ul class="menu-l2-container" id="l2-mobile-hwhk348l">
+<div class="menu-l2-container__header-container">
+<button data-link-event="sign in block:dropdown:open">ファンド・ETF情報<span class="fa fa-chevron-left"></span></button>
+</div>
+<li class="menu-l2-container__special-links-container">
+<a href="/jp/individual/ja/products/products-list" target="_self">全ての取扱商品を見る</a>
+<a href="/jp/individual/ja/ishares" target="_self">iシェアーズETF情報</a>
+</li>
+<li class="l2-header">取扱商品一覧</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/products/products-list#!type=mutualFunds&amp;style=All&amp;view=perfNav" data-link-event="Products Info:Mutual Funds" class="l3-item">
+投資信託</a> </li>
+<li><a href="/jp/individual/ja/products/products-list#!type=tselisted&amp;tab=overview&amp;view=list" data-link-event="Products Info:iShares TSE Products" class="l3-item">
+東証上場iシェアーズETF</a> </li>
+<li><a href="/jp/individual/ja/products/products-list#!type=ishares&amp;tab=overview&amp;view=list" data-link-event="Products Info:iShares All" class="l3-item">
+全iシェアーズETF</a> </li>
+</ul>
+<li class="l2-header">注目商品 - 投資信託</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/featured-funds/binc-fund" data-link-event="Products Info:Binc fund" class="l3-item">
+インカムは裏切らない -ブラックロック・フレキシブル・インカム・ファンド/BINC</a> </li>
+<li><a href="/jp/individual/ja/featured-funds/blackrock-healthscience-fund" data-link-event="Products Info:Blackrock healthscience fund" class="l3-item">
+需要が高まる世界のヘルスサイエンス関連企業に投資</a> </li>
+<li><a href="/jp/individual/ja/featured-funds/blackrock-gold" data-link-event="Products Info:BlackRock gold" class="l3-item">
+金鉱企業を中心とした割安銘柄に厳選投資</a> </li>
+<li><a href="/jp/individual/ja/featured-funds/ishares-tsumitate-sp500" data-link-event="Products Info:iShares Tsumitate sp500" class="l3-item">
+米国企業の成長性につみたて投資</a> </li>
+<li><a href="/jp/individual/ja/featured-funds/blackrock-global-equity-income-open" data-link-event="Products Info:Blackrock Global Equity Income Open" class="l3-item">
+厳選された世界の好配当企業に投資</a> </li>
+<li><a href="/jp/individual/ja/retirement/target-year-funds" data-link-event="Products Info:Target Year Fund" class="l3-item">
+ターゲット・イヤー・ファンドで老後資金の準備をシンプルに</a> </li>
+</ul>
+<li class="l2-header">注目商品 - iシェアーズETF</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/ishares/recommended-products/low-core-fee" data-link-event="Products Info:Low core fee" class="l3-item">
+iシェアーズETFなら低コストでポートフォリオが組める</a> </li>
+<li><a href="/jp/individual/ja/ishares/sp500-series" data-link-event="Products Info:SP500-series " class="l3-item">
+S&amp;P500への投資をiシェアーズでアップグレード</a> </li>
+<li><a href="/jp/individual/ja/ishares/bai-etf" data-link-event="Products Info:Bai etf" class="l3-item">
+AIの未来を、この1本で</a> </li>
+<li><a href="/jp/individual/ja/ishares/qtop-etf" data-link-event="Products Info:Qtop etf" class="l3-item">
+米国の成長を牽引するNASDAQのトップ30社を厳選</a> </li>
+<li><a href="/jp/individual/ja/ishares/gold-etf" data-link-event="Products Info:Gold etf" class="l3-item">
+金への分散投資を、ETFで手軽に</a> </li>
+<li><a href="/jp/individual/ja/ishares/us-treasury-bond-25-year-long-duration-etf" data-link-event="Products Info:US Treasury Bond 25 year long duration etf" class="l3-item">
+iシェアーズ東証上場債券ETFに米国超長期債に連動するETF2本が仲間入り</a> </li>
+</ul>
+</ul>
+<ul class="menu-l2-container" id="l2-mobile-j8406lk1">
+<div class="menu-l2-container__header-container">
+<button data-link-event="sign in block:dropdown:open">投資を学ぶ<span class="fa fa-chevron-left"></span></button>
+</div>
+<li class="menu-l2-container__special-links-container">
+<a href="/jp/individual/ja/insights/insights-education" target="_top">資産形成のための投資ソリューション</a>
+<a href="/jp/individual/ja/strategies/portfolio-managers" target="_self"> 運用体制のご紹介</a>
+</li>
+<li class="l2-header">マーケット情報</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/insights" data-link-event="About Investments:Insights" class="l3-item">
+ブラックロックのインサイト</a> </li>
+<li><a href="/jp/individual/ja/insights/rick-rieder-insights" data-link-event="About Investments:Rick rieder insights" class="l3-item">
+リック・リーダーのインサイト</a> </li>
+<li><a href="/jp/individual/ja/insights/weathering-uncertain-markets" data-link-event="About Investments:Weathering uncertain market" class="l3-item">
+不透明な市場環境を乗り切るために</a> </li>
+<li><a href="/jp/individual/ja/insights/blackrock-investment-institute/outlook" data-link-event="About Investments:Global Investment Outlook" class="l3-item">
+Global Investment Outlook</a> </li>
+</ul>
+<li class="l2-header">投資アイデア</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/strategies/alternative-investing" data-link-event="About Investments:Alternative Investing(Index)" class="l3-item">
+オルタナティブ投資</a> </li>
+<li><a href="/jp/individual/ja/strategies/sustainable-transition-investing" data-link-event="About Investments:Sustainable Investing" class="l3-item">
+サステナブル投資とトランジション（移行）投資</a> </li>
+<li><a href="/jp/individual/ja/strategies/factor" data-link-event="About Investments:Factor" class="l3-item">
+ファクター投資</a> </li>
+</ul>
+<li class="l2-header">基礎講座（はじめての方へ）</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/ishares/about-etf" data-link-event="About Investments:What is ETF" class="l3-item">
+ETFとは</a> </li>
+</ul>
+</ul>
+<ul class="menu-l2-container" id="l2-mobile-j8406lml">
+<div class="menu-l2-container__header-container">
+<button data-link-event="sign in block:dropdown:open">退職後の資金準備<span class="fa fa-chevron-left"></span></button>
+</div>
+<li class="l2-header">はじめに</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/retirement/defined-contribution" data-link-event="Retirement:Defined Contribution" class="l3-item">
+ゆとりある老後資金をDCで準備する</a> </li>
+</ul>
+<li class="l2-header">注目商品</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/retirement/defined-contribution/esg-investing" data-link-event="Retirement:ESG Investing" class="l3-item">
+ESG投資で変化する社会に備える</a> </li>
+<li><a href="/jp/individual/ja/retirement/target-year-funds" data-link-event="Retirement:Target Year Fund" class="l3-item">
+ターゲット・イヤー・ファンドで老後資金の準備をシンプルに</a> </li>
+</ul>
+<li class="l2-header">調査・統計から知る</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/retirement/retirement-roundtable-2022" data-link-event="Retirement:Retirement Roundtable 2022" class="l3-item">
+何が日本人の資産形成を阻んでいるのか</a> </li>
+<li><a href="/jp/individual/ja/retirement/retirement-roundtable" data-link-event="Retirement:Retirement Roundtable" class="l3-item">
+人生100年時代に考えたいお金のこと</a> </li>
+<li><a href="/jp/individual/ja/retirement/investor-pulse" data-link-event="Retirement:Investor Pulse" class="l3-item">
+資産とウェルビーイングに関するグローバル調査</a> </li>
+</ul>
+</ul>
+<ul class="menu-l2-container" id="l2-mobile-hwhk349g">
+<div class="menu-l2-container__header-container">
+<button data-link-event="sign in block:dropdown:open">各種資料<span class="fa fa-chevron-left"></span></button>
+</div>
+<li class="menu-l2-container__special-links-container">
+<a href="/jp/individual/ja/document-centre" target="_self">資料一覧</a>
+</li>
+<li class="l2-header">重要なお知らせ</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/about-us/important-information/electronic-notifications" data-link-event="Resources:Electronic notifications" class="l3-item">
+電子公告</a> </li>
+<li><a href="/jp/individual/ja/document-centre?materialType=fund+announcement" data-link-event="Resources:Product related information" class="l3-item">
+商品に関わるお知らせ</a> </li>
+<li><a href="/jp/individual/ja/document-centre?materialType=NAV+announcement" data-link-event="Resources: NAV announcement" class="l3-item">
+基準価額に関わるお知らせ</a> </li>
+</ul>
+<li class="l2-header">商品情報</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/document-centre?brand=blackrock" data-link-event="Resources:Brand BlackRock" class="l3-item">
+投資信託</a> </li>
+<li><a href="/jp/individual/ja/document-centre?brand=ishares" data-link-event="Resources:Brand iShares" class="l3-item">
+iシェアーズETF</a> </li>
+</ul>
+</ul>
+<ul class="menu-l2-container" id="l2-mobile-je6kuzmj">
+<div class="menu-l2-container__header-container">
+<button data-link-event="sign in block:dropdown:open">会社情報<span class="fa fa-chevron-left"></span></button>
+</div>
+<li class="menu-l2-container__special-links-container">
+<a href="/jp/individual/ja/larry-fink-annual-chairmans-letter" target="_top">ラリー・フィンクから投資家の皆様への年次書簡</a>
+<a href="/jp/individual/ja/about-us/careers" target="_self">採用情報</a>
+</li>
+<li class="l2-header">会社案内</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/about-us" data-link-event="About us:Overview" class="l3-item">
+ブラックロックのご紹介</a> </li>
+<li><a href="/jp/individual/ja/about-us/investment-stewardship" data-link-event="About us:Investment Stewardship" target="_top" class="l3-item">
+インベストメント・スチュワードシップ</a> </li>
+<li><a href="/jp/individual/ja/about-us/corporate-information/fiduciary-duty" data-link-event="About us:Fiduciary duty" class="l3-item">
+お客様本位の業務運営に関する方針と取組</a> </li>
+</ul>
+<li class="l2-header">ニュースルーム</li>
+<ul class="l3-item-container">
+<li><a href="/jp/individual/ja/about-us/press-release" data-link-event="About us:Press Release" class="l3-item">
+プレスリリース</a> </li>
+<li><a href="/jp/individual/ja/about-us/media-information" data-link-event="About us:Media Information" class="l3-item">
+メディア掲載情報</a> </li>
+</ul>
+</ul>
+<ul class="menu-l2-container" id="l2-mobile-l2vyqdwj">
+<div class="menu-l2-container__header-container">
+<button data-link-event="sign in block:dropdown:open">機関投資家のお客様<span class="fa fa-chevron-left"></span></button>
+</div>
+<li class="l2-header">機関投資家のお客様</li>
+<ul class="l3-item-container">
+<li><a href="https://www.blackrock.com/jp/ja/institutional-investor" data-link-event="Insititutional investor:Institutional Investors" class="l3-item">
+機関投資家のお客様サイトを見る</a> </li>
+</ul>
+</ul>
+<ul class="menu-l2-container" id="l2-mobile-ir6201ao">
+<div class="menu-l2-container__header-container">
+<button data-link-event="sign in block:dropdown:open">English<span class="fa fa-chevron-left"></span></button>
+</div>
+<li class="l2-header">Product List</li>
+<ul class="l3-item-container">
+<li><a href="https://www.blackrock.com/jp/individual-en/en/products/products-list" data-link-event="English:iShares ETFs" target="_top" class="l3-item">
+iShares ETFs</a> </li>
+</ul>
+</ul>
+<div class="menu-l2-container" id="l2-mobile-user-type-selector">
+<div class="menu-l2-container__header-container"></div>
+<div class="l3-item-container"></div>
+</div>
+<div class="menu-l2-container" id="l2-mobile-country-selector">
+<div class="menu-l2-container__header-container"></div>
+<div class="l3-item-container"></div>
+</div>
+<div class="menu-l2-container" id="l2-mobile-sign-in">
+<div class="menu-l2-container__header-container"></div>
+<div class="l3-item-container"></div>
+</div>
+</div>
+</nav> <div id="primary-navigation-search-tray">
+<div class="search-tray">
+<div class="search-tray-content" id="searchWrapper">
+<div class="search-form">
+<form id="searchForm" action="/jp/individual/ja/search/summary-search-results" class="siteSearch" role="search">
+<fieldset>
+<div class="search-inline-container">
+<label for="searchText">
+<i class="fa fa-search"></i>
+</label>
+<input type="text" id="searchText" class="search-input searchText vi16-main-nav-searchtext masthead-nav-searchtext" name="searchText" maxlength="500" data-enableautocomplete="true" placeholder="Search for funds, articles, literature or videos" aria-label="Search for funds, articles, literature or videos" role="combobox" aria-controls="mainNavSearchResults" aria-owns="mainNavSearchResults" aria-autocomplete="list" aria-haspopup="listbox" aria-expanded="false" />
+<label for="mainNavResetTxt">
+<span class="ui-helper-hidden-accessible"></span>
+</label>
+<button id="mainNavResetTxt" class="btn-custom-search-color reset-button icon-close" type="reset" aria-label="Clear text"><span class="fa fa-close"></span></button>
+<input class="button-secondary submitSearch search-button" id="submit" type="submit" value="検索" />
+<input type="hidden" name="doTickerSearch" value="true" />
+</div>
+</fieldset>
+<input type="hidden" id="isVi20Search" value=false />
+<input type="hidden" id="generalAutocompleteUrl" value="/jp/individual/ja/search/general-search-results" />
+<input type="hidden" id="glsDocumentsUrl" value="/jp/individual/ja/document-centre" />
+<input type="hidden" id="videoSearchUrl" value="/jp/individual/ja/about-us/corporate-information/fiduciary-duty" />
+<input type="hidden" id="productAutocompleteUrl" value="/jp/individual/ja/search/product-search-results" />
+<input type="hidden" id="summaryAutocompleteUrl" value="/jp/individual/ja/search/summary-search-results" class="summaryAutocompleteUrl" />
+<input type="hidden" id="featuredSearchUrl" value="/jp/individual/ja/search/summary-search-results" />
+<input type="hidden" id="unifiedAutocomplete" value="true" class="unifiedAutocomplete" />
+<input type="hidden" id="autocompleteUrl" value="/jp/individual/ja/autoComplete.search?type=autocomplete" />
+<input type="hidden" id="generalAutocompleteTitle" value="Strategies & Insights" />
+<input type="hidden" id="glsDocumentsTitle" value="GLS Results" />
+<input type="hidden" id="videoSearchTitle" value="Videos" />
+<input type="hidden" id="productAutocompleteTitle" value="Funds" />
+<input type="hidden" id="summaryAutocompleteTitle" value="すべての結果を表示する" class="summaryAutocompleteTitle" />
+<input type="hidden" id="featuredSearchTitle" value="検索結果" />
+<input type="hidden" id="seeAll" class="seeAll" value="すべて表示する" />
+</form>
+</div>
+</div>
+<div class="search-tray-loader-wrapper">
+<div class="search-tray-loader"></div>
+</div>
+<div class="search-results-main-nav">
+<div id="mainNavSearchResults" ></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="ls-row body-background" id="bodyWrapper" role="main">
+<div class="ls-col">
+<div class="ls-row row0" id="siteWrapper">
+<div class="ls-col">
+<div class="ls-row row2">
+<div class="ls-area" id="mainWrapper">
+<div class="ls-cmp-wrap"  id="w1652177046817" >
+<div class="iw_component"  id="c1652177046817" >
+
+<!-- COMPONENT: vi16-content/Standard Banner -->
+<div data-componentName="Standard Banner" class="vi16"><div class="standard-banner">
+<div class="bg-area blk-bg-black border-none blackrock">
+<div class="content-box">
+<div class="wrapper-980">
+<div class="header"><h1>お客様本位の業務運営に関する方針と取組</h1></div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1653039469086" >
+<div class="iw_component"  id="c1653039469086" >
+
+<!-- COMPONENT: vi20-content/In Page Navigation -->
+<div data-componentName="In Page Navigation" class="vi20"> <div class="in-page-nav blk-bg-yellow">
+<div class="wrapper-980">
+<ul>
+<li class="label">
+<a href="#" name="Paragraph-contents-1" data-link-event="Paragraph-contents-1" >
+<div class="label-data">お客様本位の業務運営に関する方針</div>
+</a>
+</li>
+<li class="label">
+<a href="#" name="Paragraph-contents-2" data-link-event="Paragraph-contents-2" >
+<div class="label-data">補充原則に関する方針</div>
+</a>
+</li>
+<li class="label">
+<a href="#" name="Paragraph-materials" data-link-event="Paragraph-materials" >
+<div class="label-data">お客様本位の業務運営に関する取組</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1652177046821" >
+<div class="iw_component"  id="c1652177046821" >
+
+<!-- COMPONENT: vi16-content/Paragraph (Paragraph-contents-1) -->
+<div data-componentName="Paragraph" data-component-display-name="Paragraph-contents-1" class="vi16"> <div class="paragraph tinymce clearfix bg-white table-740-wide">
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p> </p>
+<h2><span>お客様本位の業務運営に関する方針</span></h2>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p>ブラックロック・ジャパン株式会社（以下、「当社」）は「ブラックロックのパーパスと行動原則」に則った業務運営を実施しております。金融庁が2017年3月30日に公表、2021年1月15日に改訂した「<a href="https://www.fsa.go.jp/news/r2/singi/20210115-1/02.pdf" target="_blank" title="顧客本位の業務運営に関する原則" rel="noopener">顧客本位の業務運営に関する原則</a>」（以下、「金融庁原則」）に掲げられた7つの原則を全て採択し、以下の通り公表します。<br/><br/></p>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【お客様本位の業務運営に関する方針の策定・公表等】</strong>（金融庁原則１に対応）<br/><strong>    方針1 当社はお客様本位の業務運営に関する方針を定め、公表します。</strong></p>
+<ul>
+<li>当社はこの方針を毎年6月をめどに見直し、年次取組状況とともに公表します。また、既存の会議体によって、当該方針の取組状況を監督するとともに、当該方針を定期的に見直します。</li>
+<li>＜より多くの方々が豊かな生活を送ることができるようサポートする＞というブラックロックのパーパスに鑑み、私たちにとってのお客様とは、ブラックロックの商品・サービスを直接・間接的に購入・利用される個人・法人等と定義します。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【お客様の最善の利益の追求】</strong>（金融庁原則2に対応）<br/>    <strong>方針2 当社はお客様の最善の利益を追求します。</strong></p>
+<ul>
+<li>当社は、お客様のフィデューシャリーとしてお客様の最善の利益を図るために、お客様第一主義の業務運営を行い、これが企業文化として定着するよう努めます。</li>
+<li>ブラックロックは全てのお客様に対し公平・公正に業務を行い、お客様のご要望が資本市場に反映されるよう努力します。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【利益相反の適切な管理】</strong>（金融庁原則3に対応）<br/>    <strong>方針3 当社はお客様との利益相反の可能性を把握し、その可能性がある場合には適切に管理します。</strong></p>
+<ul>
+<li>ブラックロックは独立系の運用会社です。このことにより多くの利益相反の可能性を排除しています。</li>
+<li>ブラックロックは自社のための投資を行わない、という方針を堅持し、投資活動は全てお客様のために行います。</li>
+<li>更に、当社は、お客様との利益相反が発生するリスクに対処するため、<a href="/jp/individual/ja/about-us/important-information/conflict-of-interests" title="利益相反取引の管理に関する方針">利益相反取引の管理に関する方針</a>を策定し、お客様の最善の利益を図ることを徹底しています。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【手数料等の明確化】</strong>（金融庁原則4に対応）<br/>    <strong>方針4 当社は手数料等の明確化に努めます。</strong></p>
+<ul>
+<li>当社はお客様が負担する手数料その他の費用について、提供するサービスとの関係を整理し、分かりやすく情報を提供します。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【重要な情報の分かりやすい提供】</strong>（金融庁原則5に対応）<br/>    <strong>方針5 当社は重要な情報を分かりやすく提供します。</strong></p>
+<ul>
+<li>当社は提供する商品・サービスの内容について、お客様の取引経験や金融知識等を考慮の上、商品・サービスの複雑さに応じて、重要な情報を分かりやすく提供します。また、販売会社には、当社が適切と考える情報提供に協力いただけるよう働きかけます。</li>
+<li>お客様の金融知識の向上に資する活動に注力しています。</li>
+<li>なお、当社は投資運用業を行っていることから、金融庁原則5の注のうち、注1及び、注3から注5について該当し、注2については該当ありません。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【お客様にふさわしいサービスの提供】</strong>（金融庁原則6に対応）<br/>    <strong>方針6 当社はお客様のニーズに即した商品・サービスの提供に努めます。</strong></p>
+<ul>
+<li>当社はお客様が抱える問題を理解するように努めます。その上で、お客様の最善の利益とは何かを考え、その実現のためにソリューションを提案します。実現が困難なご要望については、透明性をもってその理由をお客様にご説明します。</li>
+<li>当社は役職員に、常にstudent of the marketとして謙虚な姿勢を忘れず、継続的に専門知識を習得することを求め、お客様の最善の利益のために各業務の現場で質の高いサービスを提供することを要求します。</li>
+<li>なお、当社は投資運用業を行っていることから、金融庁原則6の注のうち、注3及び注5のみ該当し、注1、注2及び注4については該当ありません。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【従業員に対する適切な動機付けの枠組み等】</strong>（金融庁原則7に対応）<br/>    <strong>方針7 当社はそのパーパス・行動原則を役職員に遵守させます。</strong></p>
+<ul>
+<li>当社はそのパーパス・行動原則が遵守されるよう、各種研修等を通じて役職員の専門性・職業倫理を高めるよう努力します。</li>
+<li>当社の各役職員の年度の目標設定、業績評価・報酬はブラックロックの企業文化及び行動原則を役職員に対して動機付けるものとします。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<!--<p>2024年6月28日現在</p>-->
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1749276443269" >
+<div class="iw_component"  id="c1749276443269" >
+
+<!-- COMPONENT: vi16-content/Paragraph (Paragraph-contents-2) -->
+<div data-componentName="Paragraph" data-component-display-name="Paragraph-contents-2" class="vi16"> <div class="paragraph tinymce clearfix bg-white table-740-wide">
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p> </p>
+<h2><span>補充原則に関する方針</span></h2>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p>2024年9月に、金融庁は「顧客本位の業務運営に関する原則」を改訂し、「プロダクトガバナンスに関する補充原則」（以下、「補充原則」）を追加しました。ブラックロック・ジャパン株式会社（以下、「当社」）は、この「補充原則」に掲げられた5つの原則をすべて採択し、以下の通り公表します。<br/><br/></p>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【お客様の豊かな未来を支える金融商品づくり】</strong>（金融庁補充原則１に対応）</p>
+<ul>
+<li>当社は、「より多くの方々が豊かな生活を送ることができるようサポートする」というパーパスのもと、お客様の将来の利益につながる金融商品を提供します。フィデューシャリー・デューティーを果たしながら、お客様にとって分かりやすく、長く安心して利用できる商品の提供に注力し、独立系の運用会社として適切なガバナンス体制を構築しています。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【より良い商品を提供するための体制の整備】</strong>（金融庁補充原則2に対応）</p>
+<ul>
+<li>当社は、お客様の利益を第一に考え、より良い金融商品を提供するために、お客様の真のニーズに合致する金融商品の企画から、継続的かつ適切なリスク管理や業務の改善を伴うお客様への投資機会の提供、終了までの全体の流れを管理する仕組み（プロダクトガバナンス体制）を整えています。</li>
+<li>金融商品の企画・提供・管理の各段階で品質管理を行い、課題が発見された場合は改善します。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【お客様の真のニーズに応じた商品の提供と見直し】</strong>（金融庁補充原則3に対応）</p>
+<ul>
+<li>金融商品を組成する際には、お客様の真のニーズを想定し、その商品が長期的に価値を提供できるか、そして合理的であるかを慎重に検討します。</li>
+<li>商品の特徴に合わせて、どのようなお客様に適しているかを明確にします。仕組みが複雑な商品については、販売会社を通じて分かりやすい情報をお届けします。</li>
+<li>当社は、お客様の真のニーズを正しく理解するべく、予め定めた類型の商品について販売会社と相互に情報を共有します。また、当該商品を提供した後も適切に検証できるよう、販売会社とあらかじめ情報共有の仕組みを整えます。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【商品の継続的な検証とプロダクトガバナンスの強化】</strong>（金融庁補充原則4に対応）</p>
+<ul>
+<li>当社は、金融商品が当初の目的どおりの内容や特徴を保っているかを定期的に確認しています。また、リスク・リターン・コストのバランスが適切かどうか等を多面的かつ継続的にチェックし、必要に応じて商品内容を見直したり、改善、償還等の対応を行います。</li>
+<li>当社は、販売会社と緊密に連携し、当初想定していた販売対象に対して適切に商品が提供されているかを分析のうえ、必要に応じて商品戦略の再評価を実施します。併せて、販売方法についても販売会社との協議を行い、その改善に努めます。</li>
+<li>当社は、当社が属するグループ内の会社を含む外部の運用会社に運用を任せている（運用外部委託）商品についても、グループ内全体で行われるガバナンス態勢を活用しながら管理しています。この管理によって実績等を確認し、必要があれば、販売会社にも連携し、お客様が安心して投資できるよう、運用に関する情報を適切に共有、開示します。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><strong>【方針5 透明性の高い情報の提供】</strong>（金融庁補充原則5に対応）</p>
+<ul>
+<li>お客様が自身に合った金融商品を選択できるように分かりやすい情報をお伝えします。例えば、運用に関する細かな情報を開示することがお客様に役立つ場合は、運用の仕組みや考え方、これまでの実績などをご説明します。</li>
+<li>当社は、販売会社と密接に連携し、商品の特徴や想定されるお客様についての情報を共有します。販売後も情報交換を続け、お客様の声や市場の変化をふまえて商品を改善し、より良い投資環境をお届けできるよう努めます。</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p>2025年6月30日現在</p>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1687536227392" >
+<div class="iw_component"  id="c1687536227392" >
+
+<!-- COMPONENT: vi16-content/Paragraph (Paragraph-materials) -->
+<div data-componentName="Paragraph" data-component-display-name="Paragraph-materials" class="vi16"> <div class="paragraph tinymce clearfix bg-white table-620-wide">
+<div class="wrapper-980">
+<div class="row">
+<div class= "para-content col-xl-7 col-lg-9 col-12 ishares-remove-bootstrap-offset">
+<p><a name="Related-materials"></a></p>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1685957181130" >
+<div class="iw_component"  id="c1685957181130" >
+
+<!-- COMPONENT: vi20-content/Advance Static Table (Related-materials) -->
+<div data-componentName="Advance Static Table" data-component-display-name="Related-materials" class="vi20"><div class="advance-static-table tinymce blackrock">
+<div class="wrapper-980">
+<div class="row">
+<div class="headline col-xl-7 col-lg-9 col-12">
+<h2 class="bold">お客様本位の業務運営に関する取組</h2>
+</div>
+</div>
+<div class="row">
+<div class="table-container col-12 simple-table ">
+<div class="table-content" data-componentID="1685957181130" data-pagination-range=><table border="1" width="100%"><!--<thead>
+<tr>
+<th width="10%">年度</th>
+<th width="20%">取組状況について</th>
+<th width="25%">取組結果について</th>
+<th width="45%">対応関係表</th>
+</tr>
+</thead>-->
+<tbody>
+<tr>
+<td class="regular number" width="10%"><span class="table-text-font-13">2025年</span></td>
+<td width="20%"><a href="/jp/individual/ja/literature/public-disclosure/blkj-2025-fiduciary-duty-status-jp-ja.pdf" target="_blank" title="取組状況（2025年）" class="cta link skip-animation" rel="noopener"> <span class="icon fa fa-download" aria-hidden="true"> </span>取組状況</a>（895KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="25%"><a href="/jp/individual/ja/literature/public-disclosure/blkj-2025-fiduciary-duty-result-jp-ja.pdf" target="_blank" title="主要な取組結果（2025年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"> </span>主要な取組結果</a>（945KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="45%"><span class="table-text-font-13"><a href="/jp/individual/ja/literature/public-disclosure/blkj-2025-fiduciary-duty-correspondence-chart-jp-ja.pdf" target="_blank" title="金融庁の定める原則との対応関係表（2025年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"> </span>金融庁の定める原則との対応関係表</a>（316KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></span></td>
+</tr>
+<tr>
+<td class="regular number" width="10%"><span class="table-text-font-13">2024年</span></td>
+<td width="20%"><a href="/jp/individual/ja/literature/public-disclosure/blkj-2024-fiduciary-duty-status-jp-ja-v2.pdf" target="_blank" title="取組状況（2024年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>取組状況</a>（854KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="25%"><a href="/jp/individual/ja/literature/public-disclosure/blkj-2024-fiduciary-duty-result-jp-ja.pdf" target="_blank" title="主要な取組結果（2024年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>主要な取組結果</a>（919KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="45%"><span class="table-text-font-13"><a href="/jp/individual/ja/literature/public-disclosure/blkj-2024-fiduciary-duty-correspondence-chart-jp-ja.pdf" target="_blank" title="金融庁の定める原則との対応関係表" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"> </span>金融庁の定める原則との対応関係表</a>（133KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></span></td>
+</tr>
+<tr>
+<td class="regular number" width="10%"><span class="table-text-font-13">2023年</span></td>
+<td width="20%"><a href="/jp/individual/ja/literature/public-disclosure/blkj-2023-fiduciary-duty-status-jp-ja.pdf" target="_blank" title="取組状況（2023年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>取組状況</a>（909KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="25%"><a href="/jp/individual/ja/literature/public-disclosure/blkj-2023-fiduciary-duty-result-jp-ja.pdf" target="_blank" title="主要な取組結果（2023年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>主要な取組結果</a>（918KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="45%"><span class="table-text-font-13"><a href="/jp/individual/ja/literature/public-disclosure/blkj-2023-fiduciary-duty-correspondence-chart-jp-ja.pdf" target="_blank" title="金融庁の定める原則との対応関係表" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"> </span>金融庁の定める原則との対応関係表</a>（188KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></span></td>
+</tr>
+<tr>
+<td class="regular number" width="10%"><span class="table-text-font-13">2022年</span></td>
+<td width="20%"><a href="/jp/individual/ja/literature/publication/blkj-2022-fiduciary-duty-status-jp-ja.pdf" target="_blank" title="取組状況（2022年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>取組状況</a>（774KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="25%"><a href="/jp/individual/ja/literature/publication/blkj-2022-fiduciary-duty-result-jp-ja.pdf" target="_blank" title="主要な取組結果（2022年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>主要な取組結果</a>（343KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="45%"> </td>
+</tr>
+<tr>
+<td class="regular number" width="10%"><span class="table-text-font-13">2021年</span></td>
+<td width="20%"><a href="/jp/individual/ja/literature/publication/blkj-2021-fiduciary-duty-status-jp-ja.pdf" target="_blank" title="取組状況（2021年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>取組状況</a>（1MB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="25%"><a href="/jp/individual/ja/literature/publication/blkj-2021-fiduciary-duty-result-jp-ja.pdf" target="_blank" title="主要な取組結果（2021年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>主要な取組結果</a>（686KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="45%"> </td>
+</tr>
+<!--<tr>
+<td class="regular number" width="10%"><span class="table-text-font-13">2020年</span></td>
+<td width="20%"><a href="/jp/individual/ja/literature/publication/blkj-2020-fiduciary-duty-status-jp-ja.pdf" target="_blank" title="取組状況（2020年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>取組状況</a>（774KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="25%"><a href="/jp/individual/ja/literature/publication/blkj-2020-fiduciary-duty-result-jp-ja.pdf" target="_blank" title="主要な取組結果（2020年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>主要な取組結果</a>（627KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="45%"> </td>
+</tr>
+<tr>
+<td class="regular number" width="10%"><span class="table-text-font-13">2019年</span></td>
+<td width="20%"><a href="/jp/individual/ja/literature/publication/blkj-2019-fiduciary-duty-status-jp-ja.pdf" target="_blank" title="取組状況（2019年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>取組状況</a>（700KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="25%"><a href="/jp/individual/ja/literature/publication/blkj-2019-fiduciary-duty-result-jp-ja.pdf" target="_blank" title="主要な取組結果（2019年）" class="cta link skip-animation" rel="noopener"><span class="icon fa fa-download" aria-hidden="true"></span>主要な取組結果</a>（343KB）<span class="fa fa-file-pdf-o" aria-hidden="true"></span></td>
+<td width="45%"> </td>
+</tr>--></tbody>
+</table>
+<p> </p></div>
+</div>
+</div>
+</div>
+</div></div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1653039506571" >
+<div class="iw_component"  id="c1653039506571" >
+
+<!-- COMPONENT: vi16-content/Navigation List -->
+<div data-componentName="Navigation List" class="vi16"><div class="navigation-list blk-bg-yellow border-none blackrock">
+<div class="wrapper-980">
+<div>
+<h2 class="header">関連情報 </h2>
+</div>
+<div class="links-container">
+<ul class="links">
+<li class="cta-box">
+<div class="cta-container-box">
+<a href="/jp/individual/ja/about-us/corporate-information/principle" data-link-event="cta:ブラックロックのパーパスと行動原則" aria-label="ブラックロックのパーパスと行動原則" target="_self" class="cta link"> <span class="label"><span class="icon fa fa-angle-right" aria-hidden="true"></span><span>ブラックロックのパーパスと行動原則</span></span>
+<span class="short label"><span class="icon fa fa-angle-right" aria-hidden="true"></span>
+<span>ブラックロックのパーパスと行動原則</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+<li class="cta-box">
+<div class="cta-container-box">
+<a href="/jp/individual/ja/about-us/important-information" data-link-event="cta:重要事項と各種方針" aria-label="重要事項と各種方針" target="_self" class="cta link"> <span class="label"><span class="icon fa fa-angle-right" aria-hidden="true"></span><span>重要事項と各種方針</span></span>
+<span class="short label"><span class="icon fa fa-angle-right" aria-hidden="true"></span>
+<span>重要事項と各種方針</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ls-row footer-wrapper" id="footerWrapper" role="contentinfo">
+<div class="ls-area footer-bottom" id="footerBottom">
+<div class="ls-cmp-wrap"  id="w1652177046815" >
+<div class="iw_component"  id="c1652177046815" >
+
+<!-- COMPONENT: vi16-page-frame/Sitemap -->
+<div data-componentName="Sitemap" class="vi20 multibrand-sitemap blackrock" id="vi20-sitemap"> <div class="multibrand-sitemap__wrapper">
+<div class="multibrand-sitemap__header"><h2>Explore more</h2></div>
+<div class="multibrand-sitemap__row">
+<div class="multibrand-sitemap__column smcol-7">
+<div class="multibrand-sitemap__column__header">
+<span>ファンド・ETF情報</span>
+</div>
+<ul class="multibrand-sitemap__column__l2-l3-container">
+<li class="l2-l3-item-container">
+<div class="l2-header">取扱商品一覧</div>
+<ul class="l3-item-container" aria-label="取扱商品一覧">
+<li>
+<a href="/jp/individual/ja/products/products-list#!type=mutualFunds&amp;style=All&amp;view=perfNav" data-id="Mutual Funds" data-link-event="Products Info:Mutual Funds" class="l3-item">投資信託</a> </li>
+<li>
+<a href="/jp/individual/ja/products/products-list#!type=tselisted&amp;tab=overview&amp;view=list" data-id="iShares TSE Products" data-link-event="Products Info:iShares TSE Products" class="l3-item">東証上場iシェアーズETF</a> </li>
+<li>
+<a href="/jp/individual/ja/products/products-list#!type=ishares&amp;tab=overview&amp;view=list" data-id="iShares All" data-link-event="Products Info:iShares All" class="l3-item">全iシェアーズETF</a> </li>
+</ul>
+</li>
+<li class="l2-l3-item-container">
+<div class="l2-header">注目商品 - 投資信託</div>
+<ul class="l3-item-container" aria-label="注目商品 - 投資信託">
+<li>
+<a href="/jp/individual/ja/featured-funds/binc-fund" data-id="Binc fund" data-link-event="Products Info:Binc fund" class="l3-item">インカムは裏切らない -ブラックロック・フレキシブル・インカム・ファンド/BINC</a> </li>
+<li>
+<a href="/jp/individual/ja/featured-funds/blackrock-healthscience-fund" data-id="Blackrock healthscience fund" data-link-event="Products Info:Blackrock healthscience fund" class="l3-item">需要が高まる世界のヘルスサイエンス関連企業に投資</a> </li>
+<li>
+<a href="/jp/individual/ja/featured-funds/blackrock-gold" data-id="BlackRock gold" data-link-event="Products Info:BlackRock gold" class="l3-item">金鉱企業を中心とした割安銘柄に厳選投資</a> </li>
+<li>
+<a href="/jp/individual/ja/featured-funds/ishares-tsumitate-sp500" data-id="iShares Tsumitate sp500" data-link-event="Products Info:iShares Tsumitate sp500" class="l3-item">米国企業の成長性につみたて投資</a> </li>
+<li>
+<a href="/jp/individual/ja/featured-funds/blackrock-global-equity-income-open" data-id="Blackrock Global Equity Income Open" data-link-event="Products Info:Blackrock Global Equity Income Open" class="l3-item">厳選された世界の好配当企業に投資</a> </li>
+<li>
+<a href="/jp/individual/ja/retirement/target-year-funds" data-id="Target Year Fund" data-link-event="Products Info:Target Year Fund" class="l3-item">ターゲット・イヤー・ファンドで老後資金の準備をシンプルに</a> </li>
+</ul>
+</li>
+<li class="l2-l3-item-container">
+<div class="l2-header">注目商品 - iシェアーズETF</div>
+<ul class="l3-item-container" aria-label="注目商品 - iシェアーズETF">
+<li>
+<a href="/jp/individual/ja/ishares/recommended-products/low-core-fee" data-id="Low core fee" data-link-event="Products Info:Low core fee" class="l3-item">iシェアーズETFなら低コストでポートフォリオが組める</a> </li>
+<li>
+<a href="/jp/individual/ja/ishares/sp500-series" data-id="SP500-series " data-link-event="Products Info:SP500-series " class="l3-item">S&amp;P500への投資をiシェアーズでアップグレード</a> </li>
+<li>
+<a href="/jp/individual/ja/ishares/bai-etf" data-id="Bai etf" data-link-event="Products Info:Bai etf" class="l3-item">AIの未来を、この1本で</a> </li>
+<li>
+<a href="/jp/individual/ja/ishares/qtop-etf" data-id="Qtop etf" data-link-event="Products Info:Qtop etf" class="l3-item">米国の成長を牽引するNASDAQのトップ30社を厳選</a> </li>
+<li>
+<a href="/jp/individual/ja/ishares/gold-etf" data-id="Gold etf" data-link-event="Products Info:Gold etf" class="l3-item">金への分散投資を、ETFで手軽に</a> </li>
+<li>
+<a href="/jp/individual/ja/ishares/us-treasury-bond-25-year-long-duration-etf" data-id="US Treasury Bond 25 year long duration etf" data-link-event="Products Info:US Treasury Bond 25 year long duration etf" class="l3-item">iシェアーズ東証上場債券ETFに米国超長期債に連動するETF2本が仲間入り</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="multibrand-sitemap__column__special-link-container">
+<li> <div class="cta-container-box">
+<a href="/jp/individual/ja/products/products-list" data-link-event="cta:全ての取扱商品を見る" aria-label="投資信託、iシェアーズETF、全ての取扱商品を見る" target="_self" class="cta link special-link"> <span class="label"><span>全ての取扱商品を見る</span></span>
+<span class="short label">
+<span>全ての取扱商品を見る</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+<li> <div class="cta-container-box">
+<a href="/jp/individual/ja/ishares" data-link-event="cta:iシェアーズETF情報" aria-label="iシェアーズETF情報を見る" target="_self" class="cta link special-link"> <span class="label"><span>iシェアーズETF情報</span></span>
+<span class="short label">
+<span>iシェアーズETF情報</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="multibrand-sitemap__column smcol-7">
+<div class="multibrand-sitemap__column__header">
+<span>投資を学ぶ</span>
+</div>
+<ul class="multibrand-sitemap__column__l2-l3-container">
+<li class="l2-l3-item-container">
+<div class="l2-header">マーケット情報</div>
+<ul class="l3-item-container" aria-label="マーケット情報">
+<li>
+<a href="/jp/individual/ja/insights" data-id="Insights" data-link-event="About Investments:Insights" class="l3-item">ブラックロックのインサイト</a> </li>
+<li>
+<a href="/jp/individual/ja/insights/rick-rieder-insights" data-id="Rick rieder insights" data-link-event="About Investments:Rick rieder insights" class="l3-item">リック・リーダーのインサイト</a> </li>
+<li>
+<a href="/jp/individual/ja/insights/weathering-uncertain-markets" data-id="Weathering uncertain market" data-link-event="About Investments:Weathering uncertain market" class="l3-item">不透明な市場環境を乗り切るために</a> </li>
+<li>
+<a href="/jp/individual/ja/insights/blackrock-investment-institute/outlook" data-id="Global Investment Outlook" data-link-event="About Investments:Global Investment Outlook" class="l3-item">Global Investment Outlook</a> </li>
+</ul>
+</li>
+<li class="l2-l3-item-container">
+<div class="l2-header">投資アイデア</div>
+<ul class="l3-item-container" aria-label="投資アイデア">
+<li>
+<a href="/jp/individual/ja/strategies/alternative-investing" data-id="Alternative Investing(Index)" data-link-event="About Investments:Alternative Investing(Index)" class="l3-item">オルタナティブ投資</a> </li>
+<li>
+<a href="/jp/individual/ja/strategies/sustainable-transition-investing" data-id="Sustainable Investing" data-link-event="About Investments:Sustainable Investing" class="l3-item">サステナブル投資とトランジション（移行）投資</a> </li>
+<li>
+<a href="/jp/individual/ja/strategies/factor" data-id="Factor" data-link-event="About Investments:Factor" class="l3-item">ファクター投資</a> </li>
+</ul>
+</li>
+<li class="l2-l3-item-container">
+<div class="l2-header">基礎講座（はじめての方へ）</div>
+<ul class="l3-item-container" aria-label="基礎講座（はじめての方へ）">
+<li>
+<a href="/jp/individual/ja/ishares/about-etf" data-id="What is ETF" data-link-event="About Investments:What is ETF" class="l3-item">ETFとは</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="multibrand-sitemap__column__special-link-container">
+<li> <div class="cta-container-box">
+<a href="/jp/individual/ja/insights/insights-education" data-link-event="cta:資産形成のための投資ソリューション" aria-label="資産形成のための投資ソリューションページへ" target="_top" class="cta link special-link"> <span class="label"><span>資産形成のための投資ソリューション</span></span>
+<span class="short label">
+<span>資産形成のための投資ソリューション</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+<li> <div class="cta-container-box">
+<a href="/jp/individual/ja/strategies/portfolio-managers" data-link-event="cta: 運用体制のご紹介" aria-label="運用体制のご紹介" target="_self" class="cta link special-link"> <span class="label"><span> 運用体制のご紹介</span></span>
+<span class="short label">
+<span> 運用体制のご紹介</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="multibrand-sitemap__column smcol-7">
+<div class="multibrand-sitemap__column__header">
+<span>退職後の資金準備</span>
+</div>
+<ul class="multibrand-sitemap__column__l2-l3-container">
+<li class="l2-l3-item-container">
+<div class="l2-header">はじめに</div>
+<ul class="l3-item-container" aria-label="はじめに">
+<li>
+<a href="/jp/individual/ja/retirement/defined-contribution" data-id="Defined Contribution" data-link-event="Retirement:Defined Contribution" class="l3-item">ゆとりある老後資金をDCで準備する</a> </li>
+</ul>
+</li>
+<li class="l2-l3-item-container">
+<div class="l2-header">注目商品</div>
+<ul class="l3-item-container" aria-label="注目商品">
+<li>
+<a href="/jp/individual/ja/retirement/defined-contribution/esg-investing" data-id="ESG Investing" data-link-event="Retirement:ESG Investing" class="l3-item">ESG投資で変化する社会に備える</a> </li>
+<li>
+<a href="/jp/individual/ja/retirement/target-year-funds" data-id="Target Year Fund" data-link-event="Retirement:Target Year Fund" class="l3-item">ターゲット・イヤー・ファンドで老後資金の準備をシンプルに</a> </li>
+</ul>
+</li>
+<li class="l2-l3-item-container">
+<div class="l2-header">調査・統計から知る</div>
+<ul class="l3-item-container" aria-label="調査・統計から知る">
+<li>
+<a href="/jp/individual/ja/retirement/retirement-roundtable-2022" data-id="Retirement Roundtable 2022" data-link-event="Retirement:Retirement Roundtable 2022" class="l3-item">何が日本人の資産形成を阻んでいるのか</a> </li>
+<li>
+<a href="/jp/individual/ja/retirement/retirement-roundtable" data-id="Retirement Roundtable" data-link-event="Retirement:Retirement Roundtable" class="l3-item">人生100年時代に考えたいお金のこと</a> </li>
+<li>
+<a href="/jp/individual/ja/retirement/investor-pulse" data-id="Investor Pulse" data-link-event="Retirement:Investor Pulse" class="l3-item">資産とウェルビーイングに関するグローバル調査</a> </li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="multibrand-sitemap__column smcol-7">
+<div class="multibrand-sitemap__column__header">
+<span>各種資料</span>
+</div>
+<ul class="multibrand-sitemap__column__l2-l3-container">
+<li class="l2-l3-item-container">
+<div class="l2-header">重要なお知らせ</div>
+<ul class="l3-item-container" aria-label="重要なお知らせ">
+<li>
+<a href="/jp/individual/ja/about-us/important-information/electronic-notifications" data-id="Electronic notifications" data-link-event="Resources:Electronic notifications" class="l3-item">電子公告</a> </li>
+<li>
+<a href="/jp/individual/ja/document-centre?materialType=fund+announcement" data-id="Product related information" data-link-event="Resources:Product related information" class="l3-item">商品に関わるお知らせ</a> </li>
+<li>
+<a href="/jp/individual/ja/document-centre?materialType=NAV+announcement" data-id=" NAV announcement" data-link-event="Resources: NAV announcement" class="l3-item">基準価額に関わるお知らせ</a> </li>
+</ul>
+</li>
+<li class="l2-l3-item-container">
+<div class="l2-header">商品情報</div>
+<ul class="l3-item-container" aria-label="商品情報">
+<li>
+<a href="/jp/individual/ja/document-centre?brand=blackrock" data-id="Brand BlackRock" data-link-event="Resources:Brand BlackRock" class="l3-item">投資信託</a> </li>
+<li>
+<a href="/jp/individual/ja/document-centre?brand=ishares" data-id="Brand iShares" data-link-event="Resources:Brand iShares" class="l3-item">iシェアーズETF</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="multibrand-sitemap__column__special-link-container">
+<li> <div class="cta-container-box">
+<a href="/jp/individual/ja/document-centre" data-link-event="cta:資料一覧" aria-label="各種資料全般を見る" target="_self" class="cta link special-link"> <span class="label"><span>資料一覧</span></span>
+<span class="short label">
+<span>資料一覧</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="multibrand-sitemap__column smcol-7">
+<div class="multibrand-sitemap__column__header">
+<span>会社情報</span>
+</div>
+<ul class="multibrand-sitemap__column__l2-l3-container">
+<li class="l2-l3-item-container">
+<div class="l2-header">会社案内</div>
+<ul class="l3-item-container" aria-label="会社案内">
+<li>
+<a href="/jp/individual/ja/about-us" data-id="Overview" data-link-event="About us:Overview" class="l3-item">ブラックロックのご紹介</a> </li>
+<li>
+<a href="/jp/individual/ja/about-us/investment-stewardship" data-id="Investment Stewardship" data-link-event="About us:Investment Stewardship" target="_top" class="l3-item">インベストメント・スチュワードシップ</a> </li>
+<li>
+<a href="/jp/individual/ja/about-us/corporate-information/fiduciary-duty" data-id="Fiduciary duty" data-link-event="About us:Fiduciary duty" class="l3-item">お客様本位の業務運営に関する方針と取組</a> </li>
+</ul>
+</li>
+<li class="l2-l3-item-container">
+<div class="l2-header">ニュースルーム</div>
+<ul class="l3-item-container" aria-label="ニュースルーム">
+<li>
+<a href="/jp/individual/ja/about-us/press-release" data-id="Press Release" data-link-event="About us:Press Release" class="l3-item">プレスリリース</a> </li>
+<li>
+<a href="/jp/individual/ja/about-us/media-information" data-id="Media Information" data-link-event="About us:Media Information" class="l3-item">メディア掲載情報</a> </li>
+</ul>
+</li>
+</ul>
+<ul class="multibrand-sitemap__column__special-link-container">
+<li> <div class="cta-container-box">
+<a href="/jp/individual/ja/larry-fink-annual-chairmans-letter" data-link-event="cta:ラリー・フィンクから投資家の皆様への年次書簡" aria-label="ラリー・フィンクから投資家の皆様への年次書簡" target="_top" class="cta link special-link"> <span class="label"><span>ラリー・フィンクから投資家の皆様への年次書簡</span></span>
+<span class="short label">
+<span>ラリー・フィンクから投資家の皆様への年次書簡</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+<li> <div class="cta-container-box">
+<a href="/jp/individual/ja/about-us/careers" data-link-event="cta:採用情報" aria-label="採用情報を見る" target="_self" class="cta link special-link"> <span class="label"><span>採用情報</span></span>
+<span class="short label">
+<span>採用情報</span>
+</span>
+</a> <span class="cta-container-animation"></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="multibrand-sitemap__column smcol-7">
+<div class="multibrand-sitemap__column__header">
+<span>機関投資家のお客様</span>
+</div>
+<ul class="multibrand-sitemap__column__l2-l3-container">
+<li class="l2-l3-item-container">
+<div class="l2-header">機関投資家のお客様</div>
+<ul class="l3-item-container" aria-label="機関投資家のお客様">
+<li>
+<a href="https://www.blackrock.com/jp/ja/institutional-investor" data-id="Institutional Investors" data-link-event="Insititutional investor:Institutional Investors" class="l3-item">機関投資家のお客様サイトを見る</a> </li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="multibrand-sitemap__column smcol-7">
+<div class="multibrand-sitemap__column__header">
+<span>English</span>
+</div>
+<ul class="multibrand-sitemap__column__l2-l3-container">
+<li class="l2-l3-item-container">
+<div class="l2-header">Product List</div>
+<ul class="l3-item-container" aria-label="Product List">
+<li>
+<a href="https://www.blackrock.com/jp/individual-en/en/products/products-list" data-id="iShares ETFs" data-link-event="English:iShares ETFs" target="_top" class="l3-item">iShares ETFs</a> </li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="multibrand-sitemap__overlay">
+<button class="explore-more-btn" aria-hidden="true" aria-label="もっと見る" data-link-event="sitemap:もっと見る">もっと見る</button>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1652177046816" >
+<div class="iw_component"  id="c1652177046816" >
+
+<!-- COMPONENT: vi16-page-frame/Footer -->
+<div data-componentName="Footer" class="vi20 multibrand-footer blackrock" id="vi20-footer"> <div class="multibrand-footer">
+<div class="multibrand-footer__wrapper">
+<div class="multibrand-footer__row">
+<div class="multibrand-footer__brand-content">
+<div class="multibrand-footer__logo">
+<a href="https://www.blackrock.com/jp/individual/ja" title="Access the BlackRock Japan homepage."><img src="/apac-retail-c-assets/cache-1608833858000/images/media-bin/web/global/wordmark/blackrock-logo-white.svg" alt="Access the BlackRock Japan homepage." width="518px" height="74px"/></a> </div>
+<div class="multibrand-footer__brand-description"><p>ブラックロックのパーパスは、より多くの方々が豊かな生活を送ることができるよう、サポートすることです。お客様の資金を預かり運用するフィデューシャリーとして、また金融テクノロジーにおけるリーダーとして、お客様の目標実現に必要なソリューションを提供しています。</p></div>
+<div class="multibrand-footer__social-links" role="navigation" aria-label="Social links">
+<ul>
+<li>
+<a href="https://liff.line.me/2006893107-23xRp6YO/landing?follow=%40177osgll&amp;lp=rvGXy7&amp;liff_id=2006893107-23xRp6YO" data-link-event="line" target="_blank"> <span class="social-fa-icon fab fa-line"></span>
+</a> </li>
+</ul>
+</div>
+</div>
+<div class="multibrand-footer__spacer"></div>
+<div class="multibrand-footer__marker">
+<div class="marker"></div>
+</div>
+<div class="multibrand-footer__column-wrapper" role="navigation" aria-label="Corporate and Legal Link Collection">
+<div class="multibrand-footer__corporate-column footer-column">
+<h3 class="column-header">会社案内</h3>
+<ul>
+<li>
+<a href="/jp/individual/ja/about-us/careers" data-link-event="cta:採用情報" aria-label="Discover a different career path with BlackRock." target="_self" class="cta link skip-animation"> <span class="label"><span>採用情報</span></span>
+<span class="short label">
+<span>採用情報</span>
+</span>
+</a> </li>
+<li>
+<a href="https://www.blackrock.com/corporate/newsroom" rel="noopener" data-link-event="cta:Newsroom (英語)" aria-label="Read our latest press releases and find journalist resources and insights." target="_blank" class="cta link skip-animation"> <span class="label"><span>Newsroom (英語)</span></span>
+<span class="short label">
+<span>Newsroom (英語)</span>
+</span>
+</a> </li>
+<li>
+<a href="https://ir.blackrock.com/home/default.aspx" rel="noopener" data-link-event="cta:Investor relations (英語)" aria-label="Access the latest information on our stock, quarterly results and annual reports." target="_blank" class="cta link skip-animation"> <span class="label"><span>Investor relations (英語)</span></span>
+<span class="short label">
+<span>Investor relations (英語)</span>
+</span>
+</a> </li>
+<li>
+<a href="/jp/individual/ja/about-us/location" data-link-event="cta:アクセス" aria-label="Check the BlackRock Japan office location." target="_self" class="cta link skip-animation"> <span class="label"><span>アクセス</span></span>
+<span class="short label">
+<span>アクセス</span>
+</span>
+</a> </li>
+</ul>
+</div>
+<div class="multibrand-footer__legal-column footer-column">
+<h3 class="column-header">本サイトのご利用にあたって</h3>
+<ul>
+<li>
+<a href="/jp/individual/ja/about-us/important-information/terms-and-conditions" data-link-event="cta:利用条件・重要事項" aria-label="Review the detailed terms & conditions about using our Japan website." target="_self" class="cta link skip-animation"> <span class="label"><span>利用条件・重要事項</span></span>
+<span class="short label">
+<span>利用条件・重要事項</span>
+</span>
+</a> </li>
+<li>
+<a href="https://www.blackrock.com/corporate/compliance/privacy-notice" rel="noopener" data-link-event="cta:プライバシー・ポリシー" aria-label="当社サイトをご利用の際は、お客様の個人情報および財務情報の保護に関するプライバシー・ポリシーをご確認ください。" target="_blank" class="cta link skip-animation"> <span class="label"><span>プライバシー・ポリシー</span></span>
+<span class="short label">
+<span>プライバシー・ポリシー</span>
+</span>
+</a> </li>
+<li>
+<a href="https://www.blackrock.com/corporate/compliance/business-continuity" rel="noopener" data-link-event="cta:Business continuity (英語)" aria-label="Review our enterprise resilience plan to facilitate continuity of business during disruptive events." target="_blank" class="cta link skip-animation"> <span class="label"><span>Business continuity (英語)</span></span>
+<span class="short label">
+<span>Business continuity (英語)</span>
+</span>
+</a> </li>
+<li>
+<a href="/jp/individual/ja/about-us/important-information" data-link-event="cta:重要事項と各種方針" aria-label="重要事項と各種方針" target="_self" class="cta link skip-animation"> <span class="label"><span>重要事項と各種方針</span></span>
+<span class="short label">
+<span>重要事項と各種方針</span>
+</span>
+</a> </li>
+<li>
+<a href="https://www.blackrock.com/corporate/compliance/privacy-notice#cookie-notice" rel="noopener" data-link-event="cta:クッキーの取り扱い" aria-label="当社サイトをご利用の際は、クッキーの取り扱い方針をご確認ください。" target="_blank" class="cta link skip-animation"> <span class="label"><span>クッキーの取り扱い</span></span>
+<span class="short label">
+<span>クッキーの取り扱い</span>
+</span>
+</a> </li>
+<li>
+<button id="ot-sdk-btn" class="ot-sdk-show-settings">Manage cookies</button>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="copyright">© 2026 ブラックロック・ジャパン株式会社</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1652177046820" >
+<div class="iw_component"  id="c1652177046820" >
+
+<!-- COMPONENT: vi16-content/Disclosure -->
+<div data-componentName="Disclosure" class="vi16 disclosure"> <div class="wrapper-980 disclosure-cntnr">
+<p class="disclosure-14">ブラックロック・ジャパン株式会社<br/>金融商品取引業者 関東財務局長（金商）第375号<br/>加入協会 一般社団法人 資産運用業協会、日本証券業協会、一般社団法人 第二種金融商品取引業協会</p>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+ 
+</div>
+<noscript><img src="https://www.blackrock.com/akam/13/pixel_11fb49ca?a=dD03MTEwZGFiYjI3OGE1NmEzNWQxODA0NWRiOTZhYzA0OWM5OGRmOGVjJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript><script type="text/javascript" nonce="89c7b3a6fbfcfc4a80b850d5e9736b86" src="/R6GMuAW-Z5/aL/V4HoDzFS/NJ5O4Sia/G1JQPg/GgFyZ/AZqTUQQAg?v=a9b9da53-9dbe-2587-2379-35ec804d17cd" defer></script></body>
+</html>

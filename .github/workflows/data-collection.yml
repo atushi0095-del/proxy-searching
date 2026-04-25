@@ -1,0 +1,49 @@
+name: Weekly data collection
+
+on:
+  workflow_dispatch:
+  schedule:
+    # JST Monday 08:00 = UTC Sunday 23:00
+    - cron: "0 23 * * 0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-data-collection
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run compliant public-source collection
+        run: npm run collect:data
+
+      - name: Verify app build
+        run: npm run build
+
+      - name: Commit collected data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json data/generated/*.json data/generated/pipeline_logs/*.json
+          if git diff --cached --quiet; then
+            echo "No collected data changes."
+          else
+            git commit -m "Update proxy vote data"
+            git push
+          fi

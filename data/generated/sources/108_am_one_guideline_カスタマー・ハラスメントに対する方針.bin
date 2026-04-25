@@ -1,0 +1,960 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T73MLF4');</script>
+<!-- End Google Tag Manager -->
+
+<meta charset="UTF-8">
+<title>カスタマー・ハラスメントに対する方針｜方針｜会社情報｜アセットマネジメントOne</title>
+<meta name="keywords" content="アセットマネジメントOne,投資信託,投信,ファンド,資産運用,マーケット情報">
+<meta name="description" content="アセットマネジメントOneの「会社情報」ページです。会社概要、運用について、方針・お知らせなどを掲載しています。">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<!--OGP-->
+<meta property="og:type" content="article">
+<meta property="og:title" content="アセットマネジメントOne">
+<meta property="og:description" content="アセットマネジメントOneは、国内トップクラスの規模を誇る資産運用会社です。ファンドの基準価額や分配金情報、最新の金融市場や運用状況がわかるレポートなど、皆さまの資産運用に役立つ情報を掲載しています。">
+<meta property="og:url" content="https://www.am-one.co.jp/company/customer_harassment/index.html">
+<meta property="og:image" content="">
+<meta property="og:site_name" content="アセットマネジメントOne">
+<meta name="twitter:card" content="summary">
+<!--/OGP-->
+<link rel="icon" type="image/ico" href="/images/favicon.png">
+<link rel="stylesheet" href="/css/import.css?20170930">
+<link rel="stylesheet" href="/css/ms.css?20170930">
+
+<script src="/js/jquery-3.7.0.min.js?20230101"></script>
+<script src="/js/jquery-migrate-3.4.0.min.js?20230101"></script>
+<script src="/js/jquery.easing.1.3.js?20170930"></script>
+<script src="/js/jquery-accessibleMegaMenu.js?20171122"></script>
+<script src="/js/jquery.page-scroller.js?20170930"></script>
+<script src="/js/jquery.rollover.js?20170930"></script>
+<script src="/js/jquery.cookie.js?20170930"></script>
+<script src="/js/jquery.fontsizechange.js?20170930"></script>
+<script src="/js/jquery.heightLine.js?20170930"></script>
+<script src="/js/slick.js?20170930"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+    if (window.matchMedia( '(min-width: 1130px)' ).matches) {
+    //画面幅1131px以上の場合
+        $.ajax({
+            url: '/js/slider.ctrl_pc.js',
+            dataType: 'script',
+            cache: false
+        });
+    } else {
+    //画面幅1130px以下の場合
+        $.ajax({
+            url: '/js/slider.ctrl.js',
+            dataType: 'script',
+            cache: false        
+        });
+    };
+});
+</script>
+
+<script type="text/javascript" src="/js/pages/company/index.js?20230101"></script>
+<script type="text/javascript">
+$(function(){
+    $('a').each(function(){
+        if ($(this).hasClass('no-jump')) {
+            return;
+        }
+        var href = $(this).attr('href');
+        if (!href) {
+            return;
+        }
+        var protocol;
+        if ((protocol = href.substring(0, 7)) === 'http://' || (protocol = href.substring(0, 8)) === 'https://') {
+            if (!$(this).hasClass('force-jump')) {
+                if (href.match(/shinkotoushin.co.jp/) || href.match(/mizuho-am.co.jp/) || href.match(/diam.co.jp/) || (href.match(/am-one.co.jp/) && !href.match(/amoai/)) || href.match(/t2.jiji.com/) || href.match(/am-one.jp/) || href.match(/one-forum.jp/) || href.match(/youtube.com/) || href.match(/facebook.com/) || href.match(/twitter.com/) || href.match(/\/x.com/)) {
+                    return;
+                }
+            }
+            if (!$(this).hasClass('nico') && !$(this).find('img').length) {
+                $(this).addClass('other');
+            }
+            href = encodeURIComponent(href);
+            $(this).attr('href', '/jump.html?url='+href.split('?').join('%3f').split('&').join('%26'));
+            $(this).attr('target', '_blank');
+        } else if (href.substring(0, 1) === '/') {
+            if (href.substring(1, 8) === 'confirm') {
+                $(this).attr('target', '_blank');
+            } else if (href.match(/(\.pdf|\.PDF)$/)) {
+                $(this).attr('target', '_blank');
+                var txt = "ga('send', 'pageview', {'page': '"+$(this).attr('href')+"', 'title': '"+$(this).text()+"'});";
+                $(this).attr('onclick', txt);
+            } else if (href.match('/amoai/')) {
+                var l = location.protocol+'//'+location.host;
+                $(this).attr('href', '/jump.html?url='+l+href.split('?').join('%3f').split('&').join('%26'));
+                $(this).attr('target', '_blank');
+            }
+        }
+    });
+});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80063333-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T73MLF4" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- I-SEARCH_EXCEPT_TAG_START -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<header>
+    <div class="wrapper">
+        <div class="container-header">
+            <div class="logo"><a href="/"><img src="/images/common/logo3.png" alt="アセットマネジメントOne"></a></div>
+            <div class="header-menu">
+                <div class="menu1">
+                    <div class="search">
+                        <form name="SS_searchForm" id="SS_searchForm" action="/search/" method="get" accept-charset="UTF-8">
+                            <p class="txt">サイト内検索</p>
+                            <input type="text" name="query" value="" id="SS_searchQuery" maxlength="100" placeholder="キーワードを入力" />
+                            <p class="btn-search-1">
+                                <input type="image" src="/images/common/btn_search_min.png" alt="検索" id="SS_searchSubmit">
+                            </p>
+                        </form>
+                    </div>
+                    <div class="container-fontChange">
+                        <p>文字サイズ変更</p>
+                        <ul id="fontChange">
+                            <li class="left changeBtn">標準</li>
+                            <li class="right changeBtn">拡大</li>
+                        </ul>
+                    </div>
+                    <p class="btn-english"><a href="/english/">English</a></p>
+                </div>
+                <div class="menu2-box">
+                    <ul class="menu2">
+                        <li><a href="/publicnotice/">電子公告</a></li>
+                        <li><a href="/static/contact.html">お問い合わせ</a></li>
+                        <li><a href="/shisankeisei/faq.html">よくあるご質問</a></li>
+                        <li><a href="/shisankeisei/glossary/">用語集</a></li>
+                        <li><a href="/static/sitemap.html">サイトマップ</a></li>
+                    </ul>
+                    <div class="menu2-2 hover">
+                        <a href="/hagukumu/"><img src="/images/common/logo_hagukumu.png" alt="未来をはぐくむ研究所"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.container-header --> 
+    </div>
+</header>
+<!-- /header -->
+
+<div class="speakAnchor"><a id="anchorPageTop" title="ページの先頭です">ページの先頭です</a></div>
+<div id="navSpeak" class="nav">
+    <ul>
+        <li><a href="#anchorContents" title="ページの本文へ" tabindex="100">ページの本文へ</a></li>
+        <li><a href="#anchorGlobalNav" title="メインメニューへ" tabindex="100">メインメニューへ</a></li>
+        <li><a href="#anchorFooter" title="フッターへ" tabindex="100">フッターへ</a></li>
+    </ul>
+</div>
+
+<div class="speakAnchor"><a id="anchorGlobalNav" title="メインメニューの先頭です">メインメニューの先頭です</a></div>
+<div id="nav-global">
+    <div class="wrap">
+        <div class="container">
+            <nav id="megamenu">
+                <ul class="nav-menu clearfix">
+                    <li class="menu-top"><a href="/"><span>ホーム</span></a></li>
+                    <li class="menu menu-fund"><a href="/fund/"><span>ファンド情報</span></a>
+                        <div id="subNav2" class="sub-nav">
+                            <div class="container-subNav">
+                                <div class="subNav1 sub-nav-group">
+                                    <p class="txt1"><a href="/fund/">ファンド情報トップ</a></p>
+                                </div>
+                                <div class="subNav2 sub-nav-group">
+                                    <div class="sub-wrap">
+                                        <p class="txt2">ファンド</p>
+                                        <ul class="indent">
+                                            <li><a href="/fund/fundlist/">基準価額一覧</a></li>
+                                            <li><a href="/fund/search/">ファンド検索</a></li>
+                                            <li><a href="/fund/featured/">注目ファンド</a></li>
+                                            <li><a href="/fund/newfund/">新ファンド一覧</a></li>
+                                            <li><a href="/fund/calendar/">決算・分配金情報一覧</a></li>
+                                            <li><a href="/fund/redeemed-fund/">償還ファンド一覧</a></li>
+                                            <li><a href="/fund/favorite/">お気に入りファンド一覧</a></li>
+                                            <li><a href="/fund/history/">最近見たファンド一覧</a></li>
+                                            <li><a href="/fund/ranking/aum/">ファンドランキング</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="subNav3 sub-nav-group">
+                                    <div class="sub-wrap">
+                                        <ul class="indent">
+                                            <li><a href="/pickup/etf/">One ETF</a></li>
+                                            <li><a href="/pickup/tawara/">たわらノーロード</a></li>
+                                            <li><a href="/pickup/dc/">確定拠出年金</a></li>
+                                        </ul>
+                                        <p class="txt2-2">関連情報</p>
+                                        <ul class="indent">
+                                            <li><a href="/fund/news/">ファンド関連情報</a></li>
+                                            <li><a href="/fund/archive/">運用報告書一覧</a></li>
+                                            <li><a href="/fund/holiday/">お申込み不可日</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="subNav4 sub-nav-group">
+                                    <div class="sub-wrap">
+                                        <p class="txt2">取扱販売会社</p>
+                                        <ul class="indent">
+                                            <li><a href="/fund/distributors/">販売会社一覧</a></li>
+                                            <li><a href="/fund/dc-institutions/">iDeCo取扱金融機関一覧</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="menu menu-report"><a href="/report/"><span>マーケット<br class="nav-br">情報</span></a>
+                        <div id="subNav3" class="sub-nav">
+                            <div class="container-subNav">
+                                <div class="subNav1 sub-nav-group">
+                                    <p class="txt1"><a href="/report/">マーケット情報トップ</a></p>
+                                </div>
+                                <div class="subNav2 sub-nav-group">
+                                    <div class="sub-wrap">
+                                        <ul>
+                                            <li><a href="/report/marketreport/">マーケットレポート・コラム</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="menu menu-shisankeisei"><a href="/shisankeisei/"><span>資産形成<br class="nav-br">について</span></a>
+                        <div id="subNav4" class="sub-nav">
+                            <div class="container-subNav">
+                                <div class="subNav1 sub-nav-group">
+                                    <p class="txt1"><a href="/shisankeisei/">資産形成についてトップ</a></p>
+                                </div>
+                                <div class="sub-nav-group">
+                                    <div class="subNav2">
+                                        <div class="sub-wrap">
+                                            <p class="txt2">資産形成コンテンツ</p>
+                                            <ul class="indent">
+                                                <li><a href="/pickup/nisa-guide/">新NISAガイドブック</a></li>
+                                                <li><a href="/pickup/nisa/">アセットマネジメントOneの「NISA講座」</a></li>
+                                                <li><a href="/asset_formation_assist/">はじめての資産形成アシスタント </a></li>
+                                                <li><a href="/pickup/dc/">確定拠出年金</a></li>
+                                                <li><a href="/warashibe/">わらしべ瓦版</a></li>
+                                            </ul>
+                                            <p class="txt2-2">資産運用ツール</p>
+                                            <ul class="indent">
+                                                <li><a href="https://captain.am-one.jp/">ロボ・アドバイザー「CAPTAIN One」</a></li>
+                                                <li><a href="https://simulation.am-one.jp/input/">資産運用シミュレーション「シミュレーションOne」</a></li>
+                                                <li><a href="/shisankeisei/simulation.html">資産運用かんたんシミュレーション</a></li>
+                                                <li><a href="/pickup/tawara/threesteps/">かんたん３STEPシミュレーション</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="subNav3">
+                                        <div class="sub-wrap">
+                                            <p class="txt2">もっと知りたい投資信託のこと</p>
+                                            <ul class="indent">
+                                                <li><a href="/shisankeisei/faq.html">よくあるご質問</a></li>
+                                                <li><a href="/shisankeisei/glossary/">用語集</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="menu menu-company"><a href="/company/"><span>会社情報</span></a>
+                        <div id="subNav5" class="sub-nav">
+                            <div class="container-subNav">
+                                <div class="subNav1 sub-nav-group">
+                                    <p class="txt1"><a href="/company/">会社情報トップ</a></p>
+                                </div>
+                                <div class="subNav2 sub-nav-group">
+                                    <div class="sub-wrap">
+                                        <ul>
+                                            <li><a href="/company/message/">アセットマネジメントOneについて</a></li>
+                                            <li><a href="/company/investmentteam/">運用について</a></li>
+                                            <li><a href="/company/sustainability/">サステナビリティへの取り組み</a></li>
+                                            <li><a href="/company/ri/">責任投資への取り組み</a></li>
+                                            <li><a href="/company/fiduciary/">フィデューシャリー・デューティーへの取り組み</a></li>
+                                            <li><a href="/company/news/">ニュースルーム</a></li>
+                                            <li><a href="/company/guideline/">方針</a></li>
+                                            <li><a href="/company/official/">公式アカウント</a></li>
+                                            <li><a href="/company/recruit/">採用情報</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="menu-distributors"><a href="/distributors/"><span>販売会社<br class="nav-br">の皆さまへ</span></a></li>
+                    <li><a href="https://institutional-web.am-one.co.jp/institutionalweb/s/login" class="no-jump"><span>機関投資家<br class="nav-br">の皆さまへ</span></a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+<div id="modal-bg"></div>
+<!-- /#nav-global -->
+
+<nav id="sp-nav" class="sp">
+    <ul class="nav1">
+        <li class="nav1-1"><a href="/fund/fundlist/">基準価額一覧</a></li>
+        <li class="nav1-2"><a href="/fund/search/">ファンド検索</a></li>
+        <li class="nav1-3"><a href="/fund/favorite/">お気に入り<br>
+            ファンド</a></li>
+        <li class="navBtn">メニュー</li>
+    </ul>
+    <div class="box-nav2">
+        <div class="search">
+            <form class="clearfix" name="SS_searchForm1" id="SS_searchForm1" action="/search/" method="get" accept-charset="UTF-8">
+                <p class="txt">サイト内検索</p>
+                <input type="text" name="query" value="" id="SS_searchQuery1" maxlength="100" placeholder="キーワードを入力" />
+                <p class="btn-search-sp">
+                    <input type="image" src="/images/common/btn_search_sp.png" alt="検索">
+                </p>
+            </form>
+        </div>
+        <ul class="nav2">
+            <li><a href="/">ホーム</a></li>
+            <li class="accordion ac01">ファンド情報
+                <p><span>開く</span></p>
+                <ul class="menu-ul">
+                    <li><a href="/fund/">ファンド情報トップ</a></li>
+                    <li class="cat">ファンド</li>
+                    <li><a href="/fund/fundlist/">基準価額一覧</a></li>
+                    <li><a href="/fund/search/">ファンド検索</a></li>
+                    <li><a href="/fund/featured/">注目ファンド</a></li>
+                    <li><a href="/fund/newfund/">新ファンド一覧</a></li>
+                    <li><a href="/fund/calendar/">決算・分配金情報一覧</a></li>
+                    <li><a href="/fund/redeemed-fund/">償還ファンド一覧</a></li>
+                    <li><a href="/fund/favorite/">お気に入りファンド一覧</a></li>
+                    <li><a href="/fund/history/">最近見たファンド一覧</a></li>
+                    <li><a href="/fund/ranking/aum/">ファンドランキング</a></li>
+                    <li><a href="/pickup/etf/">One ETF</a></li>
+                    <li><a href="/pickup/tawara/">たわらノーロード</a></li>
+                    <li><a href="/pickup/dc/">確定拠出年金</a></li>
+                    <li class="cat">関連情報</li>
+                    <li><a href="/fund/news/">ファンド関連情報</a></li>
+                    <li><a href="/fund/archive/">運用報告書一覧</a></li>
+                    <li><a href="/fund/holiday/">お申込み不可日</a></li>
+                    <li class="cat">取扱販売会社</li>
+                    <li><a href="/fund/distributors/">販売会社一覧</a></li>
+                    <li><a href="/fund/dc-institutions/">iDeCo取扱金融機関一覧</a></li>
+                </ul>
+            </li>
+            <li class="accordion ac02">マーケット情報
+                <p><span>開く</span></p>
+                <ul class="menu-ul">
+                    <li><a href="/report/">マーケット情報トップ</a></li>
+                    <li><a href="/report/marketreport/">マーケットレポート・コラム</a></li>
+                </ul>
+            </li>
+            <li class="accordion ac03">資産形成について
+                <p><span>開く</span></p>
+                <ul class="menu-ul">
+                    <li><a href="/shisankeisei/">資産形成についてトップ</a></li>
+                    <li class="cat">資産形成コンテンツ</li>
+                    <li><a href="/pickup/nisa-guide/">新NISAガイドブック</a></li>
+                    <li><a href="/pickup/nisa/">アセットマネジメントOneの「NISA講座」</a></li>
+                    <li><a href="/asset_formation_assist/">はじめての資産形成アシスタント</a></li>
+                    <li><a href="/pickup/dc/">確定拠出年金</a></li>
+                    <li><a href="/warashibe/">わらしべ瓦版</a></li>
+                    <li class="cat">資産運用ツール</li>
+                    <li><a href="https://captain.am-one.jp/">ロボ・アドバイザー「CAPTAIN One」</a></li>
+                    <li><a href="https://simulation.am-one.jp/input/">資産運用シミュレーション「シミュレーションOne」</a></li>
+                    <li><a href="/shisankeisei/simulation.html">資産運用かんたんシミュレーション</a></li>
+                    <li><a href="/pickup/tawara/threesteps/">かんたん３STEPシミュレーション</a></li>
+                    <li class="cat">もっと知りたい投資信託のこと</li>
+                    <li><a href="/shisankeisei/faq.html">よくあるご質問</a></li>
+                    <li><a href="/shisankeisei/glossary/">用語集</a></li>
+                </ul>
+            </li>
+            <li class="accordion ac04">会社情報
+                <p><span>開く</span></p>
+                <ul class="menu-ul">
+                    <li><a href="/company/">会社情報トップ</a></li>
+                    <li><a href="/company/message/">アセットマネジメントOneについて</a></li>
+                    <li><a href="/company/investmentteam/">運用について</a></li>
+                    <li><a href="/company/sustainability/">サステナビリティへの取り組み</a></li>
+                    <li><a href="/company/ri/">責任投資への取り組み</a></li>
+                    <li><a href="/company/fiduciary/">フィデューシャリー・デューティーへの取り組み</a></li>
+                    <li><a href="/company/news/">ニュースルーム</a></li>
+                    <li><a href="/company/guideline/">方針</a></li>
+                    <li><a href="/company/official/">公式アカウント</a></li>
+                    <li><a href="/company/recruit/">採用情報</a></li>
+                </ul>
+            </li>
+            <li><a href="/distributors/">販売会社の皆さまへ</a></li>
+            <li><a href="https://institutional-web.am-one.co.jp/institutionalweb/s/login" class="no-jump">機関投資家の皆さまへ</a></li>
+            <li><a href="/static/contact.html">お問い合わせ</a></li>
+            <li><a href="/static/sitemap.html">サイトマップ</a></li>
+            <li><a href="/english/">English</a></li>
+            <li><a href="/hagukumu/">未来をはぐくむ研究所</a></li>
+        </ul>
+        <p class="closeBtn"><span>閉じる</span></p>
+    </div>
+    <div id="modal-bg-sp"></div>
+</nav>
+<!-- /#sp-nav -->
+<!-- I-SEARCH_EXCEPT_TAG_END -->
+
+<div id="fund-menu" class="pc">
+    <ul>
+        <li><a href="/fund/favorite/"><img src="/images/fund/btn_fundfavo.png" alt="お気に入りファンド"></a></li>
+        <li><a href="/fund/search/"><img src="/images/fund/btn_fundsearch.png" alt="ファンド検索"></a></li>
+    </ul>
+</div>
+<!-- /#fund-menu -->
+
+
+
+
+<div class="breadcrumb pc">
+    <div class="container">
+        <ul>
+            <li><a href="/"><img src="/images/common/icon_home.png" width="13" height="12" alt="ホーム"></a></li>
+            <li><span>&gt;</span><a href="/company/">会社情報</a></li>
+                <li><span>&gt;</span>方針</li>
+                <li><span>&gt;</span>カスタマー・ハラスメントに対する方針</li>
+            </ul>
+    </div>
+</div><!-- /.breadcrumb -->
+
+<div class="hdg-h1">
+    <h1>カスタマー・ハラスメントに対する方針</h1>
+</div><!-- /.hdg-h1 -->
+<input type="hidden" id="page-cgy" value="houshin">
+<input type="hidden" id="page-url" value="customer_harassment">
+
+<div class="box-company container clearfix">
+    <div class="container-right">
+        <div class="wysiwyg-box">
+                <p class="mb40">アセットマネジメントOneは「お客さま本位の実践」を「アセットマネジメントOneの企業行動規範」に掲げ、お客さまを良く知り、常にお客さまの立場で考えることで、お客さまのニーズや期待に沿った質の高い商品・サービスを提供することを目指しています。</p>
+<p class="mb40">これらの実践のためには、役員および職員（以下「職員等」といいます。）が働きやすい健全な職場環境を確保・維持することが必要不可欠である一方、一部のお客さまによる暴行、不当な要求、長時間の拘束、誹謗中傷など、職員等の人権を侵害し、当社の業務を著しく不当に妨げると判断される行為も確認されています。</p>
+<p class="mb40">そこで、当社では、職員等一人ひとりの人権を尊重し、これを守るため、こうした行為をカスタマー・ハラスメントとして捉えて、毅然と対応いたします。そのうえで、悪質な行為と判断した場合には、警察や弁護士等と連携し、適切に対処いたします。</p>
+<div class="hdgTxt-1">
+<h2>カスタマー・ハラスメントの定義*</h2>
+</div>
+<p class="mb40">「カスタマー・ハラスメント」とは、お客さま等からのクレーム・言動のうち、当該クレーム・言動の要求の内容の妥当性に照らして、当該要求を実現するための手段・態様が社会通念上相当な範囲を超えたものであって、当該手段・態様により、職員等の就業環境が害されるものをいいます。</p>
+<div class="hdgTxt-1">
+<h2>対象となる行為例*</h2>
+</div>
+<ol class="list-style-7 mb10">
+<li>暴力、威嚇、脅迫、強要と判断される行為</li>
+<li>暴言、性的な言動、誹謗中傷、人格否定、ストーカー行為その他人格を攻撃する言動</li>
+<li>人種、民族、門地、職業その他の事項に関する差別的言動</li>
+<li>長時間にわたる拘束、執拗な問い合わせ</li>
+<li>職員等の個人情報等のSNS等への投稿</li>
+<li>金品の要求、特別対応の要求、実現不可能な要求、その他内容もしくは態様が社会通念に照らして著しく不相当と認められる要求</li>
+</ol>
+<p class="mb40" style="font-size: small;">※上記の行為例は例示であり、すべてを網羅するものではありません。</p>
+<ul class="list-style-11">
+<li><a href="https://www.mhlw.go.jp/content/11900000/000915233.pdf" target="_blank">厚生労働省「カスタマーハラスメント対策企業マニュアル」</a>に基づき作成しています。</li>
+</ul>            </div><!-- /.wysiwyg-box -->
+    </div><!-- /.container-right -->
+    <div class="container-left">
+        <dl class="sideNav">
+            <dt><a href="/company/">会社情報トップ</a></dt>
+            <dd>
+                <ul>
+                    <li class="sideNav-li-1 accordion menu-amone"><span class="menu-1">アセットマネジメントOneについて</span>
+                        <ul class="sideNav-ul-2">
+                            <li><a href="/company/message/">ごあいさつ</a></li>
+                            <li class="menu2"><a href="/company/vision/">企業理念</a>
+                                <ul class="sideNav-ul-3">
+                                    <li><a href="/company/cmessage/">コーポレート・メッセージについて</a></li>
+                                    <li><a href="/company/cmessagekpi/">コーポレート・メッセージの実現に向けた取組み状況</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/company/profile/">会社概要</a></li>
+                            <li><a href="/company/business/">事業内容</a></li>
+                            <li><a href="/company/history/">沿革</a></li>
+                            <li><a href="/company/organization/">組織図</a></li>
+                            <li><a href="/company/outline/">経理状況等</a></li>
+                            <li><a href="/company/network/">グローバルネットワーク</a></li>
+                            <li><a href="/company/prize/">受賞歴</a></li>
+                        </ul>
+                    </li>
+                    <li class="sideNav-li-1 accordion menu-unyo"><span class="menu-1">運用について</span>
+                        <ul class="sideNav-ul-2">
+                            <li><a href="/company/investmentteam/">運用体制</a></li>
+                            <li><a href="/company/investment-process/">投資判断プロセスにおける独立性の確保等について</a></li>
+                            <li><a href="/company/investment-philosophy/">運用哲学</a></li>
+                            <li><a href="/company/orderpolicy/">投資信託の一括発注に係る基本方針</a></li>
+                            <li><a href="/company/personnel/">運用担当者に係る事項</a></li>
+                            <li><a href="/company/derivatives/">デリバティブ取引等の管理について</a></li>
+                            <li><a href="/company/KPI-performance/">公募投資信託の運用パフォーマンスに関する成果指標（KPI）について</a></li>
+                        </ul>
+                    </li>
+                    <li class="sideNav-li-1 accordion menu-sus"><span class="menu-1">サステナビリティへの取り組み</span>
+                        <ul class="sideNav-ul-2">
+                            <li class="menu2"><a href="/company/sustainability/">アセットマネジメントOneのサステナビリティ</a>
+                                <ul class="sideNav-ul-3">
+                                    <li><a href="/company/health/">健康経営への取組み</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="sideNav-li-1 accordion menu-sustoushi"><span>サステナブル投資</span>
+                        <ul class="sideNav-ul-2">
+                            <li><a href="/company/sustainable_investment_policy/">アセットマネジメントOneのサステナブル投資方針</a></li>
+                        </ul>
+                    </li>
+                    <li class="sideNav-li-1 accordion menu-sekinin"><span class="menu-1">責任投資への取り組み</span>
+                        <ul class="sideNav-ul-2">
+                            <li><a href="/company/ri/">アセットマネジメントOneの責任投資</a></li>
+                            <li class="menu2"><a href="/company/stewardship/">スチュワードシップ活動</a>
+                                <ul class="sideNav-ul-3">
+                                    <li><a href="/company/engagement/">エンゲージメント</a></li>
+                                    <li><a href="/company/voting/">議決権行使</a></li>
+                                    <li><a href="/company/ss-global/">イニシアティブとの協働</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/company/climate/">気候変動への取組み</a></li>
+                            <li><a href="/company/esg-integration/">ESGインテグレーション</a></li>
+                            <li><a href="/company/esg-column/">ESGコラム</a></li>
+                        </ul>
+                    </li>
+                    <li class="sideNav-li-1 accordion menu-fidu"><span class="menu-1">フィデューシャリー・デューティーへの取り組み</span>
+                        <ul class="sideNav-ul-2">
+                            <li class="menu-2"><a href="/company/fiduciary/">フィデューシャリー・デューティーへの取り組み</a>
+                                <ul class="sideNav-ul-3">
+                                    <li class="menu-3-2"><a href="/company/actionplan2025/">2025年度FDアクションプラン（お客さまからの信頼の向上に向けた取組み）</a></li>
+                                    <li class="menu-3"><a href="/company/actionplan2024/">2024年度FDアクションプラン（お客さまからの信頼の向上に向けた取組み）</a></li>
+                                    <li class="menu-past"><span>過去のアクションプランの取組状況について</span>
+                                        <ul class="sideNav-ul-4">
+                                            <li><a href="/company/fdkpi2023f/">2023年度アクションプランの取組状況</a>
+                                            <li><a href="/company/fdkpi2022f/">2022年度アクションプランの取組状況</a>
+                                            <li><a href="/company/fdkpi2021f/">2021年度アクションプランの取組状況</a>
+                                            <li><a href="/company/fdkpi2020f/">2020年度アクションプランの取組状況</a>
+                                            <li><a href="/company/fdkpi2019f/">2019年度アクションプランの取組状況</a>
+                                            <li><a href="/company/fdkpi2018f/">2018年度アクションプランの取組状況</a>
+                                            <li><a href="/company/fdkpi2017f/">2017年度アクションプランの取組状況</a>
+                                            <li><a href="/company/fdkpi2017/">2017年度アクションプランの中間取組状況</a>
+                                            <li><a href="/company/actionplan/">2016年度アクションプランの取組状況</a>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/company/product-governance/">プロダクトガバナンスへの取り組み</a></li>
+                        </ul>
+                    </li>
+                    <li class="sideNav-li-1 accordion menu-news"><span class="menu-1">ニュースルーム</span>
+                        <ul class="sideNav-ul-2">
+                            <li><a href="/company/news/">お知らせ</a></li>
+                            <li><a href="/company/pressrelease/">ニュースリリース</a></li>
+                        </ul>
+                    </li>
+                    <li class="sideNav-li-1 accordion menu-pub"><span class="menu-1">会社に関する公告</span>
+                        <ul class="sideNav-ul-2">
+                            <li><a href="/company/publicnotice/">会社に関する公告</a></li>
+                        </ul>
+                    </li>
+                    <li class="sideNav-li-1 accordion menu-houshin"><span class="menu-1">方針</span>
+                        <ul class="sideNav-ul-2">
+                            <li><a href="/company/guideline/">金融商品の勧誘方針</a></li>
+                            <li><a href="/company/resolution/">苦情処理措置および紛争解決措置について</a></li>
+                            <li><a href="/company/antisocial/">反社会的勢力に対する基本方針</a></li>
+                            <li><a href="/company/institution/">特定投資家制度に関する「期限日」について</a></li>
+                            <li><a href="/company/laundering/">当社のマネー・ローンダリング等防止態勢</a></li>
+                            <li><a href="/company/fx_global_code/">グローバル外為行動規範への遵守意思表明</a></li>
+                            <li><a href="/company/anti-bribery/">贈収賄行為及び汚職・腐敗行為の防止に向けた取り組み</a></li>
+                            <li><a href="/company/materialpolicy/">基準価額の計算過誤が一定の基準値を超える場合における対応方針（マテリアリティ・ポリシー）</a></li>
+                            <li><a href="/company/caution/">不審な投資勧誘や詐欺行為への注意喚起</a></li>
+                            <li><a href="/company/customer_harassment/">カスタマー・ハラスメントに対する方針</a></li>
+                        </ul>
+                    </li>
+                    <li class="sideNav-li-1 accordion menu-koushiki"><span class="menu-1">公式アカウント</span>
+                        <ul class="sideNav-ul-2">
+                            <li><a href="/company/official/">アセットマネジメントOneのソーシャルメディアアカウント</a></li>
+
+                            <li><a href="/company/socialmedia-policy/">ソーシャルメディア利用規約</a></li>
+                        </ul>
+                    </li>
+                    <li class="sideNav-li-1"><a href="/company/recruit/">採用情報</a></li>
+                </ul>
+            </dd>
+        </dl>
+    </div>
+    <!-- /.container-left -->
+
+</div><!-- /.box-company -->
+
+<div class="fund-notice" id="fav-message">
+    <p></p>
+</div>
+
+<div class="box-contact">
+    <div class="box-wrap">
+        <p class="txt1">投資信託に関するお問い合わせは<br class="sp-br">コールセンターまでお電話ください</p>
+        <p class="txt2">0120-104-694</p>
+        <p class="txt3">受付時間は営業日の午前9時～午後5時です</p>
+        <p class="txt4">当社では、サービス向上のため、お客さまとの電話内容を録音させていただいております。あらかじめご了承ください。<br>
+        当社は録音した内容について、厳重に管理し適切な取り扱いをいたします。
+        </p>
+        <p class="btn-white"><a href="/shisankeisei/faq.html"><span>よくあるご質問はこちら</span></a></p>
+    </div>
+</div>
+<!-- /.box-contact -->
+
+<div class="speakAnchor"><a id="anchorFooter" title="フッターの先頭です">フッターの先頭です</a></div>
+<footer>
+    <div class="box-sns">
+        <ul>
+            <li><a href="https://twitter.com/share?count=horizontal&original_referer=https://www.am-one.co.jp/&text=アセットマネジメントOne&url=https://www.am-one.co.jp/" onclick="window.open(this.href, 'tweetwindow', 'width=550, height=450,personalbar=0,toolbar=0,scrollbars=1,resizable=1'); return false;"><img src="/images/common/btn_tweet.png" alt="ツイート"></a></li>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            <li>
+                <div class="fb-share-button" data-href="" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.am-one.co.jp%2F&amp;src=sdkpreparse">シェア</a></div>
+            </li>
+            <li class="line">
+                <a href="https://line.me/R/msg/text/?https://www.am-one.co.jp/" target="_blank"><img src="/images/common/line.png" alt="LINEで送る"></a>
+                </li>
+        </ul>
+    </div>
+
+    <div class="box-footer1">
+        <div class="container clearfix">
+            <div class="container clearfix">
+<ul class="hover">
+<li><a href="/img/footer/AMOne_brochure.pdf" target="_blank"><img class="pc" src="/img/footer/bnr_coprof.png" alt="" width="237" height="69" /><img class="sp" src="/img/footer/bnr_coprof_sp.png" alt="" width="552" height="158" /></a></li>
+<li><a href="/movie/"><img class="pc" src="/img/footer/bnr_movie.png" alt="動画ライブラリー" width="237" height="69" /><img class="sp" src="/img/footer/bnr_movie_sp.png" alt="動画ライブラリー" /></a></li>
+<li><a href="/static/enquete.html"><img class="pc" src="/img/footer/bnr_questionnarie.png" alt="アンケート" width="237" height="69" /><img class="sp" src="/img/footer/bnr_questionnarie_sp.png" alt="アンケート" /></a></li>
+</ul>
+</div>
+<script type="text/javascript">// <![CDATA[
+$(function() {
+
+
+
+//---------------------------
+//正規化：ファンドページ確認
+//---------------------------
+
+var str=location.pathname;
+var f_no_footer=location.pathname;
+var b ="",s ="";
+var flag=0;
+
+
+//正規化でファンドページ判断
+if(str.match("fund")&&str.match(/[0-9]{6}/)) {
+
+    f_no_footer=str.match(/[0-9]{6}/)[0];//ファンド番号
+    console.log("ファンド番号"+str.match(/[0-9]{6}/)[0]);
+
+
+//---------------------------
+//CSS
+//---------------------------
+
+
+var css = document.createElement('link');
+css.rel = 'stylesheet';
+css.href = '/pickup/redirect/style.css';
+css.type = 'text/css';
+var head = document.getElementsByTagName('head')[0];
+head.appendChild(css);
+
+
+
+
+//-------------------------------
+//fand_Pick START
+//-------------------------------
+
+
+
+
+//-------------------------------
+//fand_Pick END
+//-------------------------------
+
+//-------------------------------
+//fand_SL Start
+//-------------------------------
+
+// バナー追加
+ var a ='<div class="sp" style="text-align: center;margin-bottom:15px;"><a id="ssc" href="#sl" style="color: #fff;"><img src="/img/static/130/ranking_b2.png" alt="ファンドランキング"></a></div>';
+ $('.box-fundhead').append(a);
+
+// スムーズスクロール
+$('#ssc').click(function() {
+    let speed = 400;
+    let type = 'swing';
+    let href= $(this).attr("href");
+    let target = $(href == "#index" ? 'html' : href);
+    let position = target.offset().top;
+    $('body,html').animate({scrollTop:position}, speed, type);
+    return false;
+});
+
+//格納先
+var b ='<div id="xxx"><a href="#slll" style="color: #fff;"><img src="/img/static/130/ranking_b2.png" alt="ファンドランキング"></a></div>';
+
+$('.box-fundbnr').append(b);  
+
+//参照
+$.ajax({
+type: 'GET',
+url: '/static/Illustrations.html',
+dataType: 'html',
+success: function(data) {
+$('#xxx').html($(data).find('#sll'));
+addFunc();
+}
+});
+
+//コールバック
+const addFunc = function() {
+
+//コールバック：slick
+$('.multiple-items').slick({
+ dots: false,
+ infinite: true,
+ autoplay: true,
+ autoplaySpeed: 4000,
+ speed: 300,
+ slidesToShow: 4,
+ slidesToScroll: 4,
+ responsive: [
+ {
+  breakpoint: 1024,
+  settings: {
+   slidesToShow: 3,
+   slidesToScroll: 3,
+   infinite: false,
+   dots: false
+  }
+ },
+ {
+  breakpoint: 740,
+  settings: {
+   slidesToShow: 2,
+   slidesToScroll: 2,
+   dots: false
+  }
+ }
+]
+});
+//コールバック：slider動作
+$('.slick-prev').css('z-index', 10000);
+$('.slick-arrow').css('top', '50%');
+ getWindowSize();
+$('.kochira')
+  .on('mouseover', function(event) {
+  
+  $(this).css('opacity', 0.5)
+  })
+  .on('mouseout', function(event) {
+  event.preventDefault();
+  $(this).css('opacity', 1);
+
+  });
+
+//コールバック：analitice用id付与
+//ファンド番号取得
+var f_no=$('.btn-white.btn-fav.btn-fav-detail').attr('data-fcode');
+var f_url='/fund/summary/'+f_no+'/index.html?id=sl';
+
+//詳細ページリンクにID追加
+$('#ssc').attr('href', f_url);
+
+
+}
+
+
+// リサイズ動作
+ $(window).resize(function(event) {
+  $('.slick-prev').css('z-index', 10000);
+  $('.slick-arrow').css('top', '50%');
+  getWindowSize();
+ });
+
+// 画面伸縮処理関数
+ function getWindowSize() {
+  var sW;
+  sW = window.innerWidth;
+
+
+
+
+  //-------------
+  //スライダーの伸縮
+  //-------------
+
+  if(sW<480){
+   $('.flex_w').css({
+     'flex-direction': 'column',
+     'height': ''
+   });
+   $('.flex_w p').css({
+     'width': '100%'
+   });
+   $('.flex_w div').css({
+     'width': '100%',
+     'height': '160px',
+   });
+
+  }else{
+   $('.flex_w').css({
+     'flex-direction': 'row',
+     'height': '200px'
+   });
+   $('.flex_w p').css({
+     'width': '50%'
+   });
+   $('.flex_w div').css({
+     'width': '50%',
+     'height': '',
+   });
+
+  }
+ }
+
+
+//-------------------------------
+//fand_SLＥＮＤ
+//-------------------------------
+
+
+
+}else{
+ //console.log("他のページ");
+}
+
+
+
+
+});//END_Jquery
+
+//UItag
+$(function() {
+	var item_onclick;
+	var href_onclick;
+	var a_anchor_text;
+	var doc_title;
+	var page_url;
+
+	doc_title=document.title;
+	page_url=location.href;
+
+	$('a').each(function() {
+
+		item_onclick=String($(this).attr('onclick'));
+		href_onclick=String($(this).attr('href'));
+		a_anchor_text=$(this).text();
+
+		if(item_onclick.indexOf("ga") >= 0&&href_onclick.indexOf(".pdf") >= 0){
+				//console.log("含む");
+				$(this).attr('onclick', item_onclick+"_uiconv.push({'id':'pdf','free_1':'"+a_anchor_text+"','free_2':'"+doc_title+"','free_3':'"+page_url+"'});");
+		}
+	});
+});
+// ]]></script>        </div>
+    </div>
+
+
+    <div class="box-footer2">
+        <div class="container clearfix">
+        <div class="nav-footer">
+            <ul class="nav-footer-1">
+                <li><a href="/static/dividend.html">追加型株式投資信託の収益分配金に関するご説明</a></li>
+                <li><a href="/static/risk.html">投資信託のリスクとお客さまにご負担いただく費用について</a></li>
+                <li><a href="/static/currency.html">通貨選択型投資信託の収益/損失に関するご説明</a></li>
+                <li><a href="/static/sitepolicy.html">本サイトのご利用にあたって</a></li>
+                <li><a href="/static/attention_dc.html">「確定拠出型年金」サイトご利用にあたっての注意</a></li>
+                <li><a href="/static/mgntcnflctsints.html">利益相反管理方針の概要</a></li>
+                <li><a href="/static/privacypolicy.html">個人情報保護に関する事項</a></li>
+                <li><a href="/static/sitemap.html">サイトマップ</a></li>
+                <li class="mt30 blank"><a href="https://www.digital.go.jp/policies/mynumber/explanation/" target="_blank">マイナンバー</a></li>
+                <li class="blank"><a href="https://www.fsa.go.jp/sesc/watch/" target="_blank">証券取引等監視委員会&nbsp;情報提供窓口</a></li>
+            </ul>
+            <ul class="nav-footer-2">
+                <li class="blank"><a href="https://www.mizuho-fg.co.jp/" target="_blank">みずほフィナンシャルグループ</a></li>
+                <li class="blank"><a href="https://www.daiichilife-group.com/" target="_blank">第一ライフグループ</a></li>
+                <li class="blank"><a href="https://www.mizuhobank.co.jp/" target="_blank">みずほ銀行</a></li>
+                <li class="blank"><a href="https://www.mizuho-tb.co.jp/" target="_blank">みずほ信託銀行</a></li>
+                <li class="blank"><a href="https://www.mizuho-sc.com/" target="_blank">みずほ証券</a></li>
+                <li class="blank"><a href="https://www.mizuhobank.co.jp/fintec/" target="_blank">みずほ第一フィナンシャルテクノロジー</a></li>
+                <li class="blank"><a href="https://www.am-one.co.jp/amoai/" target="_blank">アセットマネジメントOneオルタナティブインベストメンツ</a></li>
+            </ul>
+            <ul class="nav-footer-3">
+                <li><a class="no-jump" href="https://www.youtube.com/@AM-OneTV" target="_blank"><img src="/images/common/btn_youtube.png" alt="Youtubeへ"></a></li>
+                <li><a class="no-jump" href="https://x.com/am_one_jp" target="_blank"><img src="/images/common/btn_x.png" alt="Xへ"></a></li>
+                <li><a class="no-jump" href="https://www.facebook.com/kashikoiunyo/" target="_blank"><img src="/images/common/btn_facebook.png" alt="Facebookへ"></a></li>
+            </ul>
+        </div>
+        <div class="txt-footer">
+            <h2>アセットマネジメントOne株式会社</h2>
+            <p>金融商品取引業者 関東財務局長（金商）第324号<br>
+                商品投資顧問業者 農経 (2) 第24号<br>
+                <span>加入協会：一般社団法人資産運用業協会</span></p>
+            <p class="pageTop" id="pageTop"><img src="/images/common/btn_totop.png" alt="ページトップ"></p>
+            <!-- /.pageTop -->
+        </div>
+    </div>
+    </div>
+    <small><img src="/images/common/copy.png" alt="Copyright&copy;2017 Asset Management One Co.,Ltd. All rights reserved." class="pc"><img src="/images/common/copy_sp.png" alt="Copyright&copy;2017 Asset Management One Co.,Ltd. All rights reserved." class="sp"></small>
+</footer>
+<!-- /footer -->
+
+<script src="/js/common_static.js?20230101" type="text/javascript"></script>
+<script src="/js/common_ms.js?20170930" type="text/javascript"></script>
+<script src="/js/common_func_ms.js?20230101" type="text/javascript"></script>
+<script src="//pro.syncsearch.jp/common/js/sync_suggest.js?20170930"></script>
+<script type="text/javascript">
+SYNCSEARCH_SITE="9FP2VYAC";
+SYNCSEARCH_GROUP=0;
+SYNCSEARCH_GROUP1=0;
+SYNCSEARCH_GROUP2=0;
+</script>
+
+<!-- User Insight PCDF Code Start :  -->
+<script type="text/javascript">
+var _uic = _uic ||{}; var _uih = _uih ||{};_uih['id'] = 54362;
+_uih['lg_id'] = '';
+_uih['fb_id'] = '';
+_uih['tw_id'] = '';
+_uih['uigr_1'] = ''; _uih['uigr_2'] = ''; _uih['uigr_3'] = ''; _uih['uigr_4'] = ''; _uih['uigr_5'] = '';
+_uih['uigr_6'] = ''; _uih['uigr_7'] = ''; _uih['uigr_8'] = ''; _uih['uigr_9'] = ''; _uih['uigr_10'] = '';
+_uic['uls'] = 1;
+
+/* DO NOT ALTER BELOW THIS LINE */
+/* WITH FIRST PARTY COOKIE */
+(function() {
+var bi = document.createElement('script');bi.type = 'text/javascript'; bi.async = true;
+bi.src = '//cs.nakanohito.jp/b3/bi.js';
+var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bi, s);
+})();
+</script>
+<!-- User Insight PCDF Code End :  -->
+
+</body>
+</html>

@@ -5,12 +5,24 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "validate": "npx tsx scripts/validate-data.ts",
+    "discover:sources": "node scripts/discover-sources.mjs",
+    "download:sources": "node scripts/download-sources.mjs",
+    "analyze:mufg-votes": "node scripts/analyze-mufg-vote-excel.mjs",
+    "analyze:nomura-votes": "node scripts/analyze-nomura-vote-excel.mjs",
+    "analyze:resona-votes": "node scripts/analyze-resona-vote-excel.mjs",
+    "analyze:daiwa-votes": "node scripts/analyze-daiwa-vote-excel.mjs",
+    "seed:sources": "node scripts/seed-source-registry.mjs",
+    "profile:sources": "node scripts/profile-downloaded-sources.mjs",
+    "sync:companies": "node scripts/sync-company-universe.mjs",
+    "collect:data": "node scripts/run-data-pipeline.mjs"
   },
   "dependencies": {
     "next": "16.2.4",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

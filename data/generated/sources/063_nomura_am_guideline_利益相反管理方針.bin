@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>野村アセットマネジメント | 利益相反管理方針</title>
+  <meta name="description" content="野村アセットマネジメントの利益相反管理方針を掲載しています。">
+  <meta name="keywords" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:title" content="野村アセットマネジメント | 利益相反管理方針">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:description" content="野村アセットマネジメントの利益相反管理方針を掲載しています。">
+  <meta property="og:site_name" content="">
+
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/common/css/magnific-popup.css">
+<link rel="stylesheet" href="/common/css/header.css?20260328">
+<link rel="stylesheet" href="/common/css/footer.css?20260328">
+<link rel="stylesheet" href="/common/css/module.css?20240330">
+
+  <link rel="stylesheet" href="/common/css/corporate.css">
+  <!-- Google Tag Manager -->
+<!-- {literal} --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M53Z9P');</script><!-- {/literal} -->
+<!-- End Google Tag Manager -->
+
+</head>
+<body id="corporate">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M53Z9P"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div id="wrapper">
+    <div id="header-area">
+  <div class="fix-height-block"></div>
+  <header id="site-header">
+    <div class="container-fluid">
+      <div id="logo"><a href="/"><img src="/images2026/logo2026.svg" width="155" height="42" alt="野村アセットマネジメント"></a></div>
+      <button type="button" class="btn-nav-toggle"><span></span><span></span><span></span></button>
+      <div class="header-inner">
+        <nav>
+          <ul>
+            <li><a href="/institutional/">機関投資家の皆様へ</a></li>
+            <li><a href="//recruit.nomura-am.co.jp/saiyo/" target="_blank" rel="noopener noreferrer">採用情報</a></li>
+            <li><a href="//global.nomura-am.co.jp/" target="_blank" rel="noopener noreferrer">Global Web Site</a></li>
+            <li><a href="/amrc/" target="_blank" rel="noopener noreferrer">資産運用研究所</a></li>
+          </ul>
+          <ul>
+            <li>
+              <div class="blk-searchbox">
+                <form class="directanswer" action="//search.nomura-am.co.jp/askme.asp" method="get">
+                  <fieldset>
+                    <button type="submit" name="origin" value="1" class="btn-search"></button>
+                    <input type="text" class="input-search" id="s" name="ask" value="" placeholder="サイト内検索" class="input-search">
+                    <button type="button" class="btn-clear"></button>
+                    <input type="hidden" name="aj_charset" value="UTF-8">
+                  </fieldset>
+                </form>
+              </div>
+            </li>
+          </ul>
+        </nav>
+        <nav>
+          <dl>
+            <div>
+              <dt class="btn-category"><button type="button" id="btn-lineup">ファンド情報</button></dt>
+              <dd class="megamenu-category">
+                <div class="wrapper-megamenu">
+                  <div class="container-megamenu">
+                    <div class="top-megamenu">
+                      <a href="/funds/">ファンド情報TOPへ</a>
+                    </div>
+                    <div class="contents-megamenu">
+                      <dl>
+                        <div>
+                          <dt class="ttl-megamenu">ファンド検索</dt>
+                          <div class="lst-column--3">
+                            <dd class="btn-link-megamenu"><a href="//fund.nomura-am.co.jp/nomura/contents/index.aspx?F=fund_search">ファンド検索</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/lineup/price/">基準価額一覧</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/lineup/price/rank.php">ファンドランキング</a></dd>
+                          </div>
+                          <div class="lst-column--3">
+                            <dd class="btn-link-megamenu"><a href="//fund.nomura-am.co.jp/nomura/contents/index.aspx?F=fund_search&keyword=1&tab=1&sort=1" rel="noopener noreferrer">NISA成長投資枠</a></dd>
+                            <dd class="btn-link-megamenu"><a href="//fund.nomura-am.co.jp/nomura/contents/index.aspx?F=fund_search&keyword=2&tab=1&sort=1" rel="noopener noreferrer">NISAつみたて投資枠</a></dd>
+                            <dd class="btn-link-megamenu"><a href="//fund.nomura-am.co.jp/nomura/contents/index.aspx?F=fund_search&keyword=4&tab=1&sort=1" rel="noopener noreferrer">確定拠出年金</a></dd>
+                          </div>
+                          <div class="lst-column--3">
+                            <dd class="btn-link-megamenu"><a href="/favorite/fundfavorite.php" rel="noopener noreferrer">お気に入りファンド</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/lineup/history/" rel="noopener noreferrer">最近見たファンド</a></dd>
+                          </div>
+                        </div>
+                        <div>
+                          <dt class="ttl-megamenu">特設サイト</dt>
+                          <div class="lst-column--3">
+                            <dd class="btn-link-megamenu"><a href="//nextfunds.jp/" target="_blank" rel="noopener noreferrer">野村アセットのETF<span class="sp-contents">　</span><br class="pc">NEXT FUNDS</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/dc/">野村アセットの<br class="pc">確定拠出年金（DC）ファンド</a></dd>
+                          </div>
+                          <div class="lst-column--3">
+                            <dd class="btn-link-megamenu"><a href="/corporate/portfolio-manager.html">運用担当者のご紹介</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/special/privateasset/">投資機会が広がる<br class="pc">プライベートアセット</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/special/movie_sitelist/">動画・特設サイト集</a></dd>
+                          </div>
+                        </div>
+                        <div>
+                          <dt class="ttl-megamenu">関連情報</dt>
+                          <div class="lst-flex--auto">
+                            <dd><a href="/awpub/award/" class="btn-link"><span class="btn-link_text">受賞履歴一覧</span></a></dd>
+                            <dd><a href="/lineup/price/" class="btn-link"><span class="btn-link_text">基準価額一覧</span></a></dd>
+                            <dd><a href="/bunpaikin/" class="btn-link"><span class="btn-link_text">決算・分配金情報</span></a></dd>
+                            <dd><a href="/holiday/" class="btn-link"><span class="btn-link_text">お申込不可日一覧</span></a></dd>
+                            <dd><a href="/lineup/pdf/experience.pdf" target="_blank" rel="noopener noreferrer" class="btn-link"><span class="btn-link_text">運用担当者の経験年数等一覧</span></a></dd>
+                            <dd><a href="/lineup/creditrisk/" class="btn-link"><span class="btn-link_text">信用リスク集中回避のための投資制限</span></a></dd>
+                            <dd><a href="/lineup/theme/new.php" class="btn-link"><span class="btn-link_text">新商品</span></a></dd>
+                            <dd><a href="/lineup/redemption/" class="btn-link"><span class="btn-link_text">償還済みファンド・併合ファンド</span></a></dd>
+                          </div>
+                        </div>
+                      </dl>                    
+                    </div>
+                    <button type="button" class="btn-close-megamenu">閉じる</button>
+                  </div>
+                </div>
+              </dd>
+            </div>
+            <div>
+              <dt class="btn-category"><button type="button" id="btn-market">マーケット情報</button></dt>
+              <dd class="megamenu-category">
+                <div class="wrapper-megamenu">
+                  <div class="container-megamenu">
+                    <div class="top-megamenu">
+                      <a href="/market/">マーケット情報TOPへ</a>
+                    </div>
+                      <div class="contents-megamenu">
+                        <dl>
+                          <div>
+                            <dt class="ttl-megamenu"><span>マーケットコメント</span><span><a href="/market/marketcomment/" class="btn-link"><span class="btn-link_text">マーケットコメント一覧</span></a></span></dt>
+                            <div class="lst-column--3">
+                              <dd class="btn-link-megamenu"><a href="/market/marketcomment/marketnavi/top.html">石黒英之のMarket Navi</a></dd>
+                              <dd class="btn-link-megamenu"><a href="/market/marketcomment/report/">マーケットレポート</a></dd>
+                            </div>
+                            <div class="lst-column--auto-4">
+                              <dd class="btn-link-megamenu"><a href="/market/report/">投資環境レポート</a></dd>
+                              <dd class="btn-link-megamenu"><a href="/market/weekly.php">週間市場情報</a></dd>
+                              <dd class="btn-link-megamenu"><a href="/market/marketcomment/outlook/">インベストメント・アウトルック</a></dd>
+                              <dd class="btn-link-megamenu"><a href="/market/marketcomment/event/">政治・経済イベント</a></dd>
+                            </div>
+                          </div>
+                          <div>
+                            <dt class="ttl-megamenu">指数から選ぶ</dt>
+                            <div class="lst-column--3">
+                              <dd class="btn-link-megamenu"><a href="/market/kawase.html">為替レート</a></dd>
+                              <dd class="btn-link-megamenu"><a href="/market/world.html">株式指標</a></dd>
+                              <dd class="btn-link-megamenu"><a href="/market/reit.html">リート指数</a></dd>
+                            </div>
+                          </div>
+                          <div>
+                            <dt class="ttl-megamenu">地域から選ぶ</dt>
+                            <div class="lst-flex--auto">
+                              <dd><a href="/market/area_japan.html" class="btn-link"><span class="btn-link_text">日本</span></a></dd>
+                              <dd><a href="/market/area_us.html" class="btn-link"><span class="btn-link_text">北米</span></a></dd>
+                              <dd><a href="/market/area_eu.html" class="btn-link"><span class="btn-link_text">ヨーロッパ</span></a></dd>
+                              <dd><a href="/market/area_asia.html" class="btn-link"><span class="btn-link_text">アジア・オセアニア</span></a></dd>
+                              <dd><a href="/market/area_southamerica.html" class="btn-link"><span class="btn-link_text">中南米</span></a></dd>
+                              <dd><a href="/market/area_africa.html" class="btn-link"><span class="btn-link_text">アフリカ </span></a></dd>
+                            </div>
+                          </div>
+                        </dl>
+                      </div>
+                    <button type="button" class="btn-close-megamenu">閉じる</button>
+                  </div>
+                </div>
+              </dd>
+            </div>
+            <div>
+              <dt class="btn-category"><button type="button" id="btn-am-guide">資産運用の基礎</button></dt>
+              <dd class="megamenu-category">
+                <div class="wrapper-megamenu">
+                  <div class="container-megamenu">
+                    <div class="top-megamenu">
+                      <a href="/am-guide/">資産運用の基礎TOPヘ</a>
+                    </div>
+                    <div class="contents-megamenu">
+                      <dl>
+                        <div>
+                          <dt class="ttl-megamenu">資産運用の基礎</dt>
+                          <div class="lst-column--5">
+                            <dd class="btn-link-megamenu"><a href="/am-guide/#anchor1">資産運用を知る</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/am-guide/#anchor2">資産運用の始め方</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/am-guide/#anchor3">役立つ制度の活用</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/am-guide/#anchor4">年代別の資産運用</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/am-guide/#anchor5">もっと詳しく学ぶ</a></dd>
+                          </div>
+                        </div>
+                        <div class="blk-bg-gray">
+                          <dt class="ttl-megamenu">資産運用を知る</dt>
+                          <div class="lst-column--width-dsc">
+                            <dd class="btn-link-megamenu"><a href="/sodateru/" target="_blank" rel="noopener noreferrer">お金を育てる研究所</a><p class="dsc">投資の知識やお悩みをお客さまに寄り添ってサポートします</p></dd>
+                          </div>
+                          <div class="lst-flex--auto">
+                            <dd><a href="/sodateru/start/" target="_blank" rel="noopener noreferrer" class="btn-link"><span class="btn-link_text">資産運用スタート編</span></a></dd>
+                            <dd><a href="/sodateru/stepup/" target="_blank" rel="noopener noreferrer" class="btn-link"><span class="btn-link_text">資産運用ステップアップ編</span></a></dd>
+                            <dd><a href="/sodateru/secondlife/" target="_blank" rel="noopener noreferrer" class="btn-link"><span class="btn-link_text">今から備えるセカンドライフ編</span></a></dd>
+                            <dd><a href="/sodateru/consult/" target="_blank" rel="noopener noreferrer" class="btn-link"><span class="btn-link_text">お悩み相談室</span></a></dd>
+                          </div>
+                        </div>
+                        <div class="blk-bg-gray">
+                          <dt class="ttl-megamenu">ETFを知る</dt>
+                          <div class="lst-column--width-dsc">
+                            <dd class="btn-link-megamenu"><a href="//nextfunds.jp/semi/" target="_blank" rel="noopener noreferrer">ETFを学ぶ</a><p class="dsc">ETF（上場企業信託）の基礎や専門家によるコラムなど、<br>資産形成に役立つ情報をお届けします</p></dd>
+                          </div>
+                          <div class="lst-flex--auto">
+                            <dd><a href="//nextfunds.jp/semi/category/about/" target="_blank" rel="noopener noreferrer" class="btn-link"><span class="btn-link_text">ETFの基本</span></a></dd>
+                            <dd><a href="//nextfunds.jp/semi/category/know/" target="_blank" rel="noopener noreferrer" class="btn-link"><span class="btn-link_text">深掘りETF</span></a></dd>
+                            <dd><a href="//nextfunds.jp/semi/category/manga/" target="_blank" rel="noopener noreferrer" class="btn-link"><span class="btn-link_text">マンガETF</span></a></dd>
+                          </div>
+                        </div>
+                      </dl>
+                    </div>
+                    <button type="button" class="btn-close-megamenu">閉じる</button>
+                  </div>
+                </div>
+              </dd>
+            </div>
+            <div>
+              <dt class="btn-category"><button type="button" id="btn-corporate">会社情報</button></dt>
+              <dd class="megamenu-category">
+                <div class="wrapper-megamenu">
+                  <div class="container-megamenu">
+                    <div class="top-megamenu">
+                      <a href="/corporate/">会社情報TOPヘ</a>
+                    </div>
+                    <div class="contents-megamenu">
+                      <dl>
+                        <div>
+                          <dt class="ttl-megamenu"><a href="/corporate/gaiyo/statement.html" class="btn-link"><span class="btn-link_text">CEOごあいさつ</span></a></dt>
+                        </div>
+                        <div>
+                          <dt class="ttl-megamenu">野村アセットマネジメントについて</dt>
+                          <div class="lst-column--4">
+                            <dd class="btn-link-megamenu"><a href="/corporate/gaiyo/principles/">企業理念</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/corporate/gaiyo/gaiyo.html">会社概要</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/corporate/gaiyo/history.html">沿革</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/corporate/gaiyo/network.html">ネットワーク・組織図</a></dd>
+                          </div>
+                          <div class="lst-column--3">
+                            <dd class="btn-link-megamenu"><a href="/corporate/newsrelease/">ニュース</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/corporate/zaimu/">財務情報</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/koukoku/">電子公告</a></dd>
+                          </div>
+                          <div class="lst-column--2">
+                            <dd class="btn-link-megamenu"><a href="/corporate/#anchor7">目で見る野村アセットマネジメント</a></dd>
+                            <div>
+                              <dd class="img-link-megamenu--amrc"><a href="/amrc/" target="_blank" rel="noopener noreferrer"><img src="/images2026/img-amrc.svg" alt="野村アセットマネジメント 資産運用研究所" width="134" height="32" loading="lazy"></a></dd>
+                            </div>
+                          </div>                         
+                        </div>
+                        <div>
+                          <dt class="ttl-megamenu"><a href="/special/sustainability/" class="btn-link"><span class="btn-link_text">サステナビリティ</span></a></dt>
+                          <div class="lst-column--3">
+                            <dd class="btn-link-megamenu"><a href="/special/sustainability/corporate.html">コーポレートサステナビリティ</a></dd>
+                            <dd class="btn-link-megamenu"><a href="/special/esg/">責任投資への取組み</a></dd>
+                          </div>
+                        </div>
+                        <div>
+                          <div class="blk-column--2">
+                            <div>
+                              <dt class="ttl-megamenu"><a href="/corporate/#anchor4" class="btn-link"><span class="btn-link_text">お客様本位の業務運営</span></a></dt>
+                              <div class="lst-flex--auto">
+                                <dd><a href="/corporate/service/cobo/" class="btn-link"><span class="btn-link_text">方針</span></a></dd>
+                                <dd><a href="/corporate/service/cobo/pdf/cobo.pdf" target="_blank" rel="noopener noreferrer" class="btn-link"><span class="btn-link_text">取組み状況</span></a></dd>
+                                <dd><a href="/corporate/service/fund-review/" class="btn-link"><span class="btn-link_text">ファンドレビュー</span></a></dd>
+                              </div>
+                            </div>
+                            <div>
+                              <dt class="ttl-megamenu">運用について</dt>
+                              <div class="lst-column--2">
+                                <dd class="btn-link-megamenu"><a href="/corporate/philosophy.html">投資理念</a></dd>
+                                <dd class="btn-link-megamenu"><a href="/corporate/portfolio-manager.html ">運用体制</a></dd>
+                             </div>
+                            </div>
+                          </div>
+                        </div>
+                      </dl>
+                    </div>
+                    <button type="button" class="btn-close-megamenu">閉じる</button>
+                  </div>
+                </div>
+              </dd>
+            </div>
+          </dl>
+        </nav>
+      </div>
+    </div>
+  </header>
+</div>
+
+
+    <div id="main">
+      <div class="main_head" style="background-image: url(/images/head/bg_corporate.jpg);">
+        <div class="container" style="background-image: url(/images/head/bg_corporate_sp.jpg);">
+          <div class="main_headInner flex_middle">
+            <h2 class="main_title">利益相反管理方針</h2>
+          </div>
+        </div>
+        <div class="breadcrumb"><a href="/"><strong>野村アセットマネジメント</strong></a><a href="/corporate/"><strong>会社情報</strong></a><span>利益相反管理方針</span></div>
+      </div>
+
+      <div class="cobo_text">
+        <div class="container">
+          <p>野村アセットマネジメント株式会社は、「すべてはお客様のために」という理念のもと、お客様のために誠実かつ公正に業務を遂行することにより、資産運用を託される者が負っているフィデューシャリー・デューティーを果たさなければなりません。そのために、当社は、お客様の利益より当社を含むお客様以外の者の利益を優先させることによりお客様の利益が不当に損なわれる事態を防止する義務を負っています。<br>また、当社は、持株会社である野村ホールディングス株式会社及び異なるビジネスを営む複数の金融機関等を含む同社の国内外の関係会社から構成されるグローバル金融サービス・グループ（以下「野村グループ」といいます。）の一員であり、グループ内において様々な利益相反が発生するリスクにさらされていますので、お客様の利益の保護を図ることがより一層求められます。<br>そこで、当社は、以下の通り「利益相反管理方針」（以下「本方針」といいます。）を定め、本方針に基づき独立の立場において利益相反のおそれのある取引等を適切に管理します。加えて、当社は、役職員に対しても、資産運用の受任者として本方針に忠実に業務を遂行することを求めることにより、お客様の運用目的の実現に向けて、全力をあげて貢献します。</p>
+        </div>
+      </div>
+
+      <div class="conf_list nom_group">
+        <div class="container">
+          <section class="conf_item">
+            <h3 class="head_styleLine">1.管理対象とする取引等</h3>
+            <h4 class="head_styleBorder">（1）管理対象とする利益相反のおそれのある取引等</h4>
+            <p class="mb_55">本方針において管理対象とする利益相反のおそれのある取引等とは、当社が、自ら又は運用・管理するお客様の口座において行う取引、権利行使その他の行為であって、当社又は以下に定めるグループ関係会社（以下、総称して「当社等」といいます。）とお客様との間で利害が対立するもの（以下「利益相反取引等」といいます。）を指します。個別の取引等が利益相反取引等に該当するか否かは、利益相反管理統括責任者（下記「2．利益相反の管理体制 (1)利益相反管理統括部署及び利益相反管理統括責任者の設置」に定めます。）が、当該取引等の内容・条件及び諸事情（法令等における禁止行為の該否、正当な理由の有無、お客様の利益を損なうおそれの程度等）を勘案の上、判断します。<br>本方針において、「グループ関係会社」とは、野村グループに属する会社のうち、利益相反管理統括責任者が利益相反管理の観点から管理対象に含める必要があると判断した会社をいいます。</p>
+            <h4 class="head_styleBorder">（2）主たる利益相反取引等の例</h4>
+            <p class="mb_60">利益相反取引等の主な例は、以下の通りです。ただし、これらの例は、利益相反取引等を網羅するものではなく、また、一律にこれらが禁止されるものではありません。</p>
+            <dl class="conf_order">
+              <dt>&#9312; 運用・調査に係る例</dt>
+              <dd>
+                <ul>
+                  <li>・お客様の運用資産と当社の資産を取引すること</li>
+                  <li>・インデックス運用の場合を除き、グループ関係会社が発行する有価証券をお客様の運用資産に組入れること</li>
+                  <li>・グループ関係会社が引受けた有価証券について、取得又は買付けの申込みが予定額に達しないと見込まれる状況下において、当該グループ関係会社の要請を受けて、お客様の運用資産に組み入れること</li>
+                  <li>・お客様の運用資産の売買に係る情報を利用して、当社等の利益を図るために先回りして売買を行うこと</li>
+                </ul>
+              </dd>
+              <dt>&#9313; トレーディングに係る例</dt>
+              <dd>
+                <ul>
+                  <li>・お客様の運用資産を売買するにあたり、より有利な条件を提示しているブローカーが存在するにもかかわらず、グループ関係会社に発注すること</li>
+                </ul>
+              </dd>
+              <dt>&#9314; 商品組成に係る例</dt>
+              <dd>
+                <ul>
+                  <li>・合理性を欠く信託報酬を徴収する等、お客様の利益を不当に害することとなる商品を組成すること</li>
+                </ul>
+              </dd>
+              <dt>&#9315; 情報管理に係る例</dt>
+              <dd>
+                <ul>
+                  <li>・お客様の運用資産に係る情報を知った当社等の役職員が、当該情報を利用して自己又は他のお客様の資産を売買すること</li>
+                  <li>・グループ関係会社との間で、お客様の運用資産に係る情報を授受すること</li>
+                </ul>
+              </dd>
+              <dt>&#9316; その他の例</dt>
+              <dd>
+                <ul>
+                  <li>・グループ関係会社において当社の運用・調査業務と利益相反の立場にあった者が、当社の運用・調査部門に異動すること</li>
+                </ul>
+              </dd>
+            </dl>
+          </section>
+
+          <section class="conf_item">
+            <h3 class="head_styleLine">2.利益相反の管理体制</h3>
+            <h4 class="head_styleBorder">（1）利益相反管理統括部署及び利益相反管理統括責任者の設置</h4>
+            <p class="mb_55">当社のリーガル・コンプライアンス部を利益相反管理統括部署とし、チーフ・コンプライアンス・オフィサーを利益相反管理統括責任者（チーフ・コンフリクト・オフィサー）とします。グループ関係会社との利益相反を回避するため、利益相反管理統括責任者は、原則として、過去5年以内にグループ関係会社において運用・調査業務と利益相反関係にある職に就いたことがない者とします。また、利益相反管理統括責任者及び利益相反管理統括部署は利益相反の有無を判断するに当たって業務担当部門からの独立性を保証され、具体的な案件の処理について、業務担当部門から指揮命令を受けることはなく、利益相反のおそれのある取引等を適切に管理いたします。利益相反管理統括部署は、利益相反取引等の特定及び利益相反管理に係る全社的な管理体制を統括するとともに、グループ関係会社による不当な影響がないかを確認いたします。</p>
+            <h4 class="head_styleBorder">（2）インターナル・オーディット部による内部監査</h4>
+            <p class="mb_55">当社のインターナル・オーディット部は、利益相反管理統括部署をはじめ、利益相反管理に係る業務運営態勢について検証します。</p>
+            <h4 class="head_styleBorder">（3）独立社外取締役を交えた監督体制</h4>
+            <p class="mb_55">当社は、監査等委員会設置会社として、重要な業務執行の決定に係る権限を取締役会において選任した業務執行取締役に大幅に委任し、委任を受けた業務執行取締役が経営の業務執行を担う一方で、取締役会が監査等委員会とともに主として経営を監督する体制とすることで、ガバナンスの透明性を高めます。加えて、経営の透明性と監督の実効性を確保するために、野村グループ外から独立社外取締役を選任します。</p>
+            <h4 class="head_styleBorder">（4）ファンド業務運営諮問会議による投資信託に係る利益相反管理態勢の検証</h4>
+            <p class="mb_50">投資信託に係る利益相反の管理については、監査等委員会の下に独立社外取締役を含む当社等と独立の立場にある者が過半数を占める「ファンド業務運営諮問会議」を設け、フィデューシャリー・デューティー遂行の観点から投資信託の運営及び管理態勢の検証を行うことにより、お客様の利益が不当に損なわれることを防止する体制とします。ファンド業務運営諮問会議は、必要に応じて、経営会議に改善を勧告し、その内容を取締役会及び監査等委員会に報告します。</p>
+            <div class="conf_image mb_60">
+              <h5>投資信託の運営管理に係る利益相反防止体制</h5>
+              <figure><img src="/images/corporate/conflict01.jpg" alt="投資信託の運営管理に係る利益相反防止体制"></figure>
+              <ol>
+                <li>&#9312;経営会議が定める業務分担に基づき、社内の各委員会/各部署が投資信託の運営及び管理を実施。</li>
+                <li>
+                  <p>&#9313;ファンド業務運営諮問会議は、フィデューシャリー・デューティー遂行の観点から投資信託の運営及び管理態勢を検証し、必要に応じて経営会議に改善を勧告し、その内容を取締役会及び監査等委員会に報告。</p>
+                  <p class="ol_indent">*1 独立社外取締役を含む当社等と独立の立場の者は、ファンド業務運営諮問会議の過半数を構成し、これにより会議の独立性を確保。</p></li>
+                <li>&#9314;経営会議は、ファンド業務運営諮問会議から勧告を受けた場合、その内容を踏まえ改善を検討。</li>
+                <li>&#9315;取締役会は、改善が見られない場合には、体制の変更を含め対応策を検討し実施。</li>
+                <li>&#9316;利益相反管理統括部署は、不適切な利益相反取引等が発見された場合には、利益相反管理統括責任者の指示のもと、是正を図るとともに、再発防止策を整備。</li>
+                <li>&#9317;インターナル・オーディット部は、当社の利益相反管理態勢が有効に機能しているかを検証。</li>
+              </ol>
+            </div>
+            <h4 class="head_styleBorder">（5）責任投資委員会によるスチュワードシップ活動と責任投資諮問会議による監視</h4>
+            <p class="mb_55">当社は、スチュワードシップ活動（投資先企業との「目的を持った対話」（エンゲージメント）や議決権行使）において発生する可能性のある利益相反を適切に管理するため、独立性の高い運用・調査関係者で構成される「責任投資委員会」を設置し、スチュワードシップ活動における方針の策定等を行います。委員会の委員は、原則として運用・調査における意思決定に係る者のみとし、利益相反の立場にある者又はそのような者を代弁する可能性のある者を除外します。また、監査等委員会の下に、利益相反管理統括責任者と、独立社外取締役を含む当社等と独立の立場にある者のみによって構成される「責任投資諮問会議」を設け、特に利益相反を伴う議決権行使等のスチュワードシップ活動については、利益相反によりお客様の利益が損なわれることなく意思決定されるよう監視する体制とします。責任投資諮問会議は、必要に応じて、経営会議又は責任投資委員会に改善を勧告し、その内容を取締役会及び監査等委員会に報告します。さらに、責任投資委員会には責任投資諮問会議のメンバーが陪席し、利益相反の観点から問題がある場合は速やかに意見を述べることができるようにすることで、責任投資諮問会議がスチュワードシップ活動に係る利益相反を適切に監視し、未然に防止できる体制とします。</p>
+            <div class="conf_image">
+              <h5>スチュワードシップ活動に係る利益相反防止体制</h5>
+              <figure><img src="/images/corporate/conflict02.jpg?20240701" alt="スチュワードシップ活動に係る利益相反防止体制"></figure>
+              <ol>
+                <li>&#9312;責任投資委員会は、議決権行使等のスチュワードシップ活動を含む責任投資に係る意思決定を実施。</li>
+                <li>
+                  <p>&#9313;責任投資諮問会議は、利益相反防止の観点から議決権行使等のスチュワードシップ活動を検証し、必要に応じて経営会議や責任投資委員会に改善を勧告し、その内容を取締役会及び監査等委員会に報告。</p>
+                  <p class="ol_indent">*1 独立社外取締役を含む当社等と独立の立場にある者は、責任投資諮問会議の過半数を構成し、これにより会議の独立性を確保。また、意思決定プロセスを実効的に検証できるようにするために、責任投資委員会に陪席。</p>
+                </li>
+                <li>&#9314;経営会議又は責任投資委員会は、責任投資諮問会議から勧告を受けた場合、その内容を踏まえ改善を検討。</li>
+                <li>&#9315;取締役会は、改善が見られない場合には、体制の変更を含め対応策を検討し実施。</li>
+                <li>&#9316;利益相反管理統括部署は、不適切な利益相反取引等が発見された場合には、利益相反管理統括責任者の指示のもと、是正を図るとともに、再発防止策を整備。</li>
+                <li>&#9317;インターナル・オーディット部は、当社の利益相反管理態勢が有効に機能しているかを検証。</li>
+              </ol>
+            </div>
+          </section>
+
+          <section class="conf_item">
+            <h3 class="head_styleLine">3.利益相反の管理方法</h3>
+            <p class="mb_60">当社は、フィデューシャリー・デューティーを果たし、常にお客様の利益を第一として行動するため、利益相反取引等を適切に管理します。具体的には、以下の方策に基づき業務運営を進めることにより、潜在的な利益相反が生じることを防止し、また仮に生じた場合であってもお客様の利益を損なうことがないようにします。</p>
+            <h4 class="head_styleBorder">（1）運用・調査における管理方法</h4>
+            <dl class="conf_dl mb_50">
+              <dt>⇒運用・調査における意思決定に係る独立性の確保</dt>
+              <dd>当社では、運用・調査関係者によって構成される投資政策委員会を設けています。当委員会は、当社の投資信託の信託財産、投資一任契約及び投資顧問契約の契約資産のパフォーマンス維持向上のために、運用に係る投資戦略、運用体制及び運用プロセス等に係る事項を協議及び決定することを目的としており、取締役会や経営会議等の経営意思決定機関から分離されます。加えて、当該経営意思決定機関が運用・調査部門における決定に対して直接関与することを禁じることにより、運用・調査における意思決定に係る独立性を確保するとともに、運用・調査に関わる非公開情報が事前に経営側に伝播することを防止します。</dd>
+              <dt>⇒運用・調査業務に係る人材の独立性の確保</dt>
+              <dd>過去5年以内にグループ関係会社で運用・調査業務と利益相反の立場にあった者（例えば引受業務に従事していた者）が、当社の運用・調査部門で業務に従事し、お客様の利益を損なうおそれがあるような野村グループ内の人事異動は禁止します。運用・調査部門に係る個々の人事異動の利益相反の有無は、利益相反管理統括責任者が、人事担当部署の意見を聞いた上で、適切に判断します。</dd>
+              <dt>⇒グループ間における運用・調査に係る情報の遮断</dt>
+              <dd>利益相反の疑いのある野村グループ内の他ビジネス部門と当社の運用・調査部門との間で、利益相反管理統括責任者が承認していない直接接触を禁ずるなど、運用・調査に係る非公開情報を遮断する体制とします。利益相反の疑いのある部門との直接接触が必要な場合は、利益相反管理統括責任者又は利益相反管理統括部署が立ち会うなどの措置を講じています。また、秘密保持の観点から、お客様の口座の個々の投資・運用に係る非公開情報は、法令等で認められる場合を除き、野村グループの他ビジネス部門に開示しない体制とします。</dd>
+              <dt>⇒スチュワードシップ活動における利益相反の回避</dt>
+              <dd>投資信託及び投資顧問口座において保有する株式の議決権の行使については、独立性の高い委員で構成される責任投資委員会が、方針の策定及び最終意思決定に係る責任を有します。グループ関係会社の株主総会の議案及びグループ関係会社が関わる議案については、その事実を明らかにした上で、複数の議決権行使助言会社（グループ関係会社から独立性が認められる会社に限ります。）の意見を参考に、株主利益の観点から、責任投資委員会において議決権行使の判断を行います。責任投資諮問会議ではこの判断の妥当性について検討し、必要に応じて責任投資委員会に対して勧告を行います。責任投資委員会は、責任投資諮問会議から勧告を受けた場合には、議決権行使について再び審議した上で最終判断を行います。</dd>
+            </dl>
+            <h4 class="head_styleBorder">（2）運用・調査以外における管理方法</h4>
+            <dl class="conf_dl">
+              <dt>⇒商品設計・組成における利益相反の回避</dt>
+              <dd>当社の業務では、運用・調査だけでなく、投資信託商品の組成や販売支援においても潜在的な利益相反が生じ得ます。そのため、当社は、売買発注先の選定だけでなく、投資信託報酬水準の決定等においても適切かつ明確な判断基準を定め、これを定期的に組織内で検討し、その執行状況をファンド業務運営諮問会議において検証します。</dd>
+              <dt>⇒役職員と受託資産との間の潜在的利益相反の回避</dt>
+              <dd>法令等により禁止される行為に加え、当社の役職員がお客様との間で利益相反となる行為を行うことを未然に防止するため、当社は、厳格な管理方法を採用します。この中には、役職員による自己投資に対する社内規程による厳しい制限や社外関係者との交際に係る審査手続などが含まれます。これらの確実な実施を担保するため、各部署による管理に加えて利益相反管理統括部署による集約的な管理を実施します。</dd>
+            </dl>
+          </section>
+        </div>
+      </div>
+    </div><!-- /#main -->
+
+    <div id="footer-area">
+  <footer id="site-footer">
+    <div class="container">
+      <div class="logo-footer"><a href="/"><img src="/images2026/logo2026.svg" width="175" height="48" alt="野村アセットマネジメント"></a></div>
+      <nav>
+        <div class="column-block">
+          <div class="column-block">
+            <ul class="footer-nav">
+              <li><a href="/corporate/">会社情報</a></li>
+              <li>
+                <a href="/support/">ユーザーサポート</a>
+                <ul>
+                  <li class="pc"><a href="/support/guide/beginner.html">お気に入りファンドの使い方</a></li>
+                  <li class="sp"><a href="/smt/favorite/favorite_none.html">お気に入りファンドの使い方</a></li>
+                  <li><a href="/support/tel_contact/">お電話でのお問い合わせ</a></li>
+                </ul>
+              </li>
+              <li><a href="/goriyou.html">サイトポリシー</a></li>
+              <li><a href="/sitemap.html">サイトマップ</a></li>
+            </ul>
+            <ul class="footer-nav">
+              <li><a href="/privacy/">個人情報保護方針</a></li>
+              <li><a href="/canvass/">勧誘方針</a></li>
+              <li><a href="/conflict/">利益相反管理方針</a></li>
+              <li><a href="/adr/">苦情処理措置及び紛争解決措置</a></li>
+              <li><a href="/antisocial/">反社会的勢力への対応について</a></li>
+              <li><a href="/order/">投信の一括発注に係る基本方針</a></li>
+              <li><a href="/corporate/service/derivative/">デリバティブ取引等に係る投資制限に関するリスク管理方法</a></li>
+              <li><a href="/lineup/creditrisk/">信用リスク集中回避のための投資制限</a></li>
+            </ul>
+          </div>
+          <ul class="footer-nav">
+            <li><a href="/lineup/pdf/experience.pdf" target="_blank" rel="noopener noreferrer">運用担当者の経験年数等一覧</a></li>
+            <li><a href="/jump_sec.html">証券取引等監視委員会情報提供窓口</a></li>
+            <li><a href="/tokurei/" target="_blank" rel="noopener noreferrer">適格機関投資家等特例業務に関する公衆縦覧</a></li>
+            <li><a href="/koukoku/">電子公告</a></li>
+            <li><a href="/risk_cost.html">投資信託および投資顧問サービスに係るリスク・費用</a></li>
+            <li><a href="/materialpolicy">基準価額の計算過誤等が一定の基準値を超える重大な場合における対応方針（マテリアリティポリシー）</a></li>
+            <li><a href="/special/emp/">新興運用業者促進プログラム（EMP）の取組み</a></li>
+            <li><a href="/pdf/multistakeholder.pdf" target="_blank" rel="noopener noreferrer">マルチステークホルダー方針</a></li>
+          </ul>
+        </div>
+      </nav>
+      <div class="info-footer">
+        <div class="info-text">
+          <ul class="box-sns">
+            <li><a href="/jump.php?L=https://x.com/nomura_am_jp" target="_blank" rel="noopener noreferrer"><img src="/images2026/icon/icon_x.svg" width="30" height="30" alt="X（旧Twitter）"></a></li>
+            <li><a href="/jump.php?L=https://www.youtube.com/channel/UCapg2WzetxzJBpVFXCHcjrw" target="_blank" rel="noopener noreferrer"><img src="/images2026/icon/icon_youtube.svg" width="42" height="30" alt="YouTube"></a></li>
+          </ul>
+          <p>商号：野村アセットマネジメント株式会社<br>
+            金融商品取引業者　関東財務局長（金商）第373号<br>
+            金融商品取引業の種別：投資運用業、投資助言・代理業、第二種金融商品取引業<br>
+            加入協会：一般社団法人資産運用業協会／一般社団法人第二種金融商品取引業協会</p>
+          <p class="copyright">COPYRIGHT &copy; NOMURA ASSET MANAGEMENT CO., LTD. ALL RIGHTS RESERVED.</p>
+        </div>
+        <div class="info-logo">
+          <a href="/jump.php?L=https://www.nomura.com/jp/" target="_blank" rel="noopener noreferrer"><img src="/images2026/logo_nomura.svg" alt="NOMURA 野村グループ" class="pc"><img src="/images2026/logo_nomura_sp.svg" alt="NOMURA 野村グループ" class="sp"></a>
+          <a href="/jump.php?L=https://nomura100th.com/index.html?utm_source=website%26utm_medium=NAM" target="_blank" rel="noopener noreferrer"><img src="/images2026/logo_NomuraHD_100years.svg" alt="野村グループ100周年バナー" class="pc"><img src="/images2026/logo_NomuraHD_100years_sp.svg" alt="NOMURA 野村グループ" class="sp"></a>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+<div class="pagetop"><div class="pagetop-inner"><div class="totop"><a href="javascript:;"></a></div></div></div>
+
+  </div><!-- /#wrapper -->
+
+  <script src="/common/js/jquery-3.7.1.min.js"></script>
+<script src="/common/js/jquery.magnific-popup.min.js"></script>
+<script src="/common/js/header.js?20260328"></script>
+<script src="/common/js/footer.js?20260328"></script>
+<script src="/common/js/main.js?20260328"></script>
+
+
+</body>
+</html>

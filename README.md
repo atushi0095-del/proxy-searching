@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 議決権行使 反対可能性分析アプリ
 
-## Getting Started
+BlackRock Investment Stewardship と三菱UFJ信託銀行を初期対象に、投資家別ガイドライン、企業・取締役・財務データ、推定パターンを分けて表示するMVPです。
 
-First, run the development server:
+## 起動
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+既存サーバーが起動している場合は `http://localhost:3000` を開いてください。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 実装済み
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 網羅的な `issue_type` 分類
+- `guideline_rules` の拡張スキーマ
+- `directors` の役職・独立性・委員会・在任期間・出席率項目
+- `company_governance_metrics`
+- FACT / GUIDELINE / INFERENCE を分けた表示
+- 基準別の抵触可能性一覧
+- 候補者別の論点別スコア
+- BlackRock と三菱UFJ信託銀行の根拠区分の表示
+- 実企業シードデータ: トヨタ自動車、ソニーグループ
 
-## Learn More
+## 主要データ
 
-To learn more about Next.js, take a look at the following resources:
+- `data/guideline_rules.json`: 投資家別ガイドラインルール
+- `data/companies.json`: 企業マスター
+- `data/directors.json`: 取締役候補者データ
+- `data/financial_metrics.json`: ROE等の財務指標
+- `data/company_governance_metrics.json`: 企業単位のガバナンス指標
+- `data/guideline_sources.json`: 公式ソースリンク
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 注意
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+本アプリは分析支援ツールです。実際の行使判断や外部提供前には、各投資家の最新公式PDF、会社招集通知、有価証券報告書、CG報告書、行使結果ファイルを再確認してください。

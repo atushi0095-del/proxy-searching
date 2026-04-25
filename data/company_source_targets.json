@@ -1,0 +1,7 @@
+[
+  {
+    "target_type": "official_ir_page",
+    "document_focus": ["ir_top", "meeting_notice", "annual_securities_report", "corporate_governance_report", "vote_result"],
+    "notes": "company_universe.jsonのsource_urlを起点に、公開IR資料リンク候補を探索する。ログイン不要・公式ページのみ。"
+  }
+]

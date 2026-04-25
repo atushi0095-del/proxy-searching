@@ -1,0 +1,100 @@
+[
+  {
+    "investor_id": "blackrock",
+    "url": "https://www.blackrock.com/jp/individual/ja/about-us/important-information/voting",
+    "encoding": "utf-8",
+    "priority": 1,
+    "notes": "日本語の議決権行使方針・国内株式行使結果リンク。"
+  },
+  {
+    "investor_id": "mufg_trust",
+    "url": "https://www.tr.mufg.jp/houjin/jutaku/about_stewardship.html",
+    "encoding": "shift_jis",
+    "priority": 1,
+    "notes": "方針PDF、個別議案別Excel、代表的な判断事例。"
+  },
+  {
+    "investor_id": "nomura_am",
+    "url": "https://www.nomura-am.co.jp/special/esg/vote/index.html",
+    "encoding": "utf-8",
+    "priority": 1,
+    "notes": "基準PDFと四半期別の個別開示。"
+  },
+  {
+    "investor_id": "resona_am",
+    "url": "https://www.resona-am.co.jp/sustainability/voting.html",
+    "encoding": "utf-8",
+    "priority": 1,
+    "notes": "国内株式基準、改定内容、国内株式・REITの行使結果。"
+  },
+  {
+    "investor_id": "sumitomo_mitsui_trust_am",
+    "url": "https://www.smtam.jp/company/policy/voting/",
+    "encoding": "utf-8",
+    "priority": 1,
+    "notes": "議決権行使の考え方と国内株式基準。"
+  },
+  {
+    "investor_id": "sumitomo_mitsui_trust_am",
+    "url": "https://www.smtam.jp/company/policy/voting/result/",
+    "encoding": "utf-8",
+    "priority": 2,
+    "notes": "国内株式議決権行使結果。"
+  },
+  {
+    "investor_id": "am_one",
+    "url": "https://www.am-one.co.jp/company/voting/",
+    "encoding": "utf-8",
+    "priority": 1,
+    "notes": "国内株式ガイドライン、議案判断基準、個社別開示。"
+  },
+  {
+    "investor_id": "daiwa_am",
+    "url": "https://www.daiwa-am.co.jp/company/stewardship/policy.html",
+    "encoding": "utf-8",
+    "priority": 1,
+    "notes": "議決権行使に関する方針。"
+  },
+  {
+    "investor_id": "daiwa_am",
+    "url": "https://www.daiwa-am.co.jp/company/stewardship/voting-results.html",
+    "encoding": "utf-8",
+    "priority": 2,
+    "notes": "議決権行使結果開示ツール。"
+  },
+  {
+    "investor_id": "amova_am",
+    "url": "https://www.amova-am.com/about/vote/standard",
+    "encoding": "utf-8",
+    "priority": 1,
+    "notes": "国内株式議決権行使基準。"
+  },
+  {
+    "investor_id": "amova_am",
+    "url": "https://www.amova-am.com/about/vote/list/7-academy",
+    "encoding": "utf-8",
+    "priority": 2,
+    "notes": "議決権行使結果。"
+  },
+  {
+    "investor_id": "mufg_am",
+    "url": "https://www.am.mufg.jp/investment_policy/responsible_stewardshipcode.html",
+    "encoding": "utf-8",
+    "priority": 1,
+    "notes": "議決権行使方針、基準見直し、Excel個別開示。"
+  },
+  {
+    "investor_id": "nissay_am",
+    "url": "https://www.nam.co.jp/company/responsibleinvestor/cvr.html",
+    "encoding": "utf-8",
+    "priority": 1,
+    "notes": "方針と判断基準、四半期のPDF/Excel結果。"
+  },
+  {
+    "investor_id": "goldman_sachs_am",
+    "url": "https://am.gs.com/ja-jp/individual/creating-impact/stewardship-code",
+    "encoding": "utf-8",
+    "priority": 1,
+    "notes": "日本語のスチュワードシップ活動・議決権行使ページ。"
+  }
+]
