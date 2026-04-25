@@ -1,5 +1,6 @@
 import collectionPolicy from "@/data/collection_policy.json";
 import oppositionFocus from "@/data/generated/opposition_focus_companies.json";
+import { ProgressDashboard } from "@/components/ProgressDashboard";
 import { investors } from "@/lib/data";
 
 export default function SettingsPage() {
@@ -11,6 +12,8 @@ export default function SettingsPage() {
           GitHub Actionsで週次収集し、公式公開資料のみを低頻度で確認します。反対企業リストは行使結果Excelから生成し、今後の企業データ収集の優先順位に使います。
         </p>
       </section>
+
+      <ProgressDashboard />
 
       <section className="grid gap-4 md:grid-cols-3">
         <div className="rounded-xl border bg-white p-4 shadow-sm">
