@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { GuidelineRuleModalList } from "@/components/GuidelineRuleModalList";
-import { InvestorOppositionTable } from "@/components/InvestorOppositionTable";
+import { InvestorAnalysisWorkspace } from "@/components/InvestorAnalysisWorkspace";
 import { IssueTaxonomyModalList } from "@/components/IssueTaxonomyModalList";
-import { companies, getGuidelineRules, getGuidelineSources, getInvestor } from "@/lib/data";
+import { companies, financialMetrics, getGuidelineRules, getGuidelineSources, getInvestor } from "@/lib/data";
 import { issueTaxonomy } from "@/lib/inference";
 import mufgVoteSummary from "@/data/generated/mufg_vote_summary.json";
 import oppositionRecords from "@/data/generated/investor_opposition_records.json";
@@ -42,7 +42,11 @@ export default async function InvestorPage({ params }: Props) {
         <p className="mt-2 text-sm leading-6 text-slate-600">{investor.notes}</p>
       </section>
 
-      <InvestorOppositionTable investorId={investorId} records={oppositionRecords.records} />
+      <InvestorAnalysisWorkspace
+        investorId={investorId}
+        records={oppositionRecords.records}
+        financialMetrics={financialMetrics}
+      />
 
       <section className="rounded-xl border bg-white p-5 shadow-sm">
         <h2 className="text-lg font-bold">分析対象企業</h2>
