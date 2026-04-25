@@ -15,6 +15,7 @@
     "analyze:daiwa-votes": "node scripts/analyze-daiwa-vote-excel.mjs",
     "seed:sources": "node scripts/seed-source-registry.mjs",
     "profile:sources": "node scripts/profile-downloaded-sources.mjs",
+    "seed:investor-rules": "node scripts/seed-additional-investor-rules.mjs",
     "sync:companies": "node scripts/sync-company-universe.mjs",
     "collect:data": "node scripts/run-data-pipeline.mjs"
   },

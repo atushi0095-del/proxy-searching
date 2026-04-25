@@ -22,6 +22,11 @@ const steps = [
     args: []
   },
   {
+    name: "seed-additional-investor-rules",
+    script: "scripts/seed-additional-investor-rules.mjs",
+    args: []
+  },
+  {
     name: "download-sources",
     script: "scripts/download-sources.mjs",
     args: ["guideline", "vote_result_excel", "--limit=180"]

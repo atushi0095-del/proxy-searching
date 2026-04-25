@@ -8,10 +8,35 @@
     "condition_text": "ROEが3期連続で5%未満の場合、資本効率が低い状態が続いている可能性として確認する。",
     "summary_text": "直近3期のROEがすべて5%未満なら、経営責任を有する取締役への反対可能性を確認します。",
     "original_text": "日本語ガイドラインでは、資本効率・業績に関する基準としてROE等を確認し、責任を有する取締役への反対を検討する趣旨が記載されています。脚注・表現は年度版ごとに確認してください。",
-    "condition_structured": { "issue_type": "low_roe", "metric": "ROE", "period_years": 3, "threshold": 5, "operator": "below", "aggregation": "consecutive", "target_candidates": ["current_president", "current_ceo", "former_president_within_3_years", "representative_chair", "board_chair"] },
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "former_president_within_3_years",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
     "official_target_text": "責任を有する取締役",
-    "target_candidates": ["current_president", "current_ceo", "former_president_within_3_years", "representative_chair", "board_chair"],
-    "target_priority": ["current_president", "current_ceo", "representative_chair", "board_chair"],
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "former_president_within_3_years",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
     "calculation_method": "直近3期のROEを確認し、全期が5%未満なら抵触可能性あり。",
     "lookback_years": 3,
     "threshold_value": 5,
@@ -32,10 +57,28 @@
     "condition_text": "社外取締役の在任期間が12年超の場合、独立性に疑義があるかを確認する。",
     "summary_text": "12年を超えた社外取締役について、本人が反対対象になるかを確認します。MVPでは13年目に入る場合を主判定にしています。",
     "original_text": "日本語ガイドライン上の長期在任・独立性に関する記載を確認し、12年超、12年到達、再任後12年超のどれで反対に転じるかを検証対象にします。",
-    "condition_structured": { "issue_type": "tenure", "metric": "tenure_years", "threshold": 12, "operator": "greater_than", "calculation_patterns": ["A", "B", "C", "D"], "target_candidates": ["specific_outside_director"] },
+    "condition_structured": {
+      "issue_type": "tenure",
+      "metric": "tenure_years",
+      "threshold": 12,
+      "operator": "greater_than",
+      "calculation_patterns": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_candidates": [
+        "specific_outside_director"
+      ]
+    },
     "official_target_text": "独立性に疑義がある社外取締役",
-    "target_candidates": ["specific_outside_director"],
-    "target_priority": ["specific_outside_director"],
+    "target_candidates": [
+      "specific_outside_director"
+    ],
+    "target_priority": [
+      "specific_outside_director"
+    ],
     "calculation_method": "A:12年超、B:12年到達、C:再任後12年超、D:独立性評価のみ、を並列表示。",
     "lookback_years": null,
     "threshold_value": 12,
@@ -56,10 +99,32 @@
     "condition_text": "独立社外取締役比率が基準を下回る場合、取締役会構成に責任を有する取締役への反対可能性を確認する。",
     "summary_text": "独立取締役比率が3分の1未満の場合、議長・指名委員長・経営トップ等を反対候補として確認します。",
     "original_text": "日本語ガイドラインでは、取締役会の独立性・構成に関する基準と、責任を有する取締役への反対可能性が示されています。",
-    "condition_structured": { "issue_type": "board_independence", "metric": "independent_director_ratio", "threshold": 33.3, "threshold_unit": "percent", "operator": "below", "applies_to": "board", "target_candidates": ["current_president", "board_chair", "nominating_committee_chair", "all_directors"] },
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
     "official_target_text": "取締役会構成に責任を有する取締役",
-    "target_candidates": ["current_president", "board_chair", "nominating_committee_chair", "all_directors"],
-    "target_priority": ["nominating_committee_chair", "board_chair", "current_president"],
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
     "calculation_method": "独立取締役数 / 取締役総数。",
     "lookback_years": null,
     "threshold_value": 33.3,
@@ -80,10 +145,29 @@
     "condition_text": "女性取締役が不在の場合、取締役会の多様性に関する懸念として確認する。",
     "summary_text": "女性取締役が0名の場合、指名委員長・議長・経営トップを候補として確認します。",
     "original_text": "日本語ガイドラインでは、取締役会の多様性、特に女性取締役の選任状況に関する期待が記載されています。",
-    "condition_structured": { "issue_type": "gender_diversity", "metric": "female_director_count", "threshold": 1, "operator": "below", "applies_to": "board", "target_candidates": ["nominating_committee_chair", "board_chair", "current_president"] },
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
     "official_target_text": "取締役会構成に責任を有する取締役",
-    "target_candidates": ["nominating_committee_chair", "board_chair", "current_president"],
-    "target_priority": ["nominating_committee_chair", "board_chair", "current_president"],
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
     "calculation_method": "女性取締役数を確認。",
     "lookback_years": null,
     "threshold_value": 1,
@@ -104,10 +188,24 @@
     "condition_text": "取締役会または委員会出席率が75%未満の場合、合理的説明がなければ本人への反対可能性を確認する。",
     "summary_text": "出席率75%未満の取締役本人を反対候補として確認します。",
     "original_text": "日本語ガイドラインでは、取締役会・委員会への出席状況を個別取締役の評価要素として扱う趣旨が記載されています。",
-    "condition_structured": { "issue_type": "attendance", "metric": "attendance_rate", "threshold": 75, "threshold_unit": "percent", "operator": "below", "applies_to": "director", "target_candidates": ["specific_director"] },
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
     "official_target_text": "該当する取締役本人",
-    "target_candidates": ["specific_director"],
-    "target_priority": ["specific_director"],
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
     "calculation_method": "取締役会出席率または委員会出席率を確認。",
     "lookback_years": 1,
     "threshold_value": 75,
@@ -128,10 +226,28 @@
     "condition_text": "社外取締役の長期在任について確認し、一定年数超過の場合は本人を反対対象候補とする。",
     "summary_text": "社外取締役本人の在任年数を確認し、12年超・12年到達・再任後超過のどこで反対するかを検証します。",
     "original_text": "2026年度議決権行使方針の長期在任・独立性関連箇所を確認し、反対に転じる年次と反対対象を行使結果で検証します。",
-    "condition_structured": { "issue_type": "tenure", "metric": "tenure_years", "threshold": 12, "operator": "greater_than", "calculation_patterns": ["A", "B", "C", "D"], "target_candidates": ["specific_outside_director"] },
+    "condition_structured": {
+      "issue_type": "tenure",
+      "metric": "tenure_years",
+      "threshold": 12,
+      "operator": "greater_than",
+      "calculation_patterns": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "target_candidates": [
+        "specific_outside_director"
+      ]
+    },
     "official_target_text": "該当する社外取締役本人",
-    "target_candidates": ["specific_outside_director"],
-    "target_priority": ["specific_outside_director"],
+    "target_candidates": [
+      "specific_outside_director"
+    ],
+    "target_priority": [
+      "specific_outside_director"
+    ],
     "calculation_method": "MVPでは12年超を主判定、12年到達・再任後超過を参考判定として表示。",
     "lookback_years": null,
     "threshold_value": 12,
@@ -152,10 +268,30 @@
     "condition_text": "独立社外取締役比率が3分の1未満の場合、取締役会構成に責任を有する候補者を確認する。",
     "summary_text": "独立社外取締役比率が3分の1未満なら、議長・指名委員長・経営トップを候補として確認します。",
     "original_text": "2026年度議決権行使方針の取締役会構成基準を確認し、反対対象が誰かを行使結果で補正します。",
-    "condition_structured": { "issue_type": "board_independence", "metric": "independent_director_ratio", "threshold": 33.3, "threshold_unit": "percent", "operator": "below", "applies_to": "board", "target_candidates": ["board_chair", "current_president", "nominating_committee_chair"] },
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "board_chair",
+        "current_president",
+        "nominating_committee_chair"
+      ]
+    },
     "official_target_text": "取締役会議長、経営トップ、指名委員長等",
-    "target_candidates": ["board_chair", "current_president", "nominating_committee_chair"],
-    "target_priority": ["board_chair", "nominating_committee_chair", "current_president"],
+    "target_candidates": [
+      "board_chair",
+      "current_president",
+      "nominating_committee_chair"
+    ],
+    "target_priority": [
+      "board_chair",
+      "nominating_committee_chair",
+      "current_president"
+    ],
     "calculation_method": "独立取締役数 / 取締役総数。",
     "lookback_years": null,
     "threshold_value": 33.3,
@@ -176,10 +312,29 @@
     "condition_text": "女性取締役が0名の場合、指名委員長、取締役会議長、経営トップを反対対象候補とする。",
     "summary_text": "女性取締役0名なら、指名委員長・議長・経営トップを候補にします。",
     "original_text": "2026年度議決権行使方針の多様性基準を確認し、女性取締役不在時の反対対象を行使結果で補正します。",
-    "condition_structured": { "issue_type": "gender_diversity", "metric": "female_director_count", "threshold": 1, "operator": "below", "applies_to": "board", "target_candidates": ["nominating_committee_chair", "board_chair", "current_president"] },
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
     "official_target_text": "指名委員長、取締役会議長、経営トップ",
-    "target_candidates": ["nominating_committee_chair", "board_chair", "current_president"],
-    "target_priority": ["nominating_committee_chair", "board_chair", "current_president"],
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
     "calculation_method": "女性取締役数を確認。",
     "lookback_years": null,
     "threshold_value": 1,
@@ -200,10 +355,27 @@
     "condition_text": "独立社外取締役が取締役総数の3分の1未満の場合、取締役会の独立性が不十分と判断する可能性がある。",
     "summary_text": "独立社外取締役比率が33.3%未満の場合に抵触。指名委員長・取締役会議長を優先的に確認します。",
     "original_text": "BlackRockガイドラインでは、取締役会の独立性確保として、独立社外取締役が一定割合以上であることを求める趣旨が記載されています。",
-    "condition_structured": { "issue_type": "outside_director_ratio", "metric": "independent_director_ratio", "threshold": 33.3, "operator": "below", "target_candidates": ["nominating_committee_chair", "board_chair", "current_president"] },
+    "condition_structured": {
+      "issue_type": "outside_director_ratio",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "operator": "below",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
     "official_target_text": "取締役会構成に責任を有する取締役",
-    "target_candidates": ["nominating_committee_chair", "board_chair", "current_president"],
-    "target_priority": ["nominating_committee_chair", "board_chair"],
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair"
+    ],
     "calculation_method": "独立社外取締役数 ÷ 取締役総数。",
     "lookback_years": null,
     "threshold_value": 33.3,
@@ -224,10 +396,25 @@
     "condition_text": "独立社外取締役の比率が3分の1未満の場合、議長・指名委員長を優先確認する。",
     "summary_text": "独立社外取締役比率が33.3%未満の場合、指名委員長・議長を候補として確認します。",
     "original_text": "2026年度議決権行使方針の取締役会構成関連基準を確認し、反対対象を行使結果で補正します。",
-    "condition_structured": { "issue_type": "outside_director_ratio", "metric": "independent_director_ratio", "threshold": 33.3, "operator": "below", "target_candidates": ["nominating_committee_chair", "board_chair"] },
+    "condition_structured": {
+      "issue_type": "outside_director_ratio",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "operator": "below",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair"
+      ]
+    },
     "official_target_text": "指名委員長、取締役会議長",
-    "target_candidates": ["nominating_committee_chair", "board_chair"],
-    "target_priority": ["nominating_committee_chair", "board_chair"],
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair"
+    ],
     "calculation_method": "独立社外取締役数 ÷ 取締役総数。",
     "lookback_years": null,
     "threshold_value": 33.3,
@@ -248,10 +435,24 @@
     "condition_text": "取締役会議長が独立社外取締役でない場合、議長選任に懸念を示す可能性がある。",
     "summary_text": "取締役会議長が独立社外取締役でない場合、議長本人または指名委員長を候補として確認します。",
     "original_text": "BlackRockガイドラインでは、取締役会議長の独立性を重視し、非独立取締役が議長を務める場合に懸念を示す趣旨が記載されています。",
-    "condition_structured": { "issue_type": "board_chair_independence", "metric": "has_independent_board_chair", "operator": "is_false", "target_candidates": ["board_chair", "nominating_committee_chair"] },
+    "condition_structured": {
+      "issue_type": "board_chair_independence",
+      "metric": "has_independent_board_chair",
+      "operator": "is_false",
+      "target_candidates": [
+        "board_chair",
+        "nominating_committee_chair"
+      ]
+    },
     "official_target_text": "非独立の取締役会議長、または指名委員長",
-    "target_candidates": ["board_chair", "nominating_committee_chair"],
-    "target_priority": ["board_chair", "nominating_committee_chair"],
+    "target_candidates": [
+      "board_chair",
+      "nominating_committee_chair"
+    ],
+    "target_priority": [
+      "board_chair",
+      "nominating_committee_chair"
+    ],
     "calculation_method": "has_independent_board_chairフラグを確認。",
     "lookback_years": null,
     "threshold_value": null,
@@ -272,10 +473,22 @@
     "condition_text": "上場会社の取締役兼職数が過多（目安：社外取締役として4社以上、社内取締役として1社以上の兼職）の場合、本人の選任に反対する可能性がある。",
     "summary_text": "兼職数が基準を超える取締役本人を反対候補として確認します（目安：社外4社以上）。",
     "original_text": "BlackRockガイドラインでは、取締役が多数の企業の取締役を兼任する場合に職務遂行能力への懸念を示す趣旨が記載されています。",
-    "condition_structured": { "issue_type": "overboarding", "metric": "listed_company_board_seats", "threshold": 4, "operator": "greater_than_equal", "target_candidates": ["specific_director"] },
+    "condition_structured": {
+      "issue_type": "overboarding",
+      "metric": "listed_company_board_seats",
+      "threshold": 4,
+      "operator": "greater_than_equal",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
     "official_target_text": "当該取締役本人",
-    "target_candidates": ["specific_director"],
-    "target_priority": ["specific_director"],
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
     "calculation_method": "listed_company_board_seatsが4以上の場合に抵触として確認。",
     "lookback_years": null,
     "threshold_value": 4,
@@ -296,10 +509,22 @@
     "condition_text": "上場会社の取締役兼職数が過多の場合（目安：4社以上）、本人を反対対象候補とする。",
     "summary_text": "兼職数4社以上の取締役本人を反対候補として確認します。",
     "original_text": "2026年度議決権行使方針の兼職数関連基準を確認し、反対対象を行使結果で検証します。",
-    "condition_structured": { "issue_type": "overboarding", "metric": "listed_company_board_seats", "threshold": 4, "operator": "greater_than_equal", "target_candidates": ["specific_director"] },
+    "condition_structured": {
+      "issue_type": "overboarding",
+      "metric": "listed_company_board_seats",
+      "threshold": 4,
+      "operator": "greater_than_equal",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
     "official_target_text": "当該取締役本人",
-    "target_candidates": ["specific_director"],
-    "target_priority": ["specific_director"],
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
     "calculation_method": "listed_company_board_seatsが4以上の場合に抵触として確認。",
     "lookback_years": null,
     "threshold_value": 4,
@@ -320,10 +545,21 @@
     "condition_text": "社外取締役として選任されているが、実質的な独立性に疑義がある場合（主要取引先・元従業員・家族関係等）、本人を反対対象として確認する。",
     "summary_text": "独立性欠如フラグが付いた社外取締役本人を反対候補として確認します（招集通知の独立性判断を要確認）。",
     "original_text": "BlackRockガイドラインでは、社外取締役の実質的な独立性を重視し、形式的な独立性認定に疑義がある場合に反対する趣旨が記載されています。",
-    "condition_structured": { "issue_type": "independence_failure", "metric": "is_independent_flag_questionable", "operator": "is_true", "target_candidates": ["specific_outside_director"] },
+    "condition_structured": {
+      "issue_type": "independence_failure",
+      "metric": "is_independent_flag_questionable",
+      "operator": "is_true",
+      "target_candidates": [
+        "specific_outside_director"
+      ]
+    },
     "official_target_text": "独立性に疑義がある当該社外取締役本人",
-    "target_candidates": ["specific_outside_director"],
-    "target_priority": ["specific_outside_director"],
+    "target_candidates": [
+      "specific_outside_director"
+    ],
+    "target_priority": [
+      "specific_outside_director"
+    ],
     "calculation_method": "is_independentがtrueでも、招集通知の独立性判断メモで疑義がある場合に抵触として扱う（将来実装）。",
     "lookback_years": null,
     "threshold_value": null,
@@ -344,13 +580,32 @@
     "condition_text": "PBRが3期連続で1.0倍未満の場合、資本効率・市場評価が低い状態として確認する。",
     "summary_text": "直近3期のPBRがすべて1.0倍未満なら、経営トップ・議長を候補として確認します。",
     "original_text": "BlackRockガイドラインでは、資本効率の観点からPBR等の市場評価指標を参照し、責任を有する取締役への反対を検討する趣旨が含まれています。",
-    "condition_structured": { "issue_type": "low_pbr", "metric": "PBR", "period_years": 3, "threshold": 1.0, "operator": "below", "aggregation": "consecutive", "target_candidates": ["current_president", "current_ceo", "board_chair"] },
+    "condition_structured": {
+      "issue_type": "low_pbr",
+      "metric": "PBR",
+      "period_years": 3,
+      "threshold": 1,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "board_chair"
+      ]
+    },
     "official_target_text": "資本効率に責任を有する経営トップ",
-    "target_candidates": ["current_president", "current_ceo", "board_chair"],
-    "target_priority": ["current_president", "current_ceo"],
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo"
+    ],
     "calculation_method": "直近3期のPBRを確認し、全期が1.0未満なら抵触可能性あり。",
     "lookback_years": 3,
-    "threshold_value": 1.0,
+    "threshold_value": 1,
     "threshold_unit": "倍",
     "applies_to": "企業",
     "source_title": "BlackRock 議決権行使に関するガイドライン（日本株式インデックス運用）2025年5月",
@@ -368,10 +623,25 @@
     "condition_text": "株主総利回り（TSR）が同業種・市場平均を継続的に大幅に下回る場合、業績に責任を有する取締役への反対を検討する。",
     "summary_text": "TSRが業種平均を継続的に下回る場合、経営トップを候補として確認します（TSRデータの収集が必要）。",
     "original_text": "BlackRockガイドラインでは、株主総利回りを含む業績指標を経営評価の観点から参照する趣旨が記載されています。",
-    "condition_structured": { "issue_type": "low_tsr", "metric": "TSR", "comparison": "peer_group", "operator": "below_average", "target_candidates": ["current_president", "current_ceo"] },
+    "condition_structured": {
+      "issue_type": "low_tsr",
+      "metric": "TSR",
+      "comparison": "peer_group",
+      "operator": "below_average",
+      "target_candidates": [
+        "current_president",
+        "current_ceo"
+      ]
+    },
     "official_target_text": "業績に責任を有する経営トップ",
-    "target_candidates": ["current_president", "current_ceo"],
-    "target_priority": ["current_president", "current_ceo"],
+    "target_candidates": [
+      "current_president",
+      "current_ceo"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo"
+    ],
     "calculation_method": "tsr_3y_rank_percentileを確認。下位25%未満で3期継続なら抵触として検討（データ収集後実装）。",
     "lookback_years": 3,
     "threshold_value": 25,
@@ -392,10 +662,24 @@
     "condition_text": "政策保有株式（持ち合い株式）の保有比率が高い場合、資本効率の観点から懸念を示す可能性がある。",
     "summary_text": "政策保有比率が高い場合、経営トップ・指名委員長を候補として確認します（政策保有データの収集が必要）。",
     "original_text": "BlackRockガイドラインでは、政策保有株式の削減を促進する観点から、保有比率の高い企業の経営トップに反対する趣旨が含まれています。",
-    "condition_structured": { "issue_type": "policy_shareholdings", "metric": "policy_shareholdings_ratio", "threshold": 20, "operator": "above", "target_candidates": ["current_president", "current_ceo"] },
+    "condition_structured": {
+      "issue_type": "policy_shareholdings",
+      "metric": "policy_shareholdings_ratio",
+      "threshold": 20,
+      "operator": "above",
+      "target_candidates": [
+        "current_president",
+        "current_ceo"
+      ]
+    },
     "official_target_text": "経営トップ",
-    "target_candidates": ["current_president", "current_ceo"],
-    "target_priority": ["current_president"],
+    "target_candidates": [
+      "current_president",
+      "current_ceo"
+    ],
+    "target_priority": [
+      "current_president"
+    ],
     "calculation_method": "policy_shareholdings_ratioを確認。20%超を抵触目安として確認（閾値は要検証）。",
     "lookback_years": null,
     "threshold_value": 20,
@@ -416,10 +700,21 @@
     "condition_text": "役員報酬・株式報酬の設計が株主利益と整合しない場合、報酬委員長または補償委員会構成員への反対を検討する。",
     "summary_text": "役員報酬の開示・設計に問題がある場合、報酬委員長を候補として確認します（報酬データの収集が必要）。",
     "original_text": "BlackRockガイドラインでは、役員報酬の構造・開示・長期株主価値との整合性を確認し、問題がある場合に報酬委員会関係者に反対する趣旨が記載されています。",
-    "condition_structured": { "issue_type": "compensation", "metric": "pay_performance_alignment", "operator": "assessment_required", "target_candidates": ["compensation_committee_chair"] },
+    "condition_structured": {
+      "issue_type": "compensation",
+      "metric": "pay_performance_alignment",
+      "operator": "assessment_required",
+      "target_candidates": [
+        "compensation_committee_chair"
+      ]
+    },
     "official_target_text": "報酬委員会委員長・委員",
-    "target_candidates": ["compensation_committee_chair"],
-    "target_priority": ["compensation_committee_chair"],
+    "target_candidates": [
+      "compensation_committee_chair"
+    ],
+    "target_priority": [
+      "compensation_committee_chair"
+    ],
     "calculation_method": "役員報酬の開示内容・業績連動比率・還元方針との整合性を確認（現在は手動評価）。",
     "lookback_years": null,
     "threshold_value": null,
@@ -440,10 +735,23 @@
     "condition_text": "買収防衛策（ポイズンピル）の導入・継続に反対。株主利益を損なうと判断した場合、議案に反対する。",
     "summary_text": "買収防衛策の導入・更新議案は原則反対とし、取締役への反対も検討します。",
     "original_text": "BlackRockガイドラインでは、株主の権利を制限する買収防衛策に原則反対する立場が明記されています。",
-    "condition_structured": { "issue_type": "takeover_defense", "metric": "has_takeover_defense", "operator": "is_true", "target_candidates": ["current_president", "board_chair"] },
+    "condition_structured": {
+      "issue_type": "takeover_defense",
+      "metric": "has_takeover_defense",
+      "operator": "is_true",
+      "target_candidates": [
+        "current_president",
+        "board_chair"
+      ]
+    },
     "official_target_text": "買収防衛策導入議案・経営トップ",
-    "target_candidates": ["current_president", "board_chair"],
-    "target_priority": ["current_president"],
+    "target_candidates": [
+      "current_president",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president"
+    ],
     "calculation_method": "買収防衛策の有無を確認。has_takeover_defenseフラグが必要（将来実装）。",
     "lookback_years": null,
     "threshold_value": null,
@@ -464,7 +772,12 @@
     "condition_text": "株主提案への賛否は、提案内容と長期株主価値への影響を個別評価する。気候・人権・ガバナンス関連提案は支持する傾向がある。",
     "summary_text": "株主提案は内容を個別評価します。気候・人権・ガバナンス改善提案は支持傾向。反社会的・短期的利益のみを目的とする提案は反対傾向。",
     "original_text": "BlackRockガイドラインでは、株主提案について長期的な企業価値向上に資するかどうかを個別評価する方針が記載されています。",
-    "condition_structured": { "issue_type": "shareholder_proposal", "metric": "proposal_content", "operator": "case_by_case", "target_candidates": [] },
+    "condition_structured": {
+      "issue_type": "shareholder_proposal",
+      "metric": "proposal_content",
+      "operator": "case_by_case",
+      "target_candidates": []
+    },
     "official_target_text": "（議案内容による個別評価）",
     "target_candidates": [],
     "target_priority": [],
@@ -488,10 +801,24 @@
     "condition_text": "取締役の出席率が75%未満の場合、本人を確認する。",
     "summary_text": "出席率75%未満の取締役本人を反対候補として確認します。",
     "original_text": "2026年度議決権行使方針の出席率関連基準を確認し、本人反対か補正対象かを行使結果で検証します。",
-    "condition_structured": { "issue_type": "attendance", "metric": "attendance_rate", "threshold": 75, "threshold_unit": "percent", "operator": "below", "applies_to": "director", "target_candidates": ["specific_director"] },
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
     "official_target_text": "該当する取締役本人",
-    "target_candidates": ["specific_director"],
-    "target_priority": ["specific_director"],
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
     "calculation_method": "取締役会・委員会出席率を確認。",
     "lookback_years": 1,
     "threshold_value": 75,
@@ -502,5 +829,1745 @@
     "source_page": "国内株式 2026年度議決権行使方針",
     "confidence": "Medium",
     "notes": ""
+  },
+  {
+    "rule_id": "NOMURA_AM_2026_BOARD_INDEPENDENCE",
+    "investor_id": "nomura_am",
+    "guideline_year": 2026,
+    "issue_type": "board_independence",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "summary_text": "野村アセットマネジメントの公開方針・行使結果から、独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "野村アセットマネジメント 議決権行使",
+    "source_url": "https://www.nomura-am.co.jp/special/esg/vote/index.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "NOMURA_AM_2026_GENDER_DIVERSITY",
+    "investor_id": "nomura_am",
+    "guideline_year": 2026,
+    "issue_type": "gender_diversity",
+    "issue_category": "取締役会構成",
+    "condition_text": "女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "summary_text": "野村アセットマネジメントの公開方針・行使結果から、女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 1,
+    "threshold_unit": "名",
+    "applies_to": "取締役会",
+    "source_title": "野村アセットマネジメント 議決権行使",
+    "source_url": "https://www.nomura-am.co.jp/special/esg/vote/index.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "NOMURA_AM_2026_LOW_ROE",
+    "investor_id": "nomura_am",
+    "guideline_year": 2026,
+    "issue_type": "low_roe",
+    "issue_category": "業績・資本効率",
+    "condition_text": "資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "summary_text": "野村アセットマネジメントの公開方針・行使結果から、資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "calculation_method": "直近3期ROEと行使結果理由を照合。投資家ごとの明示閾値は継続抽出。",
+    "lookback_years": 3,
+    "threshold_value": 5,
+    "threshold_unit": "%",
+    "applies_to": "企業",
+    "source_title": "野村アセットマネジメント 議決権行使",
+    "source_url": "https://www.nomura-am.co.jp/special/esg/vote/index.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "NOMURA_AM_2026_ATTENDANCE",
+    "investor_id": "nomura_am",
+    "guideline_year": 2026,
+    "issue_type": "attendance",
+    "issue_category": "個別取締役",
+    "condition_text": "取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "summary_text": "野村アセットマネジメントの公開方針・行使結果から、取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "該当する取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "出席率75%未満を暫定抽出し、公式基準・行使理由と照合。",
+    "lookback_years": null,
+    "threshold_value": 75,
+    "threshold_unit": "%",
+    "applies_to": "取締役",
+    "source_title": "野村アセットマネジメント 議決権行使",
+    "source_url": "https://www.nomura-am.co.jp/special/esg/vote/index.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "RESONA_AM_2026_BOARD_INDEPENDENCE",
+    "investor_id": "resona_am",
+    "guideline_year": 2026,
+    "issue_type": "board_independence",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "summary_text": "りそなアセットマネジメントの公開方針・行使結果から、独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "りそなアセットマネジメント 議決権行使",
+    "source_url": "https://www.resona-am.co.jp/sustainability/voting.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "RESONA_AM_2026_GENDER_DIVERSITY",
+    "investor_id": "resona_am",
+    "guideline_year": 2026,
+    "issue_type": "gender_diversity",
+    "issue_category": "取締役会構成",
+    "condition_text": "女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "summary_text": "りそなアセットマネジメントの公開方針・行使結果から、女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 1,
+    "threshold_unit": "名",
+    "applies_to": "取締役会",
+    "source_title": "りそなアセットマネジメント 議決権行使",
+    "source_url": "https://www.resona-am.co.jp/sustainability/voting.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "RESONA_AM_2026_LOW_ROE",
+    "investor_id": "resona_am",
+    "guideline_year": 2026,
+    "issue_type": "low_roe",
+    "issue_category": "業績・資本効率",
+    "condition_text": "資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "summary_text": "りそなアセットマネジメントの公開方針・行使結果から、資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "calculation_method": "直近3期ROEと行使結果理由を照合。投資家ごとの明示閾値は継続抽出。",
+    "lookback_years": 3,
+    "threshold_value": 5,
+    "threshold_unit": "%",
+    "applies_to": "企業",
+    "source_title": "りそなアセットマネジメント 議決権行使",
+    "source_url": "https://www.resona-am.co.jp/sustainability/voting.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "RESONA_AM_2026_ATTENDANCE",
+    "investor_id": "resona_am",
+    "guideline_year": 2026,
+    "issue_type": "attendance",
+    "issue_category": "個別取締役",
+    "condition_text": "取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "summary_text": "りそなアセットマネジメントの公開方針・行使結果から、取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "該当する取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "出席率75%未満を暫定抽出し、公式基準・行使理由と照合。",
+    "lookback_years": null,
+    "threshold_value": 75,
+    "threshold_unit": "%",
+    "applies_to": "取締役",
+    "source_title": "りそなアセットマネジメント 議決権行使",
+    "source_url": "https://www.resona-am.co.jp/sustainability/voting.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "SUMITOMO_MITSUI_TRUST_AM_2026_BOARD_INDEPENDENCE",
+    "investor_id": "sumitomo_mitsui_trust_am",
+    "guideline_year": 2026,
+    "issue_type": "board_independence",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "summary_text": "三井住友トラスト・アセットマネジメントの公開方針・行使結果から、独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "三井住友トラスト・アセットマネジメント 議決権行使",
+    "source_url": "https://www.smtam.jp/company/policy/voting/",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "SUMITOMO_MITSUI_TRUST_AM_2026_GENDER_DIVERSITY",
+    "investor_id": "sumitomo_mitsui_trust_am",
+    "guideline_year": 2026,
+    "issue_type": "gender_diversity",
+    "issue_category": "取締役会構成",
+    "condition_text": "女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "summary_text": "三井住友トラスト・アセットマネジメントの公開方針・行使結果から、女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 1,
+    "threshold_unit": "名",
+    "applies_to": "取締役会",
+    "source_title": "三井住友トラスト・アセットマネジメント 議決権行使",
+    "source_url": "https://www.smtam.jp/company/policy/voting/",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "SUMITOMO_MITSUI_TRUST_AM_2026_LOW_ROE",
+    "investor_id": "sumitomo_mitsui_trust_am",
+    "guideline_year": 2026,
+    "issue_type": "low_roe",
+    "issue_category": "業績・資本効率",
+    "condition_text": "資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "summary_text": "三井住友トラスト・アセットマネジメントの公開方針・行使結果から、資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "calculation_method": "直近3期ROEと行使結果理由を照合。投資家ごとの明示閾値は継続抽出。",
+    "lookback_years": 3,
+    "threshold_value": 5,
+    "threshold_unit": "%",
+    "applies_to": "企業",
+    "source_title": "三井住友トラスト・アセットマネジメント 議決権行使",
+    "source_url": "https://www.smtam.jp/company/policy/voting/",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "SUMITOMO_MITSUI_TRUST_AM_2026_ATTENDANCE",
+    "investor_id": "sumitomo_mitsui_trust_am",
+    "guideline_year": 2026,
+    "issue_type": "attendance",
+    "issue_category": "個別取締役",
+    "condition_text": "取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "summary_text": "三井住友トラスト・アセットマネジメントの公開方針・行使結果から、取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "該当する取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "出席率75%未満を暫定抽出し、公式基準・行使理由と照合。",
+    "lookback_years": null,
+    "threshold_value": 75,
+    "threshold_unit": "%",
+    "applies_to": "取締役",
+    "source_title": "三井住友トラスト・アセットマネジメント 議決権行使",
+    "source_url": "https://www.smtam.jp/company/policy/voting/",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "AM_ONE_2025_BOARD_INDEPENDENCE",
+    "investor_id": "am_one",
+    "guideline_year": 2025,
+    "issue_type": "board_independence",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "summary_text": "アセットマネジメントOneの公開方針・行使結果から、独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "アセットマネジメントOne 議決権行使における考え方等について",
+    "source_url": "https://www.am-one.co.jp/company/voting/",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "AM_ONE_2025_GENDER_DIVERSITY",
+    "investor_id": "am_one",
+    "guideline_year": 2025,
+    "issue_type": "gender_diversity",
+    "issue_category": "取締役会構成",
+    "condition_text": "女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "summary_text": "アセットマネジメントOneの公開方針・行使結果から、女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 1,
+    "threshold_unit": "名",
+    "applies_to": "取締役会",
+    "source_title": "アセットマネジメントOne 議決権行使における考え方等について",
+    "source_url": "https://www.am-one.co.jp/company/voting/",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "AM_ONE_2025_LOW_ROE",
+    "investor_id": "am_one",
+    "guideline_year": 2025,
+    "issue_type": "low_roe",
+    "issue_category": "業績・資本効率",
+    "condition_text": "資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "summary_text": "アセットマネジメントOneの公開方針・行使結果から、資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "calculation_method": "直近3期ROEと行使結果理由を照合。投資家ごとの明示閾値は継続抽出。",
+    "lookback_years": 3,
+    "threshold_value": 5,
+    "threshold_unit": "%",
+    "applies_to": "企業",
+    "source_title": "アセットマネジメントOne 議決権行使における考え方等について",
+    "source_url": "https://www.am-one.co.jp/company/voting/",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "AM_ONE_2025_ATTENDANCE",
+    "investor_id": "am_one",
+    "guideline_year": 2025,
+    "issue_type": "attendance",
+    "issue_category": "個別取締役",
+    "condition_text": "取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "summary_text": "アセットマネジメントOneの公開方針・行使結果から、取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "該当する取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "出席率75%未満を暫定抽出し、公式基準・行使理由と照合。",
+    "lookback_years": null,
+    "threshold_value": 75,
+    "threshold_unit": "%",
+    "applies_to": "取締役",
+    "source_title": "アセットマネジメントOne 議決権行使における考え方等について",
+    "source_url": "https://www.am-one.co.jp/company/voting/",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "DAIWA_AM_2026_BOARD_INDEPENDENCE",
+    "investor_id": "daiwa_am",
+    "guideline_year": 2026,
+    "issue_type": "board_independence",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "summary_text": "大和アセットマネジメントの公開方針・行使結果から、独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "大和アセットマネジメント 議決権行使に関する方針",
+    "source_url": "https://www.daiwa-am.co.jp/company/stewardship/policy.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "DAIWA_AM_2026_GENDER_DIVERSITY",
+    "investor_id": "daiwa_am",
+    "guideline_year": 2026,
+    "issue_type": "gender_diversity",
+    "issue_category": "取締役会構成",
+    "condition_text": "女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "summary_text": "大和アセットマネジメントの公開方針・行使結果から、女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 1,
+    "threshold_unit": "名",
+    "applies_to": "取締役会",
+    "source_title": "大和アセットマネジメント 議決権行使に関する方針",
+    "source_url": "https://www.daiwa-am.co.jp/company/stewardship/policy.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "DAIWA_AM_2026_LOW_ROE",
+    "investor_id": "daiwa_am",
+    "guideline_year": 2026,
+    "issue_type": "low_roe",
+    "issue_category": "業績・資本効率",
+    "condition_text": "資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "summary_text": "大和アセットマネジメントの公開方針・行使結果から、資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "calculation_method": "直近3期ROEと行使結果理由を照合。投資家ごとの明示閾値は継続抽出。",
+    "lookback_years": 3,
+    "threshold_value": 5,
+    "threshold_unit": "%",
+    "applies_to": "企業",
+    "source_title": "大和アセットマネジメント 議決権行使に関する方針",
+    "source_url": "https://www.daiwa-am.co.jp/company/stewardship/policy.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "DAIWA_AM_2026_ATTENDANCE",
+    "investor_id": "daiwa_am",
+    "guideline_year": 2026,
+    "issue_type": "attendance",
+    "issue_category": "個別取締役",
+    "condition_text": "取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "summary_text": "大和アセットマネジメントの公開方針・行使結果から、取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "該当する取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "出席率75%未満を暫定抽出し、公式基準・行使理由と照合。",
+    "lookback_years": null,
+    "threshold_value": 75,
+    "threshold_unit": "%",
+    "applies_to": "取締役",
+    "source_title": "大和アセットマネジメント 議決権行使に関する方針",
+    "source_url": "https://www.daiwa-am.co.jp/company/stewardship/policy.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "AMOVA_AM_2026_BOARD_INDEPENDENCE",
+    "investor_id": "amova_am",
+    "guideline_year": 2026,
+    "issue_type": "board_independence",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "summary_text": "アモーヴァ・アセットマネジメントの公開方針・行使結果から、独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "アモーヴァ・アセットマネジメント 国内株式議決権行使基準",
+    "source_url": "https://www.amova-am.com/about/vote/standard",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "AMOVA_AM_2026_GENDER_DIVERSITY",
+    "investor_id": "amova_am",
+    "guideline_year": 2026,
+    "issue_type": "gender_diversity",
+    "issue_category": "取締役会構成",
+    "condition_text": "女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "summary_text": "アモーヴァ・アセットマネジメントの公開方針・行使結果から、女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 1,
+    "threshold_unit": "名",
+    "applies_to": "取締役会",
+    "source_title": "アモーヴァ・アセットマネジメント 国内株式議決権行使基準",
+    "source_url": "https://www.amova-am.com/about/vote/standard",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "AMOVA_AM_2026_LOW_ROE",
+    "investor_id": "amova_am",
+    "guideline_year": 2026,
+    "issue_type": "low_roe",
+    "issue_category": "業績・資本効率",
+    "condition_text": "資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "summary_text": "アモーヴァ・アセットマネジメントの公開方針・行使結果から、資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "calculation_method": "直近3期ROEと行使結果理由を照合。投資家ごとの明示閾値は継続抽出。",
+    "lookback_years": 3,
+    "threshold_value": 5,
+    "threshold_unit": "%",
+    "applies_to": "企業",
+    "source_title": "アモーヴァ・アセットマネジメント 国内株式議決権行使基準",
+    "source_url": "https://www.amova-am.com/about/vote/standard",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "AMOVA_AM_2026_ATTENDANCE",
+    "investor_id": "amova_am",
+    "guideline_year": 2026,
+    "issue_type": "attendance",
+    "issue_category": "個別取締役",
+    "condition_text": "取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "summary_text": "アモーヴァ・アセットマネジメントの公開方針・行使結果から、取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "該当する取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "出席率75%未満を暫定抽出し、公式基準・行使理由と照合。",
+    "lookback_years": null,
+    "threshold_value": 75,
+    "threshold_unit": "%",
+    "applies_to": "取締役",
+    "source_title": "アモーヴァ・アセットマネジメント 国内株式議決権行使基準",
+    "source_url": "https://www.amova-am.com/about/vote/standard",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "MUFG_AM_2025_BOARD_INDEPENDENCE",
+    "investor_id": "mufg_am",
+    "guideline_year": 2025,
+    "issue_type": "board_independence",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "summary_text": "三菱UFJアセットマネジメントの公開方針・行使結果から、独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "三菱UFJアセットマネジメント スチュワードシップ活動・議決権行使結果",
+    "source_url": "https://www.am.mufg.jp/investment_policy/responsible_stewardshipcode.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "MUFG_AM_2025_GENDER_DIVERSITY",
+    "investor_id": "mufg_am",
+    "guideline_year": 2025,
+    "issue_type": "gender_diversity",
+    "issue_category": "取締役会構成",
+    "condition_text": "女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "summary_text": "三菱UFJアセットマネジメントの公開方針・行使結果から、女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 1,
+    "threshold_unit": "名",
+    "applies_to": "取締役会",
+    "source_title": "三菱UFJアセットマネジメント スチュワードシップ活動・議決権行使結果",
+    "source_url": "https://www.am.mufg.jp/investment_policy/responsible_stewardshipcode.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "MUFG_AM_2025_LOW_ROE",
+    "investor_id": "mufg_am",
+    "guideline_year": 2025,
+    "issue_type": "low_roe",
+    "issue_category": "業績・資本効率",
+    "condition_text": "資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "summary_text": "三菱UFJアセットマネジメントの公開方針・行使結果から、資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "calculation_method": "直近3期ROEと行使結果理由を照合。投資家ごとの明示閾値は継続抽出。",
+    "lookback_years": 3,
+    "threshold_value": 5,
+    "threshold_unit": "%",
+    "applies_to": "企業",
+    "source_title": "三菱UFJアセットマネジメント スチュワードシップ活動・議決権行使結果",
+    "source_url": "https://www.am.mufg.jp/investment_policy/responsible_stewardshipcode.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "MUFG_AM_2025_ATTENDANCE",
+    "investor_id": "mufg_am",
+    "guideline_year": 2025,
+    "issue_type": "attendance",
+    "issue_category": "個別取締役",
+    "condition_text": "取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "summary_text": "三菱UFJアセットマネジメントの公開方針・行使結果から、取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "該当する取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "出席率75%未満を暫定抽出し、公式基準・行使理由と照合。",
+    "lookback_years": null,
+    "threshold_value": 75,
+    "threshold_unit": "%",
+    "applies_to": "取締役",
+    "source_title": "三菱UFJアセットマネジメント スチュワードシップ活動・議決権行使結果",
+    "source_url": "https://www.am.mufg.jp/investment_policy/responsible_stewardshipcode.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "NISSAY_AM_2026_BOARD_INDEPENDENCE",
+    "investor_id": "nissay_am",
+    "guideline_year": 2026,
+    "issue_type": "board_independence",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "summary_text": "ニッセイアセットマネジメントの公開方針・行使結果から、独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "ニッセイアセットマネジメント 議決権行使について",
+    "source_url": "https://www.nam.co.jp/company/responsibleinvestor/cvr.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "NISSAY_AM_2026_GENDER_DIVERSITY",
+    "investor_id": "nissay_am",
+    "guideline_year": 2026,
+    "issue_type": "gender_diversity",
+    "issue_category": "取締役会構成",
+    "condition_text": "女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "summary_text": "ニッセイアセットマネジメントの公開方針・行使結果から、女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 1,
+    "threshold_unit": "名",
+    "applies_to": "取締役会",
+    "source_title": "ニッセイアセットマネジメント 議決権行使について",
+    "source_url": "https://www.nam.co.jp/company/responsibleinvestor/cvr.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "NISSAY_AM_2026_LOW_ROE",
+    "investor_id": "nissay_am",
+    "guideline_year": 2026,
+    "issue_type": "low_roe",
+    "issue_category": "業績・資本効率",
+    "condition_text": "資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "summary_text": "ニッセイアセットマネジメントの公開方針・行使結果から、資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "calculation_method": "直近3期ROEと行使結果理由を照合。投資家ごとの明示閾値は継続抽出。",
+    "lookback_years": 3,
+    "threshold_value": 5,
+    "threshold_unit": "%",
+    "applies_to": "企業",
+    "source_title": "ニッセイアセットマネジメント 議決権行使について",
+    "source_url": "https://www.nam.co.jp/company/responsibleinvestor/cvr.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "NISSAY_AM_2026_ATTENDANCE",
+    "investor_id": "nissay_am",
+    "guideline_year": 2026,
+    "issue_type": "attendance",
+    "issue_category": "個別取締役",
+    "condition_text": "取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "summary_text": "ニッセイアセットマネジメントの公開方針・行使結果から、取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "該当する取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "出席率75%未満を暫定抽出し、公式基準・行使理由と照合。",
+    "lookback_years": null,
+    "threshold_value": 75,
+    "threshold_unit": "%",
+    "applies_to": "取締役",
+    "source_title": "ニッセイアセットマネジメント 議決権行使について",
+    "source_url": "https://www.nam.co.jp/company/responsibleinvestor/cvr.html",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "GOLDMAN_SACHS_AM_2025_BOARD_INDEPENDENCE",
+    "investor_id": "goldman_sachs_am",
+    "guideline_year": 2025,
+    "issue_type": "board_independence",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "summary_text": "ゴールドマン・サックス・アセット・マネジメントの公開方針・行使結果から、独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "Goldman Sachs Asset Management スチュワードシップ活動・議決権行使について",
+    "source_url": "https://am.gs.com/ja-jp/individual/creating-impact/stewardship-code",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "GOLDMAN_SACHS_AM_2025_GENDER_DIVERSITY",
+    "investor_id": "goldman_sachs_am",
+    "guideline_year": 2025,
+    "issue_type": "gender_diversity",
+    "issue_category": "取締役会構成",
+    "condition_text": "女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "summary_text": "ゴールドマン・サックス・アセット・マネジメントの公開方針・行使結果から、女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 1,
+    "threshold_unit": "名",
+    "applies_to": "取締役会",
+    "source_title": "Goldman Sachs Asset Management スチュワードシップ活動・議決権行使について",
+    "source_url": "https://am.gs.com/ja-jp/individual/creating-impact/stewardship-code",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "GOLDMAN_SACHS_AM_2025_LOW_ROE",
+    "investor_id": "goldman_sachs_am",
+    "guideline_year": 2025,
+    "issue_type": "low_roe",
+    "issue_category": "業績・資本効率",
+    "condition_text": "資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "summary_text": "ゴールドマン・サックス・アセット・マネジメントの公開方針・行使結果から、資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "calculation_method": "直近3期ROEと行使結果理由を照合。投資家ごとの明示閾値は継続抽出。",
+    "lookback_years": 3,
+    "threshold_value": 5,
+    "threshold_unit": "%",
+    "applies_to": "企業",
+    "source_title": "Goldman Sachs Asset Management スチュワードシップ活動・議決権行使について",
+    "source_url": "https://am.gs.com/ja-jp/individual/creating-impact/stewardship-code",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "GOLDMAN_SACHS_AM_2025_ATTENDANCE",
+    "investor_id": "goldman_sachs_am",
+    "guideline_year": 2025,
+    "issue_type": "attendance",
+    "issue_category": "個別取締役",
+    "condition_text": "取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "summary_text": "ゴールドマン・サックス・アセット・マネジメントの公開方針・行使結果から、取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "該当する取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "出席率75%未満を暫定抽出し、公式基準・行使理由と照合。",
+    "lookback_years": null,
+    "threshold_value": 75,
+    "threshold_unit": "%",
+    "applies_to": "取締役",
+    "source_title": "Goldman Sachs Asset Management スチュワードシップ活動・議決権行使について",
+    "source_url": "https://am.gs.com/ja-jp/individual/creating-impact/stewardship-code",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "FIDELITY_JAPAN_2024_BOARD_INDEPENDENCE",
+    "investor_id": "fidelity_japan",
+    "guideline_year": 2024,
+    "issue_type": "board_independence",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "summary_text": "フィディリティ投信の公開方針・行使結果から、独立社外取締役比率が十分でない場合、取締役会構成に責任を持つ取締役を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "board_independence",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "current_president",
+        "board_chair",
+        "nominating_committee_chair",
+        "all_directors"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "board_chair",
+      "nominating_committee_chair",
+      "all_directors"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "フィデリティ・インターナショナル サステナブル・インベスティングに関する議決権行使原則とガイドライン",
+    "source_url": "https://www.fidelity.co.jp/static/japan/pdf/sustainable-investing/SustainableInvestingVotingPrinciples-and-Guidelines2406.pdf",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "FIDELITY_JAPAN_2024_GENDER_DIVERSITY",
+    "investor_id": "fidelity_japan",
+    "guideline_year": 2024,
+    "issue_type": "gender_diversity",
+    "issue_category": "取締役会構成",
+    "condition_text": "女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "summary_text": "フィディリティ投信の公開方針・行使結果から、女性取締役または女性役員が不足する場合、指名委員長・取締役会議長・経営トップを反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "gender_diversity",
+      "metric": "female_director_count",
+      "threshold": 1,
+      "operator": "below",
+      "applies_to": "board",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "calculation_method": "会社開示の構成データと公式方針・行使理由を照合。",
+    "lookback_years": null,
+    "threshold_value": 1,
+    "threshold_unit": "名",
+    "applies_to": "取締役会",
+    "source_title": "フィデリティ・インターナショナル サステナブル・インベスティングに関する議決権行使原則とガイドライン",
+    "source_url": "https://www.fidelity.co.jp/static/japan/pdf/sustainable-investing/SustainableInvestingVotingPrinciples-and-Guidelines2406.pdf",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "FIDELITY_JAPAN_2024_LOW_ROE",
+    "investor_id": "fidelity_japan",
+    "guideline_year": 2024,
+    "issue_type": "low_roe",
+    "issue_category": "業績・資本効率",
+    "condition_text": "資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "summary_text": "フィディリティ投信の公開方針・行使結果から、資本効率または業績が低位にある場合、経営トップ、CEO、代表権付き会長、取締役会議長を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "low_roe",
+      "metric": "ROE",
+      "period_years": 3,
+      "threshold": 5,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo",
+        "representative_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "責任を有する取締役または関連委員会議長",
+    "target_candidates": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo",
+      "representative_chair",
+      "board_chair"
+    ],
+    "calculation_method": "直近3期ROEと行使結果理由を照合。投資家ごとの明示閾値は継続抽出。",
+    "lookback_years": 3,
+    "threshold_value": 5,
+    "threshold_unit": "%",
+    "applies_to": "企業",
+    "source_title": "フィデリティ・インターナショナル サステナブル・インベスティングに関する議決権行使原則とガイドライン",
+    "source_url": "https://www.fidelity.co.jp/static/japan/pdf/sustainable-investing/SustainableInvestingVotingPrinciples-and-Guidelines2406.pdf",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "FIDELITY_JAPAN_2024_ATTENDANCE",
+    "investor_id": "fidelity_japan",
+    "guideline_year": 2024,
+    "issue_type": "attendance",
+    "issue_category": "個別取締役",
+    "condition_text": "取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "summary_text": "フィディリティ投信の公開方針・行使結果から、取締役会または委員会への出席率が低い場合、該当する取締役本人を反対対象候補として確認する。",
+    "original_text": "公式ページおよび個別行使結果の記載を継続抽出中。現段階では、公開済みの議決権行使方針・行使結果に基づく主要論点として登録。",
+    "condition_structured": {
+      "issue_type": "attendance",
+      "metric": "attendance_rate",
+      "threshold": 75,
+      "threshold_unit": "percent",
+      "operator": "below",
+      "applies_to": "director",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "該当する取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "出席率75%未満を暫定抽出し、公式基準・行使理由と照合。",
+    "lookback_years": null,
+    "threshold_value": 75,
+    "threshold_unit": "%",
+    "applies_to": "取締役",
+    "source_title": "フィデリティ・インターナショナル サステナブル・インベスティングに関する議決権行使原則とガイドライン",
+    "source_url": "https://www.fidelity.co.jp/static/japan/pdf/sustainable-investing/SustainableInvestingVotingPrinciples-and-Guidelines2406.pdf",
+    "source_page": "公開方針・行使結果",
+    "confidence": "Medium",
+    "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
   }
 ]

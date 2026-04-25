@@ -11,6 +11,7 @@ import {
 } from "@/lib/data";
 import { runJudgment, issueLabels } from "@/lib/inference";
 import { ExportButton } from "@/components/ExportButton";
+import { InvestorSelect } from "@/components/InvestorSelect";
 import type { InvestorJudgment, IssueAssessment, IssueType, OppositionLevel, VoteResult } from "@/lib/types";
 
 interface Props {
@@ -63,6 +64,7 @@ function VoteViewSelector({
           <Link
             key={option.key}
             href={viewHref(companyCode, meetingYear, investor, option.key)}
+            scroll={false}
             title={option.description}
             className={`rounded border px-3 py-1.5 text-sm ${
               active === option.key ? "bg-slate-900 text-white" : "bg-white text-slate-700 hover:bg-slate-50"
@@ -158,6 +160,7 @@ function InvestorOppositionOverview({
                 <td className="py-3 pr-4">
                   <Link
                     href={`/issues/${row.issue.issue_type}?investor=${row.investor.investor_id}`}
+                    scroll={false}
                     className="text-blue-700 hover:underline"
                   >
                     {issueLabels[row.issue.issue_type as IssueType] ?? row.issue.issue_type}
@@ -476,19 +479,14 @@ export default async function CompanyPage({ params, searchParams }: Props) {
         active={voteView}
       />
 
-      <div className="flex flex-wrap items-center gap-2">
-        {investors.map((item) => (
-          <Link
-            key={item.investor_id}
-            href={`/companies/${company.company_code}?year=${meetingYear}&investor=${item.investor_id}&voteView=${voteView}`}
-            className={`rounded border px-3 py-1.5 text-sm ${investor === item.investor_id ? "bg-slate-900 text-white" : "bg-white text-slate-700"}`}
-          >
-            {item.investor_name}
-          </Link>
-        ))}
-        <Link href={`/companies/${company.company_code}?year=${meetingYear}&voteView=${voteView}`} className="rounded border bg-white px-3 py-1.5 text-sm text-slate-700">
-          両方表示
-        </Link>
+      <div className="flex flex-wrap items-center gap-3">
+        <InvestorSelect
+          investors={investors}
+          companyCode={company.company_code}
+          meetingYear={meetingYear}
+          selectedInvestor={investor}
+          voteView={voteView}
+        />
         <div className="ml-auto">
           <ExportButton judgments={judgments} companyCode={companyCode} meetingYear={meetingYear} />
         </div>
