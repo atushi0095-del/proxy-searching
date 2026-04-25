@@ -23,6 +23,35 @@ function normalizeVote(value) {
   return vote || "不明";
 }
 
+function inferDetailTags(raw) {
+  const haystack = [
+    raw.director_name,
+    raw.role_text,
+    raw.reason,
+    raw.proposal_type,
+  ].map(text).join(" ");
+  const tags = new Set();
+
+  if (haystack.includes("社外")) tags.add("社外取締役等");
+  if (haystack.includes("社内")) tags.add("社内取締役等");
+  if (haystack.includes("独立")) tags.add("独立性関連");
+  if (haystack.includes("女性") || haystack.includes("ジェンダー")) tags.add("女性・ジェンダー");
+  if (haystack.includes("代表取締役会長")) tags.add("代表取締役会長");
+  else if (haystack.includes("会長")) tags.add("会長");
+  if (haystack.includes("社長")) tags.add("社長");
+  if (haystack.includes("CEO")) tags.add("CEO");
+  if (haystack.includes("再任")) tags.add("再任候補");
+  if (haystack.includes("新任")) tags.add("新任候補");
+  if (haystack.includes("親子") || haystack.includes("親会社")) tags.add("親会社・支配株主関連");
+  if (haystack.includes("買収防衛")) tags.add("買収防衛策");
+  if (haystack.includes("政策保有")) tags.add("政策保有株式");
+  if (haystack.includes("出席")) tags.add("出席率");
+  if (haystack.includes("報酬")) tags.add("報酬");
+  if (haystack.includes("資本") || haystack.includes("ROE") || haystack.includes("PBR")) tags.add("資本効率");
+
+  return [...tags];
+}
+
 const records = [];
 const seen = new Set();
 
@@ -37,7 +66,12 @@ for (const fileName of CASE_FILES) {
 
   for (const issue of parsed.issues ?? []) {
     const issueType = text(issue.issue_type) || "other";
-    for (const raw of issue.against_examples ?? []) {
+    const examples = [
+      ...(issue.against_examples ?? []),
+      ...(issue.for_comparison_examples ?? []),
+    ];
+
+    for (const raw of examples) {
       const record = {
         investor_id: text(raw.investor_id),
         company_code: text(raw.company_code),
@@ -48,6 +82,7 @@ for (const fileName of CASE_FILES) {
         director_or_role: text(raw.director_name ?? raw.role_text),
         vote: normalizeVote(raw.vote),
         issue_type: issueType,
+        detail_tags: inferDetailTags(raw),
         reason: text(raw.reason),
         source_url: text(raw.source_url),
         source_title: text(raw.source_title),
