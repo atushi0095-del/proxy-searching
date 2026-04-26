@@ -26,6 +26,7 @@
     "seed:role-history": "node scripts/seed-director-role-history.mjs",
     "sync:companies": "node scripts/sync-company-universe.mjs",
     "collect:data": "node scripts/run-data-pipeline.mjs",
+    "audit:company-facts": "node scripts/audit-company-facts.mjs",
     "check:urls": "node scripts/check-source-urls.mjs",
     "edinet:discover": "node scripts/edinet-discover-filings.mjs",
     "edinet:download": "node scripts/edinet-download-documents.mjs"

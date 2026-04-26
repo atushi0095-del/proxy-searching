@@ -15,6 +15,22 @@ on:
         options:
           - "true"
           - "false"
+      edinet_from:
+        description: "Optional EDINET search start date. Example: 2025-06-01. Blank = last 21 days."
+        required: false
+        default: ""
+      edinet_to:
+        description: "Optional EDINET search end date. Example: 2025-07-31. Blank = today."
+        required: false
+        default: ""
+      edinet_company:
+        description: "Optional securities code for EDINET search. Example: 7203. Blank = all registered companies."
+        required: false
+        default: ""
+      edinet_limit:
+        description: "Maximum EDINET annual report filings to keep."
+        required: false
+        default: "25"
   schedule:
     # GitHub cron uses UTC. JST Monday 08:00 = UTC Sunday 23:00.
     # Scheduled runs can be delayed by GitHub. Keep the job bounded for the free tier.
@@ -36,6 +52,10 @@ jobs:
       DATA_DOWNLOAD_LIMIT: ${{ github.event.inputs.download_limit || '220' }}
       INCLUDE_VOTE_PDFS: ${{ github.event.inputs.include_vote_pdfs || 'true' }}
       EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
+      EDINET_FROM_INPUT: ${{ github.event.inputs.edinet_from || '' }}
+      EDINET_TO_INPUT: ${{ github.event.inputs.edinet_to || '' }}
+      EDINET_COMPANY_INPUT: ${{ github.event.inputs.edinet_company || '' }}
+      EDINET_LIMIT: ${{ github.event.inputs.edinet_limit || '25' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -55,9 +75,19 @@ jobs:
       - name: Discover recent EDINET annual reports
         if: ${{ env.EDINET_API_KEY != '' }}
         run: |
-          FROM_DATE=$(date -u -d "21 days ago" +%F)
-          TO_DATE=$(date -u +%F)
-          npm run edinet:discover -- --from=${FROM_DATE} --to=${TO_DATE} --limit=25 --delay=2000
+          FROM_DATE="${EDINET_FROM_INPUT}"
+          TO_DATE="${EDINET_TO_INPUT}"
+          if [ -z "${FROM_DATE}" ]; then
+            FROM_DATE=$(date -u -d "21 days ago" +%F)
+          fi
+          if [ -z "${TO_DATE}" ]; then
+            TO_DATE=$(date -u +%F)
+          fi
+          EXTRA_ARGS=""
+          if [ -n "${EDINET_COMPANY_INPUT}" ]; then
+            EXTRA_ARGS="--company=${EDINET_COMPANY_INPUT}"
+          fi
+          npm run edinet:discover -- --from=${FROM_DATE} --to=${TO_DATE} --limit=${EDINET_LIMIT} --delay=2000 ${EXTRA_ARGS}
 
       - name: Download recent EDINET documents
         if: ${{ env.EDINET_API_KEY != '' }}
@@ -65,6 +95,9 @@ jobs:
 
       - name: Verify app build
         run: npm run build
+
+      - name: Audit company fact coverage
+        run: npm run audit:company-facts
 
       - name: Commit collected data
         shell: bash
@@ -87,6 +120,7 @@ jobs:
           add_if_exists "data/generated/*_summary.json"
           add_if_exists "data/generated/download_manifest.json" "data/generated/source_registry.json" "data/generated/opposition_focus_companies.json" "data/generated/investor_opposition_summary.json"
           add_if_exists "data/generated/edinet_filings.json" "data/generated/edinet_download_manifest.json"
+          add_if_exists "data/generated/company_fact_coverage.json"
           add_if_exists "data/generated/pipeline_logs/*.json"
           while IFS= read -r file; do
             if [ -f "$file" ]; then
