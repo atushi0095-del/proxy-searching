@@ -59,11 +59,14 @@ function columnForX(x) {
   if (x < 206) return "meeting_type";
   if (x < 231) return "meeting_date";
   if (x < 252) return "proposer";
-  if (x < 335) return "proposal_type";
-  if (x < 360) return "proposal_number";
-  if (x < 375) return "vote";
-  if (x < 513) return "reason";
+  if (x < 345) return "proposal_type";
+  if (x < 370) return "proposal_number";
+  if (x < 531) return "reason";
   return "other_vote";
+}
+
+function isVoteText(value) {
+  return /^(賛成|反対|棄権|白紙委任)/.test(text(value));
 }
 
 function normalizeVoteAndReason(voteValue, reasonValue) {
@@ -155,6 +158,7 @@ async function extractRowsFromPdf(filePath, source) {
       .map(([, lineItems]) => lineItems.sort((a, b) => a.x - b.x));
 
     let current = null;
+    let pendingReason = "";
     for (const lineItems of sortedLines) {
       const lineText = lineItems.map((item) => item.str).join("");
       if (
@@ -168,7 +172,7 @@ async function extractRowsFromPdf(filePath, source) {
       }
 
       const first = lineItems[0];
-      const startsNewRow = first.x <= 30 && /^[0-9A-Z]{3,5}$/.test(first.str);
+      const startsNewRow = first.x <= 45 && /^[0-9A-Z]{3,5}$/.test(first.str);
 
       if (startsNewRow) {
         if (current?.company_code && current?.vote) rows.push(normalizeRow(current));
@@ -177,16 +181,25 @@ async function extractRowsFromPdf(filePath, source) {
           source_url: source?.url ?? "",
           source_file: path.relative(ROOT, filePath).replaceAll("\\", "/"),
           page_number: pageNumber,
+          reason: pendingReason,
         };
+        pendingReason = "";
       }
 
-      if (!current) continue;
+      if (!current) {
+        for (const item of lineItems) {
+          if (item.x >= 370 && item.x < 531) {
+            pendingReason = `${pendingReason}${item.str}`;
+          }
+        }
+        continue;
+      }
 
       if (!startsNewRow) {
         for (const item of lineItems) {
-          if (item.x >= 375 && item.x < 513) {
+          if (item.x >= 370 && item.x < 531) {
             current.reason = `${current.reason ?? ""}${item.str}`;
-          } else if (item.x >= 513) {
+          } else if (item.x >= 531) {
             current.other_vote = `${current.other_vote ?? ""}${item.str}`;
           }
         }
@@ -194,7 +207,7 @@ async function extractRowsFromPdf(filePath, source) {
       }
 
       for (const item of lineItems) {
-        const col = columnForX(item.x);
+        const col = isVoteText(item.str) ? "vote" : columnForX(item.x);
         current[col] = `${current[col] ?? ""}${item.str}`;
       }
     }
@@ -244,9 +257,9 @@ function buildCases(records) {
       return {
         issue_type: issueType,
         against_count: allAgainst.length,
-        against_examples: allAgainst.slice(0, 40),
+        against_examples: allAgainst,
         for_comparison_count: allNearbyFor.length,
-        for_comparison_examples: allNearbyFor.slice(0, 40),
+        for_comparison_examples: allNearbyFor.slice(0, 500),
         inference_hint: "BlackRockの行使理由と同一企業の賛成議案を比較し、公式文言上の抽象的な反対対象を推定するための中間データ。",
       };
     }),
