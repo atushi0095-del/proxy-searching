@@ -67,7 +67,9 @@ jobs:
         run: npm run build
 
       - name: Commit collected data
+        shell: bash
         run: |
+          set -euxo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git restore --staged . || true
@@ -77,10 +79,22 @@ jobs:
           git add data/generated/download_manifest.json data/generated/source_registry.json data/generated/opposition_focus_companies.json data/generated/investor_opposition_summary.json
           git add data/generated/edinet_filings.json data/generated/edinet_download_manifest.json 2>/dev/null || true
           git add data/generated/pipeline_logs/*.json 2>/dev/null || true
+          while IFS= read -r file; do
+            if [ -f "$file" ]; then
+              bytes=$(wc -c < "$file")
+              if [ "$bytes" -gt 90000000 ]; then
+                echo "Unstage oversized generated file: $file ($bytes bytes)"
+                git restore --staged "$file"
+                git checkout -- "$file" 2>/dev/null || true
+              fi
+            fi
+          done < <(git diff --cached --name-only)
+          git status --short
           git diff --cached --stat
           if git diff --cached --quiet; then
             echo "No collected data changes."
           else
             git commit -m "Update proxy vote data"
+            git pull --rebase origin master
             git push
           fi
