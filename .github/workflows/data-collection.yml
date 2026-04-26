@@ -34,6 +34,7 @@ jobs:
     env:
       DATA_DOWNLOAD_LIMIT: ${{ github.event.inputs.download_limit || '220' }}
       INCLUDE_VOTE_PDFS: ${{ github.event.inputs.include_vote_pdfs || 'true' }}
+      EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -50,6 +51,17 @@ jobs:
       - name: Run compliant public-source collection
         run: npm run collect:data
 
+      - name: Discover recent EDINET annual reports
+        if: ${{ env.EDINET_API_KEY != '' }}
+        run: |
+          FROM_DATE=$(date -u -d "21 days ago" +%F)
+          TO_DATE=$(date -u +%F)
+          npm run edinet:discover -- --from=${FROM_DATE} --to=${TO_DATE} --limit=25 --delay=2000
+
+      - name: Download recent EDINET documents
+        if: ${{ env.EDINET_API_KEY != '' }}
+        run: npm run edinet:download -- --limit=10 --type=1 --delay=2000
+
       - name: Verify app build
         run: npm run build
 
@@ -57,7 +69,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json data/generated/*.json data/generated/pipeline_logs/*.json
+          git add data/*.json
+          git add data/generated/*_summary.json data/generated/*_cases.json
+          git add data/generated/download_manifest.json data/generated/source_registry.json data/generated/opposition_focus_companies.json data/generated/investor_opposition_summary.json
+          git add data/generated/edinet_filings.json data/generated/edinet_download_manifest.json 2>/dev/null || true
+          git add data/generated/pipeline_logs/*.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No collected data changes."
           else

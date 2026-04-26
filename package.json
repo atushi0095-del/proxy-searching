@@ -14,15 +14,21 @@
     "analyze:nomura-votes": "node scripts/analyze-nomura-vote-excel.mjs",
     "analyze:resona-votes": "node scripts/analyze-resona-vote-excel.mjs",
     "analyze:daiwa-votes": "node scripts/analyze-daiwa-vote-excel.mjs",
+    "analyze:structured-votes": "node scripts/analyze-structured-vote-files.mjs",
     "analyze:blackrock-votes": "node scripts/analyze-blackrock-vote-pdf.mjs",
+    "import:local-votes": "node scripts/import-local-vote-files.mjs",
     "seed:sources": "node scripts/seed-source-registry.mjs",
     "profile:sources": "node scripts/profile-downloaded-sources.mjs",
     "seed:investor-rules": "node scripts/seed-additional-investor-rules.mjs",
     "build:opposition-focus": "node scripts/build-opposition-focus-companies.mjs",
+    "split:opposition-records": "node scripts/split-opposition-records.mjs",
     "build:opposition-records": "node scripts/build-investor-opposition-records.mjs",
     "seed:role-history": "node scripts/seed-director-role-history.mjs",
     "sync:companies": "node scripts/sync-company-universe.mjs",
-    "collect:data": "node scripts/run-data-pipeline.mjs"
+    "collect:data": "node scripts/run-data-pipeline.mjs",
+    "check:urls": "node scripts/check-source-urls.mjs",
+    "edinet:discover": "node scripts/edinet-discover-filings.mjs",
+    "edinet:download": "node scripts/edinet-download-documents.mjs"
   },
   "dependencies": {
     "next": "16.2.4",
