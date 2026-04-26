@@ -1,9 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
-import zlib from "node:zlib";
-import { promisify } from "node:util";
+import * as pdfjsLib from "pdfjs-dist/legacy/build/pdf.mjs";
 
-const inflate = promisify(zlib.inflate);
 const ROOT = process.cwd();
 const SOURCE_DIR = path.join(ROOT, "data", "generated", "sources");
 const MANIFEST_FILE = path.join(ROOT, "data", "generated", "download_manifest.json");
@@ -11,102 +9,247 @@ const SUMMARY_FILE = path.join(ROOT, "data", "generated", "blackrock_vote_summar
 const CASES_FILE = path.join(ROOT, "data", "generated", "blackrock_vote_cases.json");
 const TEXT_SAMPLES_FILE = path.join(ROOT, "data", "generated", "blackrock_vote_text_samples.json");
 
-function decodePdfLiteral(raw) {
-  return raw
-    .replace(/\\n/g, "\n")
-    .replace(/\\r/g, "\n")
-    .replace(/\\t/g, "\t")
-    .replace(/\\([()\\])/g, "$1")
-    .replace(/\\([0-7]{1,3})/g, (_, octal) => String.fromCharCode(Number.parseInt(octal, 8)));
+const ISSUE_PATTERNS = [
+  ["takeover_defense", ["買収防衛", "ポイズンピル"]],
+  ["shareholder_proposal", ["株主提出", "株主提案"]],
+  ["policy_shareholdings", ["政策保有", "保有株式"]],
+  ["low_roe", ["ROE", "業績不振", "資本効率", "経営責任者", "株主資本"]],
+  ["low_pbr", ["PBR"]],
+  ["low_tsr", ["TSR", "株価"]],
+  ["board_independence", ["独立した社外取締役", "独立な社外取締役", "経営監視", "取締役会"]],
+  ["independence_failure", ["独立と認められない", "独立性"]],
+  ["gender_diversity", ["女性", "ジェンダー", "多様性"]],
+  ["attendance", ["出席"]],
+  ["overboarding", ["兼任", "兼職"]],
+  ["compensation", ["報酬", "賞与", "退職慰労金", "ストックオプション"]],
+  ["tenure", ["在任", "任期", "12年"]],
+];
+
+function text(value) {
+  return String(value ?? "").trim();
 }
 
-function decodeHexString(hex) {
-  const clean = hex.replace(/\s+/g, "");
-  if (clean.length < 2 || clean.length % 2 !== 0) return "";
-  const bytes = Buffer.from(clean, "hex");
-  if (bytes[0] === 0xfe && bytes[1] === 0xff) return bytes.subarray(2).toString("utf16le").replace(/\u0000/g, "");
-  if (bytes.includes(0)) {
-    const chars = [];
-    for (let i = 0; i < bytes.length - 1; i += 2) chars.push(String.fromCharCode(bytes.readUInt16BE(i)));
-    return chars.join("");
-  }
-  return bytes.toString("utf8");
+function compact(value) {
+  return text(value)
+    .replace(/\s+/g, "")
+    .replace(/\d+\s*\/\s*\d+ページ/g, "")
+    .trim();
 }
 
-async function inflateStreams(buffer) {
-  const binary = buffer.toString("latin1");
-  const chunks = [];
-  let cursor = 0;
-  while (true) {
-    const streamIndex = binary.indexOf("stream", cursor);
-    if (streamIndex < 0) break;
-    const endIndex = binary.indexOf("endstream", streamIndex);
-    if (endIndex < 0) break;
-    const headerStart = Math.max(0, binary.lastIndexOf("<<", streamIndex));
-    const header = binary.slice(headerStart, streamIndex);
-    let dataStart = streamIndex + "stream".length;
-    if (binary[dataStart] === "\r" && binary[dataStart + 1] === "\n") dataStart += 2;
-    else if (binary[dataStart] === "\n" || binary[dataStart] === "\r") dataStart += 1;
-    const data = buffer.subarray(dataStart, endIndex);
-    if (header.includes("FlateDecode")) {
-      try {
-        chunks.push((await inflate(data)).toString("latin1"));
-      } catch {
-        // Some PDFs contain non-standard stream wrappers. Keep scanning other streams.
-      }
+function addCount(map, key) {
+  map[key] = (map[key] ?? 0) + 1;
+}
+
+function classifyIssue(reason, proposalType, proposer) {
+  const haystack = `${reason ?? ""} ${proposalType ?? ""} ${proposer ?? ""}`;
+  if (proposer === "株主") return ["shareholder_proposal"];
+  const matched = ISSUE_PATTERNS
+    .filter(([, terms]) => terms.some((term) => haystack.includes(term)))
+    .map(([issueType]) => issueType);
+  if (matched.length > 0) return matched;
+  if (proposalType.includes("買収防衛")) return ["takeover_defense"];
+  if (proposalType.includes("役員報酬") || proposalType.includes("退職慰労金")) return ["compensation"];
+  if (proposalType.includes("取締役") || proposalType.includes("監査役")) return ["board_independence"];
+  return ["other"];
+}
+
+function columnForX(x) {
+  if (x < 48) return "company_code";
+  if (x < 180) return "company_name";
+  if (x < 206) return "meeting_type";
+  if (x < 231) return "meeting_date";
+  if (x < 252) return "proposer";
+  if (x < 335) return "proposal_type";
+  if (x < 360) return "proposal_number";
+  if (x < 375) return "vote";
+  if (x < 513) return "reason";
+  return "other_vote";
+}
+
+function normalizeVoteAndReason(voteValue, reasonValue) {
+  const rawVote = compact(voteValue);
+  const rawReason = compact(reasonValue);
+  const voteWords = ["白紙委任", "棄権", "反対", "賛成"];
+
+  for (const voteWord of voteWords) {
+    if (rawVote.startsWith(voteWord)) {
+      const extra = rawVote.slice(voteWord.length).trim();
+      const reasonPrefix = extra && !/^\d+$/.test(extra) ? extra : "";
+      return {
+        vote: voteWord,
+        reason: `${reasonPrefix}${rawReason}`.trim(),
+      };
     }
-    cursor = endIndex + "endstream".length;
   }
-  return chunks;
-}
 
-function extractTextFromStream(stream) {
-  const parts = [];
-  for (const match of stream.matchAll(/\(((?:\\.|[^\\)])*)\)\s*Tj/g)) {
-    parts.push(decodePdfLiteral(match[1]));
-  }
-  for (const match of stream.matchAll(/\[((?:.|\n|\r)*?)\]\s*TJ/g)) {
-    const arrayText = [];
-    for (const literal of match[1].matchAll(/\(((?:\\.|[^\\)])*)\)/g)) arrayText.push(decodePdfLiteral(literal[1]));
-    for (const hex of match[1].matchAll(/<([0-9A-Fa-f\s]+)>/g)) arrayText.push(decodeHexString(hex[1]));
-    if (arrayText.length) parts.push(arrayText.join(""));
-  }
-  for (const match of stream.matchAll(/<([0-9A-Fa-f\s]+)>\s*Tj/g)) {
-    parts.push(decodeHexString(match[1]));
-  }
-  return parts.join("\n");
-}
-
-function classifyText(text) {
-  const issueTypes = new Set();
-  if (/ROE|資本効率|資本コスト|PBR/.test(text)) issueTypes.add("low_roe");
-  if (/政策保有|保有株式/.test(text)) issueTypes.add("policy_shareholdings");
-  if (/独立|社外取締役|取締役会/.test(text)) issueTypes.add("board_independence");
-  if (/女性|ジェンダー/.test(text)) issueTypes.add("gender_diversity");
-  if (/在任|任期|12年/.test(text)) issueTypes.add("tenure");
-  if (/報酬|賞与|株式報酬/.test(text)) issueTypes.add("compensation");
-  if (/買収防衛|ポイズンピル/.test(text)) issueTypes.add("takeover_defense");
-  return [...issueTypes];
-}
-
-function summarizePdfText(text) {
   return {
-    text_length: text.length,
-    has_text_layer: text.replace(/\s+/g, "").length > 100,
-    detected_issue_types: classifyText(text),
-    contains_against: text.includes("反対"),
-    contains_for: text.includes("賛成"),
+    vote: rawVote || "不明",
+    reason: rawReason,
   };
 }
 
-async function parsePdf(filePath) {
-  const buffer = await fs.readFile(filePath);
-  const streams = await inflateStreams(buffer);
-  const text = streams.map(extractTextFromStream).filter(Boolean).join("\n");
+function normalizeRow(row) {
+  const { vote, reason } = normalizeVoteAndReason(row.vote, row.reason);
   return {
-    file_path: path.relative(ROOT, filePath).replaceAll("\\", "/"),
-    ...summarizePdfText(text),
-    text_sample: text.replace(/\s+/g, " ").slice(0, 1200),
+    investor_id: "blackrock",
+    source_title: row.source_title,
+    source_url: row.source_url,
+    source_file: row.source_file,
+    page_number: row.page_number,
+    company_code: compact(row.company_code),
+    company_name: compact(row.company_name),
+    meeting_type: compact(row.meeting_type),
+    meeting_date: compact(row.meeting_date),
+    proposer: compact(row.proposer),
+    proposal_type: compact(row.proposal_type),
+    proposal_number: compact(row.proposal_number),
+    sub_proposal_number: "",
+    role_text: "",
+    vote,
+    reason,
+    other_vote_note: compact(row.other_vote),
+    issue_types: classifyIssue(reason, row.proposal_type, row.proposer),
+  };
+}
+
+async function extractRowsFromPdf(filePath, source) {
+  const data = new Uint8Array(await fs.readFile(filePath));
+  const doc = await pdfjsLib.getDocument({
+    data,
+    useWorkerFetch: false,
+    isEvalSupported: false,
+    disableFontFace: true,
+  }).promise;
+  const rows = [];
+  const textSamples = [];
+
+  for (let pageNumber = 1; pageNumber <= doc.numPages; pageNumber += 1) {
+    const page = await doc.getPage(pageNumber);
+    const content = await page.getTextContent();
+    const items = content.items
+      .map((item) => ({
+        str: text(item.str),
+        x: Math.round(item.transform[4]),
+        y: Math.round(item.transform[5]),
+      }))
+      .filter((item) => item.str);
+
+    if (pageNumber <= 2) {
+      textSamples.push(items.slice(0, 80).map((item) => item.str).join(" "));
+    }
+
+    const pageText = items.map((item) => item.str).join("");
+    if (!pageText.includes("証券コード") || !pageText.includes("行使理由")) {
+      continue;
+    }
+
+    const lines = new Map();
+    for (const item of items) {
+      const y = Math.round(item.y);
+      if (!lines.has(y)) lines.set(y, []);
+      lines.get(y).push(item);
+    }
+
+    const sortedLines = [...lines.entries()]
+      .sort((a, b) => b[0] - a[0])
+      .map(([, lineItems]) => lineItems.sort((a, b) => a.x - b.x));
+
+    let current = null;
+    for (const lineItems of sortedLines) {
+      const lineText = lineItems.map((item) => item.str).join("");
+      if (
+        !lineText ||
+        lineText.includes("証券コード") ||
+        lineText.includes("議決権行使結果の個別開示") ||
+        /^\d+\s*\/\s*\d+ページ$/.test(lineText) ||
+        lineText.includes("ページ")
+      ) {
+        continue;
+      }
+
+      const first = lineItems[0];
+      const startsNewRow = first.x <= 30 && /^[0-9A-Z]{3,5}$/.test(first.str);
+
+      if (startsNewRow) {
+        if (current?.company_code && current?.vote) rows.push(normalizeRow(current));
+        current = {
+          source_title: source?.title ?? path.basename(filePath),
+          source_url: source?.url ?? "",
+          source_file: path.relative(ROOT, filePath).replaceAll("\\", "/"),
+          page_number: pageNumber,
+        };
+      }
+
+      if (!current) continue;
+
+      if (!startsNewRow) {
+        for (const item of lineItems) {
+          if (item.x >= 375 && item.x < 513) {
+            current.reason = `${current.reason ?? ""}${item.str}`;
+          } else if (item.x >= 513) {
+            current.other_vote = `${current.other_vote ?? ""}${item.str}`;
+          }
+        }
+        continue;
+      }
+
+      for (const item of lineItems) {
+        const col = columnForX(item.x);
+        current[col] = `${current[col] ?? ""}${item.str}`;
+      }
+    }
+    if (current?.company_code && current?.vote) rows.push(normalizeRow(current));
+  }
+
+  return { rows, text_sample: textSamples.join("\n").slice(0, 1600), pages: doc.numPages };
+}
+
+function summarize(records, profiles) {
+  const byVote = {};
+  const byIssueType = {};
+  const byProposalType = {};
+  for (const record of records) {
+    addCount(byVote, record.vote);
+    addCount(byProposalType, `${record.proposal_type} / ${record.vote}`);
+    for (const issueType of record.issue_types) addCount(byIssueType, `${issueType} / ${record.vote}`);
+  }
+  return {
+    investor_id: "blackrock",
+    generated_at: new Date().toISOString(),
+    source_format: "PDF",
+    parser_status: records.length > 0
+      ? "PDFから個別行使結果テーブルを抽出済み。行使理由がない行は議案分類ベースで推定論点を付与。"
+      : "PDF取得済みだが個別行使結果テーブルを抽出できていません。",
+    total_files: profiles.length,
+    text_layer_files: profiles.filter((profile) => profile.text_length > 100).length,
+    total_records: records.length,
+    by_vote: byVote,
+    by_issue_type: byIssueType,
+    by_proposal_type: byProposalType,
+  };
+}
+
+function buildCases(records) {
+  const issueTypes = [...new Set(records.flatMap((record) => record.issue_types))]
+    .filter((issueType) => issueType !== "other")
+    .sort();
+  return {
+    investor_name: "BlackRock Investment",
+    generated_at: new Date().toISOString(),
+    parser_status: "BlackRock PDFの個別行使結果から抽出した中間データ。",
+    issues: issueTypes.map((issueType) => {
+      const allAgainst = records.filter((record) => record.vote === "反対" && record.issue_types.includes(issueType));
+      const companyCodes = new Set(allAgainst.slice(0, 120).map((record) => record.company_code));
+      const allNearbyFor = records.filter((record) => record.vote === "賛成" && companyCodes.has(record.company_code));
+      return {
+        issue_type: issueType,
+        against_count: allAgainst.length,
+        against_examples: allAgainst.slice(0, 40),
+        for_comparison_count: allNearbyFor.length,
+        for_comparison_examples: allNearbyFor.slice(0, 40),
+        inference_hint: "BlackRockの行使理由と同一企業の賛成議案を比較し、公式文言上の抽象的な反対対象を推定するための中間データ。",
+      };
+    }),
   };
 }
 
@@ -116,46 +259,48 @@ const files = manifest
   .map((item) => item.file_name)
   .filter((fileName, index, self) => self.indexOf(fileName) === index);
 
+const records = [];
 const profiles = [];
 for (const fileName of files) {
   const filePath = path.join(SOURCE_DIR, fileName);
   const source = manifest.find((item) => item.file_name === fileName);
-  const profile = await parsePdf(filePath);
-  profiles.push({
-    investor_id: "blackrock",
-    source_title: source?.title ?? fileName,
-    source_url: source?.url ?? "",
-    source_file: profile.file_path,
-    ...profile,
-  });
-  console.log(`Profiled ${fileName}: ${profile.text_length} chars`);
+  try {
+    const parsed = await extractRowsFromPdf(filePath, source);
+    records.push(...parsed.rows);
+    profiles.push({
+      investor_id: "blackrock",
+      source_title: source?.title ?? fileName,
+      source_url: source?.url ?? "",
+      source_file: path.relative(ROOT, filePath).replaceAll("\\", "/"),
+      pages: parsed.pages,
+      text_length: parsed.text_sample.length,
+      extracted_rows: parsed.rows.length,
+      parser_note: "PDFの編集・ロック解除・パスワード解除は行わず、通常抽出できるテキスト層のみを使用。",
+      text_sample: parsed.text_sample,
+    });
+    console.log(`Parsed ${parsed.rows.length} rows from ${fileName}`);
+  } catch (error) {
+    const message = error?.message ?? String(error);
+    profiles.push({
+      investor_id: "blackrock",
+      source_title: source?.title ?? fileName,
+      source_url: source?.url ?? "",
+      source_file: path.relative(ROOT, filePath).replaceAll("\\", "/"),
+      pages: 0,
+      text_length: 0,
+      extracted_rows: 0,
+      parser_note: message.includes("Password")
+        ? "パスワード付きPDFのためスキップ。解除・回避処理は実行しない。"
+        : `PDF通常抽出に失敗したためスキップ: ${message}`,
+      text_sample: "",
+    });
+    console.warn(`Skipped ${fileName}: ${message}`);
+  }
 }
 
-const summary = {
-  investor_id: "blackrock",
-  generated_at: new Date().toISOString(),
-  source_format: "PDF",
-  parser_status: files.length === 0
-    ? "PDF未ダウンロード"
-    : profiles.some((profile) => profile.has_text_layer)
-      ? "PDFテキスト層の抽出まで完了。行単位の会社・議案テーブル化は次工程。"
-      : "PDF取得済み。簡易テキスト抽出では本文を取得できないため、OCRまたはPDF表専用パーサが必要。",
-  total_files: files.length,
-  text_layer_files: profiles.filter((profile) => profile.has_text_layer).length,
-  detected_issue_types: [...new Set(profiles.flatMap((profile) => profile.detected_issue_types))].sort(),
-};
-
-const cases = {
-  investor_name: "BlackRock Investment",
-  generated_at: summary.generated_at,
-  parser_status: summary.parser_status,
-  source_files: profiles.map((profile) => profile.source_file),
-  issues: [],
-};
-
-await fs.writeFile(SUMMARY_FILE, `${JSON.stringify(summary, null, 2)}\n`, "utf8");
-await fs.writeFile(CASES_FILE, `${JSON.stringify(cases, null, 2)}\n`, "utf8");
-await fs.writeFile(TEXT_SAMPLES_FILE, `${JSON.stringify({ generated_at: summary.generated_at, profiles }, null, 2)}\n`, "utf8");
+await fs.writeFile(SUMMARY_FILE, `${JSON.stringify(summarize(records, profiles), null, 2)}\n`, "utf8");
+await fs.writeFile(CASES_FILE, `${JSON.stringify(buildCases(records), null, 2)}\n`, "utf8");
+await fs.writeFile(TEXT_SAMPLES_FILE, `${JSON.stringify({ generated_at: new Date().toISOString(), profiles }, null, 2)}\n`, "utf8");
 
 console.log(`Wrote ${path.relative(ROOT, SUMMARY_FILE)}`);
 console.log(`Wrote ${path.relative(ROOT, CASES_FILE)}`);
