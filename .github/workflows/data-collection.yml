@@ -104,6 +104,5 @@ jobs:
             echo "No collected data changes."
           else
             git commit -m "Update proxy vote data"
-            git pull --rebase origin master
             git push
           fi
