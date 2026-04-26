@@ -24,7 +24,7 @@ function normalizeVote(value) {
   return vote || "不明";
 }
 
-function inferDetailTags(raw) {
+function inferDetailTags(raw, issueType = "") {
   const haystack = [
     raw.director_name,
     raw.role_text,
@@ -49,6 +49,15 @@ function inferDetailTags(raw) {
   if (haystack.includes("出席")) tags.add("出席率");
   if (haystack.includes("報酬")) tags.add("報酬");
   if (haystack.includes("資本") || haystack.includes("ROE") || haystack.includes("PBR")) tags.add("資本効率");
+  if (issueType === "shareholder_proposal") tags.add("株主提案");
+  if (issueType === "takeover_defense") tags.add("買収防衛策");
+  if (issueType === "policy_shareholdings") tags.add("政策保有株式");
+  if (issueType === "tenure") tags.add("在任期間");
+  if (issueType === "board_independence") tags.add("取締役会構成");
+  if (issueType === "independence_failure") tags.add("独立性関連");
+  if (issueType === "gender_diversity") tags.add("女性・ジェンダー");
+  if (issueType === "compensation") tags.add("報酬");
+  if (issueType === "low_roe" || issueType === "low_pbr" || issueType === "low_tsr") tags.add("資本効率");
 
   return [...tags];
 }
@@ -83,7 +92,7 @@ for (const fileName of CASE_FILES) {
         director_or_role: text(raw.director_name ?? raw.role_text),
         vote: normalizeVote(raw.vote),
         issue_type: issueType,
-        detail_tags: inferDetailTags(raw),
+        detail_tags: inferDetailTags(raw, issueType),
         reason: text(raw.reason),
         source_url: text(raw.source_url),
         source_title: text(raw.source_title),

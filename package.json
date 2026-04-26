@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "dev:proxy": "next dev --port 3010 --hostname 127.0.0.1",
     "build": "next build",
     "start": "next start",
     "validate": "npx tsx scripts/validate-data.ts",
