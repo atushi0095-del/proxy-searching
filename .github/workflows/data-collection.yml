@@ -71,12 +71,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git restore --staged . || true
-          git checkout -- data/generated/investor_opposition_records.json 2>/dev/null || true
+          git checkout -- data/generated/investor_opposition_records.json data/generated/*_cases.json 2>/dev/null || true
           git add data/*.json
-          git add data/generated/*_summary.json data/generated/*_cases.json
+          git add data/generated/*_summary.json
           git add data/generated/download_manifest.json data/generated/source_registry.json data/generated/opposition_focus_companies.json data/generated/investor_opposition_summary.json
           git add data/generated/edinet_filings.json data/generated/edinet_download_manifest.json 2>/dev/null || true
           git add data/generated/pipeline_logs/*.json 2>/dev/null || true
+          git diff --cached --stat
           if git diff --cached --quiet; then
             echo "No collected data changes."
           else
