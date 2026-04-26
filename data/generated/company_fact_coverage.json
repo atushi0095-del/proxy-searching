@@ -1,12 +1,12 @@
 {
   "summary": {
-    "generated_at": "2026-04-26T22:50:49.924Z",
+    "generated_at": "2026-04-26T23:31:16.066Z",
     "company_count": 75,
-    "with_financial_metrics": 23,
+    "with_financial_metrics": 24,
     "with_directors": 9,
     "with_governance_metrics": 9,
     "with_any_evidence_url": 26,
-    "high_priority_missing": 54
+    "high_priority_missing": 53
   },
   "rows": [
     {
@@ -1232,31 +1232,6 @@
       "priority_score": 15
     },
     {
-      "company_code": "2914",
-      "company_name": "日本たばこ産業株式会社",
-      "market": "東証プライム",
-      "sector": "食料品",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 1,
-        "notice_of_meeting": 1,
-        "corporate_governance_report": 1,
-        "company_vote_result": 1,
-        "with_url": 1
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics"
-      ],
-      "priority_score": 13
-    },
-    {
       "company_code": "4661",
       "company_name": "株式会社オリエンタルランド",
       "market": "東証プライム",
@@ -1413,6 +1388,35 @@
         "evidence_urls"
       ],
       "priority_score": 11
+    },
+    {
+      "company_code": "2914",
+      "company_name": "日本たばこ産業株式会社",
+      "market": "東証プライム",
+      "sector": "食料品",
+      "financial_metric_count": 4,
+      "financial_years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 1,
+        "with_url": 1
+      },
+      "missing": [
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 9
     },
     {
       "company_code": "4063",
@@ -1773,8 +1777,8 @@
         "annual_securities_report": 1,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
-        "company_vote_result": 0,
-        "with_url": 3
+        "company_vote_result": 1,
+        "with_url": 1
       },
       "missing": [],
       "priority_score": 0
