@@ -5,12 +5,20 @@ const ROOT = process.cwd();
 const COMPANIES_FILE = path.join(ROOT, "data", "companies.json");
 const DOCUMENT_SOURCES_FILE = path.join(ROOT, "data", "document_sources.json");
 const TARGET_LIMIT = Number(process.argv.find((arg) => arg.startsWith("--limit="))?.split("=")[1] ?? 20);
+const TARGET_OFFSET = Number(process.argv.find((arg) => arg.startsWith("--offset="))?.split("=")[1] ?? 0);
 
 const PRIORITY_CODES = [
   "1930", "1972", "2445", "3178", "3769",
   "3865", "4319", "4343", "4620", "4676",
   "4746", "4801", "5449", "5830", "5909",
   "5946", "6098", "6284", "6902", "7211",
+];
+
+const SOURCE_TYPES = [
+  "ir_top",
+  "annual_securities_report",
+  "notice_of_meeting",
+  "corporate_governance_report",
 ];
 
 function normalizeUrl(url) {
@@ -79,15 +87,30 @@ const documentSources = JSON.parse(await fs.readFile(DOCUMENT_SOURCES_FILE, "utf
 const byId = new Map(documentSources.map((source) => [source.source_id, source]));
 const companyByCode = new Map(companies.map((company) => [String(company.company_code), company]));
 
-const selected = PRIORITY_CODES.slice(0, TARGET_LIMIT)
-  .map((code) => companyByCode.get(code))
-  .filter(Boolean);
+function hasMissingEvidence(company) {
+  const code = String(company.company_code);
+  return SOURCE_TYPES.some((type) => {
+    const source = byId.get(sourceId(code, type));
+    return !source || !normalizeUrl(source.url);
+  });
+}
+
+const prioritySet = new Set(PRIORITY_CODES);
+const candidates = [
+  ...PRIORITY_CODES.map((code) => companyByCode.get(code)).filter(Boolean),
+  ...companies
+    .filter((company) => !prioritySet.has(String(company.company_code)))
+    .filter((company) => normalizeUrl(company.source_url))
+    .sort((a, b) => String(a.company_code).localeCompare(String(b.company_code))),
+].filter(hasMissingEvidence);
+
+const selected = candidates.slice(TARGET_OFFSET, TARGET_OFFSET + TARGET_LIMIT);
 
 let added = 0;
 let updated = 0;
 
 for (const company of selected) {
-  for (const type of ["ir_top", "annual_securities_report", "notice_of_meeting", "corporate_governance_report"]) {
+  for (const type of SOURCE_TYPES) {
     const next = makeSource(company, type);
     const existing = byId.get(next.source_id);
     if (!existing) {
@@ -113,4 +136,6 @@ documentSources.sort((a, b) =>
 await fs.writeFile(DOCUMENT_SOURCES_FILE, `${JSON.stringify(documentSources, null, 2)}\n`, "utf8");
 
 console.log(`Seeded company evidence links for ${selected.length} companies`);
+console.log(`Candidate companies needing evidence: ${candidates.length}`);
+console.log(`Offset: ${TARGET_OFFSET}, limit: ${TARGET_LIMIT}`);
 console.log(`Added: ${added}, updated: ${updated}`);
