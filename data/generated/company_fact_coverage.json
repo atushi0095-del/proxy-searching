@@ -1,482 +1,14 @@
 {
   "summary": {
-    "generated_at": "2026-04-26T23:31:16.066Z",
+    "generated_at": "2026-04-27T01:23:00.127Z",
     "company_count": 75,
     "with_financial_metrics": 24,
     "with_directors": 9,
     "with_governance_metrics": 9,
-    "with_any_evidence_url": 26,
+    "with_any_evidence_url": 44,
     "high_priority_missing": 53
   },
   "rows": [
-    {
-      "company_code": "1930",
-      "company_name": "北陸電気工事株式会社",
-      "market": "東証プライム",
-      "sector": "建設業",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "1972",
-      "company_name": "三晃金属工業株式会社",
-      "market": "東証プライム",
-      "sector": "金属製品",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "2445",
-      "company_name": "タカミヤ株式会社",
-      "market": "東証プライム",
-      "sector": "その他製品",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "3178",
-      "company_name": "チムニー株式会社",
-      "market": "東証プライム",
-      "sector": "小売業",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "3769",
-      "company_name": "GMOペイメントゲートウェイ株式会社",
-      "market": "東証プライム",
-      "sector": "情報・通信業",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "3865",
-      "company_name": "北越コーポレーション株式会社",
-      "market": "東証プライム",
-      "sector": "パルプ・紙",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "4319",
-      "company_name": "TAC株式会社",
-      "market": "東証プライム",
-      "sector": "サービス業",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "4343",
-      "company_name": "イオンファンタジー株式会社",
-      "market": "東証プライム",
-      "sector": "サービス業",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "4620",
-      "company_name": "藤倉化成株式会社",
-      "market": "東証プライム",
-      "sector": "化学",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "4676",
-      "company_name": "株式会社フジ・メディア・ホールディングス",
-      "market": "東証プライム",
-      "sector": "情報・通信業",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "4746",
-      "company_name": "株式会社東計電算",
-      "market": "東証スタンダード",
-      "sector": "情報・通信業",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "4801",
-      "company_name": "セントラルスポーツ株式会社",
-      "market": "東証プライム",
-      "sector": "サービス業",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "5449",
-      "company_name": "大阪製鐵株式会社",
-      "market": "東証プライム",
-      "sector": "鉄鋼",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "5830",
-      "company_name": "いよぎんホールディングス株式会社",
-      "market": "東証プライム",
-      "sector": "銀行業",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "5909",
-      "company_name": "コロナ株式会社",
-      "market": "東証プライム",
-      "sector": "金属製品",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "5946",
-      "company_name": "株式会社長府製作所",
-      "market": "東証プライム",
-      "sector": "金属製品",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "6284",
-      "company_name": "日精エー・エス・ビー機械株式会社",
-      "market": "東証プライム",
-      "sector": "機械",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
-    {
-      "company_code": "7211",
-      "company_name": "三菱自動車工業株式会社",
-      "market": "東証プライム",
-      "sector": "輸送用機器",
-      "financial_metric_count": 0,
-      "financial_years": [],
-      "director_count": 0,
-      "director_years": [],
-      "governance_metric_count": 0,
-      "governance_years": [],
-      "documents": {
-        "annual_securities_report": 0,
-        "convocation_notice": 0,
-        "corporate_governance_report": 0,
-        "company_vote_result": 0,
-        "with_url": 0
-      },
-      "missing": [
-        "financial_metrics",
-        "directors",
-        "governance_metrics",
-        "evidence_urls"
-      ],
-      "priority_score": 15
-    },
     {
       "company_code": "7702",
       "company_name": "JMS株式会社",
@@ -1232,6 +764,231 @@
       "priority_score": 15
     },
     {
+      "company_code": "1930",
+      "company_name": "北陸電気工事株式会社",
+      "market": "東証プライム",
+      "sector": "建設業",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "1972",
+      "company_name": "三晃金属工業株式会社",
+      "market": "東証プライム",
+      "sector": "金属製品",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "2445",
+      "company_name": "タカミヤ株式会社",
+      "market": "東証プライム",
+      "sector": "その他製品",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "3178",
+      "company_name": "チムニー株式会社",
+      "market": "東証プライム",
+      "sector": "小売業",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "3769",
+      "company_name": "GMOペイメントゲートウェイ株式会社",
+      "market": "東証プライム",
+      "sector": "情報・通信業",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "3865",
+      "company_name": "北越コーポレーション株式会社",
+      "market": "東証プライム",
+      "sector": "パルプ・紙",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "4319",
+      "company_name": "TAC株式会社",
+      "market": "東証プライム",
+      "sector": "サービス業",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "4343",
+      "company_name": "イオンファンタジー株式会社",
+      "market": "東証プライム",
+      "sector": "サービス業",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "4620",
+      "company_name": "藤倉化成株式会社",
+      "market": "東証プライム",
+      "sector": "化学",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
       "company_code": "4661",
       "company_name": "株式会社オリエンタルランド",
       "market": "東証プライム",
@@ -1257,6 +1014,181 @@
       "priority_score": 13
     },
     {
+      "company_code": "4676",
+      "company_name": "株式会社フジ・メディア・ホールディングス",
+      "market": "東証プライム",
+      "sector": "情報・通信業",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "4746",
+      "company_name": "株式会社東計電算",
+      "market": "東証スタンダード",
+      "sector": "情報・通信業",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "4801",
+      "company_name": "セントラルスポーツ株式会社",
+      "market": "東証プライム",
+      "sector": "サービス業",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "5449",
+      "company_name": "大阪製鐵株式会社",
+      "market": "東証プライム",
+      "sector": "鉄鋼",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "5830",
+      "company_name": "いよぎんホールディングス株式会社",
+      "market": "東証プライム",
+      "sector": "銀行業",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "5909",
+      "company_name": "コロナ株式会社",
+      "market": "東証プライム",
+      "sector": "金属製品",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "5946",
+      "company_name": "株式会社長府製作所",
+      "market": "東証プライム",
+      "sector": "金属製品",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
       "company_code": "6098",
       "company_name": "株式会社リクルートホールディングス",
       "market": "東証プライム",
@@ -1272,7 +1204,32 @@
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "6284",
+      "company_name": "日精エー・エス・ビー機械株式会社",
+      "market": "東証プライム",
+      "sector": "機械",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
       },
       "missing": [
         "financial_metrics",
@@ -1297,7 +1254,32 @@
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 4
+      },
+      "missing": [
+        "financial_metrics",
+        "directors",
+        "governance_metrics"
+      ],
+      "priority_score": 13
+    },
+    {
+      "company_code": "7211",
+      "company_name": "三菱自動車工業株式会社",
+      "market": "東証プライム",
+      "sector": "輸送用機器",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 0,
+      "director_years": [],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 0,
+        "with_url": 4
       },
       "missing": [
         "financial_metrics",

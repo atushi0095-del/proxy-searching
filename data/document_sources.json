@@ -1,5 +1,192 @@
 [
   {
+    "source_id": "DOC_1379_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "1379",
+    "meeting_year": 2025,
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書",
+    "title": "ホクト株式会社 有価証券報告書",
+    "url": "",
+    "filing_date": "",
+    "notes": "ROE、政策保有株式、役員情報、コーポレートガバナンス情報の抽出対象。URLはEDINET等で補完。"
+  },
+  {
+    "source_id": "DOC_1379_2025_COMPANY_VOTE_RESULT",
+    "company_code": "1379",
+    "meeting_year": 2025,
+    "document_type": "company_vote_result",
+    "document_label": "議決権行使結果（会社公表）",
+    "title": "ホクト株式会社 定時株主総会 議決権行使結果",
+    "url": "",
+    "filing_date": "",
+    "notes": "会社公表の賛否集計。投資家別行使結果ではないため、FACTの補助資料として扱う。"
+  },
+  {
+    "source_id": "DOC_1379_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "1379",
+    "meeting_year": 2025,
+    "document_type": "corporate_governance_report",
+    "document_label": "コーポレートガバナンス報告書",
+    "title": "ホクト株式会社 コーポレートガバナンス報告書",
+    "url": "",
+    "filing_date": "",
+    "notes": "取締役会構成、独立社外取締役比率、委員会、女性役員等の抽出対象。"
+  },
+  {
+    "source_id": "DOC_1379_2025_IR_TOP",
+    "company_code": "1379",
+    "meeting_year": 2025,
+    "document_type": "ir_top",
+    "document_label": "IRトップ",
+    "title": "ホクト株式会社 IR情報",
+    "url": "https://www.hokto-kinoko.co.jp/",
+    "filing_date": "",
+    "notes": "公式IRページ。招集通知、統合報告書、有価証券報告書、株主総会関連資料の探索起点。"
+  },
+  {
+    "source_id": "DOC_1379_2025_NOTICE_OF_MEETING",
+    "company_code": "1379",
+    "meeting_year": 2025,
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知",
+    "title": "ホクト株式会社 定時株主総会 招集ご通知",
+    "url": "",
+    "filing_date": "",
+    "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_1930_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "1930",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "北陸電気工事株式会社 有価証券報告書確認入口",
+    "url": "https://www.hokuriku-elec.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_1930_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "1930",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "北陸電気工事株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.hokuriku-elec.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_1930_2025_IR_TOP",
+    "company_code": "1930",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "北陸電気工事株式会社 公式IR・企業情報",
+    "url": "https://www.hokuriku-elec.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_1930_2025_NOTICE_OF_MEETING",
+    "company_code": "1930",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "北陸電気工事株式会社 招集通知確認入口",
+    "url": "https://www.hokuriku-elec.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_1972_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "1972",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "三晃金属工業株式会社 有価証券報告書確認入口",
+    "url": "https://www.sanko-metal.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_1972_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "1972",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "三晃金属工業株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.sanko-metal.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_1972_2025_IR_TOP",
+    "company_code": "1972",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "三晃金属工業株式会社 公式IR・企業情報",
+    "url": "https://www.sanko-metal.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_1972_2025_NOTICE_OF_MEETING",
+    "company_code": "1972",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "三晃金属工業株式会社 招集通知確認入口",
+    "url": "https://www.sanko-metal.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_2445_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "2445",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "タカミヤ株式会社 有価証券報告書確認入口",
+    "url": "https://www.takamiya.co/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_2445_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "2445",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "タカミヤ株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.takamiya.co/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_2445_2025_IR_TOP",
+    "company_code": "2445",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "タカミヤ株式会社 公式IR・企業情報",
+    "url": "https://www.takamiya.co/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_2445_2025_NOTICE_OF_MEETING",
+    "company_code": "2445",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "タカミヤ株式会社 招集通知確認入口",
+    "url": "https://www.takamiya.co/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
     "source_id": "DOC_2914_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "2914",
     "meeting_year": 2025,
@@ -55,6 +242,138 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_3178_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "3178",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "チムニー株式会社 有価証券報告書確認入口",
+    "url": "https://www.chimney.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_3178_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "3178",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "チムニー株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.chimney.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_3178_2025_IR_TOP",
+    "company_code": "3178",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "チムニー株式会社 公式IR・企業情報",
+    "url": "https://www.chimney.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_3178_2025_NOTICE_OF_MEETING",
+    "company_code": "3178",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "チムニー株式会社 招集通知確認入口",
+    "url": "https://www.chimney.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_3769_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "3769",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "GMOペイメントゲートウェイ株式会社 有価証券報告書確認入口",
+    "url": "https://corp.gmo-pg.com/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_3769_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "3769",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "GMOペイメントゲートウェイ株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://corp.gmo-pg.com/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_3769_2025_IR_TOP",
+    "company_code": "3769",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "GMOペイメントゲートウェイ株式会社 公式IR・企業情報",
+    "url": "https://corp.gmo-pg.com/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_3769_2025_NOTICE_OF_MEETING",
+    "company_code": "3769",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "GMOペイメントゲートウェイ株式会社 招集通知確認入口",
+    "url": "https://corp.gmo-pg.com/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_3865_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "3865",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "北越コーポレーション株式会社 有価証券報告書確認入口",
+    "url": "https://www.hokuetsu-corp.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_3865_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "3865",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "北越コーポレーション株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.hokuetsu-corp.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_3865_2025_IR_TOP",
+    "company_code": "3865",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "北越コーポレーション株式会社 公式IR・企業情報",
+    "url": "https://www.hokuetsu-corp.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_3865_2025_NOTICE_OF_MEETING",
+    "company_code": "3865",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "北越コーポレーション株式会社 招集通知確認入口",
+    "url": "https://www.hokuetsu-corp.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
     "source_id": "DOC_4063_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "4063",
     "meeting_year": 2025,
@@ -108,6 +427,94 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_4319_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4319",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "TAC株式会社 有価証券報告書確認入口",
+    "url": "https://www.tac-school.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_4319_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "4319",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "TAC株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.tac-school.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_4319_2025_IR_TOP",
+    "company_code": "4319",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "TAC株式会社 公式IR・企業情報",
+    "url": "https://www.tac-school.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_4319_2025_NOTICE_OF_MEETING",
+    "company_code": "4319",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "TAC株式会社 招集通知確認入口",
+    "url": "https://www.tac-school.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_4343_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4343",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "イオンファンタジー株式会社 有価証券報告書確認入口",
+    "url": "https://www.aeonfantasy.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_4343_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "4343",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "イオンファンタジー株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.aeonfantasy.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_4343_2025_IR_TOP",
+    "company_code": "4343",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "イオンファンタジー株式会社 公式IR・企業情報",
+    "url": "https://www.aeonfantasy.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_4343_2025_NOTICE_OF_MEETING",
+    "company_code": "4343",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "イオンファンタジー株式会社 招集通知確認入口",
+    "url": "https://www.aeonfantasy.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
   },
   {
     "source_id": "DOC_4502_2025_ANNUAL_SECURITIES_REPORT",
@@ -275,6 +682,50 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_4620_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4620",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "藤倉化成株式会社 有価証券報告書確認入口",
+    "url": "https://www.fujikura-kasei.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_4620_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "4620",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "藤倉化成株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.fujikura-kasei.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_4620_2025_IR_TOP",
+    "company_code": "4620",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "藤倉化成株式会社 公式IR・企業情報",
+    "url": "https://www.fujikura-kasei.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_4620_2025_NOTICE_OF_MEETING",
+    "company_code": "4620",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "藤倉化成株式会社 招集通知確認入口",
+    "url": "https://www.fujikura-kasei.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
     "source_id": "DOC_4661_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "4661",
     "meeting_year": 2025,
@@ -330,15 +781,323 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_4676_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4676",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "株式会社フジ・メディア・ホールディングス 有価証券報告書確認入口",
+    "url": "https://www.fujimediahd.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_4676_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "4676",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "株式会社フジ・メディア・ホールディングス コーポレートガバナンス報告書確認入口",
+    "url": "https://www.fujimediahd.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_4676_2025_IR_TOP",
+    "company_code": "4676",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "株式会社フジ・メディア・ホールディングス 公式IR・企業情報",
+    "url": "https://www.fujimediahd.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_4676_2025_NOTICE_OF_MEETING",
+    "company_code": "4676",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "株式会社フジ・メディア・ホールディングス 招集通知確認入口",
+    "url": "https://www.fujimediahd.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_4746_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4746",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "株式会社東計電算 有価証券報告書確認入口",
+    "url": "https://www.tokeids.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_4746_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "4746",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "株式会社東計電算 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.tokeids.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_4746_2025_IR_TOP",
+    "company_code": "4746",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "株式会社東計電算 公式IR・企業情報",
+    "url": "https://www.tokeids.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_4746_2025_NOTICE_OF_MEETING",
+    "company_code": "4746",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "株式会社東計電算 招集通知確認入口",
+    "url": "https://www.tokeids.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_4801_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4801",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "セントラルスポーツ株式会社 有価証券報告書確認入口",
+    "url": "https://www.central.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_4801_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "4801",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "セントラルスポーツ株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.central.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_4801_2025_IR_TOP",
+    "company_code": "4801",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "セントラルスポーツ株式会社 公式IR・企業情報",
+    "url": "https://www.central.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_4801_2025_NOTICE_OF_MEETING",
+    "company_code": "4801",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "セントラルスポーツ株式会社 招集通知確認入口",
+    "url": "https://www.central.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_5449_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "5449",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "大阪製鐵株式会社 有価証券報告書確認入口",
+    "url": "https://www.osaka-steel.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_5449_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "5449",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "大阪製鐵株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.osaka-steel.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_5449_2025_IR_TOP",
+    "company_code": "5449",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "大阪製鐵株式会社 公式IR・企業情報",
+    "url": "https://www.osaka-steel.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_5449_2025_NOTICE_OF_MEETING",
+    "company_code": "5449",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "大阪製鐵株式会社 招集通知確認入口",
+    "url": "https://www.osaka-steel.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_5830_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "5830",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "いよぎんホールディングス株式会社 有価証券報告書確認入口",
+    "url": "https://www.iyogin.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_5830_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "5830",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "いよぎんホールディングス株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.iyogin.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_5830_2025_IR_TOP",
+    "company_code": "5830",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "いよぎんホールディングス株式会社 公式IR・企業情報",
+    "url": "https://www.iyogin.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_5830_2025_NOTICE_OF_MEETING",
+    "company_code": "5830",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "いよぎんホールディングス株式会社 招集通知確認入口",
+    "url": "https://www.iyogin.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_5909_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "5909",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "コロナ株式会社 有価証券報告書確認入口",
+    "url": "https://www.corona.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_5909_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "5909",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "コロナ株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.corona.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_5909_2025_IR_TOP",
+    "company_code": "5909",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "コロナ株式会社 公式IR・企業情報",
+    "url": "https://www.corona.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_5909_2025_NOTICE_OF_MEETING",
+    "company_code": "5909",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "コロナ株式会社 招集通知確認入口",
+    "url": "https://www.corona.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
+    "source_id": "DOC_5946_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "5946",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "株式会社長府製作所 有価証券報告書確認入口",
+    "url": "https://www.chofu.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_5946_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "5946",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "株式会社長府製作所 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.chofu.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_5946_2025_IR_TOP",
+    "company_code": "5946",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "株式会社長府製作所 公式IR・企業情報",
+    "url": "https://www.chofu.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_5946_2025_NOTICE_OF_MEETING",
+    "company_code": "5946",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "株式会社長府製作所 招集通知確認入口",
+    "url": "https://www.chofu.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
+  },
+  {
     "source_id": "DOC_6098_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "6098",
     "meeting_year": 2025,
     "document_type": "annual_securities_report",
     "document_label": "有価証券報告書",
     "title": "株式会社リクルートホールディングス 有価証券報告書",
-    "url": "",
+    "url": "https://recruit-holdings.com/ja/ir/",
     "filing_date": "",
-    "notes": "ROE、政策保有株式、役員情報、コーポレートガバナンス情報の抽出対象。URLはEDINET等で補完。"
+    "notes": "ROE、政策保有株式、役員情報、コーポレートガバナンス情報の抽出対象。URLはEDINET等で補完。 公式入口URLを補完。"
   },
   {
     "source_id": "DOC_6098_2025_COMPANY_VOTE_RESULT",
@@ -358,9 +1117,9 @@
     "document_type": "corporate_governance_report",
     "document_label": "コーポレートガバナンス報告書",
     "title": "株式会社リクルートホールディングス コーポレートガバナンス報告書",
-    "url": "",
+    "url": "https://recruit-holdings.com/ja/ir/",
     "filing_date": "",
-    "notes": "取締役会構成、独立社外取締役比率、委員会、女性役員等の抽出対象。"
+    "notes": "取締役会構成、独立社外取締役比率、委員会、女性役員等の抽出対象。 公式入口URLを補完。"
   },
   {
     "source_id": "DOC_6098_2025_IR_TOP",
@@ -380,9 +1139,53 @@
     "document_type": "notice_of_meeting",
     "document_label": "招集通知",
     "title": "株式会社リクルートホールディングス 定時株主総会 招集ご通知",
-    "url": "",
+    "url": "https://recruit-holdings.com/ja/ir/",
     "filing_date": "",
-    "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+    "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。 公式入口URLを補完。"
+  },
+  {
+    "source_id": "DOC_6284_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "6284",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "日精エー・エス・ビー機械株式会社 有価証券報告書確認入口",
+    "url": "https://www.nissei-asb.com/jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_6284_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "6284",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "日精エー・エス・ビー機械株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.nissei-asb.com/jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_6284_2025_IR_TOP",
+    "company_code": "6284",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "日精エー・エス・ビー機械株式会社 公式IR・企業情報",
+    "url": "https://www.nissei-asb.com/jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_6284_2025_NOTICE_OF_MEETING",
+    "company_code": "6284",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "日精エー・エス・ビー機械株式会社 招集通知確認入口",
+    "url": "https://www.nissei-asb.com/jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
   },
   {
     "source_id": "DOC_6501_2025_ANNUAL_SECURITIES_REPORT",
@@ -556,9 +1359,9 @@
     "document_type": "annual_securities_report",
     "document_label": "有価証券報告書",
     "title": "株式会社デンソー 有価証券報告書",
-    "url": "",
+    "url": "https://www.denso.com/jp/ja/about-us/investors/",
     "filing_date": "",
-    "notes": "ROE、政策保有株式、役員情報、コーポレートガバナンス情報の抽出対象。URLはEDINET等で補完。"
+    "notes": "ROE、政策保有株式、役員情報、コーポレートガバナンス情報の抽出対象。URLはEDINET等で補完。 公式入口URLを補完。"
   },
   {
     "source_id": "DOC_6902_2025_COMPANY_VOTE_RESULT",
@@ -578,9 +1381,9 @@
     "document_type": "corporate_governance_report",
     "document_label": "コーポレートガバナンス報告書",
     "title": "株式会社デンソー コーポレートガバナンス報告書",
-    "url": "",
+    "url": "https://www.denso.com/jp/ja/about-us/investors/",
     "filing_date": "",
-    "notes": "取締役会構成、独立社外取締役比率、委員会、女性役員等の抽出対象。"
+    "notes": "取締役会構成、独立社外取締役比率、委員会、女性役員等の抽出対象。 公式入口URLを補完。"
   },
   {
     "source_id": "DOC_6902_2025_IR_TOP",
@@ -600,9 +1403,9 @@
     "document_type": "notice_of_meeting",
     "document_label": "招集通知",
     "title": "株式会社デンソー 定時株主総会 招集ご通知",
-    "url": "",
+    "url": "https://www.denso.com/jp/ja/about-us/investors/",
     "filing_date": "",
-    "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+    "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。 公式入口URLを補完。"
   },
   {
     "source_id": "DOC_6954_2025_ANNUAL_SECURITIES_REPORT",
@@ -713,6 +1516,50 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_7211_2025_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7211",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書確認入口",
+    "title": "三菱自動車工業株式会社 有価証券報告書確認入口",
+    "url": "https://www.mitsubishi-motors.co.jp/",
+    "notes": "ROE、PBR、政策保有株式、役員情報、ガバナンス情報の抽出候補。正式なdoc_idはEDINET APIバックフィルで補完する。"
+  },
+  {
+    "source_id": "DOC_7211_2025_CORPORATE_GOVERNANCE_REPORT",
+    "company_code": "7211",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "corporate_governance_report",
+    "document_label": "CG報告書確認入口",
+    "title": "三菱自動車工業株式会社 コーポレートガバナンス報告書確認入口",
+    "url": "https://www.mitsubishi-motors.co.jp/",
+    "notes": "取締役会構成、独立社外取締役比率、女性取締役、委員会設置、政策保有株式方針の確認候補。"
+  },
+  {
+    "source_id": "DOC_7211_2025_IR_TOP",
+    "company_code": "7211",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "ir_top",
+    "document_label": "公式IR入口",
+    "title": "三菱自動車工業株式会社 公式IR・企業情報",
+    "url": "https://www.mitsubishi-motors.co.jp/",
+    "notes": "企業FACT確認の起点。招集通知、有価証券報告書、決算資料、CG報告書への導線を確認するための公式ページ。"
+  },
+  {
+    "source_id": "DOC_7211_2025_NOTICE_OF_MEETING",
+    "company_code": "7211",
+    "meeting_year": 2025,
+    "filing_date": "",
+    "document_type": "notice_of_meeting",
+    "document_label": "招集通知確認入口",
+    "title": "三菱自動車工業株式会社 招集通知確認入口",
+    "url": "https://www.mitsubishi-motors.co.jp/",
+    "notes": "候補者番号、候補者氏名、役職、社外・独立性、在任年数、出席率、議案番号の抽出候補。"
   },
   {
     "source_id": "DOC_7267_2025_ANNUAL_SECURITIES_REPORT",
@@ -1375,15 +2222,15 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
-    "source_id": "DOC_9991_CG_2024",
+    "source_id": "DOC_9991_YUHO_2024",
     "company_code": "9991",
     "meeting_year": 2025,
-    "document_type": "corporate_governance_report",
-    "document_label": "コーポレートガバナンス報告書",
-    "title": "コーポレートガバナンスに関する報告書（2024年）",
+    "document_type": "annual_securities_report",
+    "document_label": "有価証券報告書",
+    "title": "第〇〇期 有価証券報告書（2024年3月期）",
     "url": "",
     "filing_date": "",
-    "notes": "取締役会の構成・独立性・委員会設置状況・支配株主との取引などを含む。東証上場管理参照"
+    "notes": "取締役の氏名・在任年数・報酬・コーポレートガバナンス報告等を含む。EDINET参照"
   },
   {
     "source_id": "DOC_9991_COMPANY_VR_2024",
@@ -1397,6 +2244,17 @@
     "notes": "各議案の賛否集計を含む。東証の適時開示または会社IR参照"
   },
   {
+    "source_id": "DOC_9991_CG_2024",
+    "company_code": "9991",
+    "meeting_year": 2025,
+    "document_type": "corporate_governance_report",
+    "document_label": "コーポレートガバナンス報告書",
+    "title": "コーポレートガバナンスに関する報告書（2024年）",
+    "url": "",
+    "filing_date": "",
+    "notes": "取締役会の構成・独立性・委員会設置状況・支配株主との取引などを含む。東証上場管理参照"
+  },
+  {
     "source_id": "DOC_9991_NOTICE_2025",
     "company_code": "9991",
     "meeting_year": 2025,
@@ -1408,15 +2266,15 @@
     "notes": "株主総会議案・取締役候補者プロフィール・報酬情報などを含む。EDINETまたは会社IR参照"
   },
   {
-    "source_id": "DOC_9991_YUHO_2024",
-    "company_code": "9991",
+    "source_id": "DOC_9992_YUHO_2024",
+    "company_code": "9992",
     "meeting_year": 2025,
     "document_type": "annual_securities_report",
     "document_label": "有価証券報告書",
     "title": "第〇〇期 有価証券報告書（2024年3月期）",
     "url": "",
     "filing_date": "",
-    "notes": "取締役の氏名・在任年数・報酬・コーポレートガバナンス報告等を含む。EDINET参照"
+    "notes": ""
   },
   {
     "source_id": "DOC_9992_NOTICE_2025",
@@ -1425,17 +2283,6 @@
     "document_type": "notice_of_meeting",
     "document_label": "招集通知",
     "title": "第〇〇期 定時株主総会 招集ご通知",
-    "url": "",
-    "filing_date": "",
-    "notes": ""
-  },
-  {
-    "source_id": "DOC_9992_YUHO_2024",
-    "company_code": "9992",
-    "meeting_year": 2025,
-    "document_type": "annual_securities_report",
-    "document_label": "有価証券報告書",
-    "title": "第〇〇期 有価証券報告書（2024年3月期）",
     "url": "",
     "filing_date": "",
     "notes": ""
