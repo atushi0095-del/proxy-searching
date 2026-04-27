@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-04-27T08:04:52.852Z",
+  "results": [
+    {
+      "name": "pipeline-settings",
+      "script": "scripts/run-data-pipeline.mjs",
+      "args": [],
+      "started_at": "2026-04-27T07:54:49.009Z",
+      "finished_at": "2026-04-27T07:54:49.009Z",
+      "status": "OK",
+      "settings": {
+        "data_download_limit": "220",
+        "include_vote_pdfs": true,
+        "download_kinds": [
+          "guideline",
+          "vote_result",
+          "vote_result_excel"
+        ]
+      }
+    },
+    {
+      "name": "sync-company-universe",
+      "script": "scripts/sync-company-universe.mjs",
+      "args": [],
+      "started_at": "2026-04-27T07:54:49.012Z",
+      "finished_at": "2026-04-27T07:54:49.026Z",
+      "status": "OK"
+    },
+    {
+      "name": "discover-sources",
+      "script": "scripts/discover-sources.mjs",
+      "args": [],
+      "started_at": "2026-04-27T07:54:49.026Z",
+      "finished_at": "2026-04-27T07:55:23.849Z",
+      "status": "OK"
+    },
+    {
+      "name": "seed-source-registry",
+      "script": "scripts/seed-source-registry.mjs",
+      "args": [],
+      "started_at": "2026-04-27T07:55:23.849Z",
+      "finished_at": "2026-04-27T07:55:23.853Z",
+      "status": "OK"
+    },
+    {
+      "name": "seed-additional-investor-rules",
+      "script": "scripts/seed-additional-investor-rules.mjs",
+      "args": [],
+      "started_at": "2026-04-27T07:55:23.853Z",
+      "finished_at": "2026-04-27T07:55:23.857Z",
+      "status": "OK"
+    },
+    {
+      "name": "seed-director-role-history",
+      "script": "scripts/seed-director-role-history.mjs",
+      "args": [],
+      "started_at": "2026-04-27T07:55:23.857Z",
+      "finished_at": "2026-04-27T07:55:23.858Z",
+      "status": "OK"
+    },
+    {
+      "name": "download-sources",
+      "script": "scripts/download-sources.mjs",
+      "args": [
+        "guideline",
+        "vote_result",
+        "vote_result_excel",
+        "--limit=220"
+      ],
+      "started_at": "2026-04-27T07:55:23.858Z",
+      "finished_at": "2026-04-27T08:04:23.025Z",
+      "status": "OK"
+    },
+    {
+      "name": "profile-downloaded-sources",
+      "script": "scripts/profile-downloaded-sources.mjs",
+      "args": [],
+      "started_at": "2026-04-27T08:04:23.025Z",
+      "finished_at": "2026-04-27T08:04:31.238Z",
+      "status": "OK"
+    },
+    {
+      "name": "analyze-mufg-votes",
+      "script": "scripts/analyze-mufg-vote-excel.mjs",
+      "args": [],
+      "started_at": "2026-04-27T08:04:31.238Z",
+      "finished_at": "2026-04-27T08:04:39.055Z",
+      "status": "OK"
+    },
+    {
+      "name": "analyze-nomura-votes",
+      "script": "scripts/analyze-nomura-vote-excel.mjs",
+      "args": [],
+      "started_at": "2026-04-27T08:04:39.055Z",
+      "finished_at": "2026-04-27T08:04:41.760Z",
+      "status": "OK"
+    },
+    {
+      "name": "analyze-resona-votes",
+      "script": "scripts/analyze-resona-vote-excel.mjs",
+      "args": [],
+      "started_at": "2026-04-27T08:04:41.761Z",
+      "finished_at": "2026-04-27T08:04:43.928Z",
+      "status": "OK"
+    },
+    {
+      "name": "analyze-daiwa-votes",
+      "script": "scripts/analyze-daiwa-vote-excel.mjs",
+      "args": [],
+      "started_at": "2026-04-27T08:04:43.928Z",
+      "finished_at": "2026-04-27T08:04:46.424Z",
+      "status": "OK"
+    },
+    {
+      "name": "analyze-blackrock-votes",
+      "script": "scripts/analyze-blackrock-vote-pdf.mjs",
+      "args": [],
+      "started_at": "2026-04-27T08:04:46.424Z",
+      "finished_at": "2026-04-27T08:04:52.774Z",
+      "status": "OK"
+    },
+    {
+      "name": "build-opposition-focus-companies",
+      "script": "scripts/build-opposition-focus-companies.mjs",
+      "args": [],
+      "started_at": "2026-04-27T08:04:52.774Z",
+      "finished_at": "2026-04-27T08:04:52.784Z",
+      "status": "OK"
+    },
+    {
+      "name": "build-investor-opposition-records",
+      "script": "scripts/build-investor-opposition-records.mjs",
+      "args": [],
+      "started_at": "2026-04-27T08:04:52.784Z",
+      "finished_at": "2026-04-27T08:04:52.852Z",
+      "status": "OK"
+    }
+  ]
+}
