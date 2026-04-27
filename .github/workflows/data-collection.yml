@@ -93,6 +93,10 @@ jobs:
         if: ${{ env.EDINET_API_KEY != '' }}
         run: npm run edinet:download -- --limit=10 --type=1 --delay=2000
 
+      - name: Merge EDINET filing metadata into company sources
+        if: ${{ env.EDINET_API_KEY != '' }}
+        run: npm run edinet:merge-sources
+
       - name: Verify app build
         run: npm run build
 

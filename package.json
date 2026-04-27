@@ -30,7 +30,8 @@
     "seed:company-evidence": "node scripts/seed-company-evidence-links.mjs",
     "check:urls": "node scripts/check-source-urls.mjs",
     "edinet:discover": "node scripts/edinet-discover-filings.mjs",
-    "edinet:download": "node scripts/edinet-download-documents.mjs"
+    "edinet:download": "node scripts/edinet-download-documents.mjs",
+    "edinet:merge-sources": "node scripts/merge-edinet-filings-into-sources.mjs"
   },
   "dependencies": {
     "next": "16.2.4",
