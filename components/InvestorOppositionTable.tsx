@@ -151,6 +151,8 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
   const [detailTag, setDetailTag] = useState("all");
   const [reasonFilter, setReasonFilter] = useState<"all" | "with" | "without">("all");
   const [sortKey, setSortKey] = useState<"default" | "company" | "meeting_date_desc" | "reason">("default");
+  const [yearFilter, setYearFilter] = useState("latest");
+  const [analysisPreset, setAnalysisPreset] = useState<"none" | "low_roe_director_elections">("none");
 
   const investorRecords = useMemo(
     () => records.filter((record) => record.investor_id === investorId),
@@ -167,19 +169,51 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
     [investorRecords]
   );
 
+  const meetingYears = useMemo(
+    () => [...new Set(investorRecords.map((record) => meetingYearFrom(record.meeting_date)))].sort((a, b) => b.localeCompare(a)),
+    [investorRecords]
+  );
+
+  const latestYear = meetingYears[0] ?? "all";
+
   function isAgainstVote(vote: string) {
     return vote === "反対" || vote === "判断" || vote.includes("反対") || vote.includes("該当");
   }
+
+  function isDirectorElection(record: OppositionRecord) {
+    const text = `${record.proposal_type} ${record.proposal_title_normalized ?? ""}`;
+    return /取締役|監査等委員|選任|選解任/.test(text);
+  }
+
+  const lowRoeCompanyYears = useMemo(() => {
+    const targets = new Set<string>();
+    for (const record of investorRecords) {
+      if (record.issue_type !== "low_roe") continue;
+      if (!isAgainstVote(record.vote)) continue;
+      targets.add(`${record.company_code}:${meetingYearFrom(record.meeting_date)}`);
+    }
+    return targets;
+  }, [investorRecords]);
 
   const filtered = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
     const rows = investorRecords.filter((record) => {
       const hasReason = record.reason.trim().length > 0;
+      const recordYear = meetingYearFrom(record.meeting_date);
+      const effectiveYear = yearFilter === "latest" ? latestYear : yearFilter;
+      const matchesYear = effectiveYear === "all" || recordYear === effectiveYear;
       const matchesVote =
         voteFilter === "all" ||
         (voteFilter === "against" && isAgainstVote(record.vote)) ||
         (voteFilter === "for" && record.vote === "賛成");
-      const matchesIssue = issueType === "all" || record.issue_type === issueType;
+      const matchesPreset =
+        analysisPreset === "none" ||
+        (
+          analysisPreset === "low_roe_director_elections" &&
+          lowRoeCompanyYears.has(`${record.company_code}:${recordYear}`) &&
+          isDirectorElection(record)
+        );
+      const matchesIssue = analysisPreset !== "none" || issueType === "all" || record.issue_type === issueType;
       const matchesDetail = detailTag === "all" || (record.detail_tags ?? []).includes(detailTag);
       const matchesReason =
         reasonFilter === "all" ||
@@ -187,7 +221,7 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
         (reasonFilter === "without" && !hasReason);
       const searchText = `${record.company_code} ${record.company_name} ${record.proposal_type} ${record.director_or_role} ${record.reason}`.toLowerCase();
       const matchesQuery = normalizedQuery === "" || searchText.includes(normalizedQuery);
-      return matchesVote && matchesIssue && matchesDetail && matchesReason && matchesQuery;
+      return matchesYear && matchesVote && matchesPreset && matchesIssue && matchesDetail && matchesReason && matchesQuery;
     });
     return [...rows].sort((a, b) => {
       if (sortKey === "company") {
@@ -202,7 +236,7 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
       }
       return 0;
     });
-  }, [investorRecords, voteFilter, issueType, detailTag, reasonFilter, sortKey, query]);
+  }, [investorRecords, voteFilter, issueType, detailTag, reasonFilter, sortKey, yearFilter, latestYear, analysisPreset, lowRoeCompanyYears, query]);
 
   const displayed = filtered.slice(0, 200);
   const againstCount = investorRecords.filter((record) => isAgainstVote(record.vote)).length;
@@ -214,7 +248,9 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
     voteFilter !== "against" ||
     detailTag !== "all" ||
     reasonFilter !== "all" ||
-    sortKey !== "default";
+    sortKey !== "default" ||
+    yearFilter !== "latest" ||
+    analysisPreset !== "none";
 
   // Group consecutive rows by (company_code, meeting_date) for visual grouping
   const displayedWithGroups = useMemo(() => {
@@ -236,6 +272,19 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
     setDetailTag("all");
     setReasonFilter("all");
     setSortKey("default");
+    setYearFilter("latest");
+    setAnalysisPreset("none");
+  }
+
+  function applyAnalysisPreset(value: "none" | "low_roe_director_elections") {
+    setAnalysisPreset(value);
+    if (value === "low_roe_director_elections") {
+      setVoteFilter("all");
+      setIssueType("all");
+      setDetailTag("all");
+      setReasonFilter("all");
+      setSortKey("company");
+    }
   }
 
   function displayIssue(record: OppositionRecord) {
@@ -267,13 +316,24 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
         </button>
       </div>
 
-      <div className="mb-4 grid gap-2 md:grid-cols-[minmax(220px,1fr)_140px_180px_150px_160px_auto]">
+      <div className="mb-4 grid gap-2 md:grid-cols-[minmax(220px,1fr)_120px_140px_180px_150px_180px_160px_auto]">
         <input
           value={query}
           onChange={(event) => setQuery(event.target.value)}
           placeholder="企業名・コード・理由で検索"
           className="rounded border px-3 py-1.5 text-sm outline-none focus:border-slate-500"
         />
+        <select
+          value={yearFilter}
+          onChange={(event) => setYearFilter(event.target.value)}
+          className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
+        >
+          <option value="latest">最新年</option>
+          <option value="all">全期間</option>
+          {meetingYears.map((year) => (
+            <option key={year} value={year}>{year}年</option>
+          ))}
+        </select>
         <select
           value={voteFilter}
           onChange={(event) => setVoteFilter(event.target.value as "all" | "against" | "for")}
@@ -303,6 +363,14 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
           <option value="all">理由すべて</option>
           <option value="with">理由あり</option>
           <option value="without">理由なし</option>
+        </select>
+        <select
+          value={analysisPreset}
+          onChange={(event) => applyAnalysisPreset(event.target.value as "none" | "low_roe_director_elections")}
+          className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
+        >
+          <option value="none">通常表示</option>
+          <option value="low_roe_director_elections">ROE論点企業の選任議案</option>
         </select>
         <select
           value={sortKey}
