@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useMemo, useState } from "react";
 
 interface OppositionRecord {
@@ -8,14 +9,31 @@ interface OppositionRecord {
   company_name: string;
   meeting_date: string;
   proposal_number: string;
+  resolution_number?: string;
+  candidate_number?: string;
   proposal_type: string;
+  proposal_title_normalized?: string;
   director_or_role: string;
   vote: string;
   issue_type: string;
   detail_tags?: string[];
+  target_label?: string;
+  target_resolution_type?: string;
+  target_candidate_number?: string;
+  match_method?: string;
+  target_confidence?: string;
+  target_notes?: string;
+  matched_director_id?: string;
+  matched_director_name?: string;
+  matched_director_title?: string;
+  matched_director_attributes?: string[];
+  director_match_method?: string;
+  director_match_confidence?: string;
+  director_match_notes?: string;
   reason: string;
   source_url: string;
   source_title: string;
+  convocation_notice_url?: string;
 }
 
 interface Props {
@@ -26,12 +44,15 @@ interface Props {
 const issueLabels: Record<string, string> = {
   attendance: "出席率",
   board_independence: "取締役会独立性",
+  board_chair_independence: "議長独立性",
   compensation: "役員報酬",
   gender_diversity: "女性・ジェンダー",
   independence_failure: "独立性欠如",
   low_pbr: "PBR",
   low_roe: "ROE・資本効率",
   low_tsr: "TSR・株価",
+  outside_director_independence: "社外取締役独立性",
+  outside_director_ratio: "独立社外比率",
   overboarding: "兼職数",
   policy_shareholdings: "政策保有株式",
   shareholder_proposal: "株主提案",
@@ -42,6 +63,19 @@ const issueLabels: Record<string, string> = {
 
 function issueLabel(issue: string) {
   return issueLabels[issue] ?? issue;
+}
+
+function meetingYearFrom(value: string) {
+  const match = String(value ?? "").match(/(\d{4})/);
+  return match ? match[1] : "2025";
+}
+
+function companyDetailHref(record: OppositionRecord) {
+  return `/companies/${record.company_code}?year=${meetingYearFrom(record.meeting_date)}`;
+}
+
+function convocationNoticeUrl(record: OppositionRecord) {
+  return record.convocation_notice_url || null;
 }
 
 function csvEscape(value: string) {
@@ -55,13 +89,23 @@ function downloadCsv(rows: OppositionRecord[], investorId: string) {
     "企業名",
     "総会日",
     "議案番号",
+    "候補者番号",
     "議案種類",
+    "反対対象候補",
+    "対象推定方法",
+    "対象推定信頼度",
+    "照合候補者名",
+    "照合候補者肩書",
+    "候補者属性",
+    "候補者照合方法",
+    "候補者照合信頼度",
     "候補者/役割",
     "行使",
     "推定論点",
     "詳細条件",
     "理由",
     "出典URL",
+    "招集通知URL",
   ];
   const body = rows.map((row) =>
     [
@@ -69,14 +113,24 @@ function downloadCsv(rows: OppositionRecord[], investorId: string) {
       row.company_code,
       row.company_name,
       row.meeting_date,
-      row.proposal_number,
+      row.resolution_number || row.proposal_number,
+      row.candidate_number ?? "",
       row.proposal_type,
+      row.target_label ?? "",
+      row.match_method ?? "",
+      row.target_confidence ?? "",
+      row.matched_director_name ?? "",
+      row.matched_director_title ?? "",
+      (row.matched_director_attributes ?? []).join(" / "),
+      row.director_match_method ?? "",
+      row.director_match_confidence ?? "",
       row.director_or_role,
       row.vote,
       issueLabel(row.issue_type),
       (row.detail_tags ?? []).join(" / "),
       row.reason,
       row.source_url,
+      convocationNoticeUrl(row) ?? "",
     ].map(csvEscape).join(",")
   );
   const blob = new Blob([[headers.join(","), ...body].join("\n")], { type: "text/csv;charset=utf-8" });
@@ -95,6 +149,8 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
   const [issueType, setIssueType] = useState("all");
   const [voteFilter, setVoteFilter] = useState<"all" | "against" | "for">("against");
   const [detailTag, setDetailTag] = useState("all");
+  const [reasonFilter, setReasonFilter] = useState<"all" | "with" | "without">("all");
+  const [sortKey, setSortKey] = useState<"default" | "company" | "meeting_date_desc" | "reason">("default");
 
   const investorRecords = useMemo(
     () => records.filter((record) => record.investor_id === investorId),
@@ -111,24 +167,87 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
     [investorRecords]
   );
 
+  function isAgainstVote(vote: string) {
+    return vote === "反対" || vote === "判断" || vote.includes("反対") || vote.includes("該当");
+  }
+
   const filtered = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
-    return investorRecords.filter((record) => {
+    const rows = investorRecords.filter((record) => {
+      const hasReason = record.reason.trim().length > 0;
       const matchesVote =
         voteFilter === "all" ||
-        (voteFilter === "against" && record.vote === "反対") ||
+        (voteFilter === "against" && isAgainstVote(record.vote)) ||
         (voteFilter === "for" && record.vote === "賛成");
       const matchesIssue = issueType === "all" || record.issue_type === issueType;
       const matchesDetail = detailTag === "all" || (record.detail_tags ?? []).includes(detailTag);
-      const text = `${record.company_code} ${record.company_name} ${record.proposal_type} ${record.director_or_role} ${record.reason} ${(record.detail_tags ?? []).join(" ")}`.toLowerCase();
-      const matchesQuery = normalizedQuery === "" || text.includes(normalizedQuery);
-      return matchesVote && matchesIssue && matchesDetail && matchesQuery;
+      const matchesReason =
+        reasonFilter === "all" ||
+        (reasonFilter === "with" && hasReason) ||
+        (reasonFilter === "without" && !hasReason);
+      const searchText = `${record.company_code} ${record.company_name} ${record.proposal_type} ${record.director_or_role} ${record.reason}`.toLowerCase();
+      const matchesQuery = normalizedQuery === "" || searchText.includes(normalizedQuery);
+      return matchesVote && matchesIssue && matchesDetail && matchesReason && matchesQuery;
     });
-  }, [investorRecords, voteFilter, issueType, detailTag, query]);
+    return [...rows].sort((a, b) => {
+      if (sortKey === "company") {
+        return a.company_code.localeCompare(b.company_code) || b.meeting_date.localeCompare(a.meeting_date);
+      }
+      if (sortKey === "meeting_date_desc") {
+        return b.meeting_date.localeCompare(a.meeting_date) || a.company_code.localeCompare(b.company_code);
+      }
+      if (sortKey === "reason") {
+        const reasonDiff = Number(b.reason.trim().length > 0) - Number(a.reason.trim().length > 0);
+        return reasonDiff || a.company_code.localeCompare(b.company_code) || b.meeting_date.localeCompare(a.meeting_date);
+      }
+      return 0;
+    });
+  }, [investorRecords, voteFilter, issueType, detailTag, reasonFilter, sortKey, query]);
 
   const displayed = filtered.slice(0, 200);
-  const againstCount = investorRecords.filter((record) => record.vote === "反対").length;
+  const againstCount = investorRecords.filter((record) => isAgainstVote(record.vote)).length;
   const forCount = investorRecords.filter((record) => record.vote === "賛成").length;
+  const forWithReasonCount = investorRecords.filter((record) => record.vote === "賛成" && record.reason.trim().length > 0).length;
+  const hasActiveFilters =
+    query !== "" ||
+    issueType !== "all" ||
+    voteFilter !== "against" ||
+    detailTag !== "all" ||
+    reasonFilter !== "all" ||
+    sortKey !== "default";
+
+  // Group consecutive rows by (company_code, meeting_date) for visual grouping
+  const displayedWithGroups = useMemo(() => {
+    let gIdx = 0;
+    return displayed.map((record, index) => {
+      const prev = displayed[index - 1];
+      const isGroupStart = !prev || prev.company_code !== record.company_code || prev.meeting_date !== record.meeting_date;
+      if (isGroupStart && index > 0) gIdx++;
+      const next = displayed[index + 1];
+      const isGroupEnd = !next || next.company_code !== record.company_code || next.meeting_date !== record.meeting_date;
+      return { record, isGroupStart, isGroupEnd, gIdx };
+    });
+  }, [displayed]);
+
+  function clearFilters() {
+    setQuery("");
+    setIssueType("all");
+    setVoteFilter("against");
+    setDetailTag("all");
+    setReasonFilter("all");
+    setSortKey("default");
+  }
+
+  function displayIssue(record: OppositionRecord) {
+    if (record.vote === "賛成" && record.reason.trim().length === 0) {
+      return <span className="text-slate-400">分類なし</span>;
+    }
+    return issueLabel(record.issue_type);
+  }
+
+  function needsQualityCheck(record: OppositionRecord) {
+    return record.vote === "賛成" && record.reason.trim().length > 0;
+  }
 
   return (
     <section className="rounded-xl border bg-white p-5 shadow-sm">
@@ -148,26 +267,26 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
         </button>
       </div>
 
-      <div className="mb-4 grid gap-3 md:grid-cols-[1fr_160px_220px_220px]">
+      <div className="mb-4 grid gap-2 md:grid-cols-[minmax(220px,1fr)_140px_180px_150px_160px_auto]">
         <input
           value={query}
           onChange={(event) => setQuery(event.target.value)}
-          placeholder="企業名、コード、理由、候補者属性で検索"
-          className="rounded border px-3 py-2 text-sm outline-none focus:border-slate-500"
+          placeholder="企業名・コード・理由で検索"
+          className="rounded border px-3 py-1.5 text-sm outline-none focus:border-slate-500"
         />
         <select
           value={voteFilter}
           onChange={(event) => setVoteFilter(event.target.value as "all" | "against" | "for")}
-          className="rounded border bg-white px-3 py-2 text-sm outline-none focus:border-slate-500"
+          className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
         >
           <option value="against">反対のみ</option>
           <option value="for">賛成のみ</option>
-          <option value="all">両方表示</option>
+          <option value="all">全行使</option>
         </select>
         <select
           value={issueType}
           onChange={(event) => setIssueType(event.target.value)}
-          className="rounded border bg-white px-3 py-2 text-sm outline-none focus:border-slate-500"
+          className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
         >
           <option value="all">すべての論点</option>
           {issueTypes.map((issue) => (
@@ -177,17 +296,32 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
           ))}
         </select>
         <select
-          value={detailTag}
-          onChange={(event) => setDetailTag(event.target.value)}
-          className="rounded border bg-white px-3 py-2 text-sm outline-none focus:border-slate-500"
+          value={reasonFilter}
+          onChange={(event) => setReasonFilter(event.target.value as "all" | "with" | "without")}
+          className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
         >
-          <option value="all">すべての詳細条件</option>
-          {detailTags.map((tag) => (
-            <option key={tag} value={tag}>
-              {tag}
-            </option>
-          ))}
+          <option value="all">理由すべて</option>
+          <option value="with">理由あり</option>
+          <option value="without">理由なし</option>
         </select>
+        <select
+          value={sortKey}
+          onChange={(event) => setSortKey(event.target.value as "default" | "company" | "meeting_date_desc" | "reason")}
+          className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
+        >
+          <option value="default">既定順</option>
+          <option value="meeting_date_desc">総会日 新しい順</option>
+          <option value="company">企業コード順</option>
+          <option value="reason">理由あり優先</option>
+        </select>
+        <button
+          type="button"
+          onClick={clearFilters}
+          disabled={!hasActiveFilters}
+          className="rounded border bg-white px-3 py-1.5 text-sm text-slate-700 shadow-sm hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-40"
+        >
+          クリア
+        </button>
       </div>
 
       <div className="mb-3 grid gap-3 md:grid-cols-4">
@@ -202,6 +336,7 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
         <div className="rounded-lg border bg-green-50 p-3">
           <p className="text-xs text-green-700">賛成比較</p>
           <p className="mt-1 text-2xl font-bold text-green-700">{forCount.toLocaleString()}</p>
+          {forWithReasonCount > 0 && <p className="mt-1 text-[11px] text-green-700">理由あり {forWithReasonCount.toLocaleString()}件</p>}
         </div>
         <div className="rounded-lg border bg-slate-50 p-3">
           <p className="text-xs text-slate-500">絞り込み後</p>
@@ -214,54 +349,68 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
           <thead className="bg-slate-50 text-slate-500">
             <tr>
               <th className="px-3 py-2 text-left font-semibold">企業</th>
-              <th className="px-3 py-2 text-left font-semibold">総会日</th>
-              <th className="px-3 py-2 text-left font-semibold">行使</th>
-              <th className="px-3 py-2 text-left font-semibold">議案</th>
-              <th className="px-3 py-2 text-left font-semibold">推定論点</th>
-              <th className="px-3 py-2 text-left font-semibold">詳細条件</th>
-              <th className="px-3 py-2 text-left font-semibold">理由</th>
-              <th className="px-3 py-2 text-left font-semibold">出典</th>
+              <th className="px-2 py-2 text-left font-semibold whitespace-nowrap">総会日</th>
+              <th className="px-2 py-2 text-left font-semibold">行使</th>
+              <th className="px-2 py-2 text-left font-semibold">議案</th>
+              <th className="px-2 py-2 text-left font-semibold">推定論点</th>
+              <th className="px-2 py-2 text-left font-semibold">理由</th>
+              <th className="px-2 py-2 text-left font-semibold">出典</th>
             </tr>
           </thead>
-          <tbody className="divide-y">
-            {displayed.map((record, index) => (
-              <tr key={`${record.investor_id}-${record.company_code}-${record.meeting_date}-${record.proposal_number}-${index}`} className="align-top">
-                <td className="px-3 py-2">
-                  <p className="font-semibold text-slate-900">{record.company_name || record.company_code}</p>
-                  <p className="text-slate-500">{record.company_code}</p>
+          <tbody>
+            {displayedWithGroups.map(({ record, isGroupStart, isGroupEnd, gIdx }, index) => (
+              <tr
+                key={`${record.investor_id}-${record.company_code}-${record.meeting_date}-${record.proposal_number}-${index}`}
+                className={`align-top ${gIdx % 2 === 0 ? "" : "bg-slate-50/60"} ${isGroupEnd ? "border-b border-slate-200" : ""}`}
+              >
+                <td className="px-3 py-1.5">
+                  {isGroupStart ? (
+                    <>
+                      <Link href={companyDetailHref(record)} className="font-semibold text-slate-900 hover:text-blue-700 hover:underline">
+                        {record.company_name || record.company_code}
+                      </Link>
+                      <p className="text-slate-400">{record.company_code}</p>
+                    </>
+                  ) : (
+                    <span className="text-slate-300 pl-1">↳</span>
+                  )}
                 </td>
-                <td className="px-3 py-2 text-slate-600">{record.meeting_date || "-"}</td>
-                <td className="px-3 py-2">
-                  <span className={`rounded px-2 py-0.5 font-semibold ${record.vote === "反対" ? "bg-red-100 text-red-700" : "bg-green-50 text-green-700"}`}>
-                    {record.vote}
+                <td className="px-2 py-1.5 text-slate-500 whitespace-nowrap">{isGroupStart ? (record.meeting_date ? record.meeting_date.replace(/(\d{4})(\d{2})(\d{2})/, "$1/$2/$3") : "-") : ""}</td>
+                <td className="px-2 py-1.5">
+                  <span className={`rounded px-1.5 py-0.5 font-semibold ${
+                    isAgainstVote(record.vote) && record.vote !== "賛成"
+                      ? record.vote === "判断" ? "bg-orange-50 text-orange-700" : "bg-red-100 text-red-700"
+                      : record.vote === "棄権" ? "bg-amber-50 text-amber-700"
+                      : "bg-green-50 text-green-700"
+                  }`}>
+                    {record.vote || "-"}
                   </span>
                 </td>
-                <td className="px-3 py-2 text-slate-600">
-                  <p>{record.proposal_type || "-"}</p>
-                  <p>{record.director_or_role}</p>
+                <td className="px-2 py-1.5 text-slate-600 max-w-[160px]">
+                  <p className="truncate">{record.proposal_type || "-"}</p>
+                  <p className="text-slate-400">
+                    {record.resolution_number || record.proposal_number ? `議案${record.resolution_number || record.proposal_number}` : ""}
+                    {record.candidate_number ? `-${record.candidate_number}` : ""}
+                  </p>
                 </td>
-                <td className="px-3 py-2">
-                  <span className="rounded bg-amber-50 px-2 py-0.5 font-semibold text-amber-700">{issueLabel(record.issue_type)}</span>
+                <td className="px-2 py-1.5 whitespace-nowrap">
+                  <span className="rounded bg-amber-50 px-2 py-0.5 font-semibold text-amber-700">{displayIssue(record)}</span>
                 </td>
-                <td className="px-3 py-2">
-                  <div className="flex max-w-xs flex-wrap gap-1">
-                    {(record.detail_tags ?? []).length > 0 ? (
-                      record.detail_tags?.map((tag) => (
-                        <span key={tag} className="rounded bg-blue-50 px-2 py-0.5 text-blue-700">{tag}</span>
-                      ))
-                    ) : (
-                      <span className="text-slate-400">-</span>
-                    )}
-                  </div>
+                <td className="px-2 py-1.5 text-slate-700 max-w-[260px]">
+                  {needsQualityCheck(record) && (
+                    <span className="mb-1 inline-flex rounded bg-amber-50 px-1.5 py-0.5 text-[10px] font-semibold text-amber-700">
+                      賛成理由あり・要確認
+                    </span>
+                  )}
+                  <p className="line-clamp-2 leading-5">{record.reason || <span className="text-slate-400">記載なし</span>}</p>
                 </td>
-                <td className="max-w-md px-3 py-2 leading-5 text-slate-700">{record.reason || "理由記載なし"}</td>
-                <td className="px-3 py-2">
+                <td className="px-2 py-1.5 whitespace-nowrap">
                   {record.source_url ? (
-                    <a className="text-blue-700 hover:underline" href={record.source_url} target="_blank" rel="noreferrer">
-                      開く
-                    </a>
+                    <a className="text-blue-600 hover:underline" href={record.source_url} target="_blank" rel="noreferrer">開く</a>
+                  ) : convocationNoticeUrl(record) ? (
+                    <a className="text-emerald-700 hover:underline" href={convocationNoticeUrl(record)!} target="_blank" rel="noreferrer" title="招集通知">通知</a>
                   ) : (
-                    <span className="text-slate-400">-</span>
+                    <span className="text-slate-300">-</span>
                   )}
                 </td>
               </tr>

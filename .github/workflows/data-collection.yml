@@ -103,6 +103,9 @@ jobs:
       - name: Audit company fact coverage
         run: npm run audit:company-facts
 
+      - name: Audit vote record quality
+        run: npm run audit:vote-records
+
       - name: Commit collected data
         shell: bash
         run: |
@@ -125,6 +128,7 @@ jobs:
           add_if_exists "data/generated/download_manifest.json" "data/generated/source_registry.json" "data/generated/opposition_focus_companies.json" "data/generated/investor_opposition_summary.json"
           add_if_exists "data/generated/edinet_filings.json" "data/generated/edinet_download_manifest.json"
           add_if_exists "data/generated/company_fact_coverage.json"
+          add_if_exists "data/generated/vote_record_quality_report.json"
           add_if_exists "data/generated/pipeline_logs/*.json"
           while IFS= read -r file; do
             if [ -f "$file" ]; then
