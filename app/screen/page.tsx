@@ -1,3 +1,5 @@
+import { readFile } from "fs/promises";
+import path from "path";
 import Link from "next/link";
 import {
   companies,
@@ -7,7 +9,9 @@ import {
 } from "@/lib/data";
 import { runJudgment, issueLabels } from "@/lib/inference";
 import { ScreenerFilterForm } from "@/components/ScreenerFilterForm";
-import type { CompanyGovernanceMetric, FinancialMetric, InvestorJudgment, IssueType, OppositionLevel } from "@/lib/types";
+import { ScreenerResultTable } from "@/components/ScreenerResultTable";
+import type { CompanyTableRow, InvestorDetailRow } from "@/components/ScreenerResultTable";
+import type { CompanyGovernanceMetric, InvestorJudgment, IssueType, OppositionLevel } from "@/lib/types";
 
 // ────────────────────────────────────────────────
 // Types
@@ -26,16 +30,27 @@ interface Params {
   }>;
 }
 
-interface CompanyResult {
+interface FocusInvestorData {
+  against: number;
+  for: number;
+}
+
+interface FocusExample {
+  investor_id: string;
+  issue_type: string;
+  meeting_date?: string;
+  reason?: string;
+}
+
+interface FocusCompany {
   company_code: string;
   company_name: string;
-  market: string;
-  sector: string;
-  gov: CompanyGovernanceMetric | null;
-  latestROE: number | null;
-  roePeriodsBelowThreshold: number;
-  boardType: string;
-  judgments: InvestorJudgment[];
+  against_count: number;
+  for_count?: number;
+  investors: Record<string, number | FocusInvestorData>;
+  issues: Record<string, number>;
+  recent_against?: FocusExample[];
+  recent_examples?: FocusExample[];
 }
 
 // ────────────────────────────────────────────────
@@ -46,7 +61,7 @@ const LEVEL_ORDER: Record<OppositionLevel, number> = {
   High: 4, "Medium-High": 3, Medium: 2, Low: 1, "Not likely": 0,
 };
 
-const levelClass: Record<OppositionLevel, string> = {
+const levelBadgeClass: Record<OppositionLevel, string> = {
   High: "bg-red-100 text-red-700",
   "Medium-High": "bg-orange-100 text-orange-700",
   Medium: "bg-yellow-100 text-yellow-700",
@@ -61,24 +76,27 @@ function inferBoardType(gov: CompanyGovernanceMetric): string {
 }
 
 function boardTypeLabel(t: string): string {
-  return { audit: "監査役設置", audit_committee: "監査等委員会", nomination_committee: "指名委員会等" }[t] ?? t;
+  return (
+    { audit: "監査役設置", audit_committee: "監査等委員会", nomination_committee: "指名委員会等" }[t] ?? t
+  );
 }
 
 function boardTypeBadge(t: string): string {
-  return {
-    audit: "bg-slate-100 text-slate-600",
-    audit_committee: "bg-teal-50 text-teal-700",
-    nomination_committee: "bg-purple-50 text-purple-700",
-  }[t] ?? "bg-slate-100 text-slate-600";
+  return (
+    {
+      audit: "bg-slate-100 text-slate-600",
+      audit_committee: "bg-teal-50 text-teal-700",
+      nomination_committee: "bg-purple-50 text-purple-700",
+    }[t] ?? "bg-slate-100 text-slate-600"
+  );
 }
 
-/** 企業の直近 N 期のうち ROE が閾値以下の期数を返す */
 function countPeriodsBelow(code: string, threshold: number): number {
-  const metrics = financialMetrics
+  return financialMetrics
     .filter(m => m.company_code === code && m.roe != null)
     .sort((a, b) => b.fiscal_year - a.fiscal_year)
-    .slice(0, 3);
-  return metrics.filter(m => (m.roe as number) <= threshold).length;
+    .slice(0, 3)
+    .filter(m => (m.roe as number) <= threshold).length;
 }
 
 function latestROE(code: string): number | null {
@@ -91,10 +109,87 @@ function latestROE(code: string): number | null {
 function topOpposedIssue(judgment: InvestorJudgment): IssueType | null {
   const allScores = judgment.opposition_candidates.flatMap(c => c.issue_scores);
   if (allScores.length === 0) return null;
-  const best = allScores.reduce((a, b) =>
-    LEVEL_ORDER[b.level] > LEVEL_ORDER[a.level] ? b : a
-  );
+  const best = allScores.reduce((a, b) => (LEVEL_ORDER[b.level] > LEVEL_ORDER[a.level] ? b : a));
   return LEVEL_ORDER[best.level] > 0 ? best.issue_type : null;
+}
+
+function focusInvestorVotes(
+  focus: FocusCompany,
+  investor_id: string,
+): { against: number; for: number } {
+  const v = focus.investors[investor_id];
+  if (v === undefined) return { against: 0, for: 0 };
+  if (typeof v === "number") return { against: v, for: 0 };
+  return { against: v.against ?? 0, for: v.for ?? 0 };
+}
+
+function buildActualSummary(
+  focus: FocusCompany | undefined,
+  investor_id: string,
+): { summary: string; against: number; for: number; reasons: string[] } {
+  if (!focus) return { summary: "行使実績なし", against: 0, for: 0, reasons: [] };
+
+  const { against, for: forCount } = focusInvestorVotes(focus, investor_id);
+
+  if (against === 0 && forCount === 0) {
+    return { summary: "行使実績なし", against: 0, for: 0, reasons: [] };
+  }
+
+  // Collect reasons from recent examples
+  const examples = (focus.recent_against ?? focus.recent_examples ?? []).filter(
+    e => e.investor_id === investor_id,
+  );
+  const reasons = examples
+    .map(e => e.reason)
+    .filter((r): r is string => !!r)
+    .slice(0, 2);
+
+  // Top issue from actual data
+  const issueEntries = Object.entries(focus.issues).sort((a, b) => b[1] - a[1]);
+  const topIssueKey = issueEntries[0]?.[0];
+  const topIssueLabel = topIssueKey ? (issueLabels[topIssueKey as IssueType] ?? topIssueKey) : "";
+
+  if (against > 0) {
+    const issueNote = topIssueLabel ? `（${topIssueLabel}）` : "";
+    return {
+      summary: `${against}件反対${issueNote}`,
+      against,
+      for: forCount,
+      reasons,
+    };
+  }
+  return {
+    summary: `全賛成（${forCount}件）`,
+    against: 0,
+    for: forCount,
+    reasons: [],
+  };
+}
+
+function buildEstimatedSummary(
+  judgment: InvestorJudgment | undefined,
+): { level: OppositionLevel; summary: string; directors: string[] } {
+  if (!judgment || judgment.opposition_candidates.length === 0) {
+    return { level: "Not likely", summary: "推定データなし", directors: [] };
+  }
+  const topLevel = judgment.opposition_candidates.reduce<OppositionLevel>(
+    (max, c) => (LEVEL_ORDER[c.overall_level] > LEVEL_ORDER[max] ? c.overall_level : max),
+    "Not likely",
+  );
+  if (LEVEL_ORDER[topLevel] === 0) {
+    return { level: "Not likely", summary: "反対推定なし", directors: [] };
+  }
+  const issue = topOpposedIssue(judgment);
+  const issueLabel = issue ? issueLabels[issue] : "";
+  const directors = judgment.opposition_candidates
+    .filter(c => LEVEL_ORDER[c.overall_level] >= 2)
+    .slice(0, 3)
+    .map(c => c.director.name);
+  return {
+    level: topLevel,
+    summary: `${topLevel}${issueLabel ? `（${issueLabel}）` : ""}`,
+    directors,
+  };
 }
 
 // ────────────────────────────────────────────────
@@ -104,6 +199,21 @@ function topOpposedIssue(judgment: InvestorJudgment): IssueType | null {
 export default async function ScreenPage({ searchParams }: Params) {
   const sp = await searchParams;
   const YEAR = 2025;
+
+  // ── opposition_focus_companies.json を読み込む ──
+  let focusMap = new Map<string, FocusCompany>();
+  try {
+    const raw = await readFile(
+      path.join(process.cwd(), "data/generated/opposition_focus_companies.json"),
+      "utf8",
+    );
+    const parsed = JSON.parse(raw) as { companies?: FocusCompany[] };
+    for (const c of parsed.companies ?? []) {
+      focusMap.set(String(c.company_code), c);
+    }
+  } catch {
+    // ファイルが存在しない場合はスキップ
+  }
 
   // ── フィルター値パース ──
   const indepMin = sp.indep_min ? Number(sp.indep_min) : null;
@@ -116,23 +226,29 @@ export default async function ScreenPage({ searchParams }: Params) {
   const view = sp.view === "investor" ? "investor" : "company";
 
   const hasFilter =
-    indepMin !== null || indepMax !== null || femaleMin !== null ||
-    roeMax !== null || boardTypeFilter.length > 0;
+    indepMin !== null ||
+    indepMax !== null ||
+    femaleMin !== null ||
+    roeMax !== null ||
+    boardTypeFilter.length > 0;
 
   // ── ガバナンス辞書 ──
   const govMap = new Map<string, CompanyGovernanceMetric>();
   for (const g of companyGovernanceMetrics) {
-    if (!govMap.has(g.company_code) || g.meeting_year > (govMap.get(g.company_code)?.meeting_year ?? 0)) {
+    if (
+      !govMap.has(g.company_code) ||
+      g.meeting_year > (govMap.get(g.company_code)?.meeting_year ?? 0)
+    ) {
       govMap.set(g.company_code, g);
     }
   }
 
-  // ── 絞り込み ──
   const targetInvestors = investorFilter
     ? investors.filter(i => i.investor_id === investorFilter)
     : investors;
 
-  const filtered: CompanyResult[] = [];
+  // ── 絞り込み & 各社の判定実行 ──
+  const companyRows: CompanyTableRow[] = [];
 
   for (const c of companies) {
     const gov = govMap.get(c.company_code) ?? null;
@@ -146,14 +262,13 @@ export default async function ScreenPage({ searchParams }: Params) {
       if (femaleMin !== null && gov.female_director_ratio < femaleMin) continue;
       if (boardTypeFilter.length > 0 && !boardTypeFilter.includes(bt)) continue;
     } else if (hasFilter) {
-      continue; // ガバナンスデータなし & フィルターあり → スキップ
+      continue;
     }
 
     if (roeMax !== null) {
       if (roe === null) continue;
       if (roePeriods != null && roePeriods >= 2) {
-        const belowCount = countPeriodsBelow(c.company_code, roeMax);
-        if (belowCount < roePeriods) continue;
+        if (countPeriodsBelow(c.company_code, roeMax) < roePeriods) continue;
       } else {
         if (roe > roeMax) continue;
       }
@@ -164,65 +279,165 @@ export default async function ScreenPage({ searchParams }: Params) {
       .map(inv => runJudgment(inv.investor_id, c.company_code, YEAR))
       .filter((j): j is InvestorJudgment => j !== null);
 
-    const roePeriodsBelowThreshold = roeMax !== null
-      ? countPeriodsBelow(c.company_code, roeMax)
-      : 0;
+    const roePeriodsBelowThreshold =
+      roeMax !== null ? countPeriodsBelow(c.company_code, roeMax) : 0;
 
-    filtered.push({
+    // Focus データ
+    const focus = focusMap.get(c.company_code);
+
+    // ── 投資家バッジ（メイン行用） ──
+    const investorBadges: CompanyTableRow["investorBadges"] = [];
+    let hasAnyOpposition = false;
+
+    for (const j of judgments) {
+      const topLevel = j.opposition_candidates.reduce<OppositionLevel>(
+        (max, cand) =>
+          LEVEL_ORDER[cand.overall_level] > LEVEL_ORDER[max] ? cand.overall_level : max,
+        "Not likely",
+      );
+      if (LEVEL_ORDER[topLevel] === 0) continue;
+      hasAnyOpposition = true;
+      const issue = topOpposedIssue(j);
+      investorBadges.push({
+        investor_id: j.investor.investor_id,
+        shortName: j.investor.investor_name.slice(0, 6),
+        badgeClass: levelBadgeClass[topLevel],
+        title: `${j.investor.investor_name}${issue ? " — " + issueLabels[issue] : ""}`,
+        href: `/companies/${c.company_code}?year=${YEAR}&investor=${j.investor.investor_id}`,
+      });
+    }
+
+    // ── 投資家詳細（展開行用） ──
+    const investorDetails: InvestorDetailRow[] = targetInvestors.map(inv => {
+      const judgment = judgments.find(j => j.investor.investor_id === inv.investor_id);
+      const actual = buildActualSummary(focus, inv.investor_id);
+      const estimated = buildEstimatedSummary(judgment);
+      return {
+        investor_id: inv.investor_id,
+        investor_name: inv.investor_name,
+        actual_summary: actual.summary,
+        actual_against: actual.against,
+        actual_for: actual.for,
+        actual_reasons: actual.reasons,
+        estimated_level: estimated.level,
+        estimated_summary: estimated.summary,
+        estimated_directors: estimated.directors,
+        company_detail_href: `/companies/${c.company_code}?year=${YEAR}&investor=${inv.investor_id}`,
+      };
+    });
+
+    // ── CompanyTableRow 組み立て ──
+    const marketBadgeClass =
+      c.market === "東証プライム"
+        ? "border-blue-200 bg-blue-50 text-blue-700"
+        : c.market === "東証スタンダード"
+        ? "border-green-200 bg-green-50 text-green-700"
+        : "border-orange-200 bg-orange-50 text-orange-700";
+
+    companyRows.push({
       company_code: c.company_code,
       company_name: c.company_name,
       market: c.market,
       sector: c.sector,
-      gov,
+      boardTypeLabel: boardTypeLabel(bt),
+      boardTypeBadgeClass: boardTypeBadge(bt),
+      marketBadgeClass,
+      indepRatio: gov?.independent_director_ratio ?? null,
+      femaleRatio: gov?.female_director_ratio ?? null,
+      indepRatioClass:
+        gov && gov.independent_director_ratio < 33 ? "font-semibold text-red-600" : "text-slate-700",
+      femaleRatioClass:
+        gov && gov.female_director_ratio === 0 ? "font-semibold text-amber-600" : "text-slate-700",
       latestROE: roe,
-      roePeriodsBelowThreshold,
-      boardType: bt,
-      judgments,
+      roeClass: roe !== null && roe < 5 ? "font-semibold text-red-600" : "text-slate-700",
+      roeNote:
+        roeMax !== null && roePeriodsBelowThreshold >= 2
+          ? `(${roePeriodsBelowThreshold}期)`
+          : "",
+      hasAnyOpposition,
+      investorBadges,
+      investorDetails,
+      detailHref: `/companies/${c.company_code}?year=${YEAR}${investorFilter ? `&investor=${investorFilter}` : ""}`,
     });
   }
 
-  // 反対推定数の多い順にソート
-  filtered.sort((a, b) => {
-    const aMax = a.judgments.reduce((acc, j) => {
-      const top = j.opposition_candidates.reduce((m, c) => Math.max(m, LEVEL_ORDER[c.overall_level]), 0);
-      return Math.max(acc, top);
-    }, 0);
-    const bMax = b.judgments.reduce((acc, j) => {
-      const top = j.opposition_candidates.reduce((m, c) => Math.max(m, LEVEL_ORDER[c.overall_level]), 0);
-      return Math.max(acc, top);
-    }, 0);
-    return bMax - aMax;
+  // 反対推定スコア降順ソート
+  companyRows.sort((a, b) => {
+    const scoreOf = (row: CompanyTableRow) =>
+      row.investorDetails.reduce(
+        (acc, d) => Math.max(acc, LEVEL_ORDER[d.estimated_level as OppositionLevel] ?? 0),
+        0,
+      );
+    return scoreOf(b) - scoreOf(a);
   });
 
   // 統計
-  const totalOppositionCount = filtered.reduce((acc, r) =>
-    acc + r.judgments.reduce((a, j) =>
-      a + j.opposition_candidates.filter(c => LEVEL_ORDER[c.overall_level] >= 2).length, 0
-    ), 0
+  const totalOppositionCount = companyRows.reduce(
+    (acc, r) =>
+      acc +
+      r.investorDetails.filter(d => LEVEL_ORDER[d.estimated_level as OppositionLevel] >= 2)
+        .length,
+    0,
   );
 
   const filterForm = {
-    indepMin, indepMax, femaleMin, roeMax, roePeriods,
-    boardType: boardTypeFilter, investor: investorFilter,
+    indepMin,
+    indepMax,
+    femaleMin,
+    roeMax,
+    roePeriods,
+    boardType: boardTypeFilter,
+    investor: investorFilter,
   };
 
-  // 投資家別集計
-  const investorOppositions = targetInvestors.map(inv => {
-    const items: { company_code: string; company_name: string; issue: IssueType | null; level: OppositionLevel; directors: string[] }[] = [];
-    for (const r of filtered) {
-      const j = r.judgments.find(j => j.investor.investor_id === inv.investor_id);
-      if (!j) continue;
-      const topCandidates = j.opposition_candidates.filter(c => LEVEL_ORDER[c.overall_level] >= 2);
-      if (topCandidates.length === 0) continue;
-      const overallLevel = topCandidates.reduce<OppositionLevel>((max, c) =>
-        LEVEL_ORDER[c.overall_level] > LEVEL_ORDER[max] ? c.overall_level : max, "Not likely"
-      );
-      const issue = topOpposedIssue(j);
-      const directorNames = topCandidates.slice(0, 3).map(c => c.director.name);
-      items.push({ company_code: r.company_code, company_name: r.company_name, issue, level: overallLevel, directors: directorNames });
-    }
-    return { investor: inv, items };
-  }).filter(x => x.items.length > 0);
+  // 投資家別集計（投資家別タブ用）
+  const investorOppositions = targetInvestors
+    .map(inv => {
+      const items: {
+        company_code: string;
+        company_name: string;
+        level: OppositionLevel;
+        issue: IssueType | null;
+        directors: string[];
+      }[] = [];
+      for (const row of companyRows) {
+        const detail = row.investorDetails.find(d => d.investor_id === inv.investor_id);
+        if (!detail) continue;
+        const lvl = detail.estimated_level as OppositionLevel;
+        if (LEVEL_ORDER[lvl] < 2) continue;
+        const judgment = targetInvestors
+          .map(i => runJudgment(i.investor_id, row.company_code, YEAR))
+          .find(j => j?.investor.investor_id === inv.investor_id) ?? null;
+        items.push({
+          company_code: row.company_code,
+          company_name: row.company_name,
+          level: lvl,
+          issue: judgment ? topOpposedIssue(judgment) : null,
+          directors: detail.estimated_directors,
+        });
+      }
+      return { investor: inv, items };
+    })
+    .filter(x => x.items.length > 0);
+
+  // URLビルダー
+  const buildTabUrl = (v: "company" | "investor") => {
+    const params = Object.fromEntries(
+      Object.entries({
+        indep_min: indepMin,
+        indep_max: indepMax,
+        female_min: femaleMin,
+        roe_max: roeMax,
+        roe_periods: roePeriods,
+        board_type: boardTypeFilter.join(",") || undefined,
+        investor: investorFilter || undefined,
+        view: v,
+      })
+        .filter(([, val]) => val != null && val !== "")
+        .map(([k, val]) => [k, String(val)]),
+    );
+    return `/screen?${new URLSearchParams(params)}`;
+  };
 
   return (
     <div className="space-y-5">
@@ -230,7 +445,7 @@ export default async function ScreenPage({ searchParams }: Params) {
       <div>
         <h1 className="text-xl font-bold text-slate-900">企業スクリーニング</h1>
         <p className="mt-1 text-sm text-slate-500">
-          ガバナンス・財務指標で企業を絞り込み、投資家別の反対推定を一覧します。
+          ガバナンス・財務指標で企業を絞り込み、投資家別の賛否情報を確認できます。企業行をクリックすると投資家ごとの詳細が展開します。
         </p>
       </div>
 
@@ -240,27 +455,27 @@ export default async function ScreenPage({ searchParams }: Params) {
       {/* 結果ヘッダー */}
       <div className="flex flex-wrap items-center gap-4">
         <div className="flex gap-4">
-          <span className="text-sm font-bold text-slate-700">{filtered.length}社 該当</span>
-          <span className="text-sm text-slate-500">{totalOppositionCount}件の反対推定（Medium以上）</span>
+          <span className="text-sm font-bold text-slate-700">{companyRows.length}社 該当</span>
+          <span className="text-sm text-slate-500">
+            {totalOppositionCount}件の反対推定（Medium以上）
+          </span>
         </div>
         <div className="ml-auto flex gap-2">
           <Link
-            href={`/screen?${new URLSearchParams({ ...Object.fromEntries(Object.entries({
-              indep_min: indepMin, indep_max: indepMax, female_min: femaleMin,
-              roe_max: roeMax, roe_periods: roePeriods, board_type: boardTypeFilter.join(",") || undefined,
-              investor: investorFilter || undefined, view: "company",
-            }).filter(([, v]) => v != null && v !== "").map(([k, v]) => [k, String(v)])) })}`}
-            className={`rounded border px-3 py-1.5 text-sm ${view === "company" ? "bg-slate-900 text-white" : "bg-white text-slate-600 hover:bg-slate-50"}`}
+            href={buildTabUrl("company")}
+            className={`rounded border px-3 py-1.5 text-sm ${
+              view === "company" ? "bg-slate-900 text-white" : "bg-white text-slate-600 hover:bg-slate-50"
+            }`}
           >
             企業一覧
           </Link>
           <Link
-            href={`/screen?${new URLSearchParams({ ...Object.fromEntries(Object.entries({
-              indep_min: indepMin, indep_max: indepMax, female_min: femaleMin,
-              roe_max: roeMax, roe_periods: roePeriods, board_type: boardTypeFilter.join(",") || undefined,
-              investor: investorFilter || undefined, view: "investor",
-            }).filter(([, v]) => v != null && v !== "").map(([k, v]) => [k, String(v)])) })}`}
-            className={`rounded border px-3 py-1.5 text-sm ${view === "investor" ? "bg-slate-900 text-white" : "bg-white text-slate-600 hover:bg-slate-50"}`}
+            href={buildTabUrl("investor")}
+            className={`rounded border px-3 py-1.5 text-sm ${
+              view === "investor"
+                ? "bg-slate-900 text-white"
+                : "bg-white text-slate-600 hover:bg-slate-50"
+            }`}
           >
             投資家別
           </Link>
@@ -268,116 +483,7 @@ export default async function ScreenPage({ searchParams }: Params) {
       </div>
 
       {/* ── 企業一覧タブ ── */}
-      {view === "company" && (
-        <div className="rounded-xl border bg-white shadow-sm">
-          {filtered.length === 0 ? (
-            <div className="px-6 py-10 text-center text-sm text-slate-500">
-              条件に合う企業が見つかりませんでした。条件を変更してください。
-            </div>
-          ) : (
-            <div className="overflow-x-auto">
-              <table className="w-full text-sm">
-                <thead>
-                  <tr className="border-b bg-slate-50 text-left text-xs font-semibold text-slate-500">
-                    <th className="px-4 py-3">企業</th>
-                    <th className="px-4 py-3">市場</th>
-                    <th className="px-4 py-3 text-center">機関設計</th>
-                    <th className="px-4 py-3 text-right">社外比率</th>
-                    <th className="px-4 py-3 text-right">女性比率</th>
-                    <th className="px-4 py-3 text-right">ROE</th>
-                    <th className="px-4 py-3 text-center">反対推定（投資家別）</th>
-                    <th className="px-4 py-3"></th>
-                  </tr>
-                </thead>
-                <tbody className="divide-y">
-                  {filtered.map(r => {
-                    const highOppositions = r.judgments.filter(j =>
-                      j.opposition_candidates.some(c => LEVEL_ORDER[c.overall_level] >= 3)
-                    );
-                    return (
-                      <tr key={r.company_code} className="hover:bg-slate-50/50">
-                        <td className="px-4 py-3">
-                          <div className="font-medium text-slate-900">{r.company_name}</div>
-                          <div className="text-xs text-slate-400">{r.company_code} / {r.sector}</div>
-                        </td>
-                        <td className="px-4 py-3">
-                          <span className={`rounded border px-1.5 py-0.5 text-xs font-medium ${
-                            r.market === "東証プライム" ? "border-blue-200 bg-blue-50 text-blue-700"
-                            : r.market === "東証スタンダード" ? "border-green-200 bg-green-50 text-green-700"
-                            : "border-orange-200 bg-orange-50 text-orange-700"
-                          }`}>{r.market?.replace("東証", "") ?? "—"}</span>
-                        </td>
-                        <td className="px-4 py-3 text-center">
-                          <span className={`rounded px-1.5 py-0.5 text-xs font-medium ${boardTypeBadge(r.boardType)}`}>
-                            {boardTypeLabel(r.boardType)}
-                          </span>
-                        </td>
-                        <td className="px-4 py-3 text-right">
-                          {r.gov ? (
-                            <span className={r.gov.independent_director_ratio < 33 ? "font-semibold text-red-600" : "text-slate-700"}>
-                              {r.gov.independent_director_ratio.toFixed(1)}%
-                            </span>
-                          ) : "—"}
-                        </td>
-                        <td className="px-4 py-3 text-right">
-                          {r.gov ? (
-                            <span className={r.gov.female_director_ratio === 0 ? "font-semibold text-amber-600" : "text-slate-700"}>
-                              {r.gov.female_director_ratio.toFixed(1)}%
-                            </span>
-                          ) : "—"}
-                        </td>
-                        <td className="px-4 py-3 text-right">
-                          {r.latestROE !== null ? (
-                            <span className={r.latestROE < 5 ? "font-semibold text-red-600" : "text-slate-700"}>
-                              {r.latestROE.toFixed(1)}%
-                              {roeMax !== null && r.roePeriodsBelowThreshold >= 2 && (
-                                <span className="ml-1 text-xs text-slate-400">({r.roePeriodsBelowThreshold}期)</span>
-                              )}
-                            </span>
-                          ) : "—"}
-                        </td>
-                        <td className="px-4 py-3">
-                          <div className="flex flex-wrap justify-center gap-1">
-                            {r.judgments.map(j => {
-                              const topLevel = j.opposition_candidates.reduce<OppositionLevel>(
-                                (max, c) => LEVEL_ORDER[c.overall_level] > LEVEL_ORDER[max] ? c.overall_level : max,
-                                "Not likely"
-                              );
-                              if (LEVEL_ORDER[topLevel] === 0) return null;
-                              const issue = topOpposedIssue(j);
-                              return (
-                                <Link
-                                  key={j.investor.investor_id}
-                                  href={`/companies/${r.company_code}?year=${YEAR}&investor=${j.investor.investor_id}`}
-                                  title={`${j.investor.investor_name}${issue ? " — " + issueLabels[issue] : ""}`}
-                                  className={`rounded px-1.5 py-0.5 text-[10px] font-medium leading-tight hover:opacity-80 ${levelClass[topLevel]}`}
-                                >
-                                  {j.investor.investor_name.slice(0, 6)}
-                                </Link>
-                              );
-                            }).filter(Boolean)}
-                            {r.judgments.every(j => j.opposition_candidates.every(c => c.overall_level === "Not likely")) && (
-                              <span className="text-xs text-slate-400">反対推定なし</span>
-                            )}
-                          </div>
-                        </td>
-                        <td className="px-4 py-3 text-right">
-                          <Link
-                            href={`/companies/${r.company_code}?year=${YEAR}${investorFilter ? `&investor=${investorFilter}` : ""}`}
-                            className="rounded border px-2 py-1 text-xs text-slate-600 hover:border-blue-300 hover:bg-blue-50 hover:text-blue-700"
-                          >
-                            詳細 →
-                          </Link>
-                        </td>
-                      </tr>
-                    );
-                  })}
-                </tbody>
-              </table>
-            </div>
-          )}
-        </div>
-      )}
+      {view === "company" && <ScreenerResultTable rows={companyRows} />}
 
       {/* ── 投資家別タブ ── */}
       {view === "investor" && (
@@ -388,7 +494,6 @@ export default async function ScreenPage({ searchParams }: Params) {
             </div>
           ) : (
             investorOppositions.map(({ investor: inv, items }) => {
-              // 論点ごとにグループ化
               const byIssue = new Map<string, typeof items>();
               for (const item of items) {
                 const key = item.issue ?? "other";
@@ -400,10 +505,15 @@ export default async function ScreenPage({ searchParams }: Params) {
                 <div key={inv.investor_id} className="rounded-xl border bg-white shadow-sm">
                   <div className="flex items-center gap-3 border-b px-5 py-4">
                     <div>
-                      <Link href={`/investors/${inv.investor_id}`} className="font-bold text-slate-900 hover:text-blue-700">
+                      <Link
+                        href={`/investors/${inv.investor_id}`}
+                        className="font-bold text-slate-900 hover:text-blue-700"
+                      >
                         {inv.investor_name}
                       </Link>
-                      <p className="text-xs text-slate-500">{inv.country} / {inv.investor_type}</p>
+                      <p className="text-xs text-slate-500">
+                        {inv.country} / {inv.investor_type}
+                      </p>
                     </div>
                     <div className="ml-auto flex items-center gap-2">
                       <span className="rounded bg-red-50 px-2 py-0.5 text-xs font-medium text-red-700">
@@ -418,13 +528,14 @@ export default async function ScreenPage({ searchParams }: Params) {
                     </div>
                   </div>
 
-                  {/* 論点別グループ */}
                   <div className="divide-y">
                     {Array.from(byIssue.entries()).map(([issueKey, issueItems]) => (
                       <div key={issueKey} className="px-5 py-3">
                         <div className="mb-2 flex items-center gap-2">
                           <span className="rounded bg-slate-100 px-2 py-0.5 text-xs font-semibold text-slate-600">
-                            {issueKey !== "other" ? issueLabels[issueKey as IssueType] : "その他"}
+                            {issueKey !== "other"
+                              ? (issueLabels[issueKey as IssueType] ?? issueKey)
+                              : "その他"}
                           </span>
                           <span className="text-xs text-slate-400">{issueItems.length}社</span>
                         </div>
@@ -435,19 +546,19 @@ export default async function ScreenPage({ searchParams }: Params) {
                               href={`/companies/${item.company_code}?year=${YEAR}&investor=${inv.investor_id}`}
                               className="group flex items-center gap-1.5 rounded border bg-slate-50 px-2.5 py-1.5 hover:border-blue-300 hover:bg-blue-50"
                             >
-                              <div>
-                                <span className={`rounded px-1.5 py-0.5 text-[10px] font-semibold ${levelClass[item.level]}`}>
-                                  {item.level}
+                              <span
+                                className={`rounded px-1.5 py-0.5 text-[10px] font-semibold ${levelBadgeClass[item.level]}`}
+                              >
+                                {item.level}
+                              </span>
+                              <span className="ml-1.5 text-xs font-medium text-slate-800 group-hover:text-blue-700">
+                                {item.company_name}
+                              </span>
+                              {item.directors.length > 0 && (
+                                <span className="ml-1 text-[10px] text-slate-400">
+                                  ({item.directors.join("・")})
                                 </span>
-                                <span className="ml-1.5 text-xs font-medium text-slate-800 group-hover:text-blue-700">
-                                  {item.company_name}
-                                </span>
-                                {item.directors.length > 0 && (
-                                  <span className="ml-1 text-[10px] text-slate-400">
-                                    ({item.directors.join("・")})
-                                  </span>
-                                )}
-                              </div>
+                              )}
                             </Link>
                           ))}
                         </div>

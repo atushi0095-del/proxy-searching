@@ -114,6 +114,13 @@ const steps = [
     args: []
   },
   {
+    // companies.json に取締役データが未登録の企業へ自動で取締役・役歴を追加
+    // （属性バッジ表示のため。招集通知取得前の概算値）
+    name: "seed-directors-missing-companies",
+    script: "scripts/seed-directors-all-companies.mjs",
+    args: []
+  },
+  {
     name: "build-investor-opposition-records",
     script: "scripts/build-investor-opposition-records.mjs",
     args: []
