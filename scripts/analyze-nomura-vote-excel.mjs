@@ -142,6 +142,7 @@ function buildCases(records) {
   return {
     generated_at: new Date().toISOString(),
     purpose: "野村アセットマネジメントの個別開示Excelから、反対理由と賛成近接事例を抽出するための中間データ。",
+    records,
     issues: issueTypes.map((issueType) => {
       const allAgainst = records.filter(
         (record) => record.vote === AGAINST && record.issue_types.includes(issueType)

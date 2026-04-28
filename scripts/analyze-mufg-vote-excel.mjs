@@ -4,6 +4,7 @@ import XLSX from "xlsx";
 
 const ROOT = process.cwd();
 const REGISTRY_FILE = path.join(ROOT, "data", "generated", "source_registry.json");
+const MANIFEST_FILE = path.join(ROOT, "data", "generated", "download_manifest.json");
 const SOURCE_DIR = path.join(ROOT, "data", "generated", "sources");
 const SUMMARY_FILE = path.join(ROOT, "data", "generated", "mufg_vote_summary.json");
 const CASES_FILE = path.join(ROOT, "data", "generated", "mufg_vote_cases.json");
@@ -175,6 +176,7 @@ function buildCases(records) {
     generated_at: new Date().toISOString(),
     purpose:
       "三菱UFJ信託銀行の議決権行使結果から、反対された企業・議案と賛成された近接事例を抽出し、基準抵触の境界を分析するための中間データ。",
+    records,
     issues: issueTypes.map((issueType) => {
       const allAgainst = records.filter(
         (record) => record.vote === AGAINST && record.issue_types.includes(issueType)
@@ -205,16 +207,26 @@ function buildCases(records) {
 }
 
 const registry = JSON.parse(await readFile(REGISTRY_FILE, "utf8"));
-const targets = registry.filter(
+const manifest = JSON.parse(await readFile(MANIFEST_FILE, "utf8").catch(() => "[]"));
+const registryTargets = registry.filter(
   (item) => item.investor_id === "mufg_trust" && item.kind === "vote_result_excel"
+);
+const manifestTargets = manifest.filter(
+  (item) => item.investor_id === "mufg_trust" && item.kind === "vote_result_excel" && item.file_path
 );
 
 const records = [];
-for (const [index, target] of targets.entries()) {
+for (const [index, target] of registryTargets.entries()) {
   const filePath = await ensureDownloaded(target, index);
   const parsed = parseWorkbook(filePath, target);
   records.push(...parsed);
   console.log(`Parsed ${parsed.length} rows from ${target.title}`);
+}
+for (const target of manifestTargets) {
+  const filePath = path.join(ROOT, target.file_path);
+  const parsed = parseWorkbook(filePath, target);
+  records.push(...parsed);
+  console.log(`Parsed ${parsed.length} rows from ${target.file_name}`);
 }
 
 await mkdir(path.dirname(SUMMARY_FILE), { recursive: true });

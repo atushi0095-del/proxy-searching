@@ -11,6 +11,14 @@ const args = process.argv.slice(2);
 const requestedKinds = new Set(args.filter((arg) => !arg.startsWith("--")));
 const limitArg = args.find((arg) => arg.startsWith("--limit="));
 const downloadLimit = limitArg ? Number(limitArg.replace("--limit=", "")) : null;
+const investorArg = args.find((arg) => arg.startsWith("--investor="));
+const investorFilter = investorArg
+  ? new Set(investorArg.replace("--investor=", "").split(",").map((value) => value.trim()).filter(Boolean))
+  : null;
+const sourceArg = args.find((arg) => arg.startsWith("--source-id="));
+const sourceIdFilter = sourceArg
+  ? new Set(sourceArg.replace("--source-id=", "").split(",").map((value) => value.trim()).filter(Boolean))
+  : null;
 const defaultKinds = new Set(["guideline", "vote_result", "vote_result_excel"]);
 
 async function loadPolicy() {
@@ -40,7 +48,10 @@ async function exists(filePath) {
 
 function shouldDownload(item) {
   const kinds = requestedKinds.size > 0 ? requestedKinds : defaultKinds;
-  return kinds.has(item.kind);
+  if (!kinds.has(item.kind)) return false;
+  if (investorFilter && !investorFilter.has(item.investor_id)) return false;
+  if (sourceIdFilter && !sourceIdFilter.has(item.source_id)) return false;
+  return true;
 }
 
 function kindPriority(kind) {
@@ -53,13 +64,14 @@ function kindPriority(kind) {
 function extensionFor(item, contentType) {
   const fromUrl = new URL(item.url).pathname.match(/\.([a-z0-9]+)$/i)?.[1];
   if (fromUrl) return fromUrl.toLowerCase();
+  if (contentType.includes("csv")) return "csv";
   if (contentType.includes("spreadsheet")) return "xlsx";
   if (contentType.includes("pdf")) return "pdf";
   return "bin";
 }
 
 function fileBase(item, index) {
-  const label = item.title
+  const label = (item.title ?? item.source_id ?? item.url)
     .replace(/[\\/:*?"<>|]/g, " ")
     .replace(/\s+/g, " ")
     .trim()
@@ -68,7 +80,11 @@ function fileBase(item, index) {
 }
 
 async function download(item, index, policy) {
-  const contentTypeHint = item.url.toLowerCase().includes(".xlsx") ? "xlsx" : "";
+  const contentTypeHint = item.url.toLowerCase().includes(".xlsx")
+    ? "xlsx"
+    : item.url.toLowerCase().includes(".csv")
+      ? "csv"
+      : "";
   const extHint = item.url.toLowerCase().match(/\.([a-z0-9]+)(?:[?#]|$)/)?.[1] ?? contentTypeHint;
   const precomputedName = `${fileBase(item, index)}.${extHint || "bin"}`;
   const precomputedPath = path.join(OUT_DIR, precomputedName);
@@ -115,6 +131,7 @@ async function download(item, index, policy) {
 }
 
 const registry = JSON.parse(await readFile(REGISTRY_FILE, "utf8"));
+const existingManifest = JSON.parse(await readFile(MANIFEST_FILE, "utf8").catch(() => "[]"));
 const targets = registry
   .filter(shouldDownload)
   .map((item, sourceIndex) => ({ item, sourceIndex }))
@@ -142,5 +159,14 @@ for (const [index, item] of targets.entries()) {
   }
 }
 
-await writeFile(MANIFEST_FILE, JSON.stringify(downloaded, null, 2), "utf8");
+const mergedManifest = [
+  ...new Map(
+    [...existingManifest, ...downloaded].map((item) => [
+      `${item.investor_id}:${item.url}`,
+      item,
+    ])
+  ).values(),
+];
+
+await writeFile(MANIFEST_FILE, JSON.stringify(mergedManifest, null, 2), "utf8");
 console.log(`Wrote ${MANIFEST_FILE}`);

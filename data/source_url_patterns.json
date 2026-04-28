@@ -1,0 +1,32 @@
+[
+  {
+    "investor_id": "am_one",
+    "kind": "vote_result",
+    "url_template": "https://www.am-one.co.jp/img/company/16/voting-eq-{YYYYMM}.pdf",
+    "pattern_note": "国内株式の議決権行使結果PDF。リンク名・ディレクトリ変更があり得るため、公式ページ https://www.am-one.co.jp/company/voting/ を優先確認する。PDF保護がある場合は解除・編集せず、通常閲覧可能な範囲のみ扱う。"
+  },
+  {
+    "investor_id": "am_one",
+    "kind": "guideline",
+    "url_template": "https://www.am-one.co.jp/img/company/16/kokunai_guideline_{YYYYMMDD}.pdf",
+    "pattern_note": "国内株式議決権行使ガイドライン。年次更新時にファイル名の日付が変わる可能性あり。"
+  },
+  {
+    "investor_id": "nomura_am",
+    "kind": "vote_result_excel",
+    "url_template": "https://www.nomura-am.co.jp/special/esg/excel/vote{YYYY}_q{Q}.xlsx",
+    "pattern_note": "四半期別の議決権行使結果Excel。公式ページから実在リンクを確認してから取得する。"
+  },
+  {
+    "investor_id": "resona_am",
+    "kind": "vote_result_excel",
+    "url_template": "https://www.resona-am.co.jp/sustainability/pdf/giketuken_{YYYYMM}.xls",
+    "pattern_note": "月次または四半期単位の議決権行使結果Excel。公式ページ刷新に備え、voting.html のリンク確認を優先する。"
+  },
+  {
+    "investor_id": "mufg_trust",
+    "kind": "vote_result_excel",
+    "url_template": "https://www.tr.mufg.jp/new_assets/houjin/jutaku/docs_download/unyou_kabu/{YYMM}-{YYMM}_kobetsu_gianbetsu_koushikekka.xlsx",
+    "pattern_note": "三菱UFJ信託銀行の個別・議案別行使結果Excel。期間表記が変わる可能性があるため、about_stewardship.html を起点に確認する。"
+  }
+]

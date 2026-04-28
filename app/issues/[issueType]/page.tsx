@@ -312,113 +312,94 @@ export default async function IssuePage({ params, searchParams }: Props) {
       : null;
 
   return (
-    <div className="min-h-screen bg-slate-50">
-      {/* ヘッダー */}
-      <header className="border-b bg-white px-6 py-4 shadow-sm">
-        <div className="mx-auto max-w-5xl">
-          <nav className="mb-2 flex items-center gap-2 text-xs text-slate-500">
-            <Link href="/" className="hover:text-blue-600">ホーム</Link>
-            <span>/</span>
-            <span className="text-slate-700 font-medium">基準・議案</span>
-            <span>/</span>
-            <span className="text-slate-900">{issueLabel}</span>
-            {selectedInvestorId && (
-              <>
-                <span>/</span>
-                <span className="text-slate-900">
-                  {investors.find((inv) => inv.investor_id === selectedInvestorId)?.investor_name}
-                </span>
-              </>
+    <div className="space-y-5">
+      {/* パンくず + タイトル */}
+      <div>
+        <nav className="mb-1 flex items-center gap-1.5 text-xs text-slate-500">
+          <Link href="/" className="hover:text-blue-600">ホーム</Link>
+          <span>/</span>
+          <span>基準・議案</span>
+          <span>/</span>
+          <span className="text-slate-800">{issueLabel}</span>
+          {selectedInvestorId && (
+            <>
+              <span>/</span>
+              <span className="text-slate-800">
+                {investors.find((inv) => inv.investor_id === selectedInvestorId)?.investor_name}
+              </span>
+            </>
+          )}
+        </nav>
+        <div className="flex flex-wrap items-center gap-3">
+          <div>
+            <h1 className="text-xl font-bold text-slate-900">{issueLabel}</h1>
+            {taxonomy && (
+              <p className="text-xs text-slate-500">カテゴリ: {taxonomy.category}</p>
             )}
-          </nav>
-          <div className="flex flex-wrap items-center gap-3">
-            <div>
-              <h1 className="text-2xl font-bold text-slate-900">{issueLabel}</h1>
-              {taxonomy && (
-                <p className="mt-0.5 text-sm text-slate-500">カテゴリ: {taxonomy.category}</p>
-              )}
-            </div>
           </div>
         </div>
-      </header>
+      </div>
 
-      <main className="mx-auto max-w-5xl px-4 py-8 space-y-8">
-        {/* 投資家タブ（詳細モード時のみ表示） */}
-        {selectedInvestorId && investorsWithRule.length > 0 && (
-          <div>
-            <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-slate-400">
-              投資家フィルター
-            </p>
-            <div className="flex flex-wrap gap-2">
-              <Link
-                href={`/issues/${issueType}`}
-                className="rounded-full border px-4 py-1.5 text-sm font-medium transition bg-white text-slate-700 border-slate-300 hover:border-blue-400 hover:text-blue-700"
-              >
-                ← 投資家一覧に戻る
-              </Link>
-              {investorsWithRule.map((inv) => (
-                <Link
-                  key={inv.investor_id}
-                  href={`/issues/${issueType}?investor=${inv.investor_id}`}
-                  className={`rounded-full border px-4 py-1.5 text-sm font-medium transition ${
-                    inv.investor_id === selectedInvestorId
-                      ? "bg-blue-600 text-white border-blue-600"
-                      : "bg-white text-slate-700 border-slate-300 hover:border-blue-400 hover:text-blue-700"
-                  }`}
-                >
-                  {inv.investor_name}
-                </Link>
-              ))}
-            </div>
-          </div>
-        )}
+      {/* 投資家フィルター（詳細モード時のみ） */}
+      {selectedInvestorId && investorsWithRule.length > 0 && (
+        <div className="flex flex-wrap gap-2">
+          <Link
+            href={`/issues/${issueType}`}
+            className="rounded border px-3 py-1.5 text-sm text-slate-700 hover:bg-slate-50"
+          >
+            ← 一覧に戻る
+          </Link>
+          {investorsWithRule.map((inv) => (
+            <Link
+              key={inv.investor_id}
+              href={`/issues/${issueType}?investor=${inv.investor_id}`}
+              className={`rounded border px-3 py-1.5 text-sm transition ${
+                inv.investor_id === selectedInvestorId
+                  ? "bg-slate-900 text-white"
+                  : "bg-white text-slate-700 hover:bg-slate-50"
+              }`}
+            >
+              {inv.investor_name}
+            </Link>
+          ))}
+        </div>
+      )}
 
-        {/* 概要モード or 詳細モード */}
-        {selectedInvestorId ? (
-          <InvestorCompanyList
-            issueType={validIssueType}
-            selectedInvestorId={selectedInvestorId}
-          />
-        ) : (
-          <InvestorOverview
-            issueType={validIssueType}
-            investorsWithRule={investorsWithRule}
-          />
-        )}
+      {/* 概要モード or 詳細モード */}
+      {selectedInvestorId ? (
+        <InvestorCompanyList
+          issueType={validIssueType}
+          selectedInvestorId={selectedInvestorId}
+        />
+      ) : (
+        <InvestorOverview
+          issueType={validIssueType}
+          investorsWithRule={investorsWithRule}
+        />
+      )}
 
-        {/* 注意事項 */}
-        <section className="rounded-xl border bg-gray-50 px-5 py-4 text-xs text-gray-500 leading-6">
-          <p className="font-semibold text-gray-700 mb-1">注意事項</p>
-          <p>
-            本ページはFACT・GUIDELINE・INFERENCEを分離した分析支援です。
-            実際の議決権行使結果を保証しません。各社の詳細ページで根拠・過去行使事例を確認してください。
-          </p>
-          <p className="mt-1 text-gray-400">
-            ※ 全判定はJSONデータ＋TypeScriptルールエンジンで処理しており、生成AIは使用していません。
-          </p>
-        </section>
+      {/* 関連する基準 */}
+      <div className="flex flex-wrap gap-2">
+        {issueTaxonomy
+          .filter((t) => t.issue_type !== validIssueType)
+          .slice(0, 12)
+          .map((t) => (
+            <Link
+              key={t.issue_type}
+              href={`/issues/${t.issue_type}`}
+              className="rounded border bg-white px-3 py-1 text-xs text-slate-600 hover:border-blue-300 hover:text-blue-700"
+            >
+              {t.issue}
+            </Link>
+          ))}
+      </div>
 
-        {/* 関連する基準 */}
-        <section>
-          <p className="mb-3 text-xs font-semibold uppercase tracking-wide text-slate-400">
-            関連する基準を確認する
-          </p>
-          <div className="flex flex-wrap gap-2">
-            {issueTaxonomy
-              .filter((t) => t.issue_type !== validIssueType)
-              .slice(0, 10)
-              .map((t) => (
-                <Link
-                  key={t.issue_type}
-                  href={`/issues/${t.issue_type}`}
-                  className="rounded-full border bg-white px-3 py-1 text-xs text-slate-600 hover:border-blue-400 hover:text-blue-700 transition"
-                >
-                  {t.issue}
-                </Link>
-              ))}
-          </div>
-        </section>
-      </main>
+      {/* 注意事項 */}
+      <p className="text-xs leading-5 text-slate-400">
+        本ページはFACT・GUIDELINE・INFERENCEを分離した分析支援です。実際の議決権行使結果を保証しません。
+        各社の詳細ページで根拠・過去行使事例を確認してください。
+        判定はJSONデータ＋TypeScriptルールエンジンで処理しており、生成AIは使用していません。
+      </p>
     </div>
   );
 }

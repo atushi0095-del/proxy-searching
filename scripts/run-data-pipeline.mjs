@@ -67,6 +67,31 @@ const steps = [
     args: []
   },
   {
+    name: "analyze-structured-votes-sumitomo-mitsui-trust-am",
+    script: "scripts/analyze-structured-vote-files.mjs",
+    args: ["--investor=sumitomo_mitsui_trust_am"]
+  },
+  {
+    name: "analyze-structured-votes-amova-am",
+    script: "scripts/analyze-structured-vote-files.mjs",
+    args: ["--investor=amova_am"]
+  },
+  {
+    name: "analyze-structured-votes-mufg-am",
+    script: "scripts/analyze-structured-vote-files.mjs",
+    args: ["--investor=mufg_am"]
+  },
+  {
+    name: "analyze-structured-votes-nissay-am",
+    script: "scripts/analyze-structured-vote-files.mjs",
+    args: ["--investor=nissay_am"]
+  },
+  {
+    name: "analyze-structured-votes-fidelity-japan",
+    script: "scripts/analyze-structured-vote-files.mjs",
+    args: ["--investor=fidelity_japan"]
+  },
+  {
     name: "analyze-blackrock-votes",
     script: "scripts/analyze-blackrock-vote-pdf.mjs",
     args: []
@@ -79,6 +104,11 @@ const steps = [
   {
     name: "build-investor-opposition-records",
     script: "scripts/build-investor-opposition-records.mjs",
+    args: []
+  },
+  {
+    name: "split-opposition-records",
+    script: "scripts/split-opposition-records.mjs",
     args: []
   }
 ];

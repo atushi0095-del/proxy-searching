@@ -111,6 +111,7 @@ export interface Company {
   market: string;
   sector: string;
   source_url: string;
+  topix_component?: boolean;
 }
 
 export interface FinancialMetric {

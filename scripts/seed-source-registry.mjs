@@ -7,7 +7,7 @@ const REGISTRY_FILE = path.join(GENERATED_DIR, "source_registry.json");
 const GUIDELINE_SOURCES_FILE = path.join(ROOT, "data", "guideline_sources.json");
 
 function classify(source) {
-  if (/xlsx|xls/i.test(source.url)) return "vote_result_excel";
+  if (/xlsx|xls|csv/i.test(source.url)) return "vote_result_excel";
   if (source.document_type === "vote_result") return "vote_result";
   if (source.document_type === "guideline" || source.document_type === "guideline_changes") return "guideline";
   return "reference";

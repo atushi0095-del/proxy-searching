@@ -5,6 +5,11 @@ import mufgSummary from "@/data/generated/mufg_vote_summary.json";
 import nomuraSummary from "@/data/generated/nomura_am_vote_summary.json";
 import resonaSummary from "@/data/generated/resona_am_vote_summary.json";
 import daiwaSummary from "@/data/generated/daiwa_am_vote_summary.json";
+import amovaAmSummary from "@/data/generated/amova_am_vote_summary.json";
+import fidelityJapanSummary from "@/data/generated/fidelity_japan_vote_summary.json";
+import mufgAmSummary from "@/data/generated/mufg_am_vote_summary.json";
+import nissayAmSummary from "@/data/generated/nissay_am_vote_summary.json";
+import smtamSummary from "@/data/generated/sumitomo_mitsui_trust_am_vote_summary.json";
 import { companies, companyGovernanceMetrics, directors, financialMetrics, guidelineRules, investors } from "@/lib/data";
 
 function percent(done: number, total: number) {
@@ -27,10 +32,12 @@ function countAgainst(summary: { by_vote?: Record<string, number> }) {
 }
 
 export function ProgressDashboard() {
-  const parsedVoteRecords =
-    mufgSummary.total_records + nomuraSummary.total_records + resonaSummary.total_records + daiwaSummary.total_records;
-  const parsedAgainst =
-    countAgainst(mufgSummary) + countAgainst(nomuraSummary) + countAgainst(resonaSummary) + countAgainst(daiwaSummary);
+  const allSummaries = [
+    mufgSummary, nomuraSummary, resonaSummary, daiwaSummary,
+    amovaAmSummary, fidelityJapanSummary, mufgAmSummary, nissayAmSummary, smtamSummary,
+  ];
+  const parsedVoteRecords = allSummaries.reduce((sum, s) => sum + (s.total_records ?? 0), 0);
+  const parsedAgainst = allSummaries.reduce((sum, s) => sum + countAgainst(s), 0);
 
   const companiesWithFinancials = new Set(financialMetrics.map((metric) => metric.company_code)).size;
   const companiesWithGovernance = new Set(companyGovernanceMetrics.map((metric) => metric.company_code)).size;
@@ -39,7 +46,7 @@ export function ProgressDashboard() {
   const targetCompanySeed = 50;
   const targetRuleCount = 160;
   const targetParsedInvestors = 12;
-  const parsedInvestorCount = 4;
+  const parsedInvestorCount = allSummaries.length;
 
   const stages = [
     {
@@ -64,7 +71,7 @@ export function ProgressDashboard() {
       label: "行使結果解析",
       done: parsedInvestorCount,
       total: targetParsedInvestors,
-      note: "三菱UFJ信託、野村、りそな、大和を解析済み",
+      note: "三菱UFJ信託・野村・りそな・大和・アモーヴァ・フィディリティ・三菱UFJ-AM・ニッセイ・三井住友トラスト-AMを解析済み",
     },
     {
       label: "反対企業優先リスト",
@@ -75,55 +82,53 @@ export function ProgressDashboard() {
   ];
 
   return (
-    <section className="rounded-xl border bg-white p-5 shadow-sm">
-      <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
-        <div>
-          <h2 className="text-lg font-bold">現在地</h2>
-          <p className="mt-1 text-sm text-slate-600">
-            MVPは「画面で分析できる骨格」から「実データを継続蓄積する段階」に入りました。
-          </p>
-        </div>
-        <div className="rounded border bg-slate-50 px-3 py-2 text-xs text-slate-600">
-          GitHub Actions: 週次収集設定済み
-        </div>
-      </div>
-
-      <div className="grid gap-3 md:grid-cols-4">
-        <div className="rounded-lg border bg-slate-50 p-3">
+    <section className="rounded-xl border bg-white shadow-sm">
+      {/* 統計行（常時表示） */}
+      <div className="grid grid-cols-2 divide-x divide-y md:grid-cols-4 md:divide-y-0">
+        <div className="px-4 py-3">
           <p className="text-xs text-slate-500">発見ソース</p>
-          <p className="mt-1 text-2xl font-bold">{sourceRegistry.length}</p>
+          <p className="mt-0.5 text-xl font-bold">{sourceRegistry.length}</p>
         </div>
-        <div className="rounded-lg border bg-slate-50 p-3">
+        <div className="px-4 py-3">
           <p className="text-xs text-slate-500">取得済み資料</p>
-          <p className="mt-1 text-2xl font-bold">{downloadManifest.length}</p>
+          <p className="mt-0.5 text-xl font-bold">{downloadManifest.length}</p>
         </div>
-        <div className="rounded-lg border bg-slate-50 p-3">
+        <div className="px-4 py-3">
           <p className="text-xs text-slate-500">解析済み行使結果</p>
-          <p className="mt-1 text-2xl font-bold">{parsedVoteRecords.toLocaleString()}</p>
+          <p className="mt-0.5 text-xl font-bold">{parsedVoteRecords.toLocaleString()}</p>
         </div>
-        <div className="rounded-lg border bg-red-50 p-3">
-          <p className="text-xs text-red-700">反対行使</p>
-          <p className="mt-1 text-2xl font-bold text-red-700">{parsedAgainst.toLocaleString()}</p>
+        <div className="px-4 py-3">
+          <p className="text-xs text-red-600">反対行使</p>
+          <p className="mt-0.5 text-xl font-bold text-red-700">{parsedAgainst.toLocaleString()}</p>
         </div>
       </div>
 
-      <div className="mt-5 space-y-3">
-        {stages.map((stage) => {
-          const value = percent(stage.done, stage.total);
-          return (
-            <div key={stage.label} className="rounded-lg border p-3">
-              <div className="mb-2 flex items-center justify-between gap-3">
-                <div>
-                  <p className="font-semibold">{stage.label}</p>
-                  <p className="text-xs text-slate-500">{stage.note}</p>
+      {/* 進捗バー（アコーディオン） */}
+      <details className="border-t">
+        <summary className="flex cursor-pointer items-center justify-between px-4 py-2 text-xs text-slate-500 hover:bg-slate-50">
+          <span>データ整備進捗を表示</span>
+          <span className="rounded border bg-slate-50 px-2 py-0.5 text-xs text-slate-600">
+            GitHub Actions: 週次収集設定済み
+          </span>
+        </summary>
+        <div className="space-y-3 px-4 pb-4 pt-3">
+          {stages.map((stage) => {
+            const value = percent(stage.done, stage.total);
+            return (
+              <div key={stage.label}>
+                <div className="mb-1 flex items-center justify-between gap-3">
+                  <div>
+                    <p className="text-sm font-semibold">{stage.label}</p>
+                    <p className="text-xs text-slate-500">{stage.note}</p>
+                  </div>
+                  <p className="text-sm font-bold">{value}%</p>
                 </div>
-                <p className="text-sm font-bold">{value}%</p>
+                <Bar value={value} />
               </div>
-              <Bar value={value} />
-            </div>
-          );
-        })}
-      </div>
+            );
+          })}
+        </div>
+      </details>
     </section>
   );
 }

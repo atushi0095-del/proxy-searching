@@ -49,6 +49,7 @@ jobs:
     timeout-minutes: 60
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      NODE_OPTIONS: --max-old-space-size=4096
       DATA_DOWNLOAD_LIMIT: ${{ github.event.inputs.download_limit || '220' }}
       INCLUDE_VOTE_PDFS: ${{ github.event.inputs.include_vote_pdfs || 'true' }}
       EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}

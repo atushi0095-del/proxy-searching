@@ -35,6 +35,12 @@ yarn-error.log*
 # downloaded public source files are cached locally / in Actions, not committed
 data/generated/sources/
 
+# Large generated data files (100MB+) — regenerated locally by npm run collect:data
+data/generated/investor_opposition_records.json
+data/generated/*_vote_cases.json
+data/generated/pipeline_logs/
+data/generated/opposition_records_by_investor/
+
 # env files (can opt-in for committing if needed)
 .env*
 

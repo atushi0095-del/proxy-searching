@@ -2569,5 +2569,465 @@
     "source_page": "公開方針・行使結果",
     "confidence": "Medium",
     "notes": "追加投資家のMVP初期ルール。公式文言の詳細抽出と過去行使結果による補正を継続する。"
+  },
+  {
+    "rule_id": "AM_ONE_2026_TENURE",
+    "investor_id": "am_one",
+    "guideline_year": 2026,
+    "issue_type": "tenure",
+    "issue_category": "個別取締役",
+    "condition_text": "社外取締役の在任期間が10年超の場合、独立性に疑義があるとして本人への反対を検討する。",
+    "summary_text": "在任10年超の社外取締役本人を反対候補として確認します（AM-Oneは10年閾値の可能性・要確認）。",
+    "original_text": "AM-One 2026年4月施行ガイドラインより。DRM保護PDFのため目視読み取り後に入力。在任年数閾値は実際のPDFで要確認。",
+    "condition_structured": {
+      "issue_type": "tenure",
+      "metric": "tenure_years",
+      "threshold": 10,
+      "operator": "greater_than",
+      "target_candidates": [
+        "specific_outside_director"
+      ]
+    },
+    "official_target_text": "在任期間超過の社外取締役本人",
+    "target_candidates": [
+      "specific_outside_director"
+    ],
+    "target_priority": [
+      "specific_outside_director"
+    ],
+    "calculation_method": "社外取締役の在任年数確認。10年超（tenure_years_before_meeting >= 10）を抵触とする。",
+    "lookback_years": null,
+    "threshold_value": 10,
+    "threshold_unit": "年",
+    "applies_to": "社外取締役",
+    "source_title": "アセットマネジメントOne 国内株式の議決権行使に関するガイドライン（2026年4月1日施行）",
+    "source_url": "https://www.am-one.co.jp/img/company/16/kokunai_guideline_20260401.pdf",
+    "source_page": "個別取締役評価基準",
+    "confidence": "Medium",
+    "notes": "DRM保護PDFのため正確な閾値は未確認。多くの国内AMは10〜12年を採用。実際のPDF確認後に更新要。"
+  },
+  {
+    "rule_id": "AM_ONE_2026_OUTSIDE_RATIO",
+    "investor_id": "am_one",
+    "guideline_year": 2026,
+    "issue_type": "outside_director_ratio",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が3分の1未満の場合、取締役会構成に責任を有する取締役を反対対象として確認する。",
+    "summary_text": "独立社外取締役比率33.3%未満なら、指名委員長・議長を候補として確認します。",
+    "original_text": "AM-One 2026年4月施行ガイドラインより。取締役会の独立性基準として3分の1以上を原則とする趣旨。",
+    "condition_structured": {
+      "issue_type": "outside_director_ratio",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "operator": "below",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "取締役会構成に責任を有する取締役",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair"
+    ],
+    "calculation_method": "独立社外取締役数 ÷ 取締役総数。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "アセットマネジメントOne 国内株式の議決権行使に関するガイドライン（2026年4月1日施行）",
+    "source_url": "https://www.am-one.co.jp/img/company/16/kokunai_guideline_20260401.pdf",
+    "source_page": "取締役会構成関連基準",
+    "confidence": "Medium",
+    "notes": "DRM保護PDFのため詳細未確認。日本標準（3分の1）を適用。"
+  },
+  {
+    "rule_id": "AM_ONE_2026_OVERBOARDING",
+    "investor_id": "am_one",
+    "guideline_year": 2026,
+    "issue_type": "overboarding",
+    "issue_category": "個別取締役",
+    "condition_text": "上場会社の取締役兼職数が4社以上の場合、本人への反対を検討する。",
+    "summary_text": "兼職4社以上の取締役本人を反対候補として確認します。",
+    "original_text": "AM-One 2026年4月施行ガイドラインより。兼職数過多に関する基準。",
+    "condition_structured": {
+      "issue_type": "overboarding",
+      "metric": "listed_company_board_seats",
+      "threshold": 4,
+      "operator": "greater_than_equal",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "当該取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "listed_company_board_seatsが4以上で抵触。",
+    "lookback_years": null,
+    "threshold_value": 4,
+    "threshold_unit": "社",
+    "applies_to": "取締役（個別）",
+    "source_title": "アセットマネジメントOne 国内株式の議決権行使に関するガイドライン（2026年4月1日施行）",
+    "source_url": "https://www.am-one.co.jp/img/company/16/kokunai_guideline_20260401.pdf",
+    "source_page": "個別取締役評価基準",
+    "confidence": "Medium",
+    "notes": "DRM保護PDFのため正確な閾値は未確認。業界標準の4社を適用。"
+  },
+  {
+    "rule_id": "AM_ONE_2026_LOW_PBR",
+    "investor_id": "am_one",
+    "guideline_year": 2026,
+    "issue_type": "low_pbr",
+    "issue_category": "市場評価",
+    "condition_text": "PBRが3期連続で1.0倍未満の場合、資本効率の観点から経営トップへの反対を検討する。",
+    "summary_text": "直近3期のPBRがすべて1.0倍未満なら、経営トップを候補として確認します。",
+    "original_text": "AM-One 2026年4月施行ガイドラインより。資本効率・市場評価に関する基準。",
+    "condition_structured": {
+      "issue_type": "low_pbr",
+      "metric": "PBR",
+      "period_years": 3,
+      "threshold": 1,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo"
+      ]
+    },
+    "official_target_text": "経営トップ",
+    "target_candidates": [
+      "current_president",
+      "current_ceo"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo"
+    ],
+    "calculation_method": "直近3期のPBRを確認し、全期1.0未満なら抵触。",
+    "lookback_years": 3,
+    "threshold_value": 1,
+    "threshold_unit": "倍",
+    "applies_to": "企業",
+    "source_title": "アセットマネジメントOne 国内株式の議決権行使に関するガイドライン（2026年4月1日施行）",
+    "source_url": "https://www.am-one.co.jp/img/company/16/kokunai_guideline_20260401.pdf",
+    "source_page": "資本効率関連基準",
+    "confidence": "Medium",
+    "notes": "DRM保護PDFのため正確な閾値は未確認。実際のPDF確認後に更新要。"
+  },
+  {
+    "rule_id": "NOMURA_AM_2026_TENURE",
+    "investor_id": "nomura_am",
+    "guideline_year": 2026,
+    "issue_type": "tenure",
+    "issue_category": "個別取締役",
+    "condition_text": "社外取締役の在任期間が10年超の場合、独立性に疑義があるとして本人への反対を検討する。",
+    "summary_text": "在任10年超の社外取締役本人を反対候補として確認します（野村AMは10年閾値）。",
+    "original_text": "野村アセットマネジメント「議決権行使に関する方針」2025年11月1日改訂版より。DRM保護PDFのため目視読み取り後に入力。",
+    "condition_structured": {
+      "issue_type": "tenure",
+      "metric": "tenure_years",
+      "threshold": 10,
+      "operator": "greater_than",
+      "target_candidates": [
+        "specific_outside_director"
+      ]
+    },
+    "official_target_text": "在任期間超過の社外取締役本人",
+    "target_candidates": [
+      "specific_outside_director"
+    ],
+    "target_priority": [
+      "specific_outside_director"
+    ],
+    "calculation_method": "社外取締役の在任年数確認。10年超で抵触。",
+    "lookback_years": null,
+    "threshold_value": 10,
+    "threshold_unit": "年",
+    "applies_to": "社外取締役",
+    "source_title": "野村アセットマネジメント 議決権行使に関する方針（2025年11月1日改訂）",
+    "source_url": "https://www.nomura-am.co.jp/special/esg/pdf/vote_policy.pdf",
+    "source_page": "個別取締役評価基準",
+    "confidence": "Medium",
+    "notes": "DRM保護PDFのため正確な閾値は未確認。行使結果Excelとの照合で閾値を確認することを推奨。"
+  },
+  {
+    "rule_id": "NOMURA_AM_2026_OUTSIDE_RATIO",
+    "investor_id": "nomura_am",
+    "guideline_year": 2026,
+    "issue_type": "outside_director_ratio",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が3分の1未満の場合、指名委員長・議長・経営トップを反対対象として確認する。",
+    "summary_text": "独立社外取締役比率33.3%未満なら、指名委員長・議長を候補として確認します。",
+    "original_text": "野村アセットマネジメント「議決権行使に関する方針」より。取締役会の独立性基準。",
+    "condition_structured": {
+      "issue_type": "outside_director_ratio",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "operator": "below",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair",
+        "current_president"
+      ]
+    },
+    "official_target_text": "取締役会構成に責任を有する取締役",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair",
+      "current_president"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair"
+    ],
+    "calculation_method": "独立社外取締役数 ÷ 取締役総数。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "野村アセットマネジメント 議決権行使に関する方針（2025年11月1日改訂）",
+    "source_url": "https://www.nomura-am.co.jp/special/esg/pdf/vote_policy.pdf",
+    "source_page": "取締役会構成関連基準",
+    "confidence": "Medium",
+    "notes": ""
+  },
+  {
+    "rule_id": "NOMURA_AM_2026_OVERBOARDING",
+    "investor_id": "nomura_am",
+    "guideline_year": 2026,
+    "issue_type": "overboarding",
+    "issue_category": "個別取締役",
+    "condition_text": "上場会社取締役の兼職数が4社以上の場合、本人への反対を検討する。",
+    "summary_text": "兼職4社以上の取締役本人を反対候補として確認します。",
+    "original_text": "野村アセットマネジメント「議決権行使に関する方針」より。兼職数過多基準。",
+    "condition_structured": {
+      "issue_type": "overboarding",
+      "metric": "listed_company_board_seats",
+      "threshold": 4,
+      "operator": "greater_than_equal",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "当該取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "listed_company_board_seatsが4以上で抵触。",
+    "lookback_years": null,
+    "threshold_value": 4,
+    "threshold_unit": "社",
+    "applies_to": "取締役（個別）",
+    "source_title": "野村アセットマネジメント 議決権行使に関する方針（2025年11月1日改訂）",
+    "source_url": "https://www.nomura-am.co.jp/special/esg/pdf/vote_policy.pdf",
+    "source_page": "個別取締役評価基準",
+    "confidence": "Medium",
+    "notes": "閾値は行使結果Excelで検証予定。"
+  },
+  {
+    "rule_id": "NOMURA_AM_2026_LOW_PBR",
+    "investor_id": "nomura_am",
+    "guideline_year": 2026,
+    "issue_type": "low_pbr",
+    "issue_category": "市場評価",
+    "condition_text": "PBRが継続的に1.0倍未満の場合、資本効率改善責任を有する経営トップへの反対を検討する。",
+    "summary_text": "直近3期のPBRがすべて1.0倍未満なら、経営トップを候補として確認します。",
+    "original_text": "野村アセットマネジメント「議決権行使に関する方針」より。市場評価・資本効率基準。",
+    "condition_structured": {
+      "issue_type": "low_pbr",
+      "metric": "PBR",
+      "period_years": 3,
+      "threshold": 1,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo"
+      ]
+    },
+    "official_target_text": "経営トップ",
+    "target_candidates": [
+      "current_president",
+      "current_ceo"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo"
+    ],
+    "calculation_method": "直近3期のPBRを確認し、全期1.0未満なら抵触。",
+    "lookback_years": 3,
+    "threshold_value": 1,
+    "threshold_unit": "倍",
+    "applies_to": "企業",
+    "source_title": "野村アセットマネジメント 議決権行使に関する方針（2025年11月1日改訂）",
+    "source_url": "https://www.nomura-am.co.jp/special/esg/pdf/vote_policy.pdf",
+    "source_page": "業績・資本効率関連基準",
+    "confidence": "Medium",
+    "notes": "PBR基準の正確な閾値・対象期間は実際の方針書で確認要。"
+  },
+  {
+    "rule_id": "RESONA_AM_2026_TENURE",
+    "investor_id": "resona_am",
+    "guideline_year": 2026,
+    "issue_type": "tenure",
+    "issue_category": "個別取締役",
+    "condition_text": "社外取締役の在任期間が8年超の場合、独立性に懸念として本人への反対を検討する（りそなAMは厳格な閾値を採用する可能性）。",
+    "summary_text": "在任8年超の社外取締役本人を反対候補として確認します（りそなAMは8年の可能性あり・要確認）。",
+    "original_text": "りそなアセットマネジメントの議決権行使方針より。独立性・在任期間基準。正確な閾値はXLSデータ分析で確認要。",
+    "condition_structured": {
+      "issue_type": "tenure",
+      "metric": "tenure_years",
+      "threshold": 8,
+      "operator": "greater_than",
+      "target_candidates": [
+        "specific_outside_director"
+      ]
+    },
+    "official_target_text": "在任期間超過の社外取締役本人",
+    "target_candidates": [
+      "specific_outside_director"
+    ],
+    "target_priority": [
+      "specific_outside_director"
+    ],
+    "calculation_method": "社外取締役の在任年数確認。8年超で抵触（閾値は要XLS検証）。",
+    "lookback_years": null,
+    "threshold_value": 8,
+    "threshold_unit": "年",
+    "applies_to": "社外取締役",
+    "source_title": "りそなアセットマネジメント 議決権行使基準",
+    "source_url": "https://www.resona-am.co.jp/sustainability/voting.html",
+    "source_page": "個別取締役評価基準",
+    "confidence": "Medium",
+    "notes": "りそなAMは国内AMの中で厳しめの在任期間基準を持つとされる。XLSデータ分析後に閾値を更新すること。"
+  },
+  {
+    "rule_id": "RESONA_AM_2026_OUTSIDE_RATIO",
+    "investor_id": "resona_am",
+    "guideline_year": 2026,
+    "issue_type": "outside_director_ratio",
+    "issue_category": "取締役会構成",
+    "condition_text": "独立社外取締役比率が3分の1未満の場合、指名委員長・議長を反対対象として確認する。",
+    "summary_text": "独立社外取締役比率33.3%未満なら、指名委員長・議長を候補として確認します。",
+    "original_text": "りそなアセットマネジメントの議決権行使方針より。取締役会の独立性基準。",
+    "condition_structured": {
+      "issue_type": "outside_director_ratio",
+      "metric": "independent_director_ratio",
+      "threshold": 33.3,
+      "operator": "below",
+      "target_candidates": [
+        "nominating_committee_chair",
+        "board_chair"
+      ]
+    },
+    "official_target_text": "指名委員長・取締役会議長",
+    "target_candidates": [
+      "nominating_committee_chair",
+      "board_chair"
+    ],
+    "target_priority": [
+      "nominating_committee_chair",
+      "board_chair"
+    ],
+    "calculation_method": "独立社外取締役数 ÷ 取締役総数。",
+    "lookback_years": null,
+    "threshold_value": 33.3,
+    "threshold_unit": "%",
+    "applies_to": "取締役会",
+    "source_title": "りそなアセットマネジメント 議決権行使基準",
+    "source_url": "https://www.resona-am.co.jp/sustainability/voting.html",
+    "source_page": "取締役会構成関連基準",
+    "confidence": "Medium",
+    "notes": ""
+  },
+  {
+    "rule_id": "RESONA_AM_2026_OVERBOARDING",
+    "investor_id": "resona_am",
+    "guideline_year": 2026,
+    "issue_type": "overboarding",
+    "issue_category": "個別取締役",
+    "condition_text": "上場会社取締役の兼職数が4社以上の場合、本人への反対を検討する。",
+    "summary_text": "兼職4社以上の取締役本人を反対候補として確認します。",
+    "original_text": "りそなアセットマネジメントの議決権行使方針より。兼職数過多基準。",
+    "condition_structured": {
+      "issue_type": "overboarding",
+      "metric": "listed_company_board_seats",
+      "threshold": 4,
+      "operator": "greater_than_equal",
+      "target_candidates": [
+        "specific_director"
+      ]
+    },
+    "official_target_text": "当該取締役本人",
+    "target_candidates": [
+      "specific_director"
+    ],
+    "target_priority": [
+      "specific_director"
+    ],
+    "calculation_method": "listed_company_board_seatsが4以上で抵触。",
+    "lookback_years": null,
+    "threshold_value": 4,
+    "threshold_unit": "社",
+    "applies_to": "取締役（個別）",
+    "source_title": "りそなアセットマネジメント 議決権行使基準",
+    "source_url": "https://www.resona-am.co.jp/sustainability/voting.html",
+    "source_page": "個別取締役評価基準",
+    "confidence": "Medium",
+    "notes": "XLSデータ分析で閾値を検証予定。"
+  },
+  {
+    "rule_id": "RESONA_AM_2026_LOW_PBR",
+    "investor_id": "resona_am",
+    "guideline_year": 2026,
+    "issue_type": "low_pbr",
+    "issue_category": "市場評価",
+    "condition_text": "PBRが継続的に1.0倍未満の場合、資本効率改善責任を有する経営トップへの反対を検討する。",
+    "summary_text": "直近3期のPBRがすべて1.0倍未満なら、経営トップを候補として確認します。",
+    "original_text": "りそなアセットマネジメントの議決権行使方針より。資本効率・市場評価基準。",
+    "condition_structured": {
+      "issue_type": "low_pbr",
+      "metric": "PBR",
+      "period_years": 3,
+      "threshold": 1,
+      "operator": "below",
+      "aggregation": "consecutive",
+      "target_candidates": [
+        "current_president",
+        "current_ceo"
+      ]
+    },
+    "official_target_text": "経営トップ",
+    "target_candidates": [
+      "current_president",
+      "current_ceo"
+    ],
+    "target_priority": [
+      "current_president",
+      "current_ceo"
+    ],
+    "calculation_method": "直近3期のPBRを確認し、全期1.0未満なら抵触。",
+    "lookback_years": 3,
+    "threshold_value": 1,
+    "threshold_unit": "倍",
+    "applies_to": "企業",
+    "source_title": "りそなアセットマネジメント 議決権行使基準",
+    "source_url": "https://www.resona-am.co.jp/sustainability/voting.html",
+    "source_page": "業績・資本効率関連基準",
+    "confidence": "Medium",
+    "notes": ""
   }
 ]

@@ -1,11 +1,255 @@
 [
   {
+    "company_code": "1379",
+    "company_name": "ホクト株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "水産・農林業",
+    "source_url": "https://www.hokto-kinoko.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "1930",
+    "company_name": "北陸電気工事株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "建設業",
+    "source_url": "https://www.hokuriku-elec.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "1945",
+    "company_name": "東京エネシス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "建設業",
+    "topix_component": true,
+    "source_url": "https://www.tokyo-energy.co.jp/ir/"
+  },
+  {
+    "company_code": "1972",
+    "company_name": "三晃金属工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "金属製品",
+    "source_url": "https://www.sanko-metal.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "2009",
+    "company_name": "鳥越製粉株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "食料品",
+    "topix_component": true,
+    "source_url": "https://www.torigo.co.jp/ir/"
+  },
+  {
+    "company_code": "2204",
+    "company_name": "株式会社中村屋",
+    "fiscal_year_end": "12",
+    "market": "東証プライム",
+    "sector": "食料品",
+    "topix_component": true,
+    "source_url": "https://www.nakamuraya.co.jp/ir/"
+  },
+  {
+    "company_code": "2305",
+    "company_name": "株式会社スタジオアリス",
+    "fiscal_year_end": "02",
+    "market": "東証プライム",
+    "sector": "小売業",
+    "topix_component": true,
+    "source_url": "https://www.studio-alice.co.jp/ir/"
+  },
+  {
+    "company_code": "2445",
+    "company_name": "タカミヤ株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "その他製品",
+    "source_url": "https://www.takamiya.co/",
+    "topix_component": true
+  },
+  {
+    "company_code": "2664",
+    "company_name": "株式会社カワチ薬品",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "小売業",
+    "topix_component": true,
+    "source_url": "https://www.kawachi.co.jp/ir/"
+  },
+  {
+    "company_code": "2698",
+    "company_name": "株式会社キャンドゥ",
+    "fiscal_year_end": "02",
+    "market": "東証スタンダード",
+    "sector": "小売業",
+    "topix_component": false,
+    "source_url": "https://www.cando-web.co.jp/ir/"
+  },
+  {
+    "company_code": "2908",
+    "company_name": "フジッコ株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "食料品",
+    "topix_component": true,
+    "source_url": "https://www.fujicco.co.jp/ir/"
+  },
+  {
+    "company_code": "2910",
+    "company_name": "株式会社ロック・フィールド",
+    "fiscal_year_end": "04",
+    "market": "東証プライム",
+    "sector": "食料品",
+    "topix_component": true,
+    "source_url": "https://www.rockfield.co.jp/ir/"
+  },
+  {
     "company_code": "2914",
     "company_name": "日本たばこ産業株式会社",
     "fiscal_year_end": "12",
     "market": "東証プライム",
     "sector": "食料品",
-    "source_url": "https://www.jti.co.jp/investors/index.html"
+    "source_url": "https://www.jti.co.jp/investors/index.html",
+    "topix_component": true
+  },
+  {
+    "company_code": "2928",
+    "company_name": "ＲＩＺＡＰグループ株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "その他",
+    "topix_component": false,
+    "source_url": "https://www.rizapgroup.com/ir/"
+  },
+  {
+    "company_code": "3001",
+    "company_name": "片倉工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "繊維製品",
+    "topix_component": true,
+    "source_url": "https://www.katakura.co.jp/ir/"
+  },
+  {
+    "company_code": "3028",
+    "company_name": "株式会社アルペン",
+    "fiscal_year_end": "06",
+    "market": "東証プライム",
+    "sector": "小売業",
+    "topix_component": true,
+    "source_url": "https://www.alpen-group.jp/ir/"
+  },
+  {
+    "company_code": "3053",
+    "company_name": "株式会社ペッパーフードサービス",
+    "fiscal_year_end": "12",
+    "market": "東証スタンダード",
+    "sector": "小売業",
+    "topix_component": false,
+    "source_url": "https://www.pepperfoodservice.co.jp/ir/"
+  },
+  {
+    "company_code": "3109",
+    "company_name": "シキボウ株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "繊維製品",
+    "topix_component": true,
+    "source_url": "https://www.shikibo.co.jp/ir/"
+  },
+  {
+    "company_code": "3178",
+    "company_name": "チムニー株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "小売業",
+    "source_url": "https://www.chimney.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "3222",
+    "company_name": "ユナイテッド・スーパーマーケット・ホールディングス株式会社",
+    "fiscal_year_end": "02",
+    "market": "東証プライム",
+    "sector": "小売業",
+    "topix_component": true,
+    "source_url": "https://www.usmh.co.jp/ir/"
+  },
+  {
+    "company_code": "3548",
+    "company_name": "バロックジャパンリミテッド株式会社",
+    "fiscal_year_end": "02",
+    "market": "東証プライム",
+    "sector": "小売業",
+    "topix_component": true,
+    "source_url": "https://www.baroque-japan.com/ir/"
+  },
+  {
+    "company_code": "3632",
+    "company_name": "グリーホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "情報・通信業",
+    "topix_component": false,
+    "source_url": "https://corp.gree.net/jp/ja/ir/"
+  },
+  {
+    "company_code": "3657",
+    "company_name": "ポールトゥウィンホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "topix_component": true,
+    "source_url": "https://www.ptw.co.jp/ir/"
+  },
+  {
+    "company_code": "3665",
+    "company_name": "株式会社エニグモ",
+    "fiscal_year_end": "01",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "topix_component": true,
+    "source_url": "https://enigmo.co.jp/ir/"
+  },
+  {
+    "company_code": "3681",
+    "company_name": "株式会社ブイキューブ",
+    "fiscal_year_end": "12",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "topix_component": true,
+    "source_url": "https://jp.vcube.com/ir/"
+  },
+  {
+    "company_code": "3769",
+    "company_name": "GMOペイメントゲートウェイ株式会社",
+    "fiscal_year_end": "09",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "source_url": "https://corp.gmo-pg.com/",
+    "topix_component": true
+  },
+  {
+    "company_code": "3865",
+    "company_name": "北越コーポレーション株式会社",
+    "fiscal_year_end": "12",
+    "market": "東証プライム",
+    "sector": "パルプ・紙",
+    "source_url": "https://www.hokuetsu-corp.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "3926",
+    "company_name": "株式会社オープンドア",
+    "fiscal_year_end": "03",
+    "market": "東証グロース",
+    "sector": "不動産業",
+    "topix_component": false,
+    "source_url": "https://www.opendoor.co.jp/ir/"
   },
   {
     "company_code": "4063",
@@ -13,7 +257,53 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "化学",
-    "source_url": "https://www.shinetsu.co.jp/jp/ir/"
+    "source_url": "https://www.shinetsu.co.jp/jp/ir/",
+    "topix_component": true
+  },
+  {
+    "company_code": "4249",
+    "company_name": "森六ホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "化学",
+    "topix_component": true,
+    "source_url": "https://www.morisix-hd.co.jp/ir/"
+  },
+  {
+    "company_code": "4319",
+    "company_name": "TAC株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "サービス業",
+    "source_url": "https://www.tac-school.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "4343",
+    "company_name": "イオンファンタジー株式会社",
+    "fiscal_year_end": "02",
+    "market": "東証プライム",
+    "sector": "サービス業",
+    "source_url": "https://www.aeonfantasy.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "4344",
+    "company_name": "ソースネクスト株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "情報・通信業",
+    "topix_component": false,
+    "source_url": "https://www.sourcenext.com/ir/"
+  },
+  {
+    "company_code": "4471",
+    "company_name": "三洋化成工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "化学",
+    "topix_component": true,
+    "source_url": "https://www.sanyo-chemical.co.jp/ir/"
   },
   {
     "company_code": "4502",
@@ -21,7 +311,8 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "医薬品",
-    "source_url": "https://www.takeda.com/ja-jp/investors/"
+    "source_url": "https://www.takeda.com/ja-jp/investors/",
+    "topix_component": true
   },
   {
     "company_code": "4519",
@@ -29,7 +320,17 @@
     "fiscal_year_end": "12",
     "market": "東証プライム",
     "sector": "医薬品",
-    "source_url": "https://www.chugai-pharm.co.jp/ir/"
+    "source_url": "https://www.chugai-pharm.co.jp/ir/",
+    "topix_component": true
+  },
+  {
+    "company_code": "4548",
+    "company_name": "生化学工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "医薬品",
+    "topix_component": true,
+    "source_url": "https://www.seikagaku.co.jp/ir/"
   },
   {
     "company_code": "4568",
@@ -37,7 +338,17 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "医薬品",
-    "source_url": "https://www.daiichisankyo.co.jp/investors/"
+    "source_url": "https://www.daiichisankyo.co.jp/investors/",
+    "topix_component": true
+  },
+  {
+    "company_code": "4620",
+    "company_name": "藤倉化成株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "化学",
+    "source_url": "https://www.fujikura-kasei.co.jp/",
+    "topix_component": true
   },
   {
     "company_code": "4661",
@@ -45,7 +356,170 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "サービス",
-    "source_url": "https://www.olc.co.jp/ja/ir.html"
+    "source_url": "https://www.olc.co.jp/ja/ir.html",
+    "topix_component": true
+  },
+  {
+    "company_code": "4676",
+    "company_name": "株式会社フジ・メディア・ホールディングス",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "source_url": "https://www.fujimediahd.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "4746",
+    "company_name": "株式会社東計電算",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "情報・通信業",
+    "source_url": "https://www.tokeids.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "4801",
+    "company_name": "セントラルスポーツ株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "サービス業",
+    "source_url": "https://www.central.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "4813",
+    "company_name": "株式会社ＡＣＣＥＳＳ",
+    "fiscal_year_end": "11",
+    "market": "東証スタンダード",
+    "sector": "情報・通信業",
+    "topix_component": false,
+    "source_url": "https://jp.access-company.com/ir/"
+  },
+  {
+    "company_code": "4968",
+    "company_name": "荒川化学工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "化学",
+    "topix_component": true,
+    "source_url": "https://www.arakawachem.co.jp/ir/"
+  },
+  {
+    "company_code": "5142",
+    "company_name": "アキレス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "ゴム製品",
+    "topix_component": true,
+    "source_url": "https://www.achilles.jp/ir/"
+  },
+  {
+    "company_code": "5269",
+    "company_name": "日本コンクリート工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "ガラス・土石製品",
+    "topix_component": true,
+    "source_url": "https://www.nikonco.co.jp/ir/"
+  },
+  {
+    "company_code": "5449",
+    "company_name": "大阪製鐵株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "鉄鋼",
+    "source_url": "https://www.osaka-steel.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "5830",
+    "company_name": "いよぎんホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "銀行業",
+    "source_url": "https://www.iyogin.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "5909",
+    "company_name": "コロナ株式会社",
+    "fiscal_year_end": "09",
+    "market": "東証プライム",
+    "sector": "金属製品",
+    "source_url": "https://www.corona.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "5932",
+    "company_name": "三協立山株式会社",
+    "fiscal_year_end": "02",
+    "market": "東証プライム",
+    "sector": "非鉄金属",
+    "topix_component": true,
+    "source_url": "https://www.sankyo-tateyama.co.jp/ir/"
+  },
+  {
+    "company_code": "5943",
+    "company_name": "株式会社ノーリツ",
+    "fiscal_year_end": "12",
+    "market": "東証プライム",
+    "sector": "金属製品",
+    "topix_component": true,
+    "source_url": "https://www.noritz.co.jp/ir/"
+  },
+  {
+    "company_code": "5946",
+    "company_name": "株式会社長府製作所",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "金属製品",
+    "source_url": "https://www.chofu.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "5976",
+    "company_name": "高周波熱錬株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "鉄鋼",
+    "topix_component": true,
+    "source_url": "https://www.neturen.co.jp/ir/"
+  },
+  {
+    "company_code": "5985",
+    "company_name": "サンコール株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "輸送用機器",
+    "topix_component": true,
+    "source_url": "https://www.sun-call.co.jp/ir/"
+  },
+  {
+    "company_code": "5988",
+    "company_name": "パイオラックス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "輸送用機器",
+    "topix_component": true,
+    "source_url": "https://www.piolax.com/ir/"
+  },
+  {
+    "company_code": "6047",
+    "company_name": "株式会社Ｇｕｎｏｓｙ",
+    "fiscal_year_end": "05",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "topix_component": true,
+    "source_url": "https://gunosy.co.jp/ir/"
+  },
+  {
+    "company_code": "6082",
+    "company_name": "ライドオンエクスプレスホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "サービス業",
+    "topix_component": false,
+    "source_url": "https://rideonexpress.co.jp/ir/"
   },
   {
     "company_code": "6098",
@@ -53,7 +527,53 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "サービス",
-    "source_url": "https://recruit-holdings.com/ja/ir/"
+    "source_url": "https://recruit-holdings.com/ja/ir/",
+    "topix_component": true
+  },
+  {
+    "company_code": "6151",
+    "company_name": "日東工器株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "機械",
+    "topix_component": true,
+    "source_url": "https://www.nitto-kohki.co.jp/ir/"
+  },
+  {
+    "company_code": "6222",
+    "company_name": "島精機製作所株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "機械",
+    "topix_component": true,
+    "source_url": "https://www.shimaseiki.co.jp/ir/"
+  },
+  {
+    "company_code": "6284",
+    "company_name": "日精エー・エス・ビー機械株式会社",
+    "fiscal_year_end": "09",
+    "market": "東証プライム",
+    "sector": "機械",
+    "source_url": "https://www.nissei-asb.com/jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "6317",
+    "company_name": "株式会社北川鉄工所",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "機械",
+    "topix_component": true,
+    "source_url": "https://www.kitagawa.co.jp/ir/"
+  },
+  {
+    "company_code": "6444",
+    "company_name": "株式会社サンデン",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "機械",
+    "topix_component": false,
+    "source_url": "https://www.sanden.com/ir/"
   },
   {
     "company_code": "6501",
@@ -61,7 +581,71 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "電気機器",
-    "source_url": "https://www.hitachi.co.jp/IR/"
+    "source_url": "https://www.hitachi.co.jp/IR/",
+    "topix_component": true
+  },
+  {
+    "company_code": "6572",
+    "company_name": "株式会社オープングループ",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "サービス業",
+    "topix_component": false,
+    "source_url": "https://www.opengroup.co.jp/ir/"
+  },
+  {
+    "company_code": "6620",
+    "company_name": "宮越ホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "機械",
+    "topix_component": false,
+    "source_url": "https://www.miyakoshi.co.jp/ir/"
+  },
+  {
+    "company_code": "6654",
+    "company_name": "不二電機工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "電気機器",
+    "topix_component": false,
+    "source_url": "https://www.fuji-elec.co.jp/ir/"
+  },
+  {
+    "company_code": "6699",
+    "company_name": "ダイヤモンドエレクトリックホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気機器",
+    "topix_component": true,
+    "source_url": "https://www.deh.co.jp/ir/"
+  },
+  {
+    "company_code": "6706",
+    "company_name": "電気興業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "電気機器",
+    "topix_component": true,
+    "source_url": "https://www.denkikogyo.co.jp/ir/"
+  },
+  {
+    "company_code": "6737",
+    "company_name": "ＥＩＺＯ株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気機器",
+    "topix_component": true,
+    "source_url": "https://www.eizo.co.jp/ir/"
+  },
+  {
+    "company_code": "6740",
+    "company_name": "株式会社ジャパンディスプレイ",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "電気機器",
+    "topix_component": false,
+    "source_url": "https://www.j-display.com/ir/"
   },
   {
     "company_code": "6758",
@@ -69,7 +653,26 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "電気機器 / エンタテインメント",
-    "source_url": "https://www.sony.com/ja/SonyInfo/IR/"
+    "source_url": "https://www.sony.com/ja/SonyInfo/IR/",
+    "topix_component": true
+  },
+  {
+    "company_code": "6768",
+    "company_name": "タムラ製作所株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気機器",
+    "topix_component": true,
+    "source_url": "https://www.tamura-ss.co.jp/ir/"
+  },
+  {
+    "company_code": "6844",
+    "company_name": "新電元工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気機器",
+    "topix_component": true,
+    "source_url": "https://www.shindengen.co.jp/ir/"
   },
   {
     "company_code": "6861",
@@ -77,7 +680,17 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "電気機器",
-    "source_url": "https://www.keyence.co.jp/company/ir/"
+    "source_url": "https://www.keyence.co.jp/company/ir/",
+    "topix_component": true
+  },
+  {
+    "company_code": "6875",
+    "company_name": "株式会社メガチップス",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気機器",
+    "topix_component": true,
+    "source_url": "https://www.megachips.co.jp/ir/"
   },
   {
     "company_code": "6902",
@@ -85,7 +698,17 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "輸送用機器",
-    "source_url": "https://www.denso.com/jp/ja/about-us/investors/"
+    "source_url": "https://www.denso.com/jp/ja/about-us/investors/",
+    "topix_component": true
+  },
+  {
+    "company_code": "6905",
+    "company_name": "コーセル株式会社",
+    "fiscal_year_end": "05",
+    "market": "東証プライム",
+    "sector": "電気機器",
+    "topix_component": true,
+    "source_url": "https://www.cosel.co.jp/ir/"
   },
   {
     "company_code": "6954",
@@ -93,7 +716,17 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "機械",
-    "source_url": "https://www.fanuc.co.jp/ja/ir/"
+    "source_url": "https://www.fanuc.co.jp/ja/ir/",
+    "topix_component": true
+  },
+  {
+    "company_code": "6986",
+    "company_name": "双葉電子工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "電気機器",
+    "topix_component": true,
+    "source_url": "https://www.futaba.co.jp/ir/"
   },
   {
     "company_code": "7203",
@@ -101,7 +734,44 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "輸送用機器",
-    "source_url": "https://global.toyota/jp/ir/"
+    "source_url": "https://global.toyota/jp/ir/",
+    "topix_component": true
+  },
+  {
+    "company_code": "7211",
+    "company_name": "三菱自動車工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "輸送用機器",
+    "source_url": "https://www.mitsubishi-motors.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "7222",
+    "company_name": "日産車体株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "輸送用機器",
+    "topix_component": false,
+    "source_url": "https://www.nissan-shatai.co.jp/ir/"
+  },
+  {
+    "company_code": "7226",
+    "company_name": "極東開発工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "輸送用機器",
+    "topix_component": true,
+    "source_url": "https://www.kyokuto-group.co.jp/ir/"
+  },
+  {
+    "company_code": "7245",
+    "company_name": "大同メタル工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "輸送用機器",
+    "topix_component": true,
+    "source_url": "https://www.daidometal.com/ir/"
   },
   {
     "company_code": "7267",
@@ -109,7 +779,134 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "輸送用機器",
-    "source_url": "https://global.honda/jp/investors/"
+    "source_url": "https://global.honda/jp/investors/",
+    "topix_component": true
+  },
+  {
+    "company_code": "7287",
+    "company_name": "日本精機株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "輸送用機器",
+    "topix_component": true,
+    "source_url": "https://www.nippon-seiki.co.jp/ir/"
+  },
+  {
+    "company_code": "7294",
+    "company_name": "株式会社ヨロズ",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "輸送用機器",
+    "topix_component": true,
+    "source_url": "https://www.yorozu.co.jp/ir/"
+  },
+  {
+    "company_code": "7313",
+    "company_name": "テイ・エステック株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "輸送用機器",
+    "topix_component": true,
+    "source_url": "https://www.ts-tech.co.jp/ir/"
+  },
+  {
+    "company_code": "7590",
+    "company_name": "株式会社タカショー",
+    "fiscal_year_end": "01",
+    "market": "東証スタンダード",
+    "sector": "卸売業",
+    "topix_component": false,
+    "source_url": "https://www.takasho.co.jp/ir/"
+  },
+  {
+    "company_code": "7628",
+    "company_name": "株式会社オーハシテクニカ",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "卸売業",
+    "topix_component": false,
+    "source_url": "https://www.ohashi-technica.co.jp/ir/"
+  },
+  {
+    "company_code": "7702",
+    "company_name": "JMS株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "精密機器",
+    "source_url": "https://www.jms.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "7717",
+    "company_name": "株式会社ブイ・テクノロジー",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "精密機器",
+    "topix_component": false,
+    "source_url": "https://www.v-technology.co.jp/ir/"
+  },
+  {
+    "company_code": "7762",
+    "company_name": "シチズン時計株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "精密機器",
+    "source_url": "https://citizen.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "7860",
+    "company_name": "エイベックス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "topix_component": true,
+    "source_url": "https://avex.com/jp/ja/ir/"
+  },
+  {
+    "company_code": "7874",
+    "company_name": "株式会社レック",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "卸売業",
+    "topix_component": false,
+    "source_url": "https://www.leec.co.jp/ir/"
+  },
+  {
+    "company_code": "7885",
+    "company_name": "タカノ株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "家具・装備品",
+    "source_url": "https://www.takano.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "7925",
+    "company_name": "前澤化成工業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "化学",
+    "topix_component": true,
+    "source_url": "https://www.maezawa-kasei.co.jp/ir/"
+  },
+  {
+    "company_code": "7958",
+    "company_name": "天馬株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "化学",
+    "topix_component": true,
+    "source_url": "https://www.tenma.co.jp/ir/"
+  },
+  {
+    "company_code": "7962",
+    "company_name": "株式会社キングジム",
+    "fiscal_year_end": "08",
+    "market": "東証スタンダード",
+    "sector": "機械",
+    "topix_component": true,
+    "source_url": "https://www.kingjim.co.jp/ir/"
   },
   {
     "company_code": "7974",
@@ -117,7 +914,8 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "その他製品",
-    "source_url": "https://www.nintendo.co.jp/ir/index.html"
+    "source_url": "https://www.nintendo.co.jp/ir/index.html",
+    "topix_component": true
   },
   {
     "company_code": "8001",
@@ -125,7 +923,26 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "卸売",
-    "source_url": "https://www.itochu.co.jp/ja/ir/"
+    "source_url": "https://www.itochu.co.jp/ja/ir/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8008",
+    "company_name": "株式会社ヨンドシーホールディングス",
+    "fiscal_year_end": "02",
+    "market": "東証プライム",
+    "sector": "小売業",
+    "topix_component": true,
+    "source_url": "https://www.4℃hd.co.jp/ir/"
+  },
+  {
+    "company_code": "8018",
+    "company_name": "三共生興株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "繊維製品",
+    "topix_component": true,
+    "source_url": "https://www.sankyo-seiko.co.jp/ir/"
   },
   {
     "company_code": "8035",
@@ -133,7 +950,8 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "電気機器",
-    "source_url": "https://www.tel.co.jp/ir/"
+    "source_url": "https://www.tel.co.jp/ir/",
+    "topix_component": true
   },
   {
     "company_code": "8058",
@@ -141,7 +959,80 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "卸売",
-    "source_url": "https://www.mitsubishicorp.com/jp/ja/ir/"
+    "source_url": "https://www.mitsubishicorp.com/jp/ja/ir/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8095",
+    "company_name": "アステナホールディングス株式会社",
+    "fiscal_year_end": "11",
+    "market": "東証スタンダード",
+    "sector": "卸売業",
+    "topix_component": false,
+    "source_url": "https://astena.co.jp/ir/"
+  },
+  {
+    "company_code": "8125",
+    "company_name": "株式会社ワキタ",
+    "fiscal_year_end": "02",
+    "market": "東証プライム",
+    "sector": "卸売業",
+    "topix_component": true,
+    "source_url": "https://www.wakita.co.jp/ir/"
+  },
+  {
+    "company_code": "8131",
+    "company_name": "ミツウロコグループホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "卸売業",
+    "source_url": "https://www.mitsuurokogroup.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8159",
+    "company_name": "立花エレテック株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "卸売業",
+    "source_url": "https://www.tachibana-elec.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8173",
+    "company_name": "株式会社上新電機",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "小売業",
+    "topix_component": true,
+    "source_url": "https://www.joshin.co.jp/ir/"
+  },
+  {
+    "company_code": "8244",
+    "company_name": "株式会社近鉄百貨店",
+    "fiscal_year_end": "02",
+    "market": "東証プライム",
+    "sector": "小売業",
+    "source_url": "https://www.kintetsu-dept.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8281",
+    "company_name": "株式会社ゼビオホールディングス",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "小売業",
+    "topix_component": false,
+    "source_url": "https://www.xebio-hd.co.jp/ir/"
+  },
+  {
+    "company_code": "8285",
+    "company_name": "三谷産業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "卸売業",
+    "source_url": "https://www.mitani.co.jp/",
+    "topix_component": true
   },
   {
     "company_code": "8306",
@@ -149,7 +1040,8 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "銀行",
-    "source_url": "https://www.mufg.jp/ir/index.html"
+    "source_url": "https://www.mufg.jp/ir/index.html",
+    "topix_component": true
   },
   {
     "company_code": "8316",
@@ -157,7 +1049,80 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "銀行",
-    "source_url": "https://www.smfg.co.jp/investor/"
+    "source_url": "https://www.smfg.co.jp/investor/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8337",
+    "company_name": "株式会社千葉興業銀行",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "銀行業",
+    "topix_component": true,
+    "source_url": "https://www.chibakogyo-bank.co.jp/ir/"
+  },
+  {
+    "company_code": "8338",
+    "company_name": "株式会社筑波銀行",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "銀行業",
+    "topix_component": true,
+    "source_url": "https://www.tsukubabank.co.jp/ir/"
+  },
+  {
+    "company_code": "8343",
+    "company_name": "株式会社秋田銀行",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "銀行業",
+    "topix_component": true,
+    "source_url": "https://www.akita-bank.co.jp/ir/"
+  },
+  {
+    "company_code": "8344",
+    "company_name": "株式会社山形銀行",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "銀行業",
+    "topix_component": true,
+    "source_url": "https://www.yamagatabank.co.jp/ir/"
+  },
+  {
+    "company_code": "8358",
+    "company_name": "スルガ銀行株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "銀行業",
+    "source_url": "https://www.surugabank.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8361",
+    "company_name": "大垣共立銀行株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "銀行業",
+    "topix_component": true,
+    "source_url": "https://www.okb.co.jp/ir/"
+  },
+  {
+    "company_code": "8387",
+    "company_name": "株式会社四国銀行",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "銀行業",
+    "source_url": "https://www.shikokubank.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8399",
+    "company_name": "株式会社琉球銀行",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "銀行業",
+    "topix_component": false,
+    "source_url": "https://www.ryugin.co.jp/ir/"
   },
   {
     "company_code": "8411",
@@ -165,7 +1130,35 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "銀行",
-    "source_url": "https://www.mizuho-fg.co.jp/investors/index.html"
+    "source_url": "https://www.mizuho-fg.co.jp/investors/index.html",
+    "topix_component": true
+  },
+  {
+    "company_code": "8550",
+    "company_name": "株式会社栃木銀行",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "銀行業",
+    "topix_component": true,
+    "source_url": "https://www.tochigi-bank.co.jp/ir/"
+  },
+  {
+    "company_code": "8558",
+    "company_name": "東和銀行株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "銀行業",
+    "topix_component": false,
+    "source_url": "https://www.towa-bank.co.jp/ir/"
+  },
+  {
+    "company_code": "8713",
+    "company_name": "フィデアホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "銀行業",
+    "topix_component": false,
+    "source_url": "https://www.fidea.co.jp/ir/"
   },
   {
     "company_code": "8766",
@@ -173,7 +1166,125 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "保険",
-    "source_url": "https://www.tokiomarinehd.com/ir/"
+    "source_url": "https://www.tokiomarinehd.com/ir/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8793",
+    "company_name": "NECキャピタルソリューション株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "その他金融業",
+    "source_url": "https://www.nec-capital.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8850",
+    "company_name": "スターツコーポレーション株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "不動産業",
+    "source_url": "https://starts.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8869",
+    "company_name": "明和地所株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "不動産業",
+    "source_url": "https://www.meiwa-estate.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8877",
+    "company_name": "エスリード株式会社",
+    "fiscal_year_end": "09",
+    "market": "東証プライム",
+    "sector": "不動産業",
+    "source_url": "https://www.eslead.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "8905",
+    "company_name": "イオンモール株式会社",
+    "fiscal_year_end": "02",
+    "market": "東証プライム",
+    "sector": "不動産業",
+    "source_url": "https://www.aeonmall.com/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9046",
+    "company_name": "神戸電鉄株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "陸運業",
+    "topix_component": true,
+    "source_url": "https://www.shintetsu.co.jp/ir/"
+  },
+  {
+    "company_code": "9090",
+    "company_name": "AZ-COM丸和ホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "陸運業",
+    "source_url": "https://www.az-com-maruwa.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9319",
+    "company_name": "中央倉庫株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "倉庫・運輸関連業",
+    "topix_component": true,
+    "source_url": "https://www.chuwa-s.co.jp/ir/"
+  },
+  {
+    "company_code": "9324",
+    "company_name": "安田倉庫株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "倉庫・運輸関連業",
+    "topix_component": true,
+    "source_url": "https://www.yasuda-soko.co.jp/ir/"
+  },
+  {
+    "company_code": "9401",
+    "company_name": "株式会社TBSホールディングス",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "source_url": "https://www.tbs-holdings.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9404",
+    "company_name": "日本テレビホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "topix_component": true,
+    "source_url": "https://www.ntv.co.jp/ir/"
+  },
+  {
+    "company_code": "9409",
+    "company_name": "テレビ朝日ホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "source_url": "https://www.tv-asahi-hd.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9418",
+    "company_name": "U-NEXT HOLDINGS株式会社",
+    "fiscal_year_end": "08",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "source_url": "https://unext.co.jp/",
+    "topix_component": true
   },
   {
     "company_code": "9432",
@@ -181,7 +1292,8 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "情報・通信",
-    "source_url": "https://group.ntt/jp/ir/"
+    "source_url": "https://group.ntt/jp/ir/",
+    "topix_component": true
   },
   {
     "company_code": "9433",
@@ -189,7 +1301,143 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "情報・通信",
-    "source_url": "https://www.kddi.com/corporate/ir/"
+    "source_url": "https://www.kddi.com/corporate/ir/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9449",
+    "company_name": "GMOインターネットグループ株式会社",
+    "fiscal_year_end": "12",
+    "market": "東証プライム",
+    "sector": "情報・通信業",
+    "source_url": "https://www.gmo.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9501",
+    "company_name": "東京電力ホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気・ガス業",
+    "source_url": "https://www.tepco.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9502",
+    "company_name": "中部電力株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気・ガス業",
+    "source_url": "https://www.chuden.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9503",
+    "company_name": "関西電力株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気・ガス業",
+    "source_url": "https://www.kepco.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9504",
+    "company_name": "中国電力株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気・ガス業",
+    "source_url": "https://www.energia.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9505",
+    "company_name": "北陸電力株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気・ガス業",
+    "source_url": "https://www.rikuden.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9507",
+    "company_name": "四国電力株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気・ガス業",
+    "source_url": "https://www.yonden.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9508",
+    "company_name": "九州電力株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気・ガス業",
+    "source_url": "https://www.kyuden.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9509",
+    "company_name": "北海道電力株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気・ガス業",
+    "source_url": "https://www.hepco.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9511",
+    "company_name": "沖縄電力株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "電気・ガス業",
+    "topix_component": true,
+    "source_url": "https://www.okiden.co.jp/ir/"
+  },
+  {
+    "company_code": "9632",
+    "company_name": "スバル興業株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "サービス業",
+    "source_url": "https://www.subaruks.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9704",
+    "company_name": "アゴーラ・ホスピタリティー・グループ株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "サービス業",
+    "source_url": "https://www.agora-hospitality.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9726",
+    "company_name": "KNT-CTホールディングス株式会社",
+    "fiscal_year_end": "03",
+    "market": "東証プライム",
+    "sector": "サービス業",
+    "source_url": "https://www.knt-ct.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9946",
+    "company_name": "株式会社ミニストップ",
+    "fiscal_year_end": "02",
+    "market": "東証プライム",
+    "sector": "小売業",
+    "source_url": "https://www.ministop.co.jp/",
+    "topix_component": true
+  },
+  {
+    "company_code": "9972",
+    "company_name": "株式会社アルテック",
+    "fiscal_year_end": "03",
+    "market": "東証スタンダード",
+    "sector": "卸売業",
+    "topix_component": false,
+    "source_url": "https://www.artec-inc.co.jp/ir/"
   },
   {
     "company_code": "9984",
@@ -197,6 +1445,7 @@
     "fiscal_year_end": "03",
     "market": "東証プライム",
     "sector": "情報・通信",
-    "source_url": "https://group.softbank/ja/ir"
+    "source_url": "https://group.softbank/ja/ir",
+    "topix_component": true
   }
 ]

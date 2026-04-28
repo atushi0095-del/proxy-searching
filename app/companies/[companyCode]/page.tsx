@@ -418,8 +418,23 @@ export default async function CompanyPage({ params, searchParams }: Props) {
         <div className="flex flex-wrap items-start gap-3">
           <div>
             <h1 className="text-2xl font-bold">{company.company_name}</h1>
-            <p className="mt-1 text-sm text-slate-500">
-              {company.company_code} / {company.market} / {company.sector} / 対象年度 {meetingYear}
+            <div className="mt-1 flex flex-wrap items-center gap-1.5">
+              <span className="text-sm text-slate-500">{company.company_code}</span>
+              {company.market && (
+                <span className={`rounded border px-2 py-0.5 text-xs font-medium ${
+                  company.market === "東証プライム" ? "border-blue-200 bg-blue-50 text-blue-700"
+                  : company.market === "東証スタンダード" ? "border-green-200 bg-green-50 text-green-700"
+                  : company.market === "東証グロース" ? "border-orange-200 bg-orange-50 text-orange-700"
+                  : "border-slate-200 bg-slate-50 text-slate-600"
+                }`}>{company.market}</span>
+              )}
+              {company.topix_component === true && (
+                <span className="rounded border border-indigo-200 bg-indigo-50 px-2 py-0.5 text-xs font-medium text-indigo-700">TOPIX構成</span>
+              )}
+              <span className="text-sm text-slate-500">{company.sector}</span>
+            </div>
+            <p className="mt-0.5 text-xs text-slate-400">
+              決算期: {company.fiscal_year_end}月 / 対象年度: {meetingYear}
             </p>
           </div>
           <a className="ml-auto rounded border px-3 py-1.5 text-xs text-slate-700" href={company.source_url} target="_blank" rel="noreferrer">
@@ -438,63 +453,142 @@ export default async function CompanyPage({ params, searchParams }: Props) {
                 {metrics.slice(-3)[0]?.fiscal_year ?? "-"} - {metrics.slice(-3).at(-1)?.fiscal_year ?? "-"}
               </span>
             </div>
-            <div className="mt-3 space-y-2">
-              {metrics.slice(-3).map((metric) => (
-                <div key={metric.fiscal_year} className="rounded bg-slate-50 px-3 py-2 text-sm">
-                  <div className="flex justify-between gap-3">
-                    <span className="font-semibold">{metric.fiscal_year}年</span>
-                    <span>ROE {metric.roe?.toFixed(1) ?? "N/A"}% / PBR {metric.pbr?.toFixed(1) ?? "N/A"}</span>
-                  </div>
-                  <div className="mt-1 flex items-center justify-between gap-3 text-xs text-slate-500">
-                    <span className="truncate">{metric.notes}</span>
-                    {metric.source_url && (
-                      <a className="shrink-0 text-blue-700 hover:underline" href={metric.source_url} target="_blank" rel="noreferrer">
-                        エビデンス
-                      </a>
+            {metrics.length === 0 ? (
+              <p className="mt-3 text-sm text-slate-500">財務データは未登録です。有価証券報告書から順次追加予定です。</p>
+            ) : (
+              <div className="mt-3 space-y-2">
+                {metrics.slice(-3).map((metric) => (
+                  <div key={metric.fiscal_year} className="rounded bg-slate-50 px-3 py-2 text-sm">
+                    <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1">
+                      <span className="font-semibold">{metric.fiscal_year}年度</span>
+                      <span className="text-xs">
+                        ROE <strong className={metric.roe != null && metric.roe < 5 ? "text-red-600" : ""}>{metric.roe?.toFixed(1) ?? "—"}%</strong>
+                        {" / "}
+                        PBR <strong>{metric.pbr?.toFixed(2) ?? "—"}</strong>
+                        {metric.tsr_3y_rank_percentile != null && (
+                          <>{" / "}TSR順位 <strong>{metric.tsr_3y_rank_percentile.toFixed(0)}%ile</strong></>
+                        )}
+                      </span>
+                    </div>
+                    {metric.notes && (
+                      <div className="mt-1 flex items-start justify-between gap-3 text-xs text-slate-500">
+                        <span className="leading-4">{metric.notes}</span>
+                        {metric.source_url && (
+                          <a className="shrink-0 text-blue-700 hover:underline" href={metric.source_url} target="_blank" rel="noreferrer">
+                            出典
+                          </a>
+                        )}
+                      </div>
                     )}
                   </div>
-                </div>
-              ))}
-            </div>
-            <p className="mt-3 text-xs leading-5 text-slate-500">
-              判定は対象年度以下の直近3期を使用します。翌年データが追加されると、自動的に1年分スライドします。
+                ))}
+              </div>
+            )}
+            <p className="mt-3 text-xs leading-5 text-slate-400">
+              判定は対象年度以下の直近3期を使用。翌年データが追加されると1年分スライドします。ROE赤字は5%未満を示します。
             </p>
           </div>
           <div className="rounded-lg border p-4 md:col-span-2">
-            <h3 className="font-bold">取締役会構成</h3>
+            <div className="flex items-center justify-between gap-2">
+              <h3 className="font-bold">取締役会構成</h3>
+              {governance?.source_url && (
+                <a href={governance.source_url} target="_blank" rel="noreferrer" className="text-xs text-blue-600 hover:underline">
+                  ソース
+                </a>
+              )}
+            </div>
             {governance ? (
-              <div className="mt-3 grid gap-2 text-sm md:grid-cols-4">
-                <div className="rounded bg-slate-50 p-3"><p className="text-xs text-slate-500">取締役数</p><p className="text-lg font-bold">{governance.board_size}</p></div>
-                <div className="rounded bg-slate-50 p-3"><p className="text-xs text-slate-500">独立比率</p><p className="text-lg font-bold">{governance.independent_director_ratio.toFixed(1)}%</p></div>
-                <div className="rounded bg-slate-50 p-3"><p className="text-xs text-slate-500">女性取締役</p><p className="text-lg font-bold">{governance.female_director_count}名</p></div>
-                <div className="rounded bg-slate-50 p-3"><p className="text-xs text-slate-500">独立議長</p><p className="text-lg font-bold">{governance.has_independent_board_chair ? "あり" : "なし"}</p></div>
-              </div>
+              <>
+                <div className="mt-3 grid gap-2 text-sm md:grid-cols-4">
+                  <div className="rounded bg-slate-50 p-3">
+                    <p className="text-xs text-slate-500">取締役数</p>
+                    <p className="text-lg font-bold">{governance.board_size}</p>
+                    <p className="text-xs text-slate-400">社内{governance.inside_director_count} / 社外{governance.outside_director_count}</p>
+                  </div>
+                  <div className="rounded bg-slate-50 p-3">
+                    <p className="text-xs text-slate-500">独立社外比率</p>
+                    <p className="text-lg font-bold">{governance.independent_director_ratio.toFixed(1)}%</p>
+                    <p className="text-xs text-slate-400">{governance.independent_director_count}名</p>
+                  </div>
+                  <div className="rounded bg-slate-50 p-3">
+                    <p className="text-xs text-slate-500">女性取締役</p>
+                    <p className="text-lg font-bold">{governance.female_director_count}名</p>
+                    <p className="text-xs text-slate-400">{governance.female_director_ratio.toFixed(1)}%</p>
+                  </div>
+                  <div className="rounded bg-slate-50 p-3">
+                    <p className="text-xs text-slate-500">独立議長</p>
+                    <p className="text-lg font-bold">{governance.has_independent_board_chair ? "あり" : "なし"}</p>
+                  </div>
+                </div>
+                <div className="mt-2 flex flex-wrap gap-2 text-xs">
+                  <span className={`rounded px-2 py-1 font-semibold ${governance.has_nominating_committee ? "bg-green-50 text-green-700" : "bg-slate-100 text-slate-500"}`}>
+                    指名委員会: {governance.has_nominating_committee ? "あり" : "なし"}
+                  </span>
+                  <span className={`rounded px-2 py-1 font-semibold ${governance.has_compensation_committee ? "bg-green-50 text-green-700" : "bg-slate-100 text-slate-500"}`}>
+                    報酬委員会: {governance.has_compensation_committee ? "あり" : "なし"}
+                  </span>
+                  {governance.policy_shareholdings_ratio != null && (
+                    <span className="rounded bg-amber-50 px-2 py-1 font-semibold text-amber-700">
+                      政策保有株式: {governance.policy_shareholdings_ratio.toFixed(1)}%
+                    </span>
+                  )}
+                </div>
+                {governance.notes && (
+                  <p className="mt-2 text-xs leading-5 text-slate-500">{governance.notes}</p>
+                )}
+              </>
             ) : (
-              <p className="mt-2 text-sm text-slate-500">未登録</p>
+              <p className="mt-2 text-sm text-slate-500">
+                取締役会構成データは未登録です。招集通知・CG報告書から順次追加予定です。
+              </p>
             )}
           </div>
         </div>
 
-        <div className="mt-4 grid gap-3 md:grid-cols-2">
-          {directorList.map((director) => (
-            <div key={director.director_id} className="rounded-lg border p-3">
-              <p className="font-semibold">{director.name}</p>
-              <p className="text-sm text-slate-500">{director.current_title}</p>
-              <div className="mt-2 flex flex-wrap gap-1 text-xs">
-                {director.is_outside_director && <span className="rounded bg-blue-50 px-2 py-0.5 text-blue-700">社外</span>}
-                {director.is_independent && <span className="rounded bg-green-50 px-2 py-0.5 text-green-700">独立</span>}
-                {director.is_president && <span className="rounded bg-slate-100 px-2 py-0.5">社長</span>}
-                {director.is_ceo && <span className="rounded bg-slate-100 px-2 py-0.5">CEO</span>}
-                {director.is_board_chair && <span className="rounded bg-purple-50 px-2 py-0.5 text-purple-700">取締役会議長</span>}
-                {director.is_female && <span className="rounded bg-rose-50 px-2 py-0.5 text-rose-700">女性</span>}
+        {directorList.length === 0 ? (
+          <p className="mt-4 rounded bg-amber-50 px-3 py-2 text-sm text-amber-800">
+            この企業の取締役候補者データはまだ登録されていません。招集通知・有価証券報告書からの取り込みを予定しています。
+          </p>
+        ) : (
+          <div className="mt-4 grid gap-3 md:grid-cols-2">
+            {directorList.map((director) => (
+              <div key={director.director_id} className="rounded-lg border p-3">
+                <div className="flex items-start justify-between gap-2">
+                  <div>
+                    <p className="font-semibold">{director.name}</p>
+                    <p className="text-sm leading-5 text-slate-500">{director.current_title}</p>
+                  </div>
+                  {director.source_url && (
+                    <a href={director.source_url} target="_blank" rel="noreferrer" className="shrink-0 text-xs text-blue-600 hover:underline">
+                      招集通知
+                    </a>
+                  )}
+                </div>
+                <div className="mt-2 flex flex-wrap gap-1 text-xs">
+                  {director.is_inside_director && !director.is_outside_director && <span className="rounded bg-slate-100 px-2 py-0.5 text-slate-700">社内</span>}
+                  {director.is_outside_director && <span className="rounded bg-blue-50 px-2 py-0.5 text-blue-700">社外</span>}
+                  {director.is_independent && <span className="rounded bg-green-50 px-2 py-0.5 text-green-700">独立</span>}
+                  {director.is_president && <span className="rounded bg-slate-100 px-2 py-0.5">社長</span>}
+                  {director.is_ceo && <span className="rounded bg-slate-100 px-2 py-0.5">CEO</span>}
+                  {director.has_representative_authority && !director.is_president && !director.is_ceo && <span className="rounded bg-slate-100 px-2 py-0.5">代表権あり</span>}
+                  {director.is_board_chair && <span className="rounded bg-purple-50 px-2 py-0.5 text-purple-700">取締役会議長</span>}
+                  {director.is_female && <span className="rounded bg-rose-50 px-2 py-0.5 text-rose-700">女性</span>}
+                </div>
+                <div className="mt-2 space-y-0.5 text-xs text-slate-500">
+                  <p>
+                    在任: 現在{director.tenure_years_before_meeting ?? "-"}年 / 再任後{director.tenure_years_after_reelection ?? "-"}年
+                  </p>
+                  <p>
+                    出席率: {director.board_attendance_rate != null ? `${director.board_attendance_rate}%` : "未登録"}
+                    {director.outside_board_seats != null && director.outside_board_seats > 0 ? ` / 社外兼職: ${director.outside_board_seats}社` : ""}
+                    {director.listed_company_board_seats != null && director.listed_company_board_seats > 1 ? ` (上場${director.listed_company_board_seats}社)` : ""}
+                  </p>
+                  {director.notes && <p className="leading-4 text-slate-400">{director.notes}</p>}
+                </div>
               </div>
-              <p className="mt-2 text-xs text-slate-500">
-                在任: 現在{director.tenure_years_before_meeting}年 / 再任後{director.tenure_years_after_reelection}年、
-                出席率: {director.board_attendance_rate ?? "未登録"}%
-              </p>
-            </div>
-          ))}
-        </div>
+            ))}
+          </div>
+        )}
       </section>
 
       <VoteViewSelector

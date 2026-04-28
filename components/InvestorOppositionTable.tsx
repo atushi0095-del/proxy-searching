@@ -279,11 +279,12 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
   function applyAnalysisPreset(value: "none" | "low_roe_director_elections") {
     setAnalysisPreset(value);
     if (value === "low_roe_director_elections") {
-      setVoteFilter("all");
-      setIssueType("all");
+      setVoteFilter("all");   // 賛否両方表示
+      setIssueType("all");    // 論点フィルターを無効化（プリセット優先）
       setDetailTag("all");
       setReasonFilter("all");
-      setSortKey("company");
+      setSortKey("company");  // 企業単位でグループ化しやすいように
+      setYearFilter("all");   // 全期間: ROE違反が過去年の場合も拾う
     }
   }
 
@@ -296,6 +297,19 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
 
   function needsQualityCheck(record: OppositionRecord) {
     return record.vote === "賛成" && record.reason.trim().length > 0;
+  }
+
+  function attrBadgeClass(attr: string): string {
+    if (/社長|CEO/.test(attr)) return "bg-red-50 text-red-700";
+    if (/代表取締役|代表権/.test(attr)) return "bg-orange-50 text-orange-700";
+    if (/会長/.test(attr)) return "bg-orange-50 text-orange-700";
+    if (/議長/.test(attr)) return "bg-purple-50 text-purple-700";
+    if (/社外/.test(attr)) return "bg-blue-50 text-blue-700";
+    if (/独立/.test(attr)) return "bg-green-50 text-green-700";
+    if (/女性/.test(attr)) return "bg-rose-50 text-rose-700";
+    if (/在任/.test(attr)) return "bg-amber-50 text-amber-700";
+    if (/出席/.test(attr)) return "bg-slate-100 text-slate-500";
+    return "bg-slate-100 text-slate-600";
   }
 
   return (
@@ -316,24 +330,14 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
         </button>
       </div>
 
-      <div className="mb-4 grid gap-2 md:grid-cols-[minmax(220px,1fr)_120px_140px_180px_150px_180px_160px_auto]">
+      {/* フィルター行1: 主要フィルター */}
+      <div className="mb-2 flex flex-wrap gap-2">
         <input
           value={query}
           onChange={(event) => setQuery(event.target.value)}
           placeholder="企業名・コード・理由で検索"
-          className="rounded border px-3 py-1.5 text-sm outline-none focus:border-slate-500"
+          className="min-w-[180px] flex-1 rounded border px-3 py-1.5 text-sm outline-none focus:border-slate-500"
         />
-        <select
-          value={yearFilter}
-          onChange={(event) => setYearFilter(event.target.value)}
-          className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
-        >
-          <option value="latest">最新年</option>
-          <option value="all">全期間</option>
-          {meetingYears.map((year) => (
-            <option key={year} value={year}>{year}年</option>
-          ))}
-        </select>
         <select
           value={voteFilter}
           onChange={(event) => setVoteFilter(event.target.value as "all" | "against" | "for")}
@@ -355,12 +359,34 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
             </option>
           ))}
         </select>
+        <button
+          type="button"
+          onClick={clearFilters}
+          disabled={!hasActiveFilters}
+          className="rounded border bg-white px-3 py-1.5 text-sm text-slate-700 hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-40"
+        >
+          クリア
+        </button>
+      </div>
+      {/* フィルター行2: 詳細フィルター */}
+      <div className="mb-4 flex flex-wrap gap-2">
+        <select
+          value={yearFilter}
+          onChange={(event) => setYearFilter(event.target.value)}
+          className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
+        >
+          <option value="latest">最新年</option>
+          <option value="all">全期間</option>
+          {meetingYears.map((year) => (
+            <option key={year} value={year}>{year}年</option>
+          ))}
+        </select>
         <select
           value={reasonFilter}
           onChange={(event) => setReasonFilter(event.target.value as "all" | "with" | "without")}
           className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
         >
-          <option value="all">理由すべて</option>
+          <option value="all">理由：すべて</option>
           <option value="with">理由あり</option>
           <option value="without">理由なし</option>
         </select>
@@ -369,7 +395,7 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
           onChange={(event) => applyAnalysisPreset(event.target.value as "none" | "low_roe_director_elections")}
           className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
         >
-          <option value="none">通常表示</option>
+          <option value="none">プリセット：通常</option>
           <option value="low_roe_director_elections">ROE論点企業の選任議案</option>
         </select>
         <select
@@ -377,20 +403,39 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
           onChange={(event) => setSortKey(event.target.value as "default" | "company" | "meeting_date_desc" | "reason")}
           className="rounded border bg-white px-3 py-1.5 text-sm outline-none focus:border-slate-500"
         >
-          <option value="default">既定順</option>
+          <option value="default">並順：既定</option>
           <option value="meeting_date_desc">総会日 新しい順</option>
           <option value="company">企業コード順</option>
           <option value="reason">理由あり優先</option>
         </select>
-        <button
-          type="button"
-          onClick={clearFilters}
-          disabled={!hasActiveFilters}
-          className="rounded border bg-white px-3 py-1.5 text-sm text-slate-700 shadow-sm hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-40"
-        >
-          クリア
-        </button>
       </div>
+
+      {/* プリセット適用中バナー */}
+      {analysisPreset === "low_roe_director_elections" && (
+        <div className="mb-3 rounded-lg border border-amber-200 bg-amber-50 px-4 py-3">
+          <div className="flex flex-wrap items-start justify-between gap-2">
+            <div>
+              <p className="text-sm font-bold text-amber-900">ROE論点企業の選任議案プリセット適用中</p>
+              <p className="mt-0.5 text-xs leading-5 text-amber-800">
+                ROE基準への反対実績がある企業の<strong>全選任議案</strong>を表示しています（賛否両方）。
+                同一企業内で「誰に反対し、誰に賛成したか」を横断確認できます。企業コード順で並んでいます。
+              </p>
+            </div>
+            <button
+              type="button"
+              onClick={() => { setAnalysisPreset("none"); setVoteFilter("against"); setYearFilter("latest"); setSortKey("default"); }}
+              className="shrink-0 rounded border border-amber-300 bg-white px-3 py-1 text-xs text-amber-800 hover:bg-amber-100"
+            >
+              プリセットを解除
+            </button>
+          </div>
+          <div className="mt-2 flex flex-wrap gap-3 text-xs text-amber-700">
+            <span>対象企業数: <strong>{new Set(filtered.map(r => r.company_code)).size}社</strong></span>
+            <span>反対: <strong className="text-red-700">{filtered.filter(r => isAgainstVote(r.vote) && r.vote !== "賛成").length.toLocaleString()}件</strong></span>
+            <span>賛成: <strong className="text-green-700">{filtered.filter(r => r.vote === "賛成").length.toLocaleString()}件</strong></span>
+          </div>
+        </div>
+      )}
 
       <div className="mb-3 grid gap-3 md:grid-cols-4">
         <div className="rounded-lg border bg-slate-50 p-3">
@@ -402,9 +447,9 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
           <p className="mt-1 text-2xl font-bold text-red-700">{againstCount.toLocaleString()}</p>
         </div>
         <div className="rounded-lg border bg-green-50 p-3">
-          <p className="text-xs text-green-700">賛成比較</p>
+          <p className="text-xs text-green-700">賛成（比較用）</p>
           <p className="mt-1 text-2xl font-bold text-green-700">{forCount.toLocaleString()}</p>
-          {forWithReasonCount > 0 && <p className="mt-1 text-[11px] text-green-700">理由あり {forWithReasonCount.toLocaleString()}件</p>}
+          {forWithReasonCount > 0 && <p className="mt-0.5 text-[11px] text-green-700">うち理由あり {forWithReasonCount.toLocaleString()}件</p>}
         </div>
         <div className="rounded-lg border bg-slate-50 p-3">
           <p className="text-xs text-slate-500">絞り込み後</p>
@@ -454,12 +499,24 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
                     {record.vote || "-"}
                   </span>
                 </td>
-                <td className="px-2 py-1.5 text-slate-600 max-w-[160px]">
+                <td className="px-2 py-1.5 text-slate-600 max-w-[220px]">
                   <p className="truncate">{record.proposal_type || "-"}</p>
                   <p className="text-slate-400">
                     {record.resolution_number || record.proposal_number ? `議案${record.resolution_number || record.proposal_number}` : ""}
                     {record.candidate_number ? `-${record.candidate_number}` : ""}
                   </p>
+                  {record.matched_director_name && (
+                    <p className="mt-0.5 truncate font-medium text-slate-700">{record.matched_director_name}</p>
+                  )}
+                  {record.matched_director_attributes && record.matched_director_attributes.length > 0 && (
+                    <div className="mt-0.5 flex flex-wrap gap-0.5">
+                      {record.matched_director_attributes.map((attr) => (
+                        <span key={attr} className={`rounded px-1 py-px text-[10px] font-medium leading-tight ${attrBadgeClass(attr)}`}>
+                          {attr}
+                        </span>
+                      ))}
+                    </div>
+                  )}
                 </td>
                 <td className="px-2 py-1.5 whitespace-nowrap">
                   <span className="rounded bg-amber-50 px-2 py-0.5 font-semibold text-amber-700">{displayIssue(record)}</span>

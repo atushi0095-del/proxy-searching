@@ -3,6 +3,15 @@ import oppositionFocus from "@/data/generated/opposition_focus_companies.json";
 import { ProgressDashboard } from "@/components/ProgressDashboard";
 import { investors } from "@/lib/data";
 
+type OppositionFocusCompany = {
+  company_code: string;
+  company_name?: string;
+  against_count: number;
+  issues: Record<string, number>;
+};
+
+const focusCompanies = oppositionFocus.companies as OppositionFocusCompany[];
+
 export default function SettingsPage() {
   return (
     <div className="space-y-6">
@@ -69,7 +78,7 @@ export default function SettingsPage() {
               </tr>
             </thead>
             <tbody className="divide-y">
-              {oppositionFocus.companies.slice(0, 20).map((company) => (
+              {focusCompanies.slice(0, 20).map((company) => (
                 <tr key={`${company.company_code}-${company.company_name}`}>
                   <td className="py-2 pr-4">
                     <p className="font-semibold">{company.company_name || company.company_code}</p>

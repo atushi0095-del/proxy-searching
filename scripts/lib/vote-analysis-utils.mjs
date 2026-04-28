@@ -75,6 +75,7 @@ export function buildCases(records, investorName) {
   return {
     generated_at: new Date().toISOString(),
     purpose: `${investorName}の個別開示から、反対理由と賛成近接事例を抽出するための中間データ。`,
+    records,
     issues: issueTypes.map((issueType) => {
       const allAgainst = records.filter(
         (record) => record.vote === AGAINST && record.issue_types.includes(issueType)
@@ -86,9 +87,9 @@ export function buildCases(records, investorName) {
       return {
         issue_type: issueType,
         against_count: allAgainst.length,
-        against_examples: allAgainst.slice(0, 20),
+        against_examples: allAgainst,
         for_comparison_count: allNearbyFor.length,
-        for_comparison_examples: allNearbyFor.slice(0, 20),
+        for_comparison_examples: allNearbyFor.slice(0, 500),
         inference_hint: "反対理由と同一企業の賛成議案を比較し、公式基準と実際の反対対象を分けて確認する。"
       };
     })
