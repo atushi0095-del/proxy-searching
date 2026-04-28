@@ -27,7 +27,8 @@ interface Params {
     roe_periods?: string;
     board_type?: string;
     // 役員構成
-    has_rep_chair?: string;        // "true" | "false"
+    exec_role?: string;            // "chair" | "president" | "rep_chair" | "rep_president"
+    exec_has?: string;             // "true" | "false"
     outside_tenure_min?: string;   // 数値（年）
     board_chair_type?: string;     // "outside" | "inside"
     has_female_outside?: string;   // "true" | "false"
@@ -262,17 +263,18 @@ export default async function ScreenPage({ searchParams }: Params) {
   const roePeriods = sp.roe_periods ? Number(sp.roe_periods) : null;
   const boardTypeFilter = sp.board_type ? sp.board_type.split(",") : [];
   // 役員構成フィルター
-  const hasRepChairFilter = sp.has_rep_chair ?? "";        // "true" | "false" | ""
-  const outsideTenureMin  = sp.outside_tenure_min ? Number(sp.outside_tenure_min) : null;
-  const boardChairType    = sp.board_chair_type ?? "";     // "outside" | "inside" | ""
-  const hasFemaleOutside  = sp.has_female_outside ?? "";   // "true" | "false" | ""
+  const execRole         = sp.exec_role ?? "";             // "chair"|"president"|"rep_chair"|"rep_president"|""
+  const execHas          = sp.exec_has ?? "";              // "true"|"false"|""
+  const outsideTenureMin = sp.outside_tenure_min ? Number(sp.outside_tenure_min) : null;
+  const boardChairType   = sp.board_chair_type ?? "";      // "outside"|"inside"|""
+  const hasFemaleOutside = sp.has_female_outside ?? "";    // "true"|"false"|""
   const investorFilter = sp.investor ?? "";
   const view = sp.view === "investor" ? "investor" : "company";
 
   const hasFilter =
     indepMin !== null || indepMax !== null || femaleMin !== null ||
     roeMax !== null || boardTypeFilter.length > 0 ||
-    hasRepChairFilter !== "" || outsideTenureMin !== null ||
+    (execRole !== "" && execHas !== "") || outsideTenureMin !== null ||
     boardChairType !== "" || hasFemaleOutside !== "";
 
   // ── 役員辞書: company_code → Director[] ──
@@ -303,26 +305,34 @@ export default async function ScreenPage({ searchParams }: Params) {
 
   function passesDirectorFilters(code: string): boolean {
     const dirs = dirMap.get(code);
-    // 役員データが全くない場合: 役員構成フィルターが掛かっているときはスキップ
     const hasDirectorFilter =
-      hasRepChairFilter !== "" || outsideTenureMin !== null ||
+      (execRole !== "" && execHas !== "") || outsideTenureMin !== null ||
       boardChairType !== "" || hasFemaleOutside !== "";
     if (!dirs || dirs.length === 0) return !hasDirectorFilter;
 
-    // 代表取締役会長
-    if (hasRepChairFilter !== "") {
-      const has = dirs.some(d => d.is_chair && d.has_representative_authority);
-      if (hasRepChairFilter === "true" && !has) return false;
-      if (hasRepChairFilter === "false" && has) return false;
+    // ── 役職種別 + あり/なし ──
+    if (execRole !== "" && execHas !== "") {
+      let matchFn: (d: DirectorLike) => boolean;
+      switch (execRole) {
+        case "chair":         matchFn = d => d.is_chair; break;
+        case "rep_chair":     matchFn = d => d.is_chair && d.has_representative_authority; break;
+        case "president":     matchFn = d => (d as { is_president?: boolean }).is_president ?? false; break;
+        case "rep_president": matchFn = d => ((d as { is_president?: boolean }).is_president ?? false)
+                                              && d.has_representative_authority; break;
+        default:              matchFn = () => false;
+      }
+      const has = dirs.some(matchFn);
+      if (execHas === "true"  && !has) return false;
+      if (execHas === "false" && has)  return false;
     }
 
-    // 社外取締役在任期間
+    // ── 社外取締役在任期間 ──
     if (outsideTenureMin !== null) {
       const has = dirs.some(d => d.is_outside_director && dirTenure(d) >= outsideTenureMin);
       if (!has) return false;
     }
 
-    // 取締役会議長の属性
+    // ── 取締役会議長の属性 ──
     if (boardChairType !== "") {
       const chairs = dirs.filter(d => d.is_board_chair);
       if (boardChairType === "outside") {
@@ -332,11 +342,11 @@ export default async function ScreenPage({ searchParams }: Params) {
       }
     }
 
-    // 女性社外取締役
+    // ── 女性社外取締役 ──
     if (hasFemaleOutside !== "") {
       const has = dirs.some(d => d.is_outside_director && d.is_female);
-      if (hasFemaleOutside === "true" && !has) return false;
-      if (hasFemaleOutside === "false" && has) return false;
+      if (hasFemaleOutside === "true"  && !has) return false;
+      if (hasFemaleOutside === "false" && has)  return false;
     }
 
     return true;
@@ -503,7 +513,8 @@ export default async function ScreenPage({ searchParams }: Params) {
     roeMax,
     roePeriods,
     boardType: boardTypeFilter,
-    hasRepChair: hasRepChairFilter as "" | "true" | "false",
+    execRole: execRole as "" | "chair" | "president" | "rep_chair" | "rep_president",
+    execHas:  execHas  as "" | "true" | "false",
     outsideTenureMin,
     boardChairType: boardChairType as "" | "outside" | "inside",
     hasFemaleOutside: hasFemaleOutside as "" | "true" | "false",

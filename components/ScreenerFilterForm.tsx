@@ -18,7 +18,8 @@ export interface ScreenerFilters {
   // 機関設計
   boardType: string[];
   // 役員構成
-  hasRepChair: "" | "true" | "false";   // 代表取締役会長
+  execRole: "" | "chair" | "president" | "rep_chair" | "rep_president"; // 役職種別
+  execHas:  "" | "true" | "false";                                       // あり/なし
   outsideTenureMin: number | null;       // 社外取締役の最長在任 N 年以上の候補者あり
   boardChairType: "" | "outside" | "inside"; // 取締役会議長が社外独立/社内
   hasFemaleOutside: "" | "true" | "false";   // 女性社外取締役
@@ -38,14 +39,14 @@ interface Preset {
 
 const PRESETS: Preset[] = [
   {
-    label: "代表会長あり",
-    hint: "代表取締役会長が存在する企業（権限集中リスク）",
-    patch: { hasRepChair: "true" },
+    label: "代表取締役会長あり",
+    hint: "代表権付き会長が存在する企業（権限集中リスク）",
+    patch: { execRole: "rep_chair", execHas: "true" },
   },
   {
     label: "代表会長+低ROE",
     hint: "代表取締役会長あり かつ ROE3期連続5%未満（責任取締役仮説）",
-    patch: { hasRepChair: "true", roeMax: 5, roePeriods: 3 },
+    patch: { execRole: "rep_chair", execHas: "true", roeMax: 5, roePeriods: 3 },
   },
   {
     label: "社外在任12年超",
@@ -83,7 +84,7 @@ const EMPTY: ScreenerFilters = {
   roeMax: null, roePeriods: null,
   indepMin: null, indepMax: null, femaleMin: null,
   boardType: [],
-  hasRepChair: "", outsideTenureMin: null, boardChairType: "", hasFemaleOutside: "",
+  execRole: "", execHas: "", outsideTenureMin: null, boardChairType: "", hasFemaleOutside: "",
   investor: "",
 };
 
@@ -105,7 +106,8 @@ function filtersToParams(f: ScreenerFilters): URLSearchParams {
   if (f.roeMax != null) p.set("roe_max", String(f.roeMax));
   if (f.roePeriods != null) p.set("roe_periods", String(f.roePeriods));
   if (f.boardType.length > 0) p.set("board_type", f.boardType.join(","));
-  if (f.hasRepChair) p.set("has_rep_chair", f.hasRepChair);
+  if (f.execRole) p.set("exec_role", f.execRole);
+  if (f.execHas)  p.set("exec_has",  f.execHas);
   if (f.outsideTenureMin != null) p.set("outside_tenure_min", String(f.outsideTenureMin));
   if (f.boardChairType) p.set("board_chair_type", f.boardChairType);
   if (f.hasFemaleOutside) p.set("has_female_outside", f.hasFemaleOutside);
@@ -324,21 +326,39 @@ export function ScreenerFilterForm({ investors, currentFilters }: Props) {
         <p className="mb-3 text-xs font-semibold text-slate-500">役員構成フィルター</p>
         <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
 
-          {/* 代表取締役会長 */}
+          {/* 役職種別フィルター（2段） */}
           <div>
             <label className="mb-1.5 block text-xs font-semibold text-slate-600">
-              代表取締役会長
+              役職（役員の在任）
             </label>
             <select
-              value={filters.hasRepChair}
-              onChange={e => setFilters(f => ({ ...f, hasRepChair: e.target.value as ScreenerFilters["hasRepChair"] }))}
+              value={filters.execRole}
+              onChange={e => setFilters(f => ({ ...f, execRole: e.target.value as ScreenerFilters["execRole"] }))}
               className="w-full rounded border px-2 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-300"
             >
-              <option value="">問わず</option>
+              <option value="">役職種別を選択</option>
+              <option value="chair">会長（代表権有無問わず）</option>
+              <option value="rep_chair">代表取締役会長</option>
+              <option value="president">社長（代表権有無問わず）</option>
+              <option value="rep_president">代表取締役社長</option>
+            </select>
+            <select
+              value={filters.execHas}
+              onChange={e => setFilters(f => ({ ...f, execHas: e.target.value as ScreenerFilters["execHas"] }))}
+              disabled={!filters.execRole}
+              className="mt-1.5 w-full rounded border px-2 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-300 disabled:bg-slate-50 disabled:text-slate-400"
+            >
+              <option value="">あり/なし 選択</option>
               <option value="true">あり</option>
               <option value="false">なし</option>
             </select>
-            <p className="mt-1 text-[10px] text-slate-400">代表権付き会長の在任</p>
+            <p className="mt-1 text-[10px] text-slate-400">
+              {filters.execRole === "chair" && "is_chair が true の取締役"}
+              {filters.execRole === "rep_chair" && "会長 かつ 代表取締役"}
+              {filters.execRole === "president" && "is_president が true の取締役"}
+              {filters.execRole === "rep_president" && "社長 かつ 代表取締役"}
+              {!filters.execRole && "役職種別を先に選択してください"}
+            </p>
           </div>
 
           {/* 社外取締役 在任期間 */}

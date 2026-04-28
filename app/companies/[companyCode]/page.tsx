@@ -569,25 +569,61 @@ export default async function CompanyPage({ params, searchParams }: Props) {
                     <p className="font-semibold">{director.name}</p>
                     <p className="text-sm leading-5 text-slate-500">{director.current_title}</p>
                   </div>
-                  {director.source_url && (
-                    <a href={director.source_url} target="_blank" rel="noreferrer" className="shrink-0 text-xs text-blue-600 hover:underline">
-                      招集通知
-                    </a>
+                  {director.source_url && !director.source_url.includes("example.com") && (
+                    director.source_url.toLowerCase().endsWith(".pdf") ? (
+                      <a href={director.source_url} target="_blank" rel="noreferrer"
+                        className="shrink-0 rounded border border-blue-200 bg-blue-50 px-1.5 py-0.5 text-[10px] font-medium text-blue-700 hover:bg-blue-100">
+                        📄 招集通知
+                      </a>
+                    ) : (
+                      <a href={director.source_url} target="_blank" rel="noreferrer"
+                        className="shrink-0 rounded border border-slate-200 bg-slate-50 px-1.5 py-0.5 text-[10px] font-medium text-slate-500 hover:bg-slate-100">
+                        🔗 IRページ
+                      </a>
+                    )
                   )}
                 </div>
                 <div className="mt-2 flex flex-wrap gap-1 text-xs">
-                  {director.is_inside_director && !director.is_outside_director && <span className="rounded bg-slate-100 px-2 py-0.5 text-slate-700">社内</span>}
-                  {director.is_outside_director && <span className="rounded bg-blue-50 px-2 py-0.5 text-blue-700">社外</span>}
-                  {director.is_independent && <span className="rounded bg-green-50 px-2 py-0.5 text-green-700">独立</span>}
-                  {director.is_president && <span className="rounded bg-slate-100 px-2 py-0.5">社長</span>}
-                  {director.is_ceo && <span className="rounded bg-slate-100 px-2 py-0.5">CEO</span>}
-                  {director.has_representative_authority && !director.is_president && !director.is_ceo && <span className="rounded bg-slate-100 px-2 py-0.5">代表権あり</span>}
-                  {director.is_board_chair && <span className="rounded bg-purple-50 px-2 py-0.5 text-purple-700">取締役会議長</span>}
-                  {director.is_female && <span className="rounded bg-rose-50 px-2 py-0.5 text-rose-700">女性</span>}
+                  {/* 役職 */}
+                  {director.is_president && (
+                    <span className="rounded border border-rose-200 bg-rose-100 px-2 py-0.5 font-medium text-rose-700">社長</span>
+                  )}
+                  {(director.is_chair ?? false) && (
+                    <span className="rounded border border-purple-200 bg-purple-100 px-2 py-0.5 font-medium text-purple-700">会長</span>
+                  )}
+                  {(director.is_ceo ?? false) && (
+                    <span className="rounded border border-slate-200 bg-slate-100 px-2 py-0.5 text-slate-700">CEO</span>
+                  )}
+                  {/* 代表権 */}
+                  {director.has_representative_authority && (
+                    <span className="rounded border border-amber-200 bg-amber-100 px-2 py-0.5 font-medium text-amber-700">代表取締役</span>
+                  )}
+                  {/* 社外・独立 */}
+                  {director.is_outside_director && (
+                    <span className="rounded border border-sky-200 bg-sky-100 px-2 py-0.5 text-sky-700">社外</span>
+                  )}
+                  {(director.is_independent ?? director.is_outside_director) && director.is_outside_director && (
+                    <span className="rounded border border-green-200 bg-green-50 px-2 py-0.5 text-green-700">独立</span>
+                  )}
+                  {!director.is_outside_director && !(director.is_chair ?? false) && !director.is_president && !(director.is_ceo ?? false) && (
+                    <span className="rounded border border-slate-200 bg-slate-50 px-2 py-0.5 text-slate-600">社内</span>
+                  )}
+                  {/* 委員会 */}
+                  {director.is_board_chair && (
+                    <span className="rounded border border-indigo-200 bg-indigo-50 px-2 py-0.5 text-indigo-700">取締役会議長</span>
+                  )}
+                  {(director.is_nominating_committee_chair ?? false) && (
+                    <span className="rounded border border-violet-200 bg-violet-50 px-2 py-0.5 text-violet-700">指名委員長</span>
+                  )}
+                  {/* 性別 */}
+                  {director.is_female && (
+                    <span className="rounded border border-pink-200 bg-pink-50 px-2 py-0.5 text-pink-700">女性</span>
+                  )}
                 </div>
                 <div className="mt-2 space-y-0.5 text-xs text-slate-500">
                   <p>
-                    在任: 現在{director.tenure_years_before_meeting ?? "-"}年 / 再任後{director.tenure_years_after_reelection ?? "-"}年
+                    在任: 現在{director.tenure_years_before_meeting ?? (director as unknown as Record<string,unknown>)["tenure_years"] ?? "-"}年
+                    {director.tenure_years_after_reelection != null ? ` / 再任後${director.tenure_years_after_reelection}年` : ""}
                   </p>
                   <p>
                     出席率: {director.board_attendance_rate != null ? `${director.board_attendance_rate}%` : "未登録"}
