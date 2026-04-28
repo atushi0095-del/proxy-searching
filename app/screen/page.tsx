@@ -10,7 +10,7 @@ import {
 import { runJudgment, issueLabels } from "@/lib/inference";
 import { ScreenerFilterForm } from "@/components/ScreenerFilterForm";
 import { ScreenerResultTable } from "@/components/ScreenerResultTable";
-import type { CompanyTableRow, InvestorDetailRow } from "@/components/ScreenerResultTable";
+import type { CompanyTableRow, InvestorDetailRow, DirectorSummary } from "@/components/ScreenerResultTable";
 import type { CompanyGovernanceMetric, InvestorJudgment, IssueType, OppositionLevel } from "@/lib/types";
 
 // ────────────────────────────────────────────────
@@ -166,29 +166,61 @@ function buildActualSummary(
   };
 }
 
+const levelBadgeCls: Record<OppositionLevel, string> = {
+  High: "bg-red-100 text-red-700",
+  "Medium-High": "bg-orange-100 text-orange-700",
+  Medium: "bg-yellow-100 text-yellow-700",
+  Low: "bg-gray-100 text-gray-600",
+  "Not likely": "bg-green-50 text-green-700",
+};
+
 function buildEstimatedSummary(
   judgment: InvestorJudgment | undefined,
-): { level: OppositionLevel; summary: string; directors: string[] } {
+): { level: OppositionLevel; summary: string; opposition_directors: DirectorSummary[] } {
   if (!judgment || judgment.opposition_candidates.length === 0) {
-    return { level: "Not likely", summary: "推定データなし", directors: [] };
+    return { level: "Not likely", summary: "推定データなし", opposition_directors: [] };
   }
   const topLevel = judgment.opposition_candidates.reduce<OppositionLevel>(
     (max, c) => (LEVEL_ORDER[c.overall_level] > LEVEL_ORDER[max] ? c.overall_level : max),
     "Not likely",
   );
   if (LEVEL_ORDER[topLevel] === 0) {
-    return { level: "Not likely", summary: "反対推定なし", directors: [] };
+    return { level: "Not likely", summary: "反対推定なし", opposition_directors: [] };
   }
   const issue = topOpposedIssue(judgment);
   const issueLabel = issue ? issueLabels[issue] : "";
-  const directors = judgment.opposition_candidates
-    .filter(c => LEVEL_ORDER[c.overall_level] >= 2)
-    .slice(0, 3)
-    .map(c => c.director.name);
+
+  // Build director summaries for Level >= Low (show all candidates with any flag)
+  const opposition_directors: DirectorSummary[] = judgment.opposition_candidates
+    .filter(c => LEVEL_ORDER[c.overall_level] >= 1)
+    .slice(0, 6)
+    .map(c => {
+      const dir = c.director;
+      const iss_labels = c.issue_scores
+        .filter(s => LEVEL_ORDER[s.level] >= 1)
+        .sort((a, b) => LEVEL_ORDER[b.level] - LEVEL_ORDER[a.level])
+        .slice(0, 2)
+        .map(s => s.issue_label);
+      return {
+        name: dir.name,
+        is_president: dir.is_president,
+        is_chair: dir.is_chair,
+        is_outside_director: dir.is_outside_director,
+        is_female: dir.is_female,
+        has_representative_authority: dir.has_representative_authority,
+        is_board_chair: dir.is_board_chair,
+        is_nomination_committee_chair: dir.is_nominating_committee_chair,
+        tenure_years: dir.tenure_years_before_meeting ?? null,
+        level: c.overall_level,
+        level_badge_class: levelBadgeCls[c.overall_level],
+        issue_labels: iss_labels,
+      };
+    });
+
   return {
     level: topLevel,
     summary: `${topLevel}${issueLabel ? `（${issueLabel}）` : ""}`,
-    directors,
+    opposition_directors,
   };
 }
 
@@ -321,7 +353,7 @@ export default async function ScreenPage({ searchParams }: Params) {
         actual_reasons: actual.reasons,
         estimated_level: estimated.level,
         estimated_summary: estimated.summary,
-        estimated_directors: estimated.directors,
+        opposition_directors: estimated.opposition_directors,
         company_detail_href: `/companies/${c.company_code}?year=${YEAR}&investor=${inv.investor_id}`,
       };
     });
@@ -413,7 +445,7 @@ export default async function ScreenPage({ searchParams }: Params) {
           company_name: row.company_name,
           level: lvl,
           issue: judgment ? topOpposedIssue(judgment) : null,
-          directors: detail.estimated_directors,
+          directors: detail.opposition_directors.slice(0, 3).map(d => d.name),
         });
       }
       return { investor: inv, items };
