@@ -10,7 +10,7 @@ type OppositionFocusCompany = {
   issues: Record<string, number>;
 };
 
-const focusCompanies = oppositionFocus.companies as OppositionFocusCompany[];
+const focusCompanies = oppositionFocus.companies as unknown as OppositionFocusCompany[];
 
 export default function SettingsPage() {
   return (

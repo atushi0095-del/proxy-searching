@@ -25,6 +25,9 @@ export default function RootLayout({
               <a className="hover:text-slate-950" href="/">
                 企業検索
               </a>
+              <a className="hover:text-slate-950" href="/screen">
+                スクリーニング
+              </a>
               <SettingsMenu />
             </nav>
           </div>
