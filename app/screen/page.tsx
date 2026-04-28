@@ -4,6 +4,7 @@ import Link from "next/link";
 import {
   companies,
   companyGovernanceMetrics,
+  directors as allDirectors,
   financialMetrics,
   investors,
 } from "@/lib/data";
@@ -25,6 +26,12 @@ interface Params {
     roe_max?: string;
     roe_periods?: string;
     board_type?: string;
+    // 役員構成
+    has_rep_chair?: string;        // "true" | "false"
+    outside_tenure_min?: string;   // 数値（年）
+    board_chair_type?: string;     // "outside" | "inside"
+    has_female_outside?: string;   // "true" | "false"
+    // UI
     investor?: string;
     view?: string;
   }>;
@@ -254,15 +261,86 @@ export default async function ScreenPage({ searchParams }: Params) {
   const roeMax = sp.roe_max !== undefined ? Number(sp.roe_max) : null;
   const roePeriods = sp.roe_periods ? Number(sp.roe_periods) : null;
   const boardTypeFilter = sp.board_type ? sp.board_type.split(",") : [];
+  // 役員構成フィルター
+  const hasRepChairFilter = sp.has_rep_chair ?? "";        // "true" | "false" | ""
+  const outsideTenureMin  = sp.outside_tenure_min ? Number(sp.outside_tenure_min) : null;
+  const boardChairType    = sp.board_chair_type ?? "";     // "outside" | "inside" | ""
+  const hasFemaleOutside  = sp.has_female_outside ?? "";   // "true" | "false" | ""
   const investorFilter = sp.investor ?? "";
   const view = sp.view === "investor" ? "investor" : "company";
 
   const hasFilter =
-    indepMin !== null ||
-    indepMax !== null ||
-    femaleMin !== null ||
-    roeMax !== null ||
-    boardTypeFilter.length > 0;
+    indepMin !== null || indepMax !== null || femaleMin !== null ||
+    roeMax !== null || boardTypeFilter.length > 0 ||
+    hasRepChairFilter !== "" || outsideTenureMin !== null ||
+    boardChairType !== "" || hasFemaleOutside !== "";
+
+  // ── 役員辞書: company_code → Director[] ──
+  // tenure を統一: tenure_years_before_meeting があればそれを使い、
+  // なければ seed スクリプトが書いた tenure_years を参照
+  type DirectorLike = {
+    company_code: string;
+    meeting_year: number;
+    is_chair: boolean;
+    has_representative_authority: boolean;
+    is_outside_director: boolean;
+    is_female: boolean;
+    is_board_chair: boolean;
+    tenure_years_before_meeting?: number;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    [k: string]: any;
+  };
+  const dirMap = new Map<string, DirectorLike[]>();
+  for (const d of allDirectors as DirectorLike[]) {
+    const arr = dirMap.get(d.company_code) ?? [];
+    arr.push(d);
+    dirMap.set(d.company_code, arr);
+  }
+
+  function dirTenure(d: DirectorLike): number {
+    return d.tenure_years_before_meeting ?? (d as { tenure_years?: number }).tenure_years ?? 0;
+  }
+
+  function passesDirectorFilters(code: string): boolean {
+    const dirs = dirMap.get(code);
+    // 役員データが全くない場合: 役員構成フィルターが掛かっているときはスキップ
+    const hasDirectorFilter =
+      hasRepChairFilter !== "" || outsideTenureMin !== null ||
+      boardChairType !== "" || hasFemaleOutside !== "";
+    if (!dirs || dirs.length === 0) return !hasDirectorFilter;
+
+    // 代表取締役会長
+    if (hasRepChairFilter !== "") {
+      const has = dirs.some(d => d.is_chair && d.has_representative_authority);
+      if (hasRepChairFilter === "true" && !has) return false;
+      if (hasRepChairFilter === "false" && has) return false;
+    }
+
+    // 社外取締役在任期間
+    if (outsideTenureMin !== null) {
+      const has = dirs.some(d => d.is_outside_director && dirTenure(d) >= outsideTenureMin);
+      if (!has) return false;
+    }
+
+    // 取締役会議長の属性
+    if (boardChairType !== "") {
+      const chairs = dirs.filter(d => d.is_board_chair);
+      if (boardChairType === "outside") {
+        if (!chairs.some(d => d.is_outside_director)) return false;
+      } else if (boardChairType === "inside") {
+        if (!chairs.some(d => !d.is_outside_director)) return false;
+      }
+    }
+
+    // 女性社外取締役
+    if (hasFemaleOutside !== "") {
+      const has = dirs.some(d => d.is_outside_director && d.is_female);
+      if (hasFemaleOutside === "true" && !has) return false;
+      if (hasFemaleOutside === "false" && has) return false;
+    }
+
+    return true;
+  }
 
   // ── ガバナンス辞書 ──
   const govMap = new Map<string, CompanyGovernanceMetric>();
@@ -287,16 +365,19 @@ export default async function ScreenPage({ searchParams }: Params) {
     const bt = gov ? inferBoardType(gov) : "audit";
     const roe = latestROE(c.company_code);
 
-    // フィルター適用
+    // ── ガバナンス比率フィルター ──
+    const govFilterActive =
+      indepMin !== null || indepMax !== null || femaleMin !== null || boardTypeFilter.length > 0;
     if (gov) {
       if (indepMin !== null && gov.independent_director_ratio < indepMin) continue;
       if (indepMax !== null && gov.independent_director_ratio > indepMax) continue;
       if (femaleMin !== null && gov.female_director_ratio < femaleMin) continue;
       if (boardTypeFilter.length > 0 && !boardTypeFilter.includes(bt)) continue;
-    } else if (hasFilter) {
-      continue;
+    } else if (govFilterActive) {
+      continue; // ガバナンスデータなし & 比率フィルターあり
     }
 
+    // ── ROE フィルター ──
     if (roeMax !== null) {
       if (roe === null) continue;
       if (roePeriods != null && roePeriods >= 2) {
@@ -305,6 +386,9 @@ export default async function ScreenPage({ searchParams }: Params) {
         if (roe > roeMax) continue;
       }
     }
+
+    // ── 役員構成フィルター ──
+    if (!passesDirectorFilters(c.company_code)) continue;
 
     // 判定実行
     const judgments = targetInvestors
@@ -419,6 +503,10 @@ export default async function ScreenPage({ searchParams }: Params) {
     roeMax,
     roePeriods,
     boardType: boardTypeFilter,
+    hasRepChair: hasRepChairFilter as "" | "true" | "false",
+    outsideTenureMin,
+    boardChairType: boardChairType as "" | "outside" | "inside",
+    hasFemaleOutside: hasFemaleOutside as "" | "true" | "false",
     investor: investorFilter,
   };
 
