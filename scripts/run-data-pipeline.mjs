@@ -102,6 +102,18 @@ const steps = [
     args: []
   },
   {
+    // 反対実績データから証券コードを抽出し company_universe.json へ自動登録
+    name: "sync-companies-from-votes",
+    script: "scripts/sync-companies-from-votes.mjs",
+    args: []
+  },
+  {
+    // company_universe の新規追加企業を companies.json / document_sources.json へ同期
+    name: "sync-company-universe-post-vote",
+    script: "scripts/sync-company-universe.mjs",
+    args: []
+  },
+  {
     name: "build-investor-opposition-records",
     script: "scripts/build-investor-opposition-records.mjs",
     args: []

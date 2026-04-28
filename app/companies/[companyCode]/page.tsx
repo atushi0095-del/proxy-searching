@@ -13,6 +13,7 @@ import { runJudgment, issueLabels } from "@/lib/inference";
 import { ExportButton } from "@/components/ExportButton";
 import { InvestorSelect } from "@/components/InvestorSelect";
 import type { InvestorJudgment, IssueAssessment, IssueType, OppositionLevel, VoteResult } from "@/lib/types";
+import oppositionFocusRaw from "@/data/generated/opposition_focus_companies.json";
 
 interface Props {
   params: Promise<{ companyCode: string }>;
@@ -389,6 +390,13 @@ function InvestorPanel({ judgment, voteView }: { judgment: InvestorJudgment; vot
   );
 }
 
+// ── 実際の反対事例データ（opposition_focus_companies.json より）
+type FocusExample = { investor_id: string; issue_type: string; meeting_date: string; proposal_type: string; reason: string; source_url: string };
+type FocusCompany = { company_code: string; company_name: string; against_count: number; for_count?: number; investors: Record<string, { against: number; for: number } | number>; issues: Record<string, number>; recent_against?: FocusExample[]; recent_examples?: FocusExample[] };
+const focusMap = new Map<string, FocusCompany>(
+  ((oppositionFocusRaw as unknown as { companies: FocusCompany[] }).companies ?? []).map(c => [c.company_code, c])
+);
+
 export default async function CompanyPage({ params, searchParams }: Props) {
   const { companyCode } = await params;
   const { year, investor, voteView: rawVoteView } = await searchParams;
@@ -399,6 +407,9 @@ export default async function CompanyPage({ params, searchParams }: Props) {
       : "opposition";
   const company = getCompany(companyCode)!;
   if (!company) notFound();
+
+  // 実際の反対事例
+  const focusData = focusMap.get(companyCode) ?? null;
 
   const directorList = getDirectors(companyCode, meetingYear);
   const metrics = getFinancialMetrics(companyCode).filter((metric) => metric.fiscal_year <= meetingYear);
@@ -706,6 +717,82 @@ export default async function CompanyPage({ params, searchParams }: Props) {
           <p className="mt-3 text-xs text-slate-400">
             ※ 論点バッジをクリックすると、その基準の企業横断ビューへ移動します。
           </p>
+        </section>
+      )}
+
+      {/* ── 実際の行使実績（opposition_focus_companies.json より） */}
+      {focusData && (
+        <section className="rounded-xl border bg-white p-5 shadow-sm">
+          <div className="mb-3 flex flex-wrap items-center gap-3">
+            <h2 className="font-bold text-slate-800">📋 実際の行使実績（複数投資家）</h2>
+            <span className="rounded bg-red-50 px-2 py-0.5 text-xs font-medium text-red-700">反対 {focusData.against_count}件</span>
+            {focusData.for_count != null && focusData.for_count > 0 && (
+              <span className="rounded bg-green-50 px-2 py-0.5 text-xs font-medium text-green-700">賛成 {focusData.for_count}件</span>
+            )}
+            <span className="ml-auto text-xs text-slate-400">週次自動更新</span>
+          </div>
+
+          {/* 投資家別内訳 */}
+          <div className="mb-3 flex flex-wrap gap-2">
+            {Object.entries(focusData.investors).map(([invId, counts]) => {
+              const against = typeof counts === "number" ? counts : counts.against;
+              const forCount = typeof counts === "number" ? 0 : counts.for;
+              const inv = investors.find(i => i.investor_id === invId);
+              return (
+                <Link
+                  key={invId}
+                  href={`/companies/${companyCode}?year=${meetingYear}&investor=${invId}`}
+                  className="flex items-center gap-1.5 rounded border bg-slate-50 px-2.5 py-1.5 text-xs hover:border-blue-300 hover:bg-blue-50"
+                >
+                  <span className="font-medium text-slate-700">{inv?.investor_name ?? invId}</span>
+                  <span className="rounded bg-red-100 px-1.5 py-0.5 text-red-700">反対{against}</span>
+                  {forCount > 0 && <span className="rounded bg-green-100 px-1.5 py-0.5 text-green-700">賛成{forCount}</span>}
+                </Link>
+              );
+            })}
+          </div>
+
+          {/* 論点内訳 */}
+          {Object.keys(focusData.issues).length > 0 && (
+            <div className="mb-3 flex flex-wrap gap-1.5">
+              {Object.entries(focusData.issues).sort((a, b) => b[1] - a[1]).map(([issue, count]) => (
+                <Link
+                  key={issue}
+                  href={`/issues/${issue}`}
+                  className="rounded border border-orange-200 bg-orange-50 px-2 py-0.5 text-xs text-orange-700 hover:border-orange-300"
+                >
+                  {issueLabels[issue as IssueType] ?? issue} <span className="font-semibold">{count}</span>
+                </Link>
+              ))}
+            </div>
+          )}
+
+          {/* 直近の反対事例 */}
+          {(focusData.recent_against ?? focusData.recent_examples ?? []).length > 0 && (
+            <div className="rounded border bg-slate-50 p-3">
+              <p className="mb-2 text-xs font-semibold text-slate-500">直近の反対事例</p>
+              <div className="space-y-2">
+                {(focusData.recent_against ?? focusData.recent_examples ?? []).map((ex, i) => {
+                  const inv = investors.find(inv => inv.investor_id === ex.investor_id);
+                  return (
+                    <div key={i} className="flex flex-col gap-0.5 border-b pb-2 last:border-0 last:pb-0">
+                      <div className="flex flex-wrap items-center gap-1.5">
+                        <span className="rounded bg-slate-200 px-1.5 py-0.5 text-[10px] text-slate-600">
+                          {inv?.investor_name ?? ex.investor_id}
+                        </span>
+                        <span className="rounded bg-orange-100 px-1.5 py-0.5 text-[10px] text-orange-700">
+                          {issueLabels[ex.issue_type as IssueType] ?? ex.issue_type}
+                        </span>
+                        <span className="text-[10px] text-slate-400">{ex.meeting_date}</span>
+                        <span className="text-[10px] text-slate-400">{ex.proposal_type}</span>
+                      </div>
+                      {ex.reason && <p className="text-xs text-slate-600">{ex.reason}</p>}
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          )}
         </section>
       )}
 

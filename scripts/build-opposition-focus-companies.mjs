@@ -10,11 +10,13 @@ const CASE_FILES = [
   "nomura_am_vote_cases.json",
   "resona_am_vote_cases.json",
   "daiwa_am_vote_cases.json",
+  "blackrock_vote_cases.json",
+  "amova_am_vote_cases.json",
+  "mufg_am_vote_cases.json",
+  "nissay_am_vote_cases.json",
+  "sumitomo_mitsui_trust_am_vote_cases.json",
+  "fidelity_japan_vote_cases.json",
 ];
-
-function addCount(map, key, amount = 1) {
-  map.set(key, (map.get(key) ?? 0) + amount);
-}
 
 function normalizeExample(example) {
   return {
@@ -29,6 +31,25 @@ function normalizeExample(example) {
   };
 }
 
+function ensureCompany(companies, key, code, name) {
+  if (!companies.has(key)) {
+    companies.set(key, {
+      company_code: code,
+      company_name: name,
+      against_count: 0,
+      for_count: 0,        // 賛成票数も記録
+      abstain_count: 0,    // 棄権
+      investors: {},       // investor_id → { against, for }
+      issues: {},          // issue_type → against count
+      recent_against: [],  // 直近の反対事例（最大8件）
+    });
+  }
+  const c = companies.get(key);
+  c.company_code ||= code;
+  c.company_name ||= name;
+  return c;
+}
+
 const companies = new Map();
 
 for (const fileName of CASE_FILES) {
@@ -40,46 +61,91 @@ for (const fileName of CASE_FILES) {
     continue;
   }
 
+  const investorId = parsed.investor_id ?? fileName.replace("_vote_cases.json", "");
+
   for (const issue of parsed.issues ?? []) {
     const issueType = issue.issue_type ?? "unknown";
+
+    // ── 反対事例
     for (const rawExample of issue.against_examples ?? []) {
-      const example = normalizeExample(rawExample);
-      if (!example.company_code && !example.company_name) continue;
+      const e = normalizeExample(rawExample);
+      if (!e.company_code && !e.company_name) continue;
+      const key = e.company_code || e.company_name;
+      const c = ensureCompany(companies, key, e.company_code, e.company_name);
 
-      const key = example.company_code || example.company_name;
-      if (!companies.has(key)) {
-        companies.set(key, {
-          company_code: example.company_code,
-          company_name: example.company_name,
-          against_count: 0,
-          investors: {},
-          issues: {},
-          recent_examples: [],
-        });
-      }
+      c.against_count += 1;
+      if (!c.investors[investorId]) c.investors[investorId] = { against: 0, for: 0 };
+      c.investors[investorId].against += 1;
+      c.issues[issueType] = (c.issues[issueType] ?? 0) + 1;
 
-      const company = companies.get(key);
-      company.company_code ||= example.company_code;
-      company.company_name ||= example.company_name;
-      company.against_count += 1;
-      company.investors[example.investor_id] = (company.investors[example.investor_id] ?? 0) + 1;
-      company.issues[issueType] = (company.issues[issueType] ?? 0) + 1;
-
-      if (company.recent_examples.length < 5) {
-        company.recent_examples.push({
-          investor_id: example.investor_id,
+      if (c.recent_against.length < 8) {
+        c.recent_against.push({
+          investor_id: investorId,
           issue_type: issueType,
-          meeting_date: example.meeting_date,
-          proposal_type: example.proposal_type,
-          reason: example.reason,
-          source_url: example.source_url,
+          meeting_date: e.meeting_date,
+          proposal_type: e.proposal_type,
+          reason: e.reason,
+          source_url: e.source_url,
         });
       }
+    }
+
+    // ── 賛成事例（件数のみカウント、個別記録は保存しない）
+    for (const rawExample of issue.for_examples ?? []) {
+      const e = normalizeExample(rawExample);
+      if (!e.company_code && !e.company_name) continue;
+      const key = e.company_code || e.company_name;
+      const c = ensureCompany(companies, key, e.company_code, e.company_name);
+
+      c.for_count += 1;
+      if (!c.investors[investorId]) c.investors[investorId] = { against: 0, for: 0 };
+      c.investors[investorId].for += 1;
+    }
+  }
+
+  // ── vote が直接 records 配列になっているフォーマット（BlackRock等）
+  for (const record of parsed.records ?? []) {
+    const e = normalizeExample({ ...record, investor_id: investorId });
+    if (!e.company_code && !e.company_name) continue;
+    const key = e.company_code || e.company_name;
+    const c = ensureCompany(companies, key, e.company_code, e.company_name);
+
+    const vote = e.vote;
+    if (!c.investors[investorId]) c.investors[investorId] = { against: 0, for: 0 };
+
+    if (vote === "反対" || vote === "AGAINST") {
+      c.against_count += 1;
+      c.investors[investorId].against += 1;
+      const issueType = record.issue_type ?? "other";
+      c.issues[issueType] = (c.issues[issueType] ?? 0) + 1;
+      if (c.recent_against.length < 8) {
+        c.recent_against.push({
+          investor_id: investorId,
+          issue_type: issueType,
+          meeting_date: e.meeting_date,
+          proposal_type: e.proposal_type,
+          reason: e.reason,
+          source_url: e.source_url,
+        });
+      }
+    } else if (vote === "賛成" || vote === "FOR") {
+      c.for_count += 1;
+      c.investors[investorId].for += 1;
+    } else if (vote === "棄権" || vote === "ABSTAIN") {
+      c.abstain_count += 1;
     }
   }
 }
 
-const ranking = [...companies.values()].sort((a, b) => b.against_count - a.against_count);
+// 反対件数の多い順にソート
+const ranking = [...companies.values()]
+  .filter(c => c.against_count > 0 || c.for_count > 0)
+  .sort((a, b) => b.against_count - a.against_count);
+
+// ── 賛否比率が計算できる企業を統計
+const totalCompanies = ranking.length;
+const withAgainst = ranking.filter(c => c.against_count > 0).length;
+const withForOnly = ranking.filter(c => c.against_count === 0 && c.for_count > 0).length;
 
 await fs.mkdir(GENERATED_DIR, { recursive: true });
 await fs.writeFile(
@@ -88,9 +154,13 @@ await fs.writeFile(
     {
       generated_at: new Date().toISOString(),
       purpose:
-        "反対された企業を中心に企業FACT・ガバナンス・候補者データを追加収集するための優先リスト。",
-      source_files: CASE_FILES,
-      total_companies: ranking.length,
+        "実際の行使実績がある企業の賛否記録。反対実績を優先表示。企業登録・ガバナンス補完の起点として使用。",
+      source_files: CASE_FILES.filter(f => {
+        try { return true; } catch { return false; }
+      }),
+      total_companies: totalCompanies,
+      with_against: withAgainst,
+      with_for_only: withForOnly,
       companies: ranking,
     },
     null,
@@ -99,4 +169,4 @@ await fs.writeFile(
   "utf8"
 );
 
-console.log(`Built ${path.relative(ROOT, OUTPUT)} with ${ranking.length} companies`);
+console.log(`✅ ${path.relative(ROOT, OUTPUT)}: ${totalCompanies}社（反対あり: ${withAgainst}社、賛成のみ: ${withForOnly}社）`);
