@@ -16,21 +16,29 @@ on:
           - "true"
           - "false"
       edinet_from:
-        description: "Optional EDINET search start date. Example: 2025-06-01. Blank = last 21 days."
+        description: "EDINET 検索開始日。例: 2025-06-01。空白 = 90日前（3月決算は6〜8月提出）"
         required: false
         default: ""
       edinet_to:
-        description: "Optional EDINET search end date. Example: 2025-07-31. Blank = today."
+        description: "EDINET 検索終了日。例: 2025-08-31。空白 = 今日"
         required: false
         default: ""
       edinet_company:
-        description: "Optional securities code for EDINET search. Example: 7203. Blank = all registered companies."
+        description: "特定企業のみ取得する場合の証券コード。例: 7203。空白 = 全登録企業"
         required: false
         default: ""
       edinet_limit:
-        description: "Maximum EDINET annual report filings to keep."
+        description: "今回追加する有価証券報告書の上限件数（マージ済みの既存件数には加算）"
         required: false
-        default: "25"
+        default: "9999"
+      edinet_extract:
+        description: "EDINET XBRL から財務データを抽出して financial_metrics.json を更新するか"
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
   schedule:
     # GitHub cron uses UTC. JST Monday 08:00 = UTC Sunday 23:00.
     # Scheduled runs can be delayed by GitHub. Keep the job bounded for the free tier.
@@ -56,7 +64,8 @@ jobs:
       EDINET_FROM_INPUT: ${{ github.event.inputs.edinet_from || '' }}
       EDINET_TO_INPUT: ${{ github.event.inputs.edinet_to || '' }}
       EDINET_COMPANY_INPUT: ${{ github.event.inputs.edinet_company || '' }}
-      EDINET_LIMIT: ${{ github.event.inputs.edinet_limit || '25' }}
+      EDINET_LIMIT: ${{ github.event.inputs.edinet_limit || '9999' }}
+      EDINET_EXTRACT: ${{ github.event.inputs.edinet_extract || 'true' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -73,13 +82,14 @@ jobs:
       - name: Run compliant public-source collection
         run: npm run collect:data
 
-      - name: Discover recent EDINET annual reports
+      - name: Discover EDINET annual reports (有価証券報告書)
         if: ${{ env.EDINET_API_KEY != '' }}
         run: |
           FROM_DATE="${EDINET_FROM_INPUT}"
           TO_DATE="${EDINET_TO_INPUT}"
+          # デフォルト: 90日前〜今日（3月決算企業は6〜8月提出のため3ヶ月カバー）
           if [ -z "${FROM_DATE}" ]; then
-            FROM_DATE=$(date -u -d "21 days ago" +%F)
+            FROM_DATE=$(date -u -d "90 days ago" +%F)
           fi
           if [ -z "${TO_DATE}" ]; then
             TO_DATE=$(date -u +%F)
@@ -88,11 +98,16 @@ jobs:
           if [ -n "${EDINET_COMPANY_INPUT}" ]; then
             EXTRA_ARGS="--company=${EDINET_COMPANY_INPUT}"
           fi
-          npm run edinet:discover -- --from=${FROM_DATE} --to=${TO_DATE} --limit=${EDINET_LIMIT} --delay=2000 ${EXTRA_ARGS}
+          echo "🔍 EDINET 探索期間: ${FROM_DATE} 〜 ${TO_DATE}"
+          npm run edinet:discover -- --from=${FROM_DATE} --to=${TO_DATE} --limit=${EDINET_LIMIT} --delay=1500 ${EXTRA_ARGS}
 
-      - name: Download recent EDINET documents
-        if: ${{ env.EDINET_API_KEY != '' }}
-        run: npm run edinet:download -- --limit=10 --type=1 --delay=2000
+      - name: Extract financials from EDINET XBRL
+        if: ${{ env.EDINET_API_KEY != '' && env.EDINET_EXTRACT == 'true' }}
+        run: |
+          echo "📊 EDINET XBRL から財務データを抽出します..."
+          npm run edinet:extract-financials -- --delay=2000
+        env:
+          EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
 
       - name: Merge EDINET filing metadata into company sources
         if: ${{ env.EDINET_API_KEY != '' }}

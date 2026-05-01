@@ -32,7 +32,9 @@
     "check:urls": "node scripts/check-source-urls.mjs",
     "edinet:discover": "node scripts/edinet-discover-filings.mjs",
     "edinet:download": "node scripts/edinet-download-documents.mjs",
-    "edinet:merge-sources": "node scripts/merge-edinet-filings-into-sources.mjs"
+    "edinet:merge-sources": "node scripts/merge-edinet-filings-into-sources.mjs",
+    "edinet:extract-financials": "node scripts/edinet-extract-financials.mjs",
+    "seed:companies": "node scripts/seed-companies-from-jpx.mjs"
   },
   "dependencies": {
     "next": "16.2.4",
@@ -47,6 +49,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "yahoo-finance2": "^3.14.0"
   }
 }
