@@ -65,13 +65,106 @@ function issueLabel(issue: string) {
   return issueLabels[issue] ?? issue;
 }
 
-function meetingYearFrom(value: string) {
+/**
+ * 総会年を取得: meeting_date → なければ proposal_type の先頭8桁から
+ */
+function meetingYearFrom(value: string, proposalType?: string): string {
   const match = String(value ?? "").match(/(\d{4})/);
-  return match ? match[1] : "2025";
+  if (match) return match[1];
+  if (proposalType) {
+    const m2 = String(proposalType).match(/^(\d{4})/);
+    if (m2) return m2[1];
+  }
+  return "2025";
+}
+
+/**
+ * 総会日を整形: 定時プレフィックス除去、臨時バッジ用フラグ返却
+ * meeting_date が空の場合は proposal_type の先頭8桁を使用
+ */
+function formatMeetingDate(meetingDate: string, proposalType?: string): { date: string; isExtraordinary: boolean } {
+  let s = String(meetingDate ?? "");
+  // meeting_date が空 or 8桁数字なしなら proposal_type から取得
+  if (!s || !/\d{8}/.test(s)) {
+    const m = String(proposalType ?? "").match(/^(\d{8})/);
+    if (m) s = m[1];
+  }
+  const isExtraordinary = s.startsWith("臨時");
+  const stripped = s.replace(/^(定時|臨時)/, "");
+  const formatted = stripped.replace(/^(\d{4})(\d{2})(\d{2})$/, "$1/$2/$3");
+  return { date: formatted || "-", isExtraordinary };
+}
+
+/**
+ * proposal_type から先頭の8桁日付を除去して議案種別だけ返す
+ * "20250826会社取締役の選解任" → "取締役の選解任"
+ */
+function cleanProposalType(proposalType: string): string {
+  return (proposalType ?? "").replace(/^\d{8}/, "").replace(/^会社/, "").trim();
+}
+
+/**
+ * 議案番号と理由テキストを取得
+ * ① resolution_number / proposal_number がある場合 → そのまま使う
+ * ② ない場合 → reason の先頭数字（例: "3.13分の1..." → 議案番号3.13・理由"分の1..."）を分離
+ */
+function extractProposalAndReason(record: OppositionRecord): {
+  proposalLabel: string;
+  cleanReason: string;
+} {
+  const base = record.resolution_number || record.proposal_number;
+  if (base) {
+    const cand = record.candidate_number;
+    return {
+      proposalLabel: cand ? `議案${base}-${cand}` : `議案${base}`,
+      cleanReason: record.reason ?? "",
+    };
+  }
+  // reason 先頭の数字を議案番号として抽出
+  const m = (record.reason ?? "").match(/^([\d]+(?:\.[\d]+)?)([\s\S]*)/);
+  if (m) {
+    return { proposalLabel: `議案${m[1]}`, cleanReason: m[2].trim() };
+  }
+  return { proposalLabel: "", cleanReason: record.reason ?? "" };
+}
+
+/** 候補者肩書からバッジ色を決定 */
+function titleBadgeClass(title: string): string {
+  if (/社長/.test(title) && !/副社長/.test(title)) return "bg-red-100 text-red-800";
+  if (/代表取締役会長|代表会長/.test(title)) return "bg-orange-100 text-orange-800";
+  if (/会長/.test(title)) return "bg-orange-50 text-orange-700";
+  if (/専務/.test(title)) return "bg-amber-100 text-amber-800";
+  if (/常務/.test(title)) return "bg-amber-50 text-amber-700";
+  if (/代表取締役/.test(title)) return "bg-orange-50 text-orange-700";
+  if (/社外取締役|独立/.test(title)) return "bg-blue-50 text-blue-700";
+  if (/監査役/.test(title)) return "bg-yellow-50 text-yellow-700";
+  if (/副社長/.test(title)) return "bg-slate-100 text-slate-700";
+  return "bg-slate-100 text-slate-600";
+}
+
+/** 属性バッジ（男性など不要なものを除外し、色付きで表示） */
+function attrBadgeConfig(attr: string): { color: string } | null {
+  if (attr === "男性") return null; // 表示不要
+  if (/社長|CEO/.test(attr)) return { color: "bg-red-100 text-red-800" };
+  if (/代表取締役会長|代表会長/.test(attr)) return { color: "bg-orange-100 text-orange-800" };
+  if (/代表権/.test(attr)) return { color: "bg-orange-50 text-orange-700" };
+  if (/会長/.test(attr)) return { color: "bg-orange-50 text-orange-700" };
+  if (/専務|常務/.test(attr)) return { color: "bg-amber-100 text-amber-800" };
+  if (/議長/.test(attr)) return { color: "bg-purple-50 text-purple-700" };
+  if (/社外取締役/.test(attr)) return { color: "bg-blue-50 text-blue-700" };
+  if (/社外/.test(attr)) return { color: "bg-blue-50 text-blue-700" };
+  if (/非独立/.test(attr)) return { color: "bg-slate-200 text-slate-600" };
+  if (/独立/.test(attr)) return { color: "bg-green-50 text-green-700" };
+  if (/女性/.test(attr)) return { color: "bg-rose-50 text-rose-700" };
+  if (/社内取締役/.test(attr)) return { color: "bg-slate-100 text-slate-700" };
+  if (/再任後在任|総会前在任|在任/.test(attr)) return { color: "bg-amber-50 text-amber-700" };
+  if (/出席率|取締役会出席|委員会出席/.test(attr)) return { color: "bg-teal-50 text-teal-700" };
+  if (/兼職/.test(attr)) return { color: "bg-slate-100 text-slate-600" };
+  return { color: "bg-slate-100 text-slate-600" };
 }
 
 function companyDetailHref(record: OppositionRecord) {
-  return `/companies/${record.company_code}?year=${meetingYearFrom(record.meeting_date)}`;
+  return `/companies/${record.company_code}?year=${meetingYearFrom(record.meeting_date, record.proposal_type)}`;
 }
 
 function convocationNoticeUrl(record: OppositionRecord) {
@@ -170,7 +263,7 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
   );
 
   const meetingYears = useMemo(
-    () => [...new Set(investorRecords.map((record) => meetingYearFrom(record.meeting_date)))].sort((a, b) => b.localeCompare(a)),
+    () => [...new Set(investorRecords.map((record) => meetingYearFrom(record.meeting_date, record.proposal_type)))].sort((a, b) => b.localeCompare(a)),
     [investorRecords]
   );
 
@@ -190,7 +283,7 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
     for (const record of investorRecords) {
       if (record.issue_type !== "low_roe") continue;
       if (!isAgainstVote(record.vote)) continue;
-      targets.add(`${record.company_code}:${meetingYearFrom(record.meeting_date)}`);
+      targets.add(`${record.company_code}:${meetingYearFrom(record.meeting_date, record.proposal_type)}`);
     }
     return targets;
   }, [investorRecords]);
@@ -199,7 +292,7 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
     const normalizedQuery = query.trim().toLowerCase();
     const rows = investorRecords.filter((record) => {
       const hasReason = record.reason.trim().length > 0;
-      const recordYear = meetingYearFrom(record.meeting_date);
+      const recordYear = meetingYearFrom(record.meeting_date, record.proposal_type);
       const effectiveYear = yearFilter === "latest" ? latestYear : yearFilter;
       const matchesYear = effectiveYear === "all" || recordYear === effectiveYear;
       const matchesVote =
@@ -297,19 +390,6 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
 
   function needsQualityCheck(record: OppositionRecord) {
     return record.vote === "賛成" && record.reason.trim().length > 0;
-  }
-
-  function attrBadgeClass(attr: string): string {
-    if (/社長|CEO/.test(attr)) return "bg-red-50 text-red-700";
-    if (/代表取締役|代表権/.test(attr)) return "bg-orange-50 text-orange-700";
-    if (/会長/.test(attr)) return "bg-orange-50 text-orange-700";
-    if (/議長/.test(attr)) return "bg-purple-50 text-purple-700";
-    if (/社外/.test(attr)) return "bg-blue-50 text-blue-700";
-    if (/独立/.test(attr)) return "bg-green-50 text-green-700";
-    if (/女性/.test(attr)) return "bg-rose-50 text-rose-700";
-    if (/在任/.test(attr)) return "bg-amber-50 text-amber-700";
-    if (/出席/.test(attr)) return "bg-slate-100 text-slate-500";
-    return "bg-slate-100 text-slate-600";
   }
 
   return (
@@ -465,13 +545,18 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
               <th className="px-2 py-2 text-left font-semibold whitespace-nowrap">総会日</th>
               <th className="px-2 py-2 text-left font-semibold">行使</th>
               <th className="px-2 py-2 text-left font-semibold">議案</th>
+              <th className="px-2 py-2 text-left font-semibold">候補者・属性</th>
               <th className="px-2 py-2 text-left font-semibold">推定論点</th>
               <th className="px-2 py-2 text-left font-semibold">理由</th>
               <th className="px-2 py-2 text-left font-semibold">出典</th>
             </tr>
           </thead>
           <tbody>
-            {displayedWithGroups.map(({ record, isGroupStart, isGroupEnd, gIdx }, index) => (
+            {displayedWithGroups.map(({ record, isGroupStart, isGroupEnd, gIdx }, index) => {
+              const { date: meetingDateStr, isExtraordinary } = formatMeetingDate(record.meeting_date, record.proposal_type);
+              const { proposalLabel, cleanReason } = extractProposalAndReason(record);
+              const proposalTypeDisplay = cleanProposalType(record.proposal_type);
+              return (
               <tr
                 key={`${record.investor_id}-${record.company_code}-${record.meeting_date}-${record.proposal_number}-${index}`}
                 className={`align-top ${gIdx % 2 === 0 ? "" : "bg-slate-50/60"} ${isGroupEnd ? "border-b border-slate-200" : ""}`}
@@ -488,7 +573,17 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
                     <span className="text-slate-300 pl-1">↳</span>
                   )}
                 </td>
-                <td className="px-2 py-1.5 text-slate-500 whitespace-nowrap">{isGroupStart ? (record.meeting_date ? record.meeting_date.replace(/(\d{4})(\d{2})(\d{2})/, "$1/$2/$3") : "-") : ""}</td>
+                {/* 総会日: 定時は除去、臨時のみバッジ表示 */}
+                <td className="px-2 py-1.5 text-slate-500 whitespace-nowrap">
+                  {isGroupStart ? (
+                    <>
+                      <p className="text-slate-700">{meetingDateStr}</p>
+                      {isExtraordinary && (
+                        <span className="rounded bg-purple-100 px-1.5 py-0.5 text-[10px] font-semibold text-purple-700">臨時</span>
+                      )}
+                    </>
+                  ) : ""}
+                </td>
                 <td className="px-2 py-1.5">
                   <span className={`rounded px-1.5 py-0.5 font-semibold ${
                     isAgainstVote(record.vote) && record.vote !== "賛成"
@@ -499,23 +594,42 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
                     {record.vote || "-"}
                   </span>
                 </td>
-                <td className="px-2 py-1.5 text-slate-600 max-w-[220px]">
-                  <p className="truncate">{record.proposal_type || "-"}</p>
-                  <p className="text-slate-400">
-                    {record.resolution_number || record.proposal_number ? `議案${record.resolution_number || record.proposal_number}` : ""}
-                    {record.candidate_number ? `-${record.candidate_number}` : ""}
-                  </p>
-                  {record.matched_director_name && (
-                    <p className="mt-0.5 truncate font-medium text-slate-700">{record.matched_director_name}</p>
+                {/* 議案: 種別 + 議案番号を明示 */}
+                <td className="px-2 py-1.5 text-slate-600 max-w-[200px]">
+                  <p className="truncate text-[12px]">{proposalTypeDisplay || "-"}</p>
+                  {proposalLabel && (
+                    <p className="mt-0.5 font-mono text-[11px] font-semibold text-slate-800 bg-slate-100 rounded px-1.5 py-0.5 inline-block">
+                      {proposalLabel}
+                    </p>
                   )}
-                  {record.matched_director_attributes && record.matched_director_attributes.length > 0 && (
-                    <div className="mt-0.5 flex flex-wrap gap-0.5">
-                      {record.matched_director_attributes.map((attr) => (
-                        <span key={attr} className={`rounded px-1 py-px text-[10px] font-medium leading-tight ${attrBadgeClass(attr)}`}>
-                          {attr}
+                </td>
+                {/* 候補者・属性列: 肩書バッジ＋属性バッジ */}
+                <td className="px-2 py-1.5 max-w-[220px]">
+                  {record.matched_director_name ? (
+                    <div className="rounded border border-slate-200 bg-slate-50 px-2 py-1.5">
+                      <p className="font-semibold text-slate-900 text-[12px] leading-5">{record.matched_director_name}</p>
+                      {/* 肩書をバッジで表示 */}
+                      {record.matched_director_title && (
+                        <span className={`mt-0.5 inline-block rounded px-1.5 py-0.5 text-[10px] font-semibold leading-tight ${titleBadgeClass(record.matched_director_title)}`}>
+                          {record.matched_director_title}
                         </span>
-                      ))}
+                      )}
+                      {/* 属性バッジ（男性を除外、重複排除） */}
+                      {(record.matched_director_attributes ?? []).length > 0 && (
+                        <div className="mt-1 flex flex-wrap gap-0.5">
+                          {record.matched_director_attributes!
+                            .map((attr) => ({ attr, cfg: attrBadgeConfig(attr) }))
+                            .filter(({ cfg }) => cfg !== null)
+                            .map(({ attr, cfg }) => (
+                              <span key={attr} className={`rounded px-1.5 py-0.5 text-[10px] font-semibold leading-tight ${cfg!.color}`}>
+                                {attr}
+                              </span>
+                            ))}
+                        </div>
+                      )}
                     </div>
+                  ) : (
+                    <span className="text-slate-300 text-[11px]">未特定</span>
                   )}
                 </td>
                 <td className="px-2 py-1.5 whitespace-nowrap">
@@ -527,7 +641,7 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
                       賛成理由あり・要確認
                     </span>
                   )}
-                  <p className="line-clamp-2 leading-5">{record.reason || <span className="text-slate-400">記載なし</span>}</p>
+                  <p className="line-clamp-2 leading-5">{cleanReason || <span className="text-slate-400">記載なし</span>}</p>
                 </td>
                 <td className="px-2 py-1.5 whitespace-nowrap">
                   {record.source_url ? (
@@ -539,7 +653,8 @@ export function InvestorOppositionTable({ investorId, records }: Props) {
                   )}
                 </td>
               </tr>
-            ))}
+              );
+            })}
           </tbody>
         </table>
       </div>

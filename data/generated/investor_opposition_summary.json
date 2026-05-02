@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-27T07:23:09.275Z",
-  "total_records": 559743,
+  "generated_at": "2026-04-28T22:51:03.433Z",
+  "total_records": 559888,
   "against_by_issue": {
-    "independence_failure": 14724,
+    "independence_failure": 14732,
     "gender_diversity": 2245,
-    "board_independence": 32570,
+    "board_independence": 32676,
     "policy_shareholdings": 1988,
-    "takeover_defense": 1929,
-    "other": 17469,
-    "compensation": 4672,
-    "low_roe": 6870,
+    "takeover_defense": 1930,
+    "other": 17438,
+    "compensation": 4686,
+    "low_roe": 6873,
     "attendance": 266,
-    "shareholder_proposal": 313,
+    "shareholder_proposal": 348,
     "low_tsr": 146,
     "overboarding": 129,
     "tenure": 1655
@@ -37,22 +37,22 @@
       }
     },
     "blackrock": {
-      "total": 3911,
+      "total": 4056,
       "by_vote": {
-        "賛成": 2456,
-        "反対": 1455
+        "賛成": 2465,
+        "反対": 1591
       },
       "by_issue_type": {
-        "board_independence": 1431,
-        "independence_failure": 451,
-        "compensation": 532,
-        "takeover_defense": 310,
-        "low_roe": 387,
-        "shareholder_proposal": 584,
-        "other": 32,
-        "overboarding": 120,
-        "gender_diversity": 23,
-        "attendance": 41
+        "board_independence": 1516,
+        "independence_failure": 463,
+        "compensation": 634,
+        "takeover_defense": 333,
+        "low_roe": 390,
+        "shareholder_proposal": 526,
+        "overboarding": 126,
+        "gender_diversity": 25,
+        "other": 1,
+        "attendance": 42
       }
     },
     "daiwa_am": {

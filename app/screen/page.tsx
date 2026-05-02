@@ -497,8 +497,13 @@ export default async function ScreenPage({ searchParams }: Params) {
     return scoreOf(b) - scoreOf(a);
   });
 
+  // 最大表示件数（パフォーマンス上限）
+  const MAX_DISPLAY_ROWS = 500;
+  const totalMatchedRows = companyRows.length;
+  const displayRows = companyRows.slice(0, MAX_DISPLAY_ROWS);
+
   // 統計
-  const totalOppositionCount = companyRows.reduce(
+  const totalOppositionCount = displayRows.reduce(
     (acc, r) =>
       acc +
       r.investorDetails.filter(d => LEVEL_ORDER[d.estimated_level as OppositionLevel] >= 2)
@@ -531,7 +536,7 @@ export default async function ScreenPage({ searchParams }: Params) {
         issue: IssueType | null;
         directors: string[];
       }[] = [];
-      for (const row of companyRows) {
+      for (const row of displayRows) {
         const detail = row.investorDetails.find(d => d.investor_id === inv.investor_id);
         if (!detail) continue;
         const lvl = detail.estimated_level as OppositionLevel;
@@ -586,7 +591,12 @@ export default async function ScreenPage({ searchParams }: Params) {
       {/* 結果ヘッダー */}
       <div className="flex flex-wrap items-center gap-4">
         <div className="flex gap-4">
-          <span className="text-sm font-bold text-slate-700">{companyRows.length}社 該当</span>
+          <span className="text-sm font-bold text-slate-700">
+            {totalMatchedRows}社 該当
+            {totalMatchedRows > MAX_DISPLAY_ROWS && (
+              <span className="ml-1.5 font-normal text-slate-400">（上位{MAX_DISPLAY_ROWS}社を表示）</span>
+            )}
+          </span>
           <span className="text-sm text-slate-500">
             {totalOppositionCount}件の反対推定（Medium以上）
           </span>
@@ -614,7 +624,7 @@ export default async function ScreenPage({ searchParams }: Params) {
       </div>
 
       {/* ── 企業一覧タブ ── */}
-      {view === "company" && <ScreenerResultTable rows={companyRows} />}
+      {view === "company" && <ScreenerResultTable rows={displayRows} />}
 
       {/* ── 投資家別タブ ── */}
       {view === "investor" && (

@@ -54,14 +54,19 @@ function classifyIssue(reason, proposalType, proposer) {
 }
 
 function columnForX(x) {
+  // Actual PDF column x-coordinates (measured from text samples):
+  //   company_code: ~23, company_name: ~49-130, meeting_type: ~152,
+  //   meeting_date: ~175, proposer: ~195, proposal_type: ~216,
+  //   proposal_number: ~287, vote: ~307 (caught by isVoteText),
+  //   reason: ~320-500, other_vote: ~513+
   if (x < 48) return "company_code";
-  if (x < 180) return "company_name";
-  if (x < 206) return "meeting_type";
-  if (x < 231) return "meeting_date";
-  if (x < 252) return "proposer";
-  if (x < 345) return "proposal_type";
-  if (x < 370) return "proposal_number";
-  if (x < 531) return "reason";
+  if (x < 148) return "company_name";
+  if (x < 170) return "meeting_type";
+  if (x < 192) return "meeting_date";
+  if (x < 212) return "proposer";
+  if (x < 285) return "proposal_type";
+  if (x < 315) return "proposal_number";
+  if (x < 510) return "reason";
   return "other_vote";
 }
 
@@ -188,7 +193,7 @@ async function extractRowsFromPdf(filePath, source) {
 
       if (!current) {
         for (const item of lineItems) {
-          if (item.x >= 370 && item.x < 531) {
+          if (item.x >= 315 && item.x < 510) {
             pendingReason = `${pendingReason}${item.str}`;
           }
         }
@@ -197,9 +202,9 @@ async function extractRowsFromPdf(filePath, source) {
 
       if (!startsNewRow) {
         for (const item of lineItems) {
-          if (item.x >= 370 && item.x < 531) {
+          if (item.x >= 315 && item.x < 510) {
             current.reason = `${current.reason ?? ""}${item.str}`;
-          } else if (item.x >= 531) {
+          } else if (item.x >= 510) {
             current.other_vote = `${current.other_vote ?? ""}${item.str}`;
           }
         }

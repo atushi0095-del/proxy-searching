@@ -493,6 +493,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
   const [tab, setTab] = useState<"list" | "conditions" | "boundary">("list");
   const [draft, setDraft] = useState<SavedCondition>(() => normalizeCondition(null));
   const [conditions, setConditions] = useState<SavedCondition[]>([]);
+  const [showAllCompanyProposals, setShowAllCompanyProposals] = useState(false);
   const [boundaryMetric, setBoundaryMetric] = useState<MetricKey>("roe");
   const [boundaryIssue, setBoundaryIssue] = useState("all");
   const [boundaryVote, setBoundaryVote] = useState<VoteFilter>("all");
@@ -541,6 +542,24 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
     () => investorRecords.filter((record) => matchesCondition(record, financialMetrics, governanceMetrics, directors, roleHistory, draft)),
     [directors, draft, financialMetrics, governanceMetrics, investorRecords, roleHistory]
   );
+
+  // 条件企業の全議案展開用: 条件に該当した企業コード×総会年のセット
+  const previewCompanyKeys = useMemo(
+    () => new Set(previewRows.map((r) => `${r.company_code}:${meetingYear(r)}`)),
+    [previewRows]
+  );
+
+  // 条件該当行のキーセット（視覚的区別用）
+  const previewRowKeys = useMemo(
+    () => new Set(previewRows.map((r) => `${r.company_code}:${r.meeting_date}:${r.proposal_number}`)),
+    [previewRows]
+  );
+
+  // 展開モード時は条件企業の全議案、通常時は条件一致行のみ
+  const analysisRows = useMemo(() => {
+    if (!showAllCompanyProposals) return previewRows;
+    return investorRecords.filter((r) => previewCompanyKeys.has(`${r.company_code}:${meetingYear(r)}`));
+  }, [showAllCompanyProposals, investorRecords, previewRows, previewCompanyKeys]);
 
   const boundaryRows = useMemo(() => {
     const unique = new Map<string, VoteRecord>();
@@ -597,7 +616,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
             </div>
             <button
               type="button"
-              onClick={() => downloadAnalysisCsv(previewRows, investorId, "詳細条件分析")}
+              onClick={() => downloadAnalysisCsv(analysisRows, investorId, showAllCompanyProposals ? "詳細条件分析_全議案展開" : "詳細条件分析")}
               className="rounded border bg-white px-4 py-2 text-sm text-slate-700 shadow-sm hover:bg-slate-50"
             >
               CSV出力
@@ -658,13 +677,41 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
             >
               任期12年満了仮説
             </button>
+            {/* 全議案展開トグル */}
+            <button
+              type="button"
+              onClick={() => setShowAllCompanyProposals((v) => !v)}
+              className={`rounded border px-4 py-2 text-sm transition ${
+                showAllCompanyProposals
+                  ? "border-blue-500 bg-blue-600 text-white"
+                  : "border-slate-300 text-slate-700 hover:bg-slate-50"
+              }`}
+            >
+              {showAllCompanyProposals ? "▼ 条件企業の全議案 表示中" : "▼ 条件企業の全議案を展開"}
+            </button>
           </div>
 
-          <div className="mt-5 grid gap-3 md:grid-cols-4">
-            <div className="rounded bg-slate-50 p-3"><p className="text-xs text-slate-500">該当</p><p className="text-2xl font-bold">{previewRows.length.toLocaleString()}</p></div>
-            <div className="rounded bg-red-50 p-3"><p className="text-xs text-red-700">反対</p><p className="text-2xl font-bold text-red-700">{previewRows.filter((row) => row.vote === "反対").length.toLocaleString()}</p></div>
-            <div className="rounded bg-green-50 p-3"><p className="text-xs text-green-700">賛成</p><p className="text-2xl font-bold text-green-700">{previewRows.filter((row) => row.vote === "賛成").length.toLocaleString()}</p></div>
-            <div className="rounded bg-amber-50 p-3"><p className="text-xs text-amber-700">反対比率</p><p className="text-2xl font-bold text-amber-700">{previewRows.length ? Math.round((previewRows.filter((row) => row.vote === "反対").length / previewRows.length) * 100) : 0}%</p></div>
+          {/* 展開モードバナー */}
+          {showAllCompanyProposals && (
+            <div className="mt-3 rounded-lg border border-blue-200 bg-blue-50 px-4 py-3">
+              <p className="text-sm font-bold text-blue-900">条件企業の全議案を表示中</p>
+              <p className="mt-0.5 text-xs leading-5 text-blue-800">
+                条件に該当した <strong>{previewCompanyKeys.size}社</strong> の全議案（賛否問わず）を表示しています。
+                同一企業で「誰に反対し誰に賛成したか」を横断確認できます。
+                <span className="ml-2 rounded bg-blue-200 px-1.5 py-0.5 text-[11px] text-blue-900 font-semibold">条件該当</span> バッジが条件に一致した行です。
+              </p>
+            </div>
+          )}
+
+          <div className="mt-4 grid gap-3 md:grid-cols-4">
+            <div className="rounded bg-slate-50 p-3">
+              <p className="text-xs text-slate-500">{showAllCompanyProposals ? "表示（全議案）" : "条件該当"}</p>
+              <p className="text-2xl font-bold">{analysisRows.length.toLocaleString()}</p>
+              {showAllCompanyProposals && <p className="text-[11px] text-slate-500">うち条件一致 {previewRows.length.toLocaleString()}件</p>}
+            </div>
+            <div className="rounded bg-red-50 p-3"><p className="text-xs text-red-700">反対</p><p className="text-2xl font-bold text-red-700">{analysisRows.filter((row) => row.vote === "反対").length.toLocaleString()}</p></div>
+            <div className="rounded bg-green-50 p-3"><p className="text-xs text-green-700">賛成</p><p className="text-2xl font-bold text-green-700">{analysisRows.filter((row) => row.vote === "賛成").length.toLocaleString()}</p></div>
+            <div className="rounded bg-amber-50 p-3"><p className="text-xs text-amber-700">反対比率</p><p className="text-2xl font-bold text-amber-700">{analysisRows.length ? Math.round((analysisRows.filter((row) => row.vote === "反対").length / analysisRows.length) * 100) : 0}%</p></div>
           </div>
           <p className="mt-2 rounded bg-blue-50 px-3 py-2 text-xs leading-5 text-blue-800">
             財務・役員データが登録されている企業（約25社）は数値条件が適用されます。未登録企業は論点・行使区分のみで絞り込まれ、条件値欄は「-」で表示されます。
@@ -678,7 +725,8 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                   <th className="px-3 py-2 text-left">総会日</th>
                   <th className="px-3 py-2 text-left">行使</th>
                   <th className="px-3 py-2 text-left">論点</th>
-                  <th className="px-3 py-2 text-left">対象候補・属性</th>
+                  <th className="px-3 py-2 text-left">議案</th>
+                  <th className="px-3 py-2 text-left">候補者・属性</th>
                   <th className="px-3 py-2 text-left">条件値</th>
                   <th className="px-3 py-2 text-left">理由</th>
                   <th className="px-3 py-2 text-left">出典</th>
@@ -686,49 +734,67 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                 </tr>
               </thead>
               <tbody className="divide-y">
-                {previewRows.length === 0 && (
+                {analysisRows.length === 0 && (
                   <tr>
-                    <td colSpan={9} className="px-3 py-8 text-center text-sm leading-6 text-slate-500">
+                    <td colSpan={10} className="px-3 py-8 text-center text-sm leading-6 text-slate-500">
                       この条件に該当する行使結果はありません。論点・行使区分を「すべて」に変更するか、財務・在任条件を外してお試しください。
                     </td>
                   </tr>
                 )}
-                {previewRows.slice(0, 200).map((record, index) => {
+                {analysisRows.slice(0, 300).map((record, index) => {
+                  const isDirectMatch = previewRowKeys.has(`${record.company_code}:${record.meeting_date}:${record.proposal_number}`);
                   const values = metricValuesForRecord(record, financialMetrics, governanceMetrics, directors, draft.metricKey, Number(draft.metricPeriods) || 1);
                   const matchedDirObjects = matchedDirectorObjectsFull(record, directors, roleHistory, draft.roleCondition);
                   const historicalNames = draft.roleCondition.startsWith("former_")
                     ? matchedDirectorNames(record, directors, roleHistory, draft.roleCondition)
                     : [];
                   return (
-                    <tr key={`${record.company_code}-${record.meeting_date}-${record.proposal_number}-${index}`} className="align-top">
+                    <tr
+                      key={`${record.company_code}-${record.meeting_date}-${record.proposal_number}-${index}`}
+                      className={`align-top ${showAllCompanyProposals && !isDirectMatch ? "bg-slate-50/50" : ""}`}
+                    >
                       <td className="px-3 py-2">
                         <Link href={companyDetailHref(record)} className="font-semibold text-slate-900 hover:text-blue-700 hover:underline">
                           {record.company_name || record.company_code}
                         </Link>
                         <p className="text-slate-500">{record.company_code}</p>
+                        {showAllCompanyProposals && (
+                          <span className={`mt-1 inline-block rounded px-1.5 py-0.5 text-[10px] font-semibold ${
+                            isDirectMatch ? "bg-blue-100 text-blue-800" : "bg-slate-100 text-slate-500"
+                          }`}>
+                            {isDirectMatch ? "条件該当" : "同一企業・他議案"}
+                          </span>
+                        )}
                       </td>
                       <td className="px-3 py-2 text-slate-600 whitespace-nowrap">{record.meeting_date ? record.meeting_date.replace(/(\d{4})(\d{2})(\d{2})/, "$1/$2/$3") : "-"}</td>
                       <td className="px-3 py-2"><span className={`rounded px-2 py-0.5 font-semibold ${record.vote === "反対" ? "bg-red-100 text-red-700" : "bg-green-50 text-green-700"}`}>{record.vote}</span></td>
                       <td className="px-3 py-2 whitespace-nowrap">{issueLabel(record.issue_type)}</td>
-                      <td className="max-w-xs px-3 py-2 text-slate-600">
-                        <p className="text-xs font-semibold text-slate-700">{record.target_label || "-"}</p>
-
-                        {/* Directors matched from opposition record data */}
+                      {/* 議案列 */}
+                      <td className="px-3 py-2 text-slate-600 max-w-[180px]">
+                        <p className="truncate text-xs">{record.proposal_type || "-"}</p>
+                        <p className="text-[11px] text-slate-400">
+                          {record.resolution_number || record.proposal_number ? `議案${record.resolution_number || record.proposal_number}` : ""}
+                          {record.candidate_number ? `-${record.candidate_number}` : ""}
+                        </p>
+                      </td>
+                      {/* 候補者・属性列 */}
+                      <td className="px-3 py-2 max-w-[200px]">
+                        {/* opposition recordから照合済み候補者 */}
                         {record.matched_director_name && (
-                          <div className="mt-1 rounded border border-slate-200 bg-slate-50 px-2 py-1.5">
+                          <div className="rounded border border-slate-200 bg-slate-50 px-2 py-1.5">
                             <p className="text-xs font-semibold text-slate-900">{record.matched_director_name}</p>
                             {record.matched_director_title && <p className="text-[11px] text-slate-500">{record.matched_director_title}</p>}
                             {(record.matched_director_attributes ?? []).length > 0 && (
                               <div className="mt-1 flex flex-wrap gap-1">
                                 {record.matched_director_attributes?.map((tag) => (
-                                  <span key={tag} className="rounded bg-blue-50 px-1.5 py-0.5 text-[10px] text-blue-700">{tag}</span>
+                                  <span key={tag} className="rounded bg-blue-50 px-1.5 py-0.5 text-[10px] font-semibold text-blue-700">{tag}</span>
                                 ))}
                               </div>
                             )}
+                            <p className="mt-1 text-[10px] text-slate-400">{record.match_method || "未特定"} / {record.target_confidence || "Low"}</p>
                           </div>
                         )}
-
-                        {/* Directors matched from local directors data via role condition */}
+                        {/* ロール条件で照合したローカル取締役データ */}
                         {matchedDirObjects.map((dir) => {
                           const attrTags = getDirectorAttributeTags(dir);
                           return (
@@ -745,8 +811,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                             </div>
                           );
                         })}
-
-                        {/* Historical role matches (former president/chair etc.) */}
+                        {/* 元役職（過去3年以内の社長等） */}
                         {historicalNames.length > 0 && (
                           <div className="mt-1 rounded border border-amber-200 bg-amber-50 px-2 py-1">
                             {historicalNames.map((n) => (
@@ -754,8 +819,9 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                             ))}
                           </div>
                         )}
-
-                        <p className="mt-1 text-[10px] text-slate-400">{record.match_method || "未特定"} / {record.target_confidence || "Low"}</p>
+                        {!record.matched_director_name && matchedDirObjects.length === 0 && historicalNames.length === 0 && (
+                          <span className="text-[11px] text-slate-300">未特定</span>
+                        )}
                       </td>
                       <td className="max-w-xs px-3 py-2 text-slate-600 whitespace-nowrap">{values.length ? values.map((item) => `${item.label}: ${metricValueText(item.value, draft.metricKey.includes("ratio") || draft.metricKey.includes("rate") || draft.metricKey === "roe" ? "%" : "")}`).join(" / ") : "-"}</td>
                       <td className="max-w-md px-3 py-2 text-xs leading-5 text-slate-700">{record.reason || <span className="text-slate-400">理由記載なし</span>}</td>
@@ -773,6 +839,12 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
               </tbody>
             </table>
           </div>
+
+          {analysisRows.length > 300 && (
+            <p className="mt-2 text-xs text-slate-500">
+              画面表示は先頭300件です。CSVには全{analysisRows.length.toLocaleString()}件を出力します。
+            </p>
+          )}
 
           {conditions.length > 0 && (
             <div className="mt-5 space-y-2">
