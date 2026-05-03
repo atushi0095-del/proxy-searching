@@ -12,6 +12,33 @@ const groups = new Map();
 const againstByIssue = {};
 const byInvestor = {};
 
+const KEEP_EMPTY_KEYS = new Set([
+  "investor_id",
+  "company_code",
+  "company_name",
+  "meeting_date",
+  "proposal_number",
+  "proposal_type",
+  "director_or_role",
+  "vote",
+  "issue_type",
+  "reason",
+  "source_url",
+  "source_title",
+]);
+
+function compactSplitRecord(record) {
+  const compact = {};
+  for (const [key, value] of Object.entries(record)) {
+    if (!KEEP_EMPTY_KEYS.has(key)) {
+      if (value === "" || value === null || value === undefined) continue;
+      if (Array.isArray(value) && value.length === 0) continue;
+    }
+    compact[key] = value;
+  }
+  return compact;
+}
+
 for (const record of data.records ?? []) {
   const investorId = String(record.investor_id ?? "unknown");
   const arr = groups.get(investorId) ?? [];
@@ -38,7 +65,7 @@ for (const [investorId, records] of groups.entries()) {
         generated_at: data.generated_at,
         investor_id: investorId,
         total_records: records.length,
-        records,
+        records: records.map(compactSplitRecord),
       },
       null,
       2
