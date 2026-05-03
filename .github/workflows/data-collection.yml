@@ -151,6 +151,9 @@ jobs:
           add_if_exists "data/generated/edinet_filings.json" "data/generated/edinet_download_manifest.json"
           add_if_exists "data/generated/company_fact_coverage.json"
           add_if_exists "data/generated/vote_record_quality_report.json"
+          if [ -f "data/generated/opposition_records_by_investor/blackrock.json" ]; then
+            git add -f "data/generated/opposition_records_by_investor/blackrock.json"
+          fi
           while IFS= read -r file; do
             if [ -f "$file" ]; then
               bytes=$(wc -c < "$file")

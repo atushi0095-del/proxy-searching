@@ -397,9 +397,7 @@ function compactDirectorFields(fields) {
 }
 
 async function loadPreservedSplitRecords(records, seen) {
-  const presentInvestors = new Set(records.map((record) => record.investor_id));
   for (const investorId of PRESERVE_SPLIT_INVESTORS) {
-    if (presentInvestors.has(investorId)) continue;
     const filePath = path.join(SPLIT_RECORDS_DIR, `${investorId}.json`);
     let parsed;
     try {

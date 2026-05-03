@@ -272,16 +272,56 @@ function buildCases(records) {
 }
 
 const manifest = JSON.parse(await fs.readFile(MANIFEST_FILE, "utf8").catch(() => "[]"));
-const files = manifest
-  .filter((item) => item.investor_id === "blackrock" && item.kind === "vote_result" && item.file_name?.endsWith(".pdf"))
-  .map((item) => item.file_name)
-  .filter((fileName, index, self) => self.indexOf(fileName) === index);
+async function findLocalBlackRockVotePdfs() {
+  try {
+    const entries = await fs.readdir(SOURCE_DIR);
+    const rows = [];
+    const seen = new Set();
+    for (const fileName of entries.filter((name) => /blackrock/i.test(name) && /vote/i.test(name) && name.endsWith(".pdf"))) {
+      const filePath = path.join(SOURCE_DIR, fileName);
+      const stat = await fs.stat(filePath);
+      const stableName = fileName.replace(/^\d+_/, "");
+      const key = `${stableName}:${stat.size}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      rows.push({
+        file_name: fileName,
+        file_path: filePath,
+        title: fileName,
+        url: "",
+      });
+    }
+    return rows;
+  } catch {
+    return [];
+  }
+}
+
+async function buildSourceList(manifestItems) {
+  const byPath = new Map();
+  for (const item of manifestItems) {
+    if (item.investor_id !== "blackrock" || item.kind !== "vote_result" || !item.file_name?.endsWith(".pdf")) continue;
+    const candidatePath = item.file_path ? path.resolve(ROOT, item.file_path) : path.join(SOURCE_DIR, item.file_name);
+    try {
+      await fs.access(candidatePath);
+      byPath.set(candidatePath, { ...item, file_path: candidatePath });
+    } catch {
+      // Keep going: local and Actions caches can have different numeric prefixes.
+    }
+  }
+  for (const item of await findLocalBlackRockVotePdfs()) {
+    byPath.set(item.file_path, item);
+  }
+  return [...byPath.values()];
+}
+
+const sourceItems = await buildSourceList(manifest);
 
 const records = [];
 const profiles = [];
-for (const fileName of files) {
-  const filePath = path.join(SOURCE_DIR, fileName);
-  const source = manifest.find((item) => item.file_name === fileName);
+for (const source of sourceItems) {
+  const filePath = source.file_path ? path.resolve(ROOT, source.file_path) : path.join(SOURCE_DIR, source.file_name);
+  const fileName = source.file_name ?? path.basename(filePath);
   try {
     const parsed = await extractRowsFromPdf(filePath, source);
     records.push(...parsed.rows);
@@ -316,8 +356,11 @@ for (const fileName of files) {
   }
 }
 
+const cases = buildCases(records);
+cases.records = records;
+
 await fs.writeFile(SUMMARY_FILE, `${JSON.stringify(summarize(records, profiles), null, 2)}\n`, "utf8");
-await fs.writeFile(CASES_FILE, `${JSON.stringify(buildCases(records), null, 2)}\n`, "utf8");
+await fs.writeFile(CASES_FILE, `${JSON.stringify(cases, null, 2)}\n`, "utf8");
 await fs.writeFile(TEXT_SAMPLES_FILE, `${JSON.stringify({ generated_at: new Date().toISOString(), profiles }, null, 2)}\n`, "utf8");
 
 console.log(`Wrote ${path.relative(ROOT, SUMMARY_FILE)}`);
