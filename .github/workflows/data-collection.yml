@@ -129,7 +129,13 @@ jobs:
           add_if_exists() {
             for path in "$@"; do
               if compgen -G "$path" > /dev/null; then
-                git add $path
+                for match in $path; do
+                  if git check-ignore -q "$match"; then
+                    echo "Skip ignored path: $match"
+                  else
+                    git add "$match"
+                  fi
+                done
               else
                 echo "Skip missing path: $path"
               fi
@@ -145,7 +151,6 @@ jobs:
           add_if_exists "data/generated/edinet_filings.json" "data/generated/edinet_download_manifest.json"
           add_if_exists "data/generated/company_fact_coverage.json"
           add_if_exists "data/generated/vote_record_quality_report.json"
-          add_if_exists "data/generated/pipeline_logs/*.json"
           while IFS= read -r file; do
             if [ -f "$file" ]; then
               bytes=$(wc -c < "$file")
