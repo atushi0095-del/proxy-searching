@@ -100,6 +100,19 @@ function latestMetricYear(companyCode: string) {
   return years.length > 0 ? Math.max(...years) : 2025;
 }
 
+type FinancialMetricView = ReturnType<typeof getFinancialMetrics>[number];
+
+function financialDisplayMetrics(metrics: FinancialMetricView[], meetingYear: number) {
+  const actuals = metrics
+    .filter((metric) => !metric.is_forecast && metric.fiscal_year <= meetingYear)
+    .sort((a, b) => a.fiscal_year - b.fiscal_year)
+    .slice(-3);
+  const nextForecast = metrics
+    .filter((metric) => metric.is_forecast && metric.fiscal_year > meetingYear)
+    .sort((a, b) => a.fiscal_year - b.fiscal_year)[0];
+  return nextForecast ? [...actuals, nextForecast] : actuals;
+}
+
 function InvestorOppositionOverview({
   judgments,
   companyCode,
@@ -412,7 +425,8 @@ export default async function CompanyPage({ params, searchParams }: Props) {
   const focusData = focusMap.get(companyCode) ?? null;
 
   const directorList = getDirectors(companyCode, meetingYear);
-  const metrics = getFinancialMetrics(companyCode).filter((metric) => metric.fiscal_year <= meetingYear);
+  const metrics = getFinancialMetrics(companyCode);
+  const displayMetrics = financialDisplayMetrics(metrics, meetingYear);
   const governance = getCompanyGovernanceMetric(companyCode, meetingYear);
   const targetInvestors = investor ? investors.filter((item) => item.investor_id === investor) : investors;
   const judgments = targetInvestors
@@ -459,19 +473,26 @@ export default async function CompanyPage({ params, searchParams }: Props) {
         <div className="grid gap-4 md:grid-cols-3">
           <div className="rounded-lg border p-4">
             <div className="flex items-center justify-between gap-3">
-              <h3 className="font-bold">直近3期 財務指標</h3>
+              <h3 className="font-bold">実績3期 + 業績予想</h3>
               <span className="rounded bg-slate-100 px-2 py-0.5 text-xs text-slate-600">
-                {metrics.slice(-3)[0]?.fiscal_year ?? "-"} - {metrics.slice(-3).at(-1)?.fiscal_year ?? "-"}
+                {displayMetrics[0]?.fiscal_year ?? "-"} - {displayMetrics.at(-1)?.fiscal_year ?? "-"}
               </span>
             </div>
-            {metrics.length === 0 ? (
+            {displayMetrics.length === 0 ? (
               <p className="mt-3 text-sm text-slate-500">財務データは未登録です。有価証券報告書から順次追加予定です。</p>
             ) : (
               <div className="mt-3 space-y-2">
-                {metrics.slice(-3).map((metric) => (
+                {displayMetrics.map((metric) => (
                   <div key={metric.fiscal_year} className="rounded bg-slate-50 px-3 py-2 text-sm">
                     <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1">
-                      <span className="font-semibold">{metric.fiscal_year}年度</span>
+                      <span className="font-semibold">
+                        {metric.fiscal_year}年度
+                        {metric.is_forecast && (
+                          <span className="ml-1 rounded bg-amber-100 px-1.5 py-0.5 text-[10px] font-semibold text-amber-700">
+                            会社予想
+                          </span>
+                        )}
+                      </span>
                       <span className="text-xs">
                         ROE <strong className={metric.roe != null && metric.roe < 5 ? "text-red-600" : ""}>{metric.roe?.toFixed(1) ?? "—"}%</strong>
                         {" / "}
@@ -496,7 +517,7 @@ export default async function CompanyPage({ params, searchParams }: Props) {
               </div>
             )}
             <p className="mt-3 text-xs leading-5 text-slate-400">
-              判定は対象年度以下の直近3期を使用。翌年データが追加されると1年分スライドします。ROE赤字は5%未満を示します。
+              判定は対象年度以下の実績直近3期を使用。会社予想は判定には使わず、翌期の参考値として併記します。ROE赤字は5%未満を示します。
             </p>
           </div>
           <div className="rounded-lg border p-4 md:col-span-2">

@@ -122,6 +122,15 @@ export interface FinancialMetric {
   tsr_3y_rank_percentile: number | null;
   net_income: number | null;
   shareholders_equity: number | null;
+  total_assets?: number | null;
+  sales?: number | null;
+  operating_profit?: number | null;
+  eps?: number | null;
+  bps?: number | null;
+  equity_ratio?: number | null;
+  fiscal_period_end?: string;
+  is_forecast?: boolean;
+  forecast_basis_year?: number;
   source_url: string;
   notes: string;
 }
