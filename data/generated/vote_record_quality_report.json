@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-03T08:45:55.999Z",
+  "generated_at": "2026-05-04T08:46:12.374Z",
   "purpose": "議決権行使結果の正規化データについて、賛否・理由・推定論点の不整合候補を検出する品質監査レポート。",
   "summary": {
-    "total": 498797,
-    "for_with_reason": 254594,
-    "for_with_inferred_issue_no_reason": 6893,
+    "total": 514460,
+    "for_with_reason": 269551,
+    "for_with_inferred_issue_no_reason": 7364,
     "against_without_reason": 965,
     "unknown_vote": 2
   },
@@ -19,9 +19,9 @@
     },
     {
       "investor_id": "blackrock",
-      "total": 4336,
-      "for_with_reason": 2310,
-      "for_with_inferred_issue_no_reason": 245,
+      "total": 19999,
+      "for_with_reason": 17267,
+      "for_with_inferred_issue_no_reason": 716,
       "against_without_reason": 0,
       "unknown_vote": 0
     },

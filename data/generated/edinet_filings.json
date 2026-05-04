@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-03T08:28:20.032Z",
+  "generated_at": "2026-05-04T08:27:52.710Z",
   "api": "EDINET API v2",
   "request": {
-    "from": "2026-02-02",
-    "to": "2026-05-03",
+    "from": "2026-02-03",
+    "to": "2026-05-04",
     "company": null,
     "limit": 9999,
     "delay": 1500
   },
-  "total": 412,
-  "new_this_run": 0,
+  "total": 413,
+  "new_this_run": 1,
   "filings": [
     {
       "company_code": "3246",
@@ -6042,6 +6042,22 @@
       "ordinance_code": "010",
       "source": "EDINET API v2 documents.json",
       "discovered_at": "2026-05-03T03:40:18.067Z"
+    },
+    {
+      "company_code": "7776",
+      "company_name": "セルシード",
+      "edinet_code": "E24158",
+      "sec_code": "77760",
+      "doc_id": "S100XUKD",
+      "doc_type_code": "120",
+      "form_code": "030000",
+      "submit_date_time": "2026-03-26 15:16",
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "filer_name": "株式会社セルシード",
+      "ordinance_code": "010",
+      "source": "EDINET API v2 documents.json",
+      "discovered_at": "2026-05-04T08:26:45.864Z"
     },
     {
       "company_code": "2408",

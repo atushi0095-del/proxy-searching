@@ -1,11 +1,11 @@
 {
   "summary": {
-    "generated_at": "2026-05-03T08:45:52.140Z",
-    "company_count": 2953,
+    "generated_at": "2026-05-04T08:46:08.639Z",
+    "company_count": 2955,
     "with_financial_metrics": 2050,
-    "with_directors": 2953,
+    "with_directors": 2955,
     "with_governance_metrics": 2160,
-    "with_any_evidence_url": 2935,
+    "with_any_evidence_url": 2937,
     "high_priority_missing": 0
   },
   "rows": [
@@ -15846,6 +15846,58 @@
     {
       "company_code": "7751",
       "company_name": "キヤノン",
+      "market": "東証プライム",
+      "sector": "輸送機器・精密",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 6,
+      "director_years": [
+        2025
+      ],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 1,
+        "with_url": 2
+      },
+      "missing": [
+        "financial_metrics",
+        "governance_metrics"
+      ],
+      "priority_score": 8
+    },
+    {
+      "company_code": "7760",
+      "company_name": "IMVCorp.",
+      "market": "東証プライム",
+      "sector": "輸送機器・精密",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 6,
+      "director_years": [
+        2025
+      ],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 1,
+        "with_url": 1
+      },
+      "missing": [
+        "financial_metrics",
+        "governance_metrics"
+      ],
+      "priority_score": 8
+    },
+    {
+      "company_code": "7776",
+      "company_name": "セルシード",
       "market": "東証プライム",
       "sector": "輸送機器・精密",
       "financial_metric_count": 0,
@@ -31864,10 +31916,12 @@
       "company_name": "アルペン",
       "market": "東証プライム",
       "sector": "繊維・小売",
-      "financial_metric_count": 2,
+      "financial_metric_count": 4,
       "financial_years": [
+        2023,
         2024,
-        2025
+        2025,
+        2026
       ],
       "director_count": 6,
       "director_years": [
