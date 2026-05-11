@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-04T08:27:52.710Z",
+  "generated_at": "2026-05-11T00:15:52.803Z",
   "api": "EDINET API v2",
   "request": {
-    "from": "2026-02-03",
-    "to": "2026-05-04",
+    "from": "2026-02-10",
+    "to": "2026-05-11",
     "company": null,
     "limit": 9999,
     "delay": 1500
   },
   "total": 413,
-  "new_this_run": 1,
+  "new_this_run": 0,
   "filings": [
     {
       "company_code": "3246",
