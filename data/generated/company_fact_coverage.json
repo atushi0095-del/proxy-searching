@@ -1,11 +1,11 @@
 {
   "summary": {
-    "generated_at": "2026-05-25T00:40:12.823Z",
-    "company_count": 2980,
+    "generated_at": "2026-06-01T00:49:01.389Z",
+    "company_count": 2984,
     "with_financial_metrics": 2050,
-    "with_directors": 2980,
+    "with_directors": 2984,
     "with_governance_metrics": 2160,
-    "with_any_evidence_url": 2979,
+    "with_any_evidence_url": 2983,
     "high_priority_missing": 0
   },
   "rows": [
@@ -1661,11 +1661,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -1687,11 +1687,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -2103,11 +2103,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -2129,11 +2129,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -2623,11 +2623,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -4521,11 +4521,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -4547,11 +4547,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -4677,11 +4677,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -5808,6 +5808,32 @@
       "priority_score": 8
     },
     {
+      "company_code": "4013",
+      "company_name": "4013",
+      "market": "東証プライム",
+      "sector": "化学・医薬品",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 6,
+      "director_years": [
+        2025
+      ],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 1,
+        "with_url": 2
+      },
+      "missing": [
+        "financial_metrics",
+        "governance_metrics"
+      ],
+      "priority_score": 8
+    },
+    {
       "company_code": "4016",
       "company_name": "ＭＩＴホールディングス",
       "market": "東証プライム",
@@ -6822,6 +6848,32 @@
       "priority_score": 8
     },
     {
+      "company_code": "4258",
+      "company_name": "4258",
+      "market": "東証プライム",
+      "sector": "化学・医薬品",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 6,
+      "director_years": [
+        2025
+      ],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 1,
+        "with_url": 2
+      },
+      "missing": [
+        "financial_metrics",
+        "governance_metrics"
+      ],
+      "priority_score": 8
+    },
+    {
       "company_code": "4259",
       "company_name": "エクサウィザーズ",
       "market": "東証プライム",
@@ -7251,11 +7303,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -7355,11 +7407,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -7693,11 +7745,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -9149,11 +9201,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -10098,6 +10150,32 @@
       "priority_score": 8
     },
     {
+      "company_code": "5588",
+      "company_name": "ファーストアカウンティング",
+      "market": "東証プライム",
+      "sector": "鉄鋼・金属",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 6,
+      "director_years": [
+        2025
+      ],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 1,
+        "with_url": 2
+      },
+      "missing": [
+        "financial_metrics",
+        "governance_metrics"
+      ],
+      "priority_score": 8
+    },
+    {
       "company_code": "5589",
       "company_name": "ｵｰﾄｻｰﾊﾞｰ",
       "market": "東証プライム",
@@ -10194,6 +10272,32 @@
         "corporate_governance_report": 1,
         "company_vote_result": 1,
         "with_url": 1
+      },
+      "missing": [
+        "financial_metrics",
+        "governance_metrics"
+      ],
+      "priority_score": 8
+    },
+    {
+      "company_code": "5616",
+      "company_name": "雨風太陽",
+      "market": "東証プライム",
+      "sector": "鉄鋼・金属",
+      "financial_metric_count": 0,
+      "financial_years": [],
+      "director_count": 6,
+      "director_years": [
+        2025
+      ],
+      "governance_metric_count": 0,
+      "governance_years": [],
+      "documents": {
+        "annual_securities_report": 1,
+        "notice_of_meeting": 1,
+        "corporate_governance_report": 1,
+        "company_vote_result": 1,
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -10709,11 +10813,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -11311,7 +11415,7 @@
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -12035,11 +12139,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -12243,11 +12347,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -12451,11 +12555,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -15935,11 +16039,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -16637,11 +16741,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -17079,11 +17183,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -17521,11 +17625,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -18587,11 +18691,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -20693,11 +20797,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -20875,11 +20979,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -21031,11 +21135,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -21109,11 +21213,11 @@
       "governance_metric_count": 0,
       "governance_years": [],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [
         "financial_metrics",
@@ -28513,11 +28617,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -30215,11 +30319,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -30270,11 +30374,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -30405,11 +30509,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -30432,11 +30536,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -30514,11 +30618,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -30622,11 +30726,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -30730,11 +30834,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -31513,11 +31617,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -31567,11 +31671,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -31788,11 +31892,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -31951,11 +32055,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -32252,11 +32356,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -32414,11 +32518,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -32604,11 +32708,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -32685,11 +32789,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -33334,11 +33438,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -34065,11 +34169,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -34713,11 +34817,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -34848,11 +34952,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -35469,11 +35573,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -36036,11 +36140,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -36090,11 +36194,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -36145,11 +36249,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -36307,11 +36411,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -37228,11 +37332,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -37986,11 +38090,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -38581,11 +38685,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -38662,11 +38766,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -39310,11 +39414,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -42205,11 +42309,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -42259,11 +42363,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -44241,11 +44345,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -44729,11 +44833,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -51035,11 +51139,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -52064,11 +52168,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -55553,11 +55657,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -55850,11 +55954,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -55905,11 +56009,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -62334,11 +62438,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -62874,11 +62978,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -63144,11 +63248,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -63171,11 +63275,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -63739,11 +63843,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -63793,11 +63897,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -63874,11 +63978,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -63928,11 +64032,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -64091,11 +64195,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -65039,11 +65143,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -66830,11 +66934,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -66885,11 +66989,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -66912,11 +67016,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -68242,11 +68346,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -68811,11 +68915,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -68920,11 +69024,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -69001,11 +69105,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -69298,11 +69402,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -69353,11 +69457,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -69434,11 +69538,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -69461,11 +69565,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -69488,11 +69592,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -69706,11 +69810,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -72807,11 +72911,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -74564,11 +74668,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -77097,11 +77201,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -77124,11 +77228,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -77990,11 +78094,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -78180,11 +78284,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -78612,11 +78716,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -79342,11 +79446,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -79559,11 +79663,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 1,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0
@@ -79750,11 +79854,11 @@
         2025
       ],
       "documents": {
-        "annual_securities_report": 1,
+        "annual_securities_report": 2,
         "notice_of_meeting": 2,
         "corporate_governance_report": 1,
         "company_vote_result": 1,
-        "with_url": 1
+        "with_url": 2
       },
       "missing": [],
       "priority_score": 0

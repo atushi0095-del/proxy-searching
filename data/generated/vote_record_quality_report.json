@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-25T00:40:16.563Z",
+  "generated_at": "2026-06-01T00:49:05.238Z",
   "purpose": "議決権行使結果の正規化データについて、賛否・理由・推定論点の不整合候補を検出する品質監査レポート。",
   "summary": {
-    "total": 536830,
-    "for_with_reason": 310094,
+    "total": 542566,
+    "for_with_reason": 315196,
     "for_with_inferred_issue_no_reason": 6321,
     "against_without_reason": 483,
     "unknown_vote": 2
@@ -27,24 +27,24 @@
     },
     {
       "investor_id": "mufg_am",
-      "total": 65806,
-      "for_with_reason": 52523,
+      "total": 68584,
+      "for_with_reason": 54864,
       "for_with_inferred_issue_no_reason": 0,
       "against_without_reason": 0,
       "unknown_vote": 0
     },
     {
       "investor_id": "mufg_trust",
-      "total": 196928,
-      "for_with_reason": 90050,
+      "total": 199548,
+      "for_with_reason": 92255,
       "for_with_inferred_issue_no_reason": 2721,
       "against_without_reason": 188,
       "unknown_vote": 2
     },
     {
       "investor_id": "nissay_am",
-      "total": 37857,
-      "for_with_reason": 30023,
+      "total": 35493,
+      "for_with_reason": 28188,
       "for_with_inferred_issue_no_reason": 0,
       "against_without_reason": 0,
       "unknown_vote": 0
@@ -59,8 +59,8 @@
     },
     {
       "investor_id": "resona_am",
-      "total": 64401,
-      "for_with_reason": 57117,
+      "total": 67103,
+      "for_with_reason": 59508,
       "for_with_inferred_issue_no_reason": 0,
       "against_without_reason": 0,
       "unknown_vote": 0
