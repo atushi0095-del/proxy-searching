@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-01T00:24:56.908Z",
+  "generated_at": "2026-06-08T00:32:12.162Z",
   "api": "EDINET API v2",
   "request": {
-    "from": "2026-03-03",
-    "to": "2026-06-01",
+    "from": "2026-03-10",
+    "to": "2026-06-08",
     "company": null,
     "limit": 9999,
     "delay": 1500
   },
-  "total": 563,
-  "new_this_run": 102,
+  "total": 566,
+  "new_this_run": 3,
   "filings": [
     {
       "company_code": "7908",
@@ -74,6 +74,54 @@
       "ordinance_code": "010",
       "source": "EDINET API v2 documents.json",
       "discovered_at": "2026-06-01T00:24:51.453Z"
+    },
+    {
+      "company_code": "7236",
+      "company_name": "ティラド",
+      "edinet_code": "E02155",
+      "sec_code": "72360",
+      "doc_id": "S100Y8UO",
+      "doc_type_code": "120",
+      "form_code": "030000",
+      "submit_date_time": "2026-06-05 09:03",
+      "period_start": "2025-04-01",
+      "period_end": "2026-03-31",
+      "filer_name": "株式会社ティラド",
+      "ordinance_code": "010",
+      "source": "EDINET API v2 documents.json",
+      "discovered_at": "2026-06-08T00:32:07.416Z"
+    },
+    {
+      "company_code": "8061",
+      "company_name": "西華産業",
+      "edinet_code": "E02512",
+      "sec_code": "80610",
+      "doc_id": "S100Y935",
+      "doc_type_code": "120",
+      "form_code": "030000",
+      "submit_date_time": "2026-06-05 14:13",
+      "period_start": "2025-04-01",
+      "period_end": "2026-03-31",
+      "filer_name": "西華産業株式会社",
+      "ordinance_code": "010",
+      "source": "EDINET API v2 documents.json",
+      "discovered_at": "2026-06-08T00:32:07.416Z"
+    },
+    {
+      "company_code": "7741",
+      "company_name": "ＨＯＹＡ",
+      "edinet_code": "E01124",
+      "sec_code": "77410",
+      "doc_id": "S100Y90T",
+      "doc_type_code": "120",
+      "form_code": "030000",
+      "submit_date_time": "2026-06-05 15:04",
+      "period_start": "2025-04-01",
+      "period_end": "2026-03-31",
+      "filer_name": "ＨＯＹＡ株式会社",
+      "ordinance_code": "010",
+      "source": "EDINET API v2 documents.json",
+      "discovered_at": "2026-06-08T00:32:07.416Z"
     },
     {
       "company_code": "7512",

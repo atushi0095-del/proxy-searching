@@ -1,36 +1,55 @@
 {
-  "generated_at": "2026-06-01T00:21:35.291Z",
-  "total_records": 542566,
+  "generated_at": "2026-06-08T00:29:09.939Z",
+  "total_records": 522685,
   "against_by_issue": {
-    "board_independence": 32843,
-    "independence_failure": 13831,
-    "takeover_defense": 1844,
-    "compensation": 4600,
-    "low_roe": 6187,
-    "other": 15474,
-    "shareholder_proposal": 375,
-    "gender_diversity": 2272,
+    "independence_failure": 13853,
+    "gender_diversity": 1946,
+    "board_independence": 25693,
+    "policy_shareholdings": 1554,
+    "takeover_defense": 1798,
+    "other": 15991,
+    "compensation": 4350,
+    "low_roe": 6189,
+    "attendance": 231,
+    "shareholder_proposal": 348,
     "low_tsr": 151,
-    "policy_shareholdings": 1829,
-    "overboarding": 129,
-    "attendance": 251,
-    "tenure": 1692
+    "overboarding": 128,
+    "tenure": 1599
   },
   "by_investor": {
-    "blackrock": {
-      "total": 19999,
+    "amova_am": {
+      "total": 14364,
       "by_vote": {
-        "賛成": 18107,
-        "反対": 1892
+        "賛成": 12409,
+        "反対": 1955
       },
       "by_issue_type": {
-        "other": 1888,
-        "board_independence": 16679,
-        "compensation": 841,
-        "independence_failure": 78,
+        "other": 12470,
+        "independence_failure": 358,
+        "compensation": 588,
+        "gender_diversity": 67,
+        "board_independence": 189,
+        "policy_shareholdings": 109,
+        "takeover_defense": 39,
+        "low_roe": 528,
+        "attendance": 15,
+        "shareholder_proposal": 1
+      }
+    },
+    "blackrock": {
+      "total": 20414,
+      "by_vote": {
+        "賛成": 18476,
+        "反対": 1938
+      },
+      "by_issue_type": {
+        "other": 1908,
+        "board_independence": 17033,
+        "compensation": 874,
+        "independence_failure": 85,
         "takeover_defense": 71,
         "low_roe": 184,
-        "shareholder_proposal": 252,
+        "shareholder_proposal": 253,
         "gender_diversity": 6
       }
     },
@@ -56,27 +75,21 @@
         "shareholder_proposal": 32
       }
     },
-    "mufg_am": {
-      "total": 68584,
+    "fidelity_japan": {
+      "total": 13840,
       "by_vote": {
-        "賛成": 54864,
-        "反対": 13720
+        "賛成": 12673,
+        "反対": 1165,
+        "棄権": 2
       },
       "by_issue_type": {
-        "other": 54439,
-        "independence_failure": 1314,
-        "policy_shareholdings": 494,
-        "compensation": 2656,
-        "takeover_defense": 211,
-        "gender_diversity": 406,
-        "board_independence": 8015,
-        "low_roe": 867,
-        "tenure": 93,
-        "attendance": 39,
-        "shareholder_proposal": 46,
-        "low_tsr": 1,
-        "low_pbr": 2,
-        "overboarding": 1
+        "other": 13167,
+        "compensation": 573,
+        "takeover_defense": 31,
+        "independence_failure": 47,
+        "board_independence": 4,
+        "gender_diversity": 17,
+        "attendance": 1
       }
     },
     "mufg_trust": {
@@ -103,23 +116,24 @@
       }
     },
     "nissay_am": {
-      "total": 35493,
+      "total": 55577,
       "by_vote": {
-        "賛成": 28188,
-        "反対": 4515,
-        "判断": 2790
+        "賛成": 43815,
+        "反対": 7422,
+        "判断": 4340
       },
       "by_issue_type": {
-        "other": 31059,
+        "other": 48429,
         "low_tsr": 69,
-        "independence_failure": 1285,
-        "board_independence": 807,
-        "compensation": 1321,
+        "independence_failure": 2209,
+        "board_independence": 1422,
+        "compensation": 1976,
+        "takeover_defense": 169,
         "gender_diversity": 117,
-        "takeover_defense": 96,
-        "policy_shareholdings": 176,
-        "low_roe": 554,
-        "attendance": 9
+        "policy_shareholdings": 271,
+        "low_roe": 901,
+        "attendance": 12,
+        "shareholder_proposal": 2
       }
     },
     "nomura_am": {
