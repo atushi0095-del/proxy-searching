@@ -3731,6 +3731,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_1835_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "1835",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "東鉄工業 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP1835.html",
+    "filing_date": "2026-06-11",
+    "edinet_doc_id": "S100YA1U",
+    "edinet_code": "E00112",
+    "sec_code": "18350",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-11 15:30。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_1840_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "1840",
     "meeting_year": 2025,
@@ -16524,6 +16542,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_2664_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "2664",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "カワチ薬品 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP2664.html",
+    "filing_date": "2026-06-10",
+    "edinet_doc_id": "S100Y9UW",
+    "edinet_code": "E03356",
+    "sec_code": "26640",
+    "period_start": "2025-03-16",
+    "period_end": "2026-03-15",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-10 15:00。 対象期間: 2025-03-16〜2026-03-15。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_2668_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "2668",
     "meeting_year": 2025,
@@ -18357,6 +18393,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_2753_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "2753",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "あみやき亭 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP2753.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100Y9U0",
+    "edinet_code": "E03398",
+    "sec_code": "27530",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 09:03。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_2760_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "2760",
     "meeting_year": 2025,
@@ -18685,6 +18739,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_2768_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "2768",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "双日 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP2768.html",
+    "filing_date": "2026-06-09",
+    "edinet_doc_id": "S100Y9EI",
+    "edinet_code": "E02958",
+    "sec_code": "27680",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-09 11:31。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_2772_2025_ANNUAL_SECURITIES_REPORT",
@@ -19370,6 +19442,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_2802_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "2802",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "味の素 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP2802.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100Y992",
+    "edinet_code": "E00436",
+    "sec_code": "28020",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 13:17。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_2804_2025_ANNUAL_SECURITIES_REPORT",
@@ -24332,6 +24422,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_3092_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "3092",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "ＺＯＺＯ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP3092.html",
+    "filing_date": "2026-06-08",
+    "edinet_doc_id": "S100Y951",
+    "edinet_code": "E05725",
+    "sec_code": "30920",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-08 15:34。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_3093_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "3093",
     "meeting_year": 2025,
@@ -25125,6 +25233,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_3116_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "3116",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "トヨタ紡織 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP3116.html",
+    "filing_date": "2026-06-09",
+    "edinet_doc_id": "S100Y9AH",
+    "edinet_code": "E00540",
+    "sec_code": "31160",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-09 10:09。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_3123_2025_ANNUAL_SECURITIES_REPORT",
@@ -42030,6 +42156,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_3841_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "3841",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "ジーダット 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP3841.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAUW",
+    "edinet_code": "E05669",
+    "sec_code": "38410",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 12:22。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_3843_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "3843",
     "meeting_year": 2025,
@@ -50656,6 +50800,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_4204_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4204",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "積水化学工業 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP4204.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YBAY",
+    "edinet_code": "E00820",
+    "sec_code": "42040",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 15:50。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_4205_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "4205",
     "meeting_year": 2025,
@@ -51149,6 +51311,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_4220_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4220",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "リケンテクノス 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP4220.html",
+    "filing_date": "2026-06-10",
+    "edinet_doc_id": "S100Y9PN",
+    "edinet_code": "E00838",
+    "sec_code": "42200",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-10 14:00。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_4221_2025_ANNUAL_SECURITIES_REPORT",
@@ -54328,6 +54508,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_4373_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4373",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "シンプレクス・ホールディングス 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP4373.html",
+    "filing_date": "2026-06-11",
+    "edinet_doc_id": "S100YARY",
+    "edinet_code": "E36928",
+    "sec_code": "43730",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-11 15:30。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_4375_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "4375",
     "meeting_year": 2025,
@@ -54915,6 +55113,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_4390_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4390",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "ＩＰＳ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP4390.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YBB2",
+    "edinet_code": "E33623",
+    "sec_code": "43900",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 15:37。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_4392_2025_ANNUAL_SECURITIES_REPORT",
@@ -59022,6 +59238,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_4523_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4523",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "エーザイ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP4523.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YB05",
+    "edinet_code": "E00939",
+    "sec_code": "45230",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 09:48。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_4526_2025_ANNUAL_SECURITIES_REPORT",
@@ -64188,6 +64422,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_4743_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4743",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "アイティフォー 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP4743.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAUM",
+    "edinet_code": "E02909",
+    "sec_code": "47430",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 15:53。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_4745_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "4745",
     "meeting_year": 2025,
@@ -66904,6 +67156,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_4902_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4902",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "コニカミノルタ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP4902.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YB93",
+    "edinet_code": "E00989",
+    "sec_code": "49020",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 14:42。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_4911_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "4911",
     "meeting_year": 2025,
@@ -69234,6 +69504,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_4997_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "4997",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "日本農薬 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP4997.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YATP",
+    "edinet_code": "E00937",
+    "sec_code": "49970",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 11:17。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_4998_2025_ANNUAL_SECURITIES_REPORT",
@@ -73895,6 +74183,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_5344_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "5344",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "ＭＡＲＵＷＡ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP5344.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YB11",
+    "edinet_code": "E01210",
+    "sec_code": "53440",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 10:09。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_5351_2025_ANNUAL_SECURITIES_REPORT",
@@ -79213,6 +79519,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_5831_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "5831",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "しずおかフィナンシャルグループ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP5831.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100Y9RT",
+    "edinet_code": "E37777",
+    "sec_code": "58310",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 09:13。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_5832_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "5832",
     "meeting_year": 2025,
@@ -82947,6 +83271,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_6035_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "6035",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "アイ・アールジャパンホールディングス 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP6035.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YATA",
+    "edinet_code": "E31054",
+    "sec_code": "60350",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 13:14。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_6036_2025_ANNUAL_SECURITIES_REPORT",
@@ -106314,6 +106656,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_6902_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "6902",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "株式会社デンソー 2026年期 有価証券報告書",
+    "url": "https://www.denso.com/jp/ja/about-us/investors/",
+    "filing_date": "2026-06-11",
+    "edinet_doc_id": "S100Y9T1",
+    "edinet_code": "E01892",
+    "sec_code": "69020",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-11 15:36。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_6904_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "6904",
     "meeting_year": 2025,
@@ -108826,6 +109186,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_6995_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "6995",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "東海理化電機製作所 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP6995.html",
+    "filing_date": "2026-06-09",
+    "edinet_doc_id": "S100Y9M2",
+    "edinet_code": "E01898",
+    "sec_code": "69950",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-09 12:55。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_6996_2025_ANNUAL_SECURITIES_REPORT",
@@ -112157,6 +112535,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_7164_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7164",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "全国保証 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7164.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAIZ",
+    "edinet_code": "E09753",
+    "sec_code": "71640",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 14:58。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_7167_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "7167",
     "meeting_year": 2025,
@@ -112210,6 +112606,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_7167_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7167",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "めぶきフィナンシャルグループ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7167.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAVM",
+    "edinet_code": "E30103",
+    "sec_code": "71670",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 14:07。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_7172_2025_ANNUAL_SECURITIES_REPORT",
@@ -112444,6 +112858,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_7180_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7180",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "九州フィナンシャルグループ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7180.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAQW",
+    "edinet_code": "E31612",
+    "sec_code": "71800",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 15:30。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_7181_2025_ANNUAL_SECURITIES_REPORT",
@@ -112719,6 +113151,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_7186_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7186",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "コンコルディア・フィナンシャルグループ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7186.html",
+    "filing_date": "2026-06-11",
+    "edinet_doc_id": "S100YA32",
+    "edinet_code": "E32022",
+    "sec_code": "71860",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-11 15:52。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_7187_2025_ANNUAL_SECURITIES_REPORT",
@@ -113342,6 +113792,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_7203_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7203",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "トヨタ自動車株式会社 2026年期 有価証券報告書",
+    "url": "https://global.toyota/jp/ir/",
+    "filing_date": "2026-06-10",
+    "edinet_doc_id": "S100Y8NY",
+    "edinet_code": "E02144",
+    "sec_code": "72030",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-10 15:33。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_7205_2025_ANNUAL_SECURITIES_REPORT",
@@ -114971,6 +115439,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_7259_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7259",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "アイシン 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7259.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAWO",
+    "edinet_code": "E01593",
+    "sec_code": "72590",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 14:02。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_7260_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "7260",
     "meeting_year": 2025,
@@ -115856,6 +116342,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_7283_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7283",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "愛三工業 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7283.html",
+    "filing_date": "2026-06-11",
+    "edinet_doc_id": "S100Y9N3",
+    "edinet_code": "E02162",
+    "sec_code": "72830",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-11 10:03。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_7284_2025_ANNUAL_SECURITIES_REPORT",
@@ -116910,6 +117414,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_7327_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7327",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "第四北越フィナンシャルグループ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7327.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAX4",
+    "edinet_code": "E34113",
+    "sec_code": "73270",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 13:37。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_7337_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "7337",
     "meeting_year": 2025,
@@ -117928,6 +118450,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_7380_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7380",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "十六フィナンシャルグループ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7380.html",
+    "filing_date": "2026-06-11",
+    "edinet_doc_id": "S100YA7J",
+    "edinet_code": "E36703",
+    "sec_code": "73800",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-11 09:25。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_7381_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "7381",
     "meeting_year": 2025,
@@ -117981,6 +118521,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_7381_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7381",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "北國フィナンシャルホールディングス 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7381.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAOX",
+    "edinet_code": "E36700",
+    "sec_code": "73810",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 10:36。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_7383_2025_ANNUAL_SECURITIES_REPORT",
@@ -118593,6 +119151,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_7419_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7419",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "ノジマ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7419.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAOT",
+    "edinet_code": "E03235",
+    "sec_code": "74190",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 16:15。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_7420_2025_ANNUAL_SECURITIES_REPORT",
@@ -127736,6 +128312,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_7857_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7857",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "セキ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7857.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YA1Y",
+    "edinet_code": "E00730",
+    "sec_code": "78570",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 09:03。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_7859_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "7859",
     "meeting_year": 2025,
@@ -130557,6 +131151,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_7971_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "7971",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "東リ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP7971.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YB1Q",
+    "edinet_code": "E00995",
+    "sec_code": "79710",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 13:30。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_7972_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "7972",
     "meeting_year": 2025,
@@ -131472,6 +132084,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_8001_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8001",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "伊藤忠商事株式会社 2026年期 有価証券報告書",
+    "url": "https://www.itochu.co.jp/ja/ir/",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YA6H",
+    "edinet_code": "E02497",
+    "sec_code": "80010",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 12:35。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_8002_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "8002",
     "meeting_year": 2025,
@@ -131525,6 +132155,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_8002_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8002",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "丸紅 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP8002.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAY4",
+    "edinet_code": "E02498",
+    "sec_code": "80020",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 15:30。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_8005_2025_ANNUAL_SECURITIES_REPORT",
@@ -132614,6 +133262,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_8031_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8031",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "三井物産 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP8031.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAVT",
+    "edinet_code": "E02513",
+    "sec_code": "80310",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 14:07。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_8032_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "8032",
     "meeting_year": 2025,
@@ -133219,6 +133885,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_8053_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8053",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "住友商事 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP8053.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YARD",
+    "edinet_code": "E02528",
+    "sec_code": "80530",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 14:00。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_8056_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "8056",
     "meeting_year": 2025,
@@ -133382,6 +134066,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_8058_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8058",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "三菱商事株式会社 2026年期 有価証券報告書",
+    "url": "https://www.mitsubishicorp.com/jp/ja/ir/",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YB25",
+    "edinet_code": "E02529",
+    "sec_code": "80580",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 14:20。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_8059_2025_ANNUAL_SECURITIES_REPORT",
@@ -135749,6 +136451,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_8131_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8131",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "ミツウロコグループホールディングス 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP8131.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAZQ",
+    "edinet_code": "E01074",
+    "sec_code": "81310",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 16:49。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_8132_2025_ANNUAL_SECURITIES_REPORT",
@@ -139627,6 +140347,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_8285_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8285",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "三谷産業 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP8285.html",
+    "filing_date": "2026-06-11",
+    "edinet_doc_id": "S100YAL6",
+    "edinet_code": "E02692",
+    "sec_code": "82850",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-11 13:11。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_8289_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "8289",
     "meeting_year": 2025,
@@ -140303,6 +141041,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_8334_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8334",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "群馬銀行 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP8334.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100Y8O1",
+    "edinet_code": "E03554",
+    "sec_code": "83340",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 12:26。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_8336_2025_ANNUAL_SECURITIES_REPORT",
@@ -142338,6 +143094,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_8388_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8388",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "阿波銀行 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP8388.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAMP",
+    "edinet_code": "E03587",
+    "sec_code": "83880",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 14:01。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_8392_2025_ANNUAL_SECURITIES_REPORT",
@@ -145830,6 +146604,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_8624_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8624",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "いちよし証券 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP8624.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YANQ",
+    "edinet_code": "E03772",
+    "sec_code": "86240",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 10:53。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_8628_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "8628",
     "meeting_year": 2025,
@@ -146048,6 +146840,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_8697_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8697",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "日本取引所グループ 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP8697.html",
+    "filing_date": "2026-06-11",
+    "edinet_doc_id": "S100YA84",
+    "edinet_code": "E03814",
+    "sec_code": "86970",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-11 10:43。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_8698_2025_ANNUAL_SECURITIES_REPORT",
@@ -147386,6 +148196,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_8795_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "8795",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "Ｔ＆Ｄホールディングス 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP8795.html",
+    "filing_date": "2026-06-11",
+    "edinet_doc_id": "S100Y9UP",
+    "edinet_code": "E03851",
+    "sec_code": "87950",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-11 16:00。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_8798_2025_ANNUAL_SECURITIES_REPORT",
@@ -152659,6 +153487,24 @@
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
   },
   {
+    "source_id": "DOC_9046_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "9046",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "神戸電鉄 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP9046.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAZT",
+    "edinet_code": "E04109",
+    "sec_code": "90460",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 10:03。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
+  },
+  {
     "source_id": "DOC_9048_2025_ANNUAL_SECURITIES_REPORT",
     "company_code": "9048",
     "meeting_year": 2025,
@@ -153042,6 +153888,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_9064_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "9064",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "ヤマトホールディングス 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP9064.html",
+    "filing_date": "2026-06-12",
+    "edinet_doc_id": "S100YAYL",
+    "edinet_code": "E04187",
+    "sec_code": "90640",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-12 09:17。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_9065_2025_ANNUAL_SECURITIES_REPORT",
@@ -154417,6 +155281,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_9143_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "9143",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "ＳＧホールディングス 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP9143.html",
+    "filing_date": "2026-06-10",
+    "edinet_doc_id": "S100Y9P7",
+    "edinet_code": "E32292",
+    "sec_code": "91430",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-10 15:22。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_9145_2025_ANNUAL_SECURITIES_REPORT",
@@ -159759,6 +160641,24 @@
     "url": "",
     "filing_date": "",
     "notes": "取締役候補者、略歴、独立性、在任年数、出席率、議案内容の抽出対象。URLは次工程で公式IRまたはTDnet/EDINETから補完。"
+  },
+  {
+    "source_id": "DOC_9436_2026_ANNUAL_SECURITIES_REPORT",
+    "company_code": "9436",
+    "meeting_year": 2026,
+    "document_type": "annual_securities_report",
+    "document_label": "2026年期 有価証券報告書",
+    "title": "沖縄セルラー電話 2026年期 有価証券報告書",
+    "url": "https://www.jpx.co.jp/listing/co/profile/JP9436.html",
+    "filing_date": "2026-06-09",
+    "edinet_doc_id": "S100Y9T5",
+    "edinet_code": "E04460",
+    "sec_code": "94360",
+    "period_start": "2025-04-01",
+    "period_end": "2026-03-31",
+    "source": "EDINET API v2 documents.json",
+    "confidence": "High",
+    "notes": "EDINET APIで有価証券報告書のdoc_idを特定済み。 提出日時: 2026-06-09 15:37。 対象期間: 2025-04-01〜2026-03-31。 本文・XBRLの取得とROE、政策保有株式、役員情報の抽出は次工程で実施。"
   },
   {
     "source_id": "DOC_9437_2025_ANNUAL_SECURITIES_REPORT",
