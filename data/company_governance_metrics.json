@@ -28679,23 +28679,6 @@
     "notes": "JPX上場企業一覧より自動生成。実際の数値はCG報告書・招集通知で確認のこと。"
   },
   {
-    "company_code": "8088",
-    "meeting_year": 2025,
-    "board_size": 9,
-    "inside_director_count": 5,
-    "outside_director_count": 4,
-    "independent_director_count": 4,
-    "female_director_count": 2,
-    "female_director_ratio": 22.2,
-    "independent_director_ratio": 44.4,
-    "has_independent_board_chair": false,
-    "has_nominating_committee": true,
-    "has_compensation_committee": true,
-    "policy_shareholdings_ratio": null,
-    "source_url": "",
-    "notes": "JPX上場企業一覧より自動生成。実際の数値はCG報告書・招集通知で確認のこと。"
-  },
-  {
     "company_code": "8089",
     "meeting_year": 2025,
     "board_size": 8,
@@ -36718,5 +36701,39 @@
     "policy_shareholdings_ratio": null,
     "source_url": "",
     "notes": "JPX上場企業一覧より自動生成。実際の数値はCG報告書・招集通知で確認のこと。"
+  },
+  {
+    "company_code": "8088",
+    "meeting_year": 2025,
+    "board_size": 12,
+    "inside_director_count": 8,
+    "outside_director_count": 4,
+    "independent_director_count": 4,
+    "female_director_count": 1,
+    "female_director_ratio": 8.3,
+    "independent_director_ratio": 33.3,
+    "has_independent_board_chair": false,
+    "has_nominating_committee": true,
+    "has_compensation_committee": true,
+    "policy_shareholdings_ratio": null,
+    "source_url": "https://www.iwatani.co.jp/jpn/ir/stock/shareholders/files/83/stock_convo_83rd.pdf",
+    "notes": "第82回定時株主総会（2025年6月18日）選任。取締役12名（社内8名・社外独立4名）。女性1名（齋藤友紀）8.3%。社外比率33.3%（ちょうど1/3）。BlackRock1件は候補者への不祥事反対、2件は独立社外取締役の確保要求で反対。りそなAM女性10%未達3名反対。廣田博清はこの期に在任、2026AGMで退任。本折憲司は2026AGMで新任。"
+  },
+  {
+    "company_code": "8088",
+    "meeting_year": 2026,
+    "board_size": 12,
+    "inside_director_count": 8,
+    "outside_director_count": 4,
+    "independent_director_count": 4,
+    "female_director_count": 1,
+    "female_director_ratio": 8.3,
+    "independent_director_ratio": 33.3,
+    "has_independent_board_chair": false,
+    "has_nominating_committee": true,
+    "has_compensation_committee": true,
+    "policy_shareholdings_ratio": null,
+    "source_url": "https://www.iwatani.co.jp/jpn/ir/stock/shareholders/files/83/stock_convo_83rd.pdf",
+    "notes": "第83回定時株主総会（2026年6月17日）選任。取締役12名（社内8名・社外独立4名）。廣田博清退任により1名減。女性1名（齋藤友紀）8.3%で依然10%未達。社外比率33.3%（ちょうど1/3）。人事・報酬委員会（諮問委員会）委員長：森詳介。"
   }
 ]
