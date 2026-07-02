@@ -113,6 +113,14 @@ jobs:
         if: ${{ env.EDINET_API_KEY != '' }}
         run: npm run edinet:merge-sources
 
+      - name: Collect AGM vote results from 臨時報告書 (incremental, last 21 days)
+        if: ${{ env.EDINET_API_KEY != '' }}
+        run: |
+          FROM_DATE=$(date -u -d "21 days ago" +%F)
+          TO_DATE=$(date -u +%F)
+          node scripts/edinet-discover-vote-reports.mjs --from=${FROM_DATE} --to=${TO_DATE} --delay=1500
+          node scripts/edinet-extract-vote-results.mjs --limit=300 --delay=2000
+
       - name: Verify app build
         run: npm run build
 
@@ -149,6 +157,8 @@ jobs:
           add_if_exists "data/generated/*_summary.json"
           add_if_exists "data/generated/download_manifest.json" "data/generated/source_registry.json" "data/generated/opposition_focus_companies.json" "data/generated/investor_opposition_summary.json"
           add_if_exists "data/generated/edinet_filings.json" "data/generated/edinet_download_manifest.json"
+          add_if_exists "data/generated/edinet_vote_reports.json" "data/generated/agm_vote_results_index.json"
+          add_if_exists "data/generated/agm_vote_results/*.json"
           add_if_exists "data/generated/company_fact_coverage.json"
           add_if_exists "data/generated/vote_record_quality_report.json"
           if [ -f "data/generated/opposition_records_by_investor/blackrock.json" ]; then

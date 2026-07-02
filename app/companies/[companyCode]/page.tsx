@@ -10,6 +10,7 @@ import {
   investors,
 } from "@/lib/data";
 import { runJudgment, issueLabels } from "@/lib/inference";
+import { AgmApprovalTrends } from "@/components/AgmApprovalTrends";
 import { ExportButton } from "@/components/ExportButton";
 import { InvestorSelect } from "@/components/InvestorSelect";
 import type { InvestorJudgment, IssueAssessment, IssueType, OppositionLevel, VoteResult } from "@/lib/types";
@@ -467,6 +468,9 @@ export default async function CompanyPage({ params, searchParams }: Props) {
           </a>
         </div>
       </section>
+
+      {/* EDINET臨時報告書からの賛成率推移（データがある企業のみ表示） */}
+      <AgmApprovalTrends companyCode={companyCode} />
 
       <section className="rounded-xl border bg-white p-5 shadow-sm">
         <SectionTitle label="FACT 事実データ" tone="fact" />
