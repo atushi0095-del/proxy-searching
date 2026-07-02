@@ -1,0 +1,112 @@
+{
+  "company_code": "2221",
+  "company_name": "2221",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TY93",
+      "submit_date_time": "2024-06-28 15:29",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TY93",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 39808,
+          "votes_against": 311,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "槇春夫",
+          "votes_for": 37611,
+          "votes_against": 2508,
+          "votes_abstain": 0,
+          "approval_pct": 93.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "槇大介",
+          "votes_for": 39598,
+          "votes_against": 521,
+          "votes_abstain": 0,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "星野忠彦",
+          "votes_for": 39994,
+          "votes_against": 125,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林晴仁",
+          "votes_for": 40005,
+          "votes_against": 114,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青山英之",
+          "votes_for": 40006,
+          "votes_against": 113,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "若月一彦",
+          "votes_for": 40003,
+          "votes_against": 116,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 39999,
+          "votes_against": 120,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:27:00.255Z"
+}

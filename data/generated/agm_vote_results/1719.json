@@ -1,0 +1,88 @@
+{
+  "company_code": "1719",
+  "company_name": "安藤・間",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TY2C",
+      "submit_date_time": "2024-06-28 15:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TY2C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1235259,
+          "votes_against": 2667,
+          "votes_abstain": 20,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）5名の選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "国谷一彦",
+          "votes_for": 1232461,
+          "votes_against": 5817,
+          "votes_abstain": 20,
+          "approval_pct": 99.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）5名の選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小松健",
+          "votes_for": 1232579,
+          "votes_against": 5699,
+          "votes_abstain": 20,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）5名の選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤田正美",
+          "votes_for": 1196009,
+          "votes_against": 42266,
+          "votes_abstain": 20,
+          "approval_pct": 96.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）5名の選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "北川真理子",
+          "votes_for": 1232581,
+          "votes_against": 5697,
+          "votes_abstain": 20,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）5名の選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "桑山三恵子",
+          "votes_for": 1231861,
+          "votes_against": 6417,
+          "votes_abstain": 20,
+          "approval_pct": 99.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:27:14.830Z"
+}

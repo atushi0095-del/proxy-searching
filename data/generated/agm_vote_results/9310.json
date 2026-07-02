@@ -1,0 +1,76 @@
+{
+  "company_code": "9310",
+  "company_name": "日本トランスシティ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXGY",
+      "submit_date_time": "2024-06-28 09:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXGY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 537030,
+          "votes_against": 13386,
+          "votes_abstain": 0,
+          "approval_pct": 97.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役4名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "永田昭夫",
+          "votes_for": 471221,
+          "votes_against": 79246,
+          "votes_abstain": 0,
+          "approval_pct": 85.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役4名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "油家正",
+          "votes_for": 549708,
+          "votes_against": 760,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役4名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "師井勝也",
+          "votes_for": 549750,
+          "votes_against": 718,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役4名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "伊藤友一",
+          "votes_for": 548427,
+          "votes_against": 2041,
+          "votes_abstain": 0,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:39:36.444Z"
+}

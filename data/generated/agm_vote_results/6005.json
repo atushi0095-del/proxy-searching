@@ -1,0 +1,88 @@
+{
+  "company_code": "6005",
+  "company_name": "三浦工業",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYY3",
+      "submit_date_time": "2024-07-01 16:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYY3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 979961,
+          "votes_against": 426,
+          "votes_abstain": 4,
+          "approval_pct": 99.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮内大介",
+          "votes_for": 927128,
+          "votes_against": 53310,
+          "votes_abstain": 4,
+          "approval_pct": 94.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "米田剛",
+          "votes_for": 921932,
+          "votes_against": 58040,
+          "votes_abstain": 469,
+          "approval_pct": 93.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣井政幸",
+          "votes_for": 951681,
+          "votes_against": 28757,
+          "votes_abstain": 4,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河本憲一",
+          "votes_for": 969372,
+          "votes_against": 11066,
+          "votes_abstain": 4,
+          "approval_pct": 98.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "樋口建史",
+          "votes_for": 960145,
+          "votes_against": 20294,
+          "votes_abstain": 4,
+          "approval_pct": 97.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:15:40.221Z"
+}

@@ -1,0 +1,28 @@
+{
+  "company_code": "8308",
+  "company_name": "りそなホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TXLF",
+      "submit_date_time": "2024-06-28 10:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXLF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 19240093,
+          "votes_against": 13450,
+          "votes_abstain": 22005,
+          "approval_pct": 99.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:37:08.376Z"
+}

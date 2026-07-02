@@ -1,0 +1,52 @@
+{
+  "company_code": "1723",
+  "company_name": "企業 1723",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TX5D",
+      "submit_date_time": "2024-06-28 15:59",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TX5D",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 68571,
+          "votes_against": 73,
+          "votes_abstain": 0,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "島田良介眞明良信田村春夫小林義明",
+          "votes_for": 68527682136821465000,
+          "votes_against": 117376375123,
+          "votes_abstain": 555555,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "工藤道弘河村一二",
+          "votes_for": 6848658935,
+          "votes_against": 1039654,
+          "votes_abstain": 5555,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:26:02.718Z"
+}

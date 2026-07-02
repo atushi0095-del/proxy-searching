@@ -1,0 +1,64 @@
+{
+  "company_code": "2475",
+  "company_name": "ＷＤＢホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TTUE",
+      "submit_date_time": "2024-06-26 11:40",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TTUE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 173894,
+          "votes_against": 1854,
+          "votes_abstain": null,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件中野敏光大塚美樹加藤正久黒田清行木村裕史",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 1.6278617334517325e+29,
+          "votes_against": 1.2957240324941815e+22,
+          "votes_abstain": null,
+          "approval_pct": 92.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件鵜飼茂一濱田聡有田知德",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 172381157611157630,
+          "votes_against": 33611813318128,
+          "votes_abstain": null,
+          "approval_pct": 98.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案退任取締役に対する退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 129405,
+          "votes_against": 46343,
+          "votes_abstain": null,
+          "approval_pct": 73.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:02:14.959Z"
+}

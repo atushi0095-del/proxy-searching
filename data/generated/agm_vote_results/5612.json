@@ -1,0 +1,64 @@
+{
+  "company_code": "5612",
+  "company_name": "日本鋳鉄管",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TWRA",
+      "submit_date_time": "2024-06-28 10:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TWRA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 21257,
+          "votes_against": 340,
+          "votes_abstain": null,
+          "approval_pct": 98.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "奥村一郎山内崇秋山礼子",
+          "votes_for": 203152016820710,
+          "votes_against": 12821429887,
+          "votes_abstain": null,
+          "approval_pct": 94.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "宇田斉",
+          "votes_for": 20502,
+          "votes_against": 1093,
+          "votes_abstain": null,
+          "approval_pct": 94.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山内宏和",
+          "votes_for": 20152,
+          "votes_against": 1445,
+          "votes_abstain": null,
+          "approval_pct": 93.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:37:05.987Z"
+}

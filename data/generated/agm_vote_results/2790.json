@@ -1,0 +1,76 @@
+{
+  "company_code": "2790",
+  "company_name": "ﾅﾌｺ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TX76",
+      "submit_date_time": "2024-06-28 11:23",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TX76",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 240424,
+          "votes_against": 6815,
+          "votes_abstain": 0,
+          "approval_pct": 97.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "小林浩一",
+          "votes_for": 238963,
+          "votes_against": 8274,
+          "votes_abstain": 0,
+          "approval_pct": 96.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "藤井晋",
+          "votes_for": 240340,
+          "votes_against": 6899,
+          "votes_abstain": 0,
+          "approval_pct": 97.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "小島智也",
+          "votes_for": 240337,
+          "votes_against": 6902,
+          "votes_abstain": 0,
+          "approval_pct": 97.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案退任取締役に対し退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 182577,
+          "votes_against": 64662,
+          "votes_abstain": 0,
+          "approval_pct": 73.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:35:53.962Z"
+}

@@ -1,0 +1,52 @@
+{
+  "company_code": "4894",
+  "company_name": "クオリプス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TYFQ",
+      "submit_date_time": "2024-07-01 09:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYFQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "草薙尊之澤芳樹谷村忠幸鮫島正吉田憲一郎",
+          "votes_for": 4.944349441494475e+24,
+          "votes_against": 4850445346,
+          "votes_abstain": null,
+          "approval_pct": 96.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芦田典裕",
+          "votes_for": 49434,
+          "votes_against": 57,
+          "votes_abstain": null,
+          "approval_pct": 96.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 49395,
+          "votes_against": 96,
+          "votes_abstain": null,
+          "approval_pct": 96.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:22:49.878Z"
+}

@@ -1,0 +1,40 @@
+{
+  "company_code": "4113",
+  "company_name": "田岡化学工業",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-24",
+      "meeting_year": 2024,
+      "doc_id": "S100TOY5",
+      "submit_date_time": "2024-06-24 15:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TOY5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案佐々木康彰岩崎明松尾俊二伊美勝治伊瀨基之岡嶋謙福田加奈子田辺陽",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 9.740310013510011e+45,
+          "votes_against": 5.331259926272601e+31,
+          "votes_abstain": 0,
+          "approval_pct": 94.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案乾禄治藤咲雄司矢倉昌子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 101681101272101570,
+          "votes_against": 105914681168,
+          "votes_abstain": 0,
+          "approval_pct": 98.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:12:50.152Z"
+}

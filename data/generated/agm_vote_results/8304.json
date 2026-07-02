@@ -1,0 +1,52 @@
+{
+  "company_code": "8304",
+  "company_name": "あおぞら銀行",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TV26",
+      "submit_date_time": "2024-06-27 15:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TV26",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案1．山越康司2．大見秀人3．小原正好4．橘・フクシマ・咲江5．髙橋秀行6．齋藤英明7．加藤尚8．多田野宏一9．川島博政",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6.570176568126691e+53,
+          "votes_against": 4.458344788325073e+45,
+          "votes_abstain": 111111111111111100,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 680212,
+          "votes_against": 21400,
+          "votes_abstain": 0,
+          "approval_pct": 96.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案1．姫野浩二2．岡研三",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 681063681711,
+          "votes_against": 2057219924,
+          "votes_abstain": 11,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:46:07.439Z"
+}

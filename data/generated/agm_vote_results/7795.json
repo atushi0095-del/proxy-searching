@@ -1,0 +1,76 @@
+{
+  "company_code": "7795",
+  "company_name": "ＫＹＯＲＩＴＳＵ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYZX",
+      "submit_date_time": "2024-07-02 11:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYZX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "景山豊",
+          "votes_for": 294060,
+          "votes_against": 17728,
+          "votes_abstain": 71,
+          "approval_pct": 94.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田坂優英",
+          "votes_for": 310400,
+          "votes_against": 1388,
+          "votes_abstain": 71,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤本三千夫",
+          "votes_for": 309785,
+          "votes_against": 2003,
+          "votes_abstain": 71,
+          "approval_pct": 99.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "亀井雅彦",
+          "votes_for": 310272,
+          "votes_against": 1516,
+          "votes_abstain": 71,
+          "approval_pct": 99.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "北沢豪",
+          "votes_for": 283036,
+          "votes_against": 28821,
+          "votes_abstain": 2,
+          "approval_pct": 90.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:14:24.096Z"
+}

@@ -1,0 +1,100 @@
+{
+  "company_code": "6517",
+  "company_name": "デンヨー",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TPBO",
+      "submit_date_time": "2024-06-28 17:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TPBO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白鳥昌一",
+          "votes_for": 176034,
+          "votes_against": 10615,
+          "votes_abstain": 19,
+          "approval_pct": 94.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉永隆法",
+          "votes_for": 176048,
+          "votes_against": 10601,
+          "votes_abstain": 19,
+          "approval_pct": 94.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田正雄",
+          "votes_for": 183178,
+          "votes_against": 3461,
+          "votes_abstain": 29,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田邊誠",
+          "votes_for": 183129,
+          "votes_against": 3500,
+          "votes_abstain": 39,
+          "approval_pct": 97.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大友建一",
+          "votes_for": 183167,
+          "votes_against": 3453,
+          "votes_abstain": 48,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "港正一",
+          "votes_for": 186364,
+          "votes_against": 246,
+          "votes_abstain": 58,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武山芳夫",
+          "votes_for": 183056,
+          "votes_against": 3554,
+          "votes_abstain": 58,
+          "approval_pct": 97.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:24:17.487Z"
+}

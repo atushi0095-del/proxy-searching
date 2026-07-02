@@ -1,0 +1,88 @@
+{
+  "company_code": "7476",
+  "company_name": "アズワン",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TYQR",
+      "submit_date_time": "2024-07-02 09:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYQR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井内卓嗣",
+          "votes_for": 304336,
+          "votes_against": 24547,
+          "votes_abstain": 331,
+          "approval_pct": 92.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山田一人",
+          "votes_for": 319049,
+          "votes_against": 5702,
+          "votes_abstain": 4464,
+          "approval_pct": 96.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "原俊樹",
+          "votes_for": 319036,
+          "votes_against": 5715,
+          "votes_abstain": 4464,
+          "approval_pct": 96.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "西川圭介",
+          "votes_for": 319076,
+          "votes_against": 5675,
+          "votes_abstain": 4464,
+          "approval_pct": 96.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小滝一彦",
+          "votes_for": 325507,
+          "votes_against": 3704,
+          "votes_abstain": 4,
+          "approval_pct": 98.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "林尚美",
+          "votes_for": 329150,
+          "votes_against": 152,
+          "votes_abstain": 4,
+          "approval_pct": 99.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:15:17.285Z"
+}

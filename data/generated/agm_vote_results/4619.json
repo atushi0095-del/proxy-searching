@@ -1,0 +1,52 @@
+{
+  "company_code": "4619",
+  "company_name": "日本特殊塗料",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TSA2",
+      "submit_date_time": "2024-06-25 13:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TSA2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 164734,
+          "votes_against": 10640,
+          "votes_abstain": 0,
+          "approval_pct": 93.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋善樹",
+          "votes_for": 174918,
+          "votes_against": 460,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松藤斉",
+          "votes_for": 174841,
+          "votes_against": 537,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:07:46.468Z"
+}

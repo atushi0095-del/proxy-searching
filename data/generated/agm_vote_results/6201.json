@@ -1,0 +1,40 @@
+{
+  "company_code": "6201",
+  "company_name": "豊田自動織機",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-11",
+      "meeting_year": 2024,
+      "doc_id": "S100TL5B",
+      "submit_date_time": "2024-06-12 11:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TL5B",
+      "proposals": [
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2868064,
+          "votes_against": 361,
+          "votes_abstain": 30,
+          "approval_pct": 99.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2860824,
+          "votes_against": 6482,
+          "votes_abstain": 1149,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:28:38.395Z"
+}

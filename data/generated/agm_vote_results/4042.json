@@ -1,0 +1,40 @@
+{
+  "company_code": "4042",
+  "company_name": "東ソー",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TRD6",
+      "submit_date_time": "2024-06-24 16:43",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TRD6",
+      "proposals": [
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役に対する譲渡制限付株式の割当てのための報酬等の改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 2482980,
+          "votes_against": 14348,
+          "votes_abstain": 1517,
+          "approval_pct": 99.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査役の報酬額の改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 2493761,
+          "votes_against": 3791,
+          "votes_abstain": 1298,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:10:24.246Z"
+}

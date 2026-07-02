@@ -1,0 +1,64 @@
+{
+  "company_code": "8273",
+  "company_name": "イズミ",
+  "meetings": [
+    {
+      "meeting_date": "2024-05-29",
+      "meeting_year": 2024,
+      "doc_id": "S100TJON",
+      "submit_date_time": "2024-06-03 11:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TJON",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 562188,
+          "votes_against": 83942,
+          "votes_abstain": 4476,
+          "approval_pct": 86.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役1名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 645710,
+          "votes_against": 810,
+          "votes_abstain": 4094,
+          "approval_pct": 99.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "堀川智子",
+          "votes_for": 559741,
+          "votes_against": 86549,
+          "votes_abstain": 4309,
+          "approval_pct": 86.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "岡田弘隆",
+          "votes_for": 559713,
+          "votes_against": 86577,
+          "votes_abstain": 4309,
+          "approval_pct": 86.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:31:17.842Z"
+}

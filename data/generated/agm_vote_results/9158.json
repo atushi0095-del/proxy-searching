@@ -1,0 +1,100 @@
+{
+  "company_code": "9158",
+  "company_name": "ｼｰﾕｰｼｰ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXZF",
+      "submit_date_time": "2024-06-28 13:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXZF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 283816,
+          "votes_against": 1316,
+          "votes_abstain": null,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濵口慶太",
+          "votes_for": 264962,
+          "votes_against": 20170,
+          "votes_abstain": null,
+          "approval_pct": 92.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田邉隆通",
+          "votes_for": 282781,
+          "votes_against": 2351,
+          "votes_abstain": null,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "桶谷主税",
+          "votes_for": 282784,
+          "votes_against": 2348,
+          "votes_abstain": null,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "光原ゆき",
+          "votes_for": 282792,
+          "votes_against": 2340,
+          "votes_abstain": null,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大澤玄",
+          "votes_for": 282799,
+          "votes_against": 2333,
+          "votes_abstain": null,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大場啓史",
+          "votes_for": 282800,
+          "votes_against": 2332,
+          "votes_abstain": null,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:32:09.022Z"
+}

@@ -1,0 +1,52 @@
+{
+  "company_code": "6257",
+  "company_name": "藤商事",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TUPD",
+      "submit_date_time": "2024-06-27 10:17",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TUPD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案松元邦夫松元正夫今山武成松下智人當仲信秀",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.6127116671816137e+29,
+          "votes_against": 754620997440982000,
+          "votes_abstain": 2020202020,
+          "approval_pct": 93.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案市川雅和岩松登川島育也帆足智典",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.6780516787216137e+23,
+          "votes_against": 10129457446854,
+          "votes_abstain": 20202020,
+          "approval_pct": 97.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 167636,
+          "votes_against": 1181,
+          "votes_abstain": 20,
+          "approval_pct": 97.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:53:21.225Z"
+}

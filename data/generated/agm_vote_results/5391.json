@@ -1,0 +1,76 @@
+{
+  "company_code": "5391",
+  "company_name": "エーアンドエーマテリアル",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TY75",
+      "submit_date_time": "2024-07-01 10:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TY75",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 55368,
+          "votes_against": 687,
+          "votes_abstain": 2,
+          "approval_pct": 98.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 55277,
+          "votes_against": 778,
+          "votes_abstain": 2,
+          "approval_pct": 98.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件巻野徹大橋徹也大島武人髙原一登田倉榮美菅谷朋子",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 5.329755242552486e+29,
+          "votes_against": 275881380780625300000,
+          "votes_abstain": 222222,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件鶴見真利子森田泰",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 5286850247,
+          "votes_against": 31875808,
+          "votes_abstain": 22,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠監査役1名選任の件小堀幸生",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 50247,
+          "votes_against": 5808,
+          "votes_abstain": 2,
+          "approval_pct": 89.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:22:01.571Z"
+}

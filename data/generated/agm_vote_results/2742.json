@@ -1,0 +1,28 @@
+{
+  "company_code": "2742",
+  "company_name": "ハローズ",
+  "meetings": [
+    {
+      "meeting_date": "2024-05-23",
+      "meeting_year": 2024,
+      "doc_id": "S100TJE6",
+      "submit_date_time": "2024-05-31 10:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TJE6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案佐藤利行佐藤太志花岡秀典髙橋正名末光憲司小塩登美子砂田健二佐藤新三大原崇典藤井義則池田千明",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.5838816132716132e+65,
+          "votes_against": 3.338399396397395e+33,
+          "votes_abstain": null,
+          "approval_pct": 86.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:32:42.257Z"
+}

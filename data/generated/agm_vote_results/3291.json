@@ -1,0 +1,40 @@
+{
+  "company_code": "3291",
+  "company_name": "飯田グループホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TY7T",
+      "submit_date_time": "2024-06-28 15:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TY7T",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2456652,
+          "votes_against": 932,
+          "votes_abstain": null,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本創",
+          "votes_for": 2540493,
+          "votes_against": 1318,
+          "votes_abstain": null,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:27:17.129Z"
+}

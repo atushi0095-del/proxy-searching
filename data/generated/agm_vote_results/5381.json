@@ -1,0 +1,88 @@
+{
+  "company_code": "5381",
+  "company_name": "Ｍｉｐｏｘ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TUIA",
+      "submit_date_time": "2024-06-26 15:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TUIA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渡邉淳",
+          "votes_for": 60180,
+          "votes_against": 7907,
+          "votes_abstain": 0,
+          "approval_pct": 88.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中川健二",
+          "votes_for": 65449,
+          "votes_against": 2638,
+          "votes_abstain": 0,
+          "approval_pct": 96.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "上谷宗久",
+          "votes_for": 65484,
+          "votes_against": 2603,
+          "votes_abstain": 0,
+          "approval_pct": 96.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長井正和",
+          "votes_for": 60152,
+          "votes_against": 7935,
+          "votes_abstain": 0,
+          "approval_pct": 88.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加藤洋美",
+          "votes_for": 65438,
+          "votes_against": 2649,
+          "votes_abstain": 0,
+          "approval_pct": 96.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（社外取締役を除く。）に対する譲渡制限付株式報酬制度の改定の件の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 65734,
+          "votes_against": 3175,
+          "votes_abstain": 0,
+          "approval_pct": 95.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:58:41.885Z"
+}

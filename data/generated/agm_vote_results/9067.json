@@ -1,0 +1,88 @@
+{
+  "company_code": "9067",
+  "company_name": "丸運",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TX88",
+      "submit_date_time": "2024-06-28 09:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TX88",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐久間成安",
+          "votes_for": 173269,
+          "votes_against": 5086,
+          "votes_abstain": 0,
+          "approval_pct": 95.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村正幸",
+          "votes_for": 177043,
+          "votes_against": 1312,
+          "votes_abstain": 0,
+          "approval_pct": 97.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中澤晃成",
+          "votes_for": 177165,
+          "votes_against": 1190,
+          "votes_abstain": 0,
+          "approval_pct": 97.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "太内義明",
+          "votes_for": 170156,
+          "votes_against": 8199,
+          "votes_abstain": 0,
+          "approval_pct": 94.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中澤謙二",
+          "votes_for": 168496,
+          "votes_against": 9869,
+          "votes_abstain": 0,
+          "approval_pct": 93.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鳴瀧英也",
+          "votes_for": 177336,
+          "votes_against": 1029,
+          "votes_abstain": 0,
+          "approval_pct": 98.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:39:50.699Z"
+}

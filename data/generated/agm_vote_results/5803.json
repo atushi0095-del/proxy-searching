@@ -1,0 +1,64 @@
+{
+  "company_code": "5803",
+  "company_name": "フジクラ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYRX",
+      "submit_date_time": "2024-07-01 14:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYRX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2237521,
+          "votes_against": 1100,
+          "votes_abstain": 0,
+          "approval_pct": 98.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡田直樹",
+          "votes_for": 2045822,
+          "votes_against": 192593,
+          "votes_abstain": 1465,
+          "approval_pct": 90.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂野達也",
+          "votes_for": 2168546,
+          "votes_against": 71338,
+          "votes_abstain": 0,
+          "approval_pct": 95.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯島和人",
+          "votes_for": 2214796,
+          "votes_against": 25087,
+          "votes_abstain": 0,
+          "approval_pct": 97.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:18:57.038Z"
+}

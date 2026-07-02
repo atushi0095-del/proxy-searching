@@ -1,0 +1,64 @@
+{
+  "company_code": "8609",
+  "company_name": "岡三証券グループ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXPM",
+      "submit_date_time": "2024-06-28 11:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXPM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新芝宏之",
+          "votes_for": 1711400,
+          "votes_against": 14615,
+          "votes_abstain": 122,
+          "approval_pct": 99.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田嘉宏",
+          "votes_for": 1721146,
+          "votes_against": 4871,
+          "votes_abstain": 122,
+          "approval_pct": 99.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1723827,
+          "votes_against": 1888,
+          "votes_abstain": 471,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1724293,
+          "votes_against": 1562,
+          "votes_abstain": 511,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:35:10.058Z"
+}

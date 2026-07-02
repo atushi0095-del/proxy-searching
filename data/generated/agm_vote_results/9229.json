@@ -1,0 +1,76 @@
+{
+  "company_code": "9229",
+  "company_name": "サンウェルズ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXDJ",
+      "submit_date_time": "2024-06-28 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXDJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 232616,
+          "votes_against": 16863,
+          "votes_abstain": null,
+          "approval_pct": 91.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "苗代亮達",
+          "votes_for": 237659,
+          "votes_against": 11824,
+          "votes_abstain": null,
+          "approval_pct": 93.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "越野亨",
+          "votes_for": 245532,
+          "votes_against": 3951,
+          "votes_abstain": null,
+          "approval_pct": 97.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長山知広",
+          "votes_for": 245544,
+          "votes_against": 3939,
+          "votes_abstain": null,
+          "approval_pct": 97.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上野英一",
+          "votes_for": 245529,
+          "votes_against": 3954,
+          "votes_abstain": null,
+          "approval_pct": 97.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:41:57.975Z"
+}

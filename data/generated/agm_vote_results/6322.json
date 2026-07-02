@@ -1,0 +1,100 @@
+{
+  "company_code": "6322",
+  "company_name": "タクミナ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-19",
+      "meeting_year": 2024,
+      "doc_id": "S100TO88",
+      "submit_date_time": "2024-06-20 09:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TO88",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 63313,
+          "votes_against": 16,
+          "votes_abstain": 0,
+          "approval_pct": 99.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田信彦",
+          "votes_for": 63155,
+          "votes_against": 174,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田圭祐",
+          "votes_for": 63159,
+          "votes_against": 170,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白岩源史",
+          "votes_for": 62994,
+          "votes_against": 335,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上博公",
+          "votes_for": 63307,
+          "votes_against": 22,
+          "votes_abstain": 0,
+          "approval_pct": 99.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田裕",
+          "votes_for": 63307,
+          "votes_against": 22,
+          "votes_abstain": 0,
+          "approval_pct": 99.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "打田幸生",
+          "votes_for": 63301,
+          "votes_against": 28,
+          "votes_abstain": 0,
+          "approval_pct": 99.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:24:07.487Z"
+}

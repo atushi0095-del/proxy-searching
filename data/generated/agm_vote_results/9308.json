@@ -1,0 +1,88 @@
+{
+  "company_code": "9308",
+  "company_name": "乾汽船",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TRSI",
+      "submit_date_time": "2024-06-25 14:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TRSI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 157131,
+          "votes_against": 6803,
+          "votes_abstain": 1,
+          "approval_pct": 95.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "乾康之",
+          "votes_for": 155602,
+          "votes_against": 10766,
+          "votes_abstain": 4,
+          "approval_pct": 93.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "乾隆志",
+          "votes_for": 162856,
+          "votes_against": 3512,
+          "votes_abstain": 4,
+          "approval_pct": 97.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神林伸光",
+          "votes_for": 162751,
+          "votes_against": 3617,
+          "votes_abstain": 4,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村上章二",
+          "votes_for": 162787,
+          "votes_against": 3581,
+          "votes_abstain": 4,
+          "approval_pct": 97.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩田研一",
+          "votes_for": 162785,
+          "votes_against": 3583,
+          "votes_abstain": 4,
+          "approval_pct": 97.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:07:01.075Z"
+}

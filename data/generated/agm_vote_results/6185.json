@@ -1,0 +1,88 @@
+{
+  "company_code": "6185",
+  "company_name": "ＳＭＮ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TYD3",
+      "submit_date_time": "2024-06-28 16:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYD3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "原山直樹",
+          "votes_for": 103467,
+          "votes_against": 5284,
+          "votes_abstain": null,
+          "approval_pct": 95.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安田崇浩",
+          "votes_for": 104573,
+          "votes_against": 4178,
+          "votes_abstain": null,
+          "approval_pct": 96.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中川典宜",
+          "votes_for": 103897,
+          "votes_against": 4854,
+          "votes_abstain": null,
+          "approval_pct": 95.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "本間俊之",
+          "votes_for": 104394,
+          "votes_against": 4357,
+          "votes_abstain": null,
+          "approval_pct": 95.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉村正直",
+          "votes_for": 103323,
+          "votes_against": 5428,
+          "votes_abstain": null,
+          "approval_pct": 94.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "相内泰和",
+          "votes_for": 104264,
+          "votes_against": 4487,
+          "votes_abstain": null,
+          "approval_pct": 95.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:25:01.107Z"
+}

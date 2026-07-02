@@ -1,0 +1,64 @@
+{
+  "company_code": "4538",
+  "company_name": "扶桑薬品工業",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TTO9",
+      "submit_date_time": "2024-06-26 10:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TTO9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 67355,
+          "votes_against": 262,
+          "votes_abstain": 0,
+          "approval_pct": 99.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "桑田順司",
+          "votes_for": 67405,
+          "votes_against": 339,
+          "votes_abstain": 1,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "青本悦男",
+          "votes_for": 59000,
+          "votes_against": 8744,
+          "votes_abstain": 1,
+          "approval_pct": 87.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "楢﨑隆章",
+          "votes_for": 67397,
+          "votes_against": 347,
+          "votes_abstain": 1,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:03:15.842Z"
+}

@@ -1,0 +1,100 @@
+{
+  "company_code": "4662",
+  "company_name": "フォーカスシステムズ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYLT",
+      "submit_date_time": "2024-07-01 11:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYLT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 111778,
+          "votes_against": 686,
+          "votes_abstain": 0,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 104913,
+          "votes_against": 7551,
+          "votes_abstain": 0,
+          "approval_pct": 93.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森啓一",
+          "votes_for": 93983,
+          "votes_against": 18481,
+          "votes_abstain": 0,
+          "approval_pct": 83.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "瀬尾勘太",
+          "votes_for": 111262,
+          "votes_against": 1202,
+          "votes_abstain": 0,
+          "approval_pct": 98.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "秋山エリカ",
+          "votes_for": 111154,
+          "votes_against": 1310,
+          "votes_abstain": 0,
+          "approval_pct": 98.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "髙橋功",
+          "votes_for": 110960,
+          "votes_against": 1504,
+          "votes_abstain": 0,
+          "approval_pct": 98.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "松原陽子",
+          "votes_for": 111370,
+          "votes_against": 1094,
+          "votes_abstain": 0,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:21:06.055Z"
+}

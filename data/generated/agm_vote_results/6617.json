@@ -1,0 +1,40 @@
+{
+  "company_code": "6617",
+  "company_name": "東光高岳",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TWL2",
+      "submit_date_time": "2024-06-27 14:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TWL2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 117150,
+          "votes_against": 7216,
+          "votes_abstain": 0,
+          "approval_pct": 94.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "高田裕一郎守谷誠二若山達也和田希志子",
+          "votes_for": 1.076307979911757e+22,
+          "votes_against": 167394457067992800,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:47:25.878Z"
+}

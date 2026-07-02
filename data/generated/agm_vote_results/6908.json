@@ -1,0 +1,52 @@
+{
+  "company_code": "6908",
+  "company_name": "イリソ電子工業",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TSNY",
+      "submit_date_time": "2024-06-25 15:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TSNY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 174737,
+          "votes_against": 330,
+          "votes_abstain": 6743,
+          "approval_pct": 96.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐藤定雄鈴木仁豊嶋光由武田佳司大平明彦",
+          "votes_for": 1.3206512655413476e+29,
+          "votes_against": 36769185985979976,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮内敏彦藤田浩司佐藤登柴田雅久内田明美",
+          "votes_for": 1.3137312514913515e+29,
+          "votes_against": 43631059258325370000,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:06:05.335Z"
+}

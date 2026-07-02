@@ -1,0 +1,88 @@
+{
+  "company_code": "8181",
+  "company_name": "東天紅",
+  "meetings": [
+    {
+      "meeting_date": "2024-05-23",
+      "meeting_year": 2024,
+      "doc_id": "S100TJ4K",
+      "submit_date_time": "2024-05-31 10:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TJ4K",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "剰余金の処分の件",
+          "votes_for": 17107,
+          "votes_against": 329,
+          "votes_abstain": 0,
+          "approval_pct": 98.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本恵司",
+          "votes_for": 15701,
+          "votes_against": 1735,
+          "votes_abstain": 0,
+          "approval_pct": 90.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北村吉男",
+          "votes_for": 15868,
+          "votes_against": 1568,
+          "votes_abstain": 0,
+          "approval_pct": 91.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅沼俊之",
+          "votes_for": 17089,
+          "votes_against": 347,
+          "votes_abstain": null,
+          "approval_pct": 98.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉宣昭",
+          "votes_for": 15967,
+          "votes_against": 1469,
+          "votes_abstain": 0,
+          "approval_pct": 91.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤口祐治",
+          "votes_for": 16989,
+          "votes_against": 447,
+          "votes_abstain": 0,
+          "approval_pct": 97.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:32:44.655Z"
+}

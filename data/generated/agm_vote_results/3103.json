@@ -1,0 +1,100 @@
+{
+  "company_code": "3103",
+  "company_name": "ユニチカ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TX3Z",
+      "submit_date_time": "2024-06-28 13:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TX3Z",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上埜修司",
+          "votes_for": 254421,
+          "votes_against": 45949,
+          "votes_abstain": 663,
+          "approval_pct": 83.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北野正和",
+          "votes_for": 258923,
+          "votes_against": 41447,
+          "votes_abstain": 663,
+          "approval_pct": 84.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久内克秀",
+          "votes_for": 285130,
+          "votes_against": 15240,
+          "votes_abstain": 663,
+          "approval_pct": 93.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松田常俊",
+          "votes_for": 259346,
+          "votes_against": 41024,
+          "votes_abstain": 663,
+          "approval_pct": 84.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "古川実",
+          "votes_for": 257431,
+          "votes_against": 42939,
+          "votes_abstain": 663,
+          "approval_pct": 84.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石川路子",
+          "votes_for": 259843,
+          "votes_against": 20527,
+          "votes_abstain": 663,
+          "approval_pct": 84.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林二郎",
+          "votes_for": 287587,
+          "votes_against": 13197,
+          "votes_abstain": 249,
+          "approval_pct": 93.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:34:03.078Z"
+}

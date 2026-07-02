@@ -1,0 +1,40 @@
+{
+  "company_code": "3847",
+  "company_name": "パシフィックシステム",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TR90",
+      "submit_date_time": "2024-06-24 16:26",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TR90",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "髙橋勉松下満俊",
+          "votes_for": 1227212272,
+          "votes_against": 5757,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "百木田実上田慎",
+          "votes_for": 1224612263,
+          "votes_against": 8366,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:10:41.131Z"
+}

@@ -1,0 +1,40 @@
+{
+  "company_code": "8344",
+  "company_name": "山形銀行",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TURI",
+      "submit_date_time": "2024-06-28 10:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TURI",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "垂石卓朗五味康昌押野正德岡本明子",
+          "votes_for": 2.0435417812420818e+23,
+          "votes_against": 29319555482550616000,
+          "votes_abstain": 0,
+          "approval_pct": 99.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役に対する業績連動型株式報酬制度の内容改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 233255,
+          "votes_against": 418,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:38:15.536Z"
+}

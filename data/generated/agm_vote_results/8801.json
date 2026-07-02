@@ -1,0 +1,124 @@
+{
+  "company_code": "8801",
+  "company_name": "三井不動産",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYKG",
+      "submit_date_time": "2024-07-01 15:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYKG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7991843,
+          "votes_against": 2569,
+          "votes_abstain": 1568,
+          "approval_pct": 99.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7992795,
+          "votes_against": 1617,
+          "votes_abstain": 1568,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "斎藤裕",
+          "votes_for": 7457602,
+          "votes_against": 528998,
+          "votes_abstain": 9355,
+          "approval_pct": 93.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "持丸信彦",
+          "votes_for": 7648309,
+          "votes_against": 338291,
+          "votes_abstain": 9355,
+          "approval_pct": 95.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "日比野隆司",
+          "votes_for": 7988993,
+          "votes_against": 5406,
+          "votes_abstain": 1568,
+          "approval_pct": 99.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "広川義浩",
+          "votes_for": 7899265,
+          "votes_against": 95128,
+          "votes_abstain": 1568,
+          "approval_pct": 98.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千葉通子",
+          "votes_for": 7988814,
+          "votes_against": 5587,
+          "votes_abstain": 1568,
+          "approval_pct": 99.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7926902,
+          "votes_against": 52534,
+          "votes_abstain": 16517,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7953538,
+          "votes_against": 25923,
+          "votes_abstain": 16517,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:17:24.399Z"
+}

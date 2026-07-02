@@ -1,0 +1,40 @@
+{
+  "company_code": "3561",
+  "company_name": "力の源ホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TY9V",
+      "submit_date_time": "2024-06-28 16:42",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TY9V",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件河原成美山根智之中尾徹",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 216232216280225660,
+          "votes_against": 11947118992525,
+          "votes_abstain": 111,
+          "approval_pct": 94.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠の監査等委員である取締役1名選任の件松田洋志",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 221853,
+          "votes_against": 6563,
+          "votes_abstain": 1,
+          "approval_pct": 97.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:24:27.076Z"
+}

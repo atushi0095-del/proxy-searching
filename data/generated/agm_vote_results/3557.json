@@ -1,0 +1,100 @@
+{
+  "company_code": "3557",
+  "company_name": "ユナイテッド＆コレクティブ",
+  "meetings": [
+    {
+      "meeting_date": "2024-05-31",
+      "meeting_year": 2024,
+      "doc_id": "S100TJA7",
+      "submit_date_time": "2024-05-31 15:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TJA7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "坂井英也",
+          "votes_for": 25334,
+          "votes_against": 325,
+          "votes_abstain": 0,
+          "approval_pct": 98.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "矢野秀樹",
+          "votes_for": 25339,
+          "votes_against": 320,
+          "votes_abstain": 0,
+          "approval_pct": 98.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "金田欧奈",
+          "votes_for": 25321,
+          "votes_against": 338,
+          "votes_abstain": 0,
+          "approval_pct": 98.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山下博嗣",
+          "votes_for": 25338,
+          "votes_against": 323,
+          "votes_abstain": 0,
+          "approval_pct": 98.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山下彰俊",
+          "votes_for": 25339,
+          "votes_against": 322,
+          "votes_abstain": 0,
+          "approval_pct": 98.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "兒玉洋貴",
+          "votes_for": 25336,
+          "votes_against": 325,
+          "votes_abstain": 0,
+          "approval_pct": 98.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 25372,
+          "votes_against": 291,
+          "votes_abstain": 0,
+          "approval_pct": 98.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:31:46.659Z"
+}

@@ -1,0 +1,52 @@
+{
+  "company_code": "5644",
+  "company_name": "ﾒﾀﾙｱｰﾄ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TYSI",
+      "submit_date_time": "2024-07-01 14:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYSI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "友岡正明武田正臣福本照久竹林満浩荻野奈緒",
+          "votes_for": 1.8816188231882819e+24,
+          "votes_against": 1097109010851101200,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "溝井辰雄中谷信樹村松千左子",
+          "votes_for": 188341828119231,
+          "votes_against": 10791632682,
+          "votes_abstain": 0,
+          "approval_pct": 99.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "有村隆",
+          "votes_for": 19749,
+          "votes_against": 164,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:18:41.982Z"
+}

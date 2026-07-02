@@ -1,0 +1,100 @@
+{
+  "company_code": "8999",
+  "company_name": "グランディハウス",
+  "meetings": [
+    {
+      "meeting_date": "2024-07-01",
+      "meeting_year": 2024,
+      "doc_id": "S100TYUF",
+      "submit_date_time": "2024-07-01 16:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYUF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "林裕朗",
+          "votes_for": 202871,
+          "votes_against": 27531,
+          "votes_abstain": 0,
+          "approval_pct": 87.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐山靖",
+          "votes_for": 205274,
+          "votes_against": 25128,
+          "votes_abstain": 0,
+          "approval_pct": 88.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "齋藤淳夫",
+          "votes_for": 226667,
+          "votes_against": 3735,
+          "votes_abstain": 0,
+          "approval_pct": 97.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "谷英樹",
+          "votes_for": 226724,
+          "votes_against": 3678,
+          "votes_abstain": 0,
+          "approval_pct": 97.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案退任取締役(監査等委員である取締役を除く。)に対する退職慰労金及び特別功労金贈呈の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 203482,
+          "votes_against": 26920,
+          "votes_abstain": 0,
+          "approval_pct": 87.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。）及び監査等委員である取締役に対する退職慰労金制度廃止に伴う打ち切り支給の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 205640,
+          "votes_against": 24762,
+          "votes_abstain": 0,
+          "approval_pct": 88.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役(監査等委員である取締役及び社外取締役を除く。)に対する譲渡制限付株式の付与のための報酬決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 225724,
+          "votes_against": 4674,
+          "votes_abstain": 0,
+          "approval_pct": 97.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:16:05.441Z"
+}

@@ -1,0 +1,40 @@
+{
+  "company_code": "6365",
+  "company_name": "電業社機械製作所",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXIW",
+      "submit_date_time": "2024-06-28 10:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXIW",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前田治郎",
+          "votes_for": 30985,
+          "votes_against": 848,
+          "votes_abstain": 9,
+          "approval_pct": 97.31,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 30169,
+          "votes_against": 1673,
+          "votes_abstain": 0,
+          "approval_pct": 93.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:38:32.468Z"
+}

@@ -1,0 +1,112 @@
+{
+  "company_code": "2883",
+  "company_name": "大冷",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-18",
+      "meeting_year": 2024,
+      "doc_id": "S100TNVP",
+      "submit_date_time": "2024-06-19 14:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TNVP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 48305,
+          "votes_against": 139,
+          "votes_abstain": 2,
+          "approval_pct": 99.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 48311,
+          "votes_against": 133,
+          "votes_abstain": 2,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締6名選任の件",
+          "proposal_category": "その他",
+          "candidate_name": "冨田史好",
+          "votes_for": 46675,
+          "votes_against": 1767,
+          "votes_abstain": 4,
+          "approval_pct": 96.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締6名選任の件",
+          "proposal_category": "その他",
+          "candidate_name": "髙付広昭",
+          "votes_for": 48218,
+          "votes_against": 224,
+          "votes_abstain": 4,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締6名選任の件",
+          "proposal_category": "その他",
+          "candidate_name": "黒川岳夫",
+          "votes_for": 48208,
+          "votes_against": 234,
+          "votes_abstain": 4,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締6名選任の件",
+          "proposal_category": "その他",
+          "candidate_name": "青木伸一",
+          "votes_for": 48210,
+          "votes_against": 232,
+          "votes_abstain": 4,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締6名選任の件",
+          "proposal_category": "その他",
+          "candidate_name": "苅田英範",
+          "votes_for": 48215,
+          "votes_against": 227,
+          "votes_abstain": 4,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締6名選任の件",
+          "proposal_category": "その他",
+          "candidate_name": "長尾敏成",
+          "votes_for": 48104,
+          "votes_against": 338,
+          "votes_abstain": 4,
+          "approval_pct": 99.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:25:03.389Z"
+}

@@ -1,0 +1,52 @@
+{
+  "company_code": "8107",
+  "company_name": "キムラタン",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXAP",
+      "submit_date_time": "2024-06-28 10:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXAP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役1名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "九鬼祐一郎",
+          "votes_for": 1633808,
+          "votes_against": 36463,
+          "votes_abstain": 0,
+          "approval_pct": 97.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "南靖郎",
+          "votes_for": 1631032,
+          "votes_against": 39911,
+          "votes_abstain": 0,
+          "approval_pct": 97.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "猪塚良弘",
+          "votes_for": 1631228,
+          "votes_against": 39715,
+          "votes_abstain": 0,
+          "approval_pct": 97.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:37:10.616Z"
+}

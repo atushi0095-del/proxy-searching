@@ -1,0 +1,64 @@
+{
+  "company_code": "7971",
+  "company_name": "東リ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-19",
+      "meeting_year": 2024,
+      "doc_id": "S100TP9R",
+      "submit_date_time": "2024-06-21 16:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TP9R",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 434600,
+          "votes_against": 390,
+          "votes_abstain": 0,
+          "approval_pct": 97.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永嶋元博",
+          "votes_for": 424335,
+          "votes_against": 10684,
+          "votes_abstain": 0,
+          "approval_pct": 95.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本昌幸",
+          "votes_for": 433389,
+          "votes_against": 1630,
+          "votes_abstain": 0,
+          "approval_pct": 97.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横田絵理",
+          "votes_for": 433309,
+          "votes_against": 1710,
+          "votes_abstain": 0,
+          "approval_pct": 97.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:16:59.280Z"
+}

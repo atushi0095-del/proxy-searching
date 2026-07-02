@@ -1,0 +1,100 @@
+{
+  "company_code": "3109",
+  "company_name": "シキボウ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXJB",
+      "submit_date_time": "2024-06-28 10:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXJB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 69936,
+          "votes_against": 385,
+          "votes_abstain": 0,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清原幹夫",
+          "votes_for": 61198,
+          "votes_against": 9123,
+          "votes_abstain": 0,
+          "approval_pct": 87.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尻家正博",
+          "votes_for": 59536,
+          "votes_against": 10785,
+          "votes_abstain": 0,
+          "approval_pct": 84.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野邊義郎",
+          "votes_for": 67923,
+          "votes_against": 2398,
+          "votes_abstain": 0,
+          "approval_pct": 96.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宇野保範",
+          "votes_for": 63935,
+          "votes_against": 6386,
+          "votes_abstain": 0,
+          "approval_pct": 90.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "細田祥子",
+          "votes_for": 69522,
+          "votes_against": 799,
+          "votes_abstain": 0,
+          "approval_pct": 98.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 60880,
+          "votes_against": 9439,
+          "votes_abstain": 0,
+          "approval_pct": 86.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:38:13.165Z"
+}

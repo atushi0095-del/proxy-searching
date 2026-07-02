@@ -1,0 +1,28 @@
+{
+  "company_code": "5582",
+  "company_name": "ｸﾞﾘｯﾄﾞ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-24",
+      "meeting_year": 2024,
+      "doc_id": "S100TRN3",
+      "submit_date_time": "2024-06-25 09:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TRN3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案資本金の額の減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 42285,
+          "votes_against": 151,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:09:55.076Z"
+}

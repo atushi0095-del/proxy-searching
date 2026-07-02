@@ -1,0 +1,88 @@
+{
+  "company_code": "4061",
+  "company_name": "デンカ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-20",
+      "meeting_year": 2024,
+      "doc_id": "S100TRSM",
+      "submit_date_time": "2024-06-25 09:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TRSM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 664091,
+          "votes_against": 2743,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本学",
+          "votes_for": 593009,
+          "votes_against": 74534,
+          "votes_abstain": 2,
+          "approval_pct": 88.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今井俊夫",
+          "votes_for": 577377,
+          "votes_against": 88696,
+          "votes_abstain": 1472,
+          "approval_pct": 86.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋和男",
+          "votes_for": 578161,
+          "votes_against": 89382,
+          "votes_abstain": 2,
+          "approval_pct": 86.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石田郁雄",
+          "votes_for": 658067,
+          "votes_against": 9476,
+          "votes_abstain": 2,
+          "approval_pct": 98.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中田るみ子",
+          "votes_for": 662178,
+          "votes_against": 5366,
+          "votes_abstain": 2,
+          "approval_pct": 98.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:10:02.329Z"
+}

@@ -1,0 +1,124 @@
+{
+  "company_code": "8706",
+  "company_name": "極東証券",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYTA",
+      "submit_date_time": "2024-07-01 14:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYTA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊池廣之",
+          "votes_for": 247782,
+          "votes_against": 4540,
+          "votes_abstain": null,
+          "approval_pct": 98.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊池一広",
+          "votes_for": 242513,
+          "votes_against": 9809,
+          "votes_abstain": null,
+          "approval_pct": 95.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤昌弘",
+          "votes_for": 251525,
+          "votes_against": 797,
+          "votes_abstain": null,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "茅沼俊三",
+          "votes_for": 251449,
+          "votes_against": 873,
+          "votes_abstain": null,
+          "approval_pct": 99.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀川健次郎",
+          "votes_for": 251421,
+          "votes_against": 901,
+          "votes_abstain": null,
+          "approval_pct": 99.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉野貞雄",
+          "votes_for": 251411,
+          "votes_against": 911,
+          "votes_abstain": null,
+          "approval_pct": 99.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅谷貴子",
+          "votes_for": 251136,
+          "votes_against": 1186,
+          "votes_abstain": null,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 238353,
+          "votes_against": 14002,
+          "votes_abstain": null,
+          "approval_pct": 94.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 251610,
+          "votes_against": 745,
+          "votes_abstain": null,
+          "approval_pct": 99.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:18:08.225Z"
+}

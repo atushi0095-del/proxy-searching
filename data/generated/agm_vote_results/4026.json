@@ -1,0 +1,40 @@
+{
+  "company_code": "4026",
+  "company_name": "神島化学工業",
+  "meetings": [
+    {
+      "meeting_date": "2024-07-19",
+      "meeting_year": 2024,
+      "doc_id": "S100U33A",
+      "submit_date_time": "2024-07-22 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100U33A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 59709,
+          "votes_against": 117,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 58169,
+          "votes_against": 1657,
+          "votes_abstain": 0,
+          "approval_pct": 97.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:03:26.441Z"
+}

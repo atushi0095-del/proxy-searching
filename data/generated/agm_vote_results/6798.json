@@ -1,0 +1,100 @@
+{
+  "company_code": "6798",
+  "company_name": "ＳＭＫ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TW3N",
+      "submit_date_time": "2024-06-27 13:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TW3N",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 46984,
+          "votes_against": 173,
+          "votes_abstain": 0,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "池田靖光",
+          "votes_for": 36624,
+          "votes_against": 10533,
+          "votes_abstain": 0,
+          "approval_pct": 77.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "池尾政信",
+          "votes_for": 41850,
+          "votes_against": 5307,
+          "votes_abstain": 0,
+          "approval_pct": 88.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ポールエヴァンス",
+          "votes_for": 44794,
+          "votes_against": 2363,
+          "votes_abstain": 0,
+          "approval_pct": 94.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村利雄",
+          "votes_for": 44776,
+          "votes_against": 2381,
+          "votes_abstain": 0,
+          "approval_pct": 94.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "大垣幸平",
+          "votes_for": 46818,
+          "votes_against": 339,
+          "votes_abstain": 0,
+          "approval_pct": 99.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "中島成",
+          "votes_for": 38857,
+          "votes_against": 8300,
+          "votes_abstain": 0,
+          "approval_pct": 82.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:50:16.173Z"
+}

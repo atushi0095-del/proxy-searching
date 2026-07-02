@@ -1,0 +1,88 @@
+{
+  "company_code": "5482",
+  "company_name": "愛知製鋼",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-13",
+      "meeting_year": 2024,
+      "doc_id": "S100TMBQ",
+      "submit_date_time": "2024-06-17 10:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TMBQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤岡高広",
+          "votes_for": 123301,
+          "votes_against": 34955,
+          "votes_abstain": 0,
+          "approval_pct": 77.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤尚英",
+          "votes_for": 142686,
+          "votes_against": 15570,
+          "votes_abstain": 0,
+          "approval_pct": 90.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村元志",
+          "votes_for": 141154,
+          "votes_against": 17103,
+          "votes_abstain": 0,
+          "approval_pct": 89.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安井香一",
+          "votes_for": 146713,
+          "votes_against": 11543,
+          "votes_abstain": 0,
+          "approval_pct": 92.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新居勇子",
+          "votes_for": 148812,
+          "votes_against": 9445,
+          "votes_abstain": 0,
+          "approval_pct": 94.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井直生",
+          "votes_for": 157712,
+          "votes_against": 545,
+          "votes_abstain": 0,
+          "approval_pct": 99.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:27:23.916Z"
+}

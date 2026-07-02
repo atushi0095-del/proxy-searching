@@ -1,0 +1,100 @@
+{
+  "company_code": "6804",
+  "company_name": "ホシデン",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TZCR",
+      "submit_date_time": "2024-07-04 16:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TZCR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 428618,
+          "votes_against": 291,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役1名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小西ゆかり",
+          "votes_for": 427907,
+          "votes_against": 1002,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "本保信二",
+          "votes_for": 418919,
+          "votes_against": 4166,
+          "votes_abstain": 0,
+          "approval_pct": 97.6,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "種村隆行",
+          "votes_for": 269339,
+          "votes_against": 153742,
+          "votes_abstain": 0,
+          "approval_pct": 62.8,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "西村一紀",
+          "votes_for": 419381,
+          "votes_against": 3704,
+          "votes_abstain": 0,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "森正士",
+          "votes_for": 422606,
+          "votes_against": 480,
+          "votes_abstain": 0,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案役員賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 428065,
+          "votes_against": 843,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": null
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:09:23.238Z"
+}

@@ -1,0 +1,28 @@
+{
+  "company_code": "4926",
+  "company_name": "シーボン",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TW46",
+      "submit_date_time": "2024-06-27 12:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TW46",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木下愛矢",
+          "votes_for": 25536,
+          "votes_against": 656,
+          "votes_abstain": null,
+          "approval_pct": 97.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:51:01.241Z"
+}

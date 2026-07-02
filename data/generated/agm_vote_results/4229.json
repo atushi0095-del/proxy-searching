@@ -1,0 +1,112 @@
+{
+  "company_code": "4229",
+  "company_name": "群栄化学工業",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TTXS",
+      "submit_date_time": "2024-06-28 09:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TTXS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 53093,
+          "votes_against": 2195,
+          "votes_abstain": 0,
+          "approval_pct": 96.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 55220,
+          "votes_against": 68,
+          "votes_abstain": 0,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "有田喜一有田喜一郎丸山克浩大村康二",
+          "votes_for": 51184512855347150000,
+          "votes_against": 4104400318172489,
+          "votes_abstain": 0,
+          "approval_pct": 99.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "笠原勲平澤洋一鈴木宏子",
+          "votes_for": 548885264954903,
+          "votes_against": 4002639385,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大村康二",
+          "votes_for": 52199,
+          "votes_against": 3089,
+          "votes_abstain": 0,
+          "approval_pct": 94.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役（監査等委員である取締役を除く。）の報酬額設定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 53722,
+          "votes_against": 1553,
+          "votes_abstain": 13,
+          "approval_pct": 97.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案監査等委員である取締役の報酬額設定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 53728,
+          "votes_against": 1547,
+          "votes_abstain": 13,
+          "approval_pct": 97.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案取締役執行役員（監査等委員である取締役を除く。）に対する譲渡制限付株式の付与のための報酬決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 53706,
+          "votes_against": 1582,
+          "votes_abstain": 0,
+          "approval_pct": 97.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:40:48.576Z"
+}

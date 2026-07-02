@@ -1,0 +1,88 @@
+{
+  "company_code": "7299",
+  "company_name": "フジオーゼックス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TPTR",
+      "submit_date_time": "2024-06-21 15:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TPTR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 15980,
+          "votes_against": 310,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役7名選任の件辻本敏市川修藤川伸二浜田章宏福岡聡山下敏明飯塚嘉津美",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 1.5745159581595915e+34,
+          "votes_against": 545332331329329360000,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役7名選任の件刀根清人竹鶴隆昭山田剛己川﨑健司東島香織",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 1.5966159641575516e+24,
+          "votes_against": 324326535327327,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件加藤政人",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 15967,
+          "votes_against": 323,
+          "votes_abstain": 0,
+          "approval_pct": 98.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査等委員でない取締役（社外取締役を除く。）に対する譲渡制限付株式の割当てのための報酬決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 15616,
+          "votes_against": 674,
+          "votes_abstain": 0,
+          "approval_pct": 95.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案監査等委員でない取締役（社外取締役を除く。）に対する譲渡制限付株式の割当てのための報酬決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 15615,
+          "votes_against": 675,
+          "votes_abstain": 0,
+          "approval_pct": 95.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:18:24.364Z"
+}

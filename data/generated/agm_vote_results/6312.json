@@ -1,0 +1,88 @@
+{
+  "company_code": "6312",
+  "company_name": "6312",
+  "meetings": [
+    {
+      "meeting_date": "2024-05-30",
+      "meeting_year": 2024,
+      "doc_id": "S100TK2M",
+      "submit_date_time": "2024-06-04 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TK2M",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 120538,
+          "votes_against": 796,
+          "votes_abstain": 0,
+          "approval_pct": 99.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "伏島巖",
+          "votes_for": 106903,
+          "votes_against": 14441,
+          "votes_abstain": 0,
+          "approval_pct": 88.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "本田稔昭",
+          "votes_for": 108145,
+          "votes_against": 962,
+          "votes_abstain": 12237,
+          "approval_pct": 89.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "守口壽文",
+          "votes_for": 108102,
+          "votes_against": 1005,
+          "votes_abstain": 12237,
+          "approval_pct": 89.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中尚",
+          "votes_for": 120097,
+          "votes_against": 1247,
+          "votes_abstain": 0,
+          "approval_pct": 98.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "久米龍一",
+          "votes_for": 120389,
+          "votes_against": 955,
+          "votes_abstain": 0,
+          "approval_pct": 99.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:30:26.087Z"
+}

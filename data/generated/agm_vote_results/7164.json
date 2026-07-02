@@ -1,0 +1,52 @@
+{
+  "company_code": "7164",
+  "company_name": "全国保証",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-14",
+      "meeting_year": 2024,
+      "doc_id": "S100TMTX",
+      "submit_date_time": "2024-06-18 11:58",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TMTX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 598683,
+          "votes_against": 584,
+          "votes_abstain": 270,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 598595,
+          "votes_against": 671,
+          "votes_abstain": 270,
+          "approval_pct": 99.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役4名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "藤野護佐藤隆文古本結子中島真琴",
+          "votes_for": 5.935615972925984e+23,
+          "votes_against": 52471972862874,
+          "votes_abstain": 726270270270,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:26:24.663Z"
+}

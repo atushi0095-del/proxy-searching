@@ -1,0 +1,40 @@
+{
+  "company_code": "2335",
+  "company_name": "キューブシステム",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TQMN",
+      "submit_date_time": "2024-06-24 13:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TQMN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件﨑山收中西雅洋栃澤正樹椎野孝雄永田英恵斎藤毅文",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 1.1370111381911372e+35,
+          "votes_against": 48837047120795116000,
+          "votes_abstain": null,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件福嶋美里",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 101107,
+          "votes_against": 13097,
+          "votes_abstain": null,
+          "approval_pct": 88.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:14:03.098Z"
+}

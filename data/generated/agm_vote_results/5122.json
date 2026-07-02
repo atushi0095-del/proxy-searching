@@ -1,0 +1,76 @@
+{
+  "company_code": "5122",
+  "company_name": "オカモト",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TZO9",
+      "submit_date_time": "2024-07-04 09:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TZO9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 147726,
+          "votes_against": 3014,
+          "votes_abstain": 0,
+          "approval_pct": 98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案岡本良幸岡本邦彦岡本優田中祐司池田佳司相澤光江",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.3532312747114106e+35,
+          "votes_against": 1.5412232649672751e+22,
+          "votes_abstain": 0,
+          "approval_pct": 89.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案髙島寛深澤佳己荒井瑞夫",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 148135134362150500,
+          "votes_against": 260116374236,
+          "votes_abstain": 0,
+          "approval_pct": 98.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案谷口雄二金子憲康",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 149982150693,
+          "votes_against": 75747,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 149945,
+          "votes_against": 794,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:10:25.484Z"
+}

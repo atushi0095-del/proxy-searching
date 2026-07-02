@@ -1,0 +1,112 @@
+{
+  "company_code": "3275",
+  "company_name": "ハウスコム",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-20",
+      "meeting_year": 2024,
+      "doc_id": "S100TN6G",
+      "submit_date_time": "2024-06-20 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TN6G",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 59967,
+          "votes_against": 245,
+          "votes_abstain": null,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田村穂",
+          "votes_for": 58554,
+          "votes_against": 1658,
+          "votes_abstain": null,
+          "approval_pct": 97.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安達昌功",
+          "votes_for": 59348,
+          "votes_against": 864,
+          "votes_abstain": null,
+          "approval_pct": 98.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松川泰三",
+          "votes_for": 59573,
+          "votes_against": 639,
+          "votes_abstain": null,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "石本哲敏",
+          "votes_for": 58734,
+          "votes_against": 1478,
+          "votes_abstain": null,
+          "approval_pct": 97.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "角田朋子",
+          "votes_for": 59440,
+          "votes_against": 772,
+          "votes_abstain": null,
+          "approval_pct": 98.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "鶴田信一郎",
+          "votes_for": 60010,
+          "votes_against": 202,
+          "votes_abstain": null,
+          "approval_pct": 99.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山本将貴",
+          "votes_for": 60021,
+          "votes_against": 191,
+          "votes_abstain": null,
+          "approval_pct": 99.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:22:23.138Z"
+}

@@ -1,0 +1,112 @@
+{
+  "company_code": "6246",
+  "company_name": "テクノスマート",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TSFR",
+      "submit_date_time": "2024-06-25 14:43",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TSFR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 107260,
+          "votes_against": 435,
+          "votes_abstain": 0,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柳井正巳",
+          "votes_for": 101051,
+          "votes_against": 6590,
+          "votes_abstain": 0,
+          "approval_pct": 93.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯田陽弘",
+          "votes_for": 101091,
+          "votes_against": 6271,
+          "votes_abstain": 279,
+          "approval_pct": 93.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西宮良材",
+          "votes_for": 103714,
+          "votes_against": 3927,
+          "votes_abstain": 0,
+          "approval_pct": 96.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下村壽一",
+          "votes_for": 103713,
+          "votes_against": 3928,
+          "votes_abstain": 0,
+          "approval_pct": 96.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋要",
+          "votes_for": 103639,
+          "votes_against": 4002,
+          "votes_abstain": 0,
+          "approval_pct": 96.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三沢浩司",
+          "votes_for": 103683,
+          "votes_against": 3958,
+          "votes_abstain": 0,
+          "approval_pct": 96.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "仲下正一",
+          "votes_for": 102570,
+          "votes_against": 5071,
+          "votes_abstain": 0,
+          "approval_pct": 95.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:06:58.843Z"
+}

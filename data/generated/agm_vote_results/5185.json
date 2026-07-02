@@ -1,0 +1,40 @@
+{
+  "company_code": "5185",
+  "company_name": "フコク",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TYXI",
+      "submit_date_time": "2024-07-01 16:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYXI",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "清水裕子",
+          "votes_for": 122617,
+          "votes_against": 670,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案当社株式等の大量買付行為等に関する対応策（買収への対応方針）継続の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 90417,
+          "votes_against": 32868,
+          "votes_abstain": 0,
+          "approval_pct": 73.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:16:02.989Z"
+}

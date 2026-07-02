@@ -1,0 +1,52 @@
+{
+  "company_code": "2130",
+  "company_name": "メンバーズ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-20",
+      "meeting_year": 2024,
+      "doc_id": "S100TQFY",
+      "submit_date_time": "2024-06-24 11:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TQFY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 88391,
+          "votes_against": 535,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "剣持忠",
+          "votes_for": 88414,
+          "votes_against": 512,
+          "votes_abstain": null,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙野明彦",
+          "votes_for": 88385,
+          "votes_against": 541,
+          "votes_abstain": null,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:15:37.957Z"
+}

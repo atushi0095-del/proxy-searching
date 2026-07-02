@@ -1,0 +1,112 @@
+{
+  "company_code": "5331",
+  "company_name": "ノリタケ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-24",
+      "meeting_year": 2024,
+      "doc_id": "S100TS43",
+      "submit_date_time": "2024-06-25 11:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TS43",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 118701,
+          "votes_against": 292,
+          "votes_abstain": 10,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤博",
+          "votes_for": 93655,
+          "votes_against": 25331,
+          "votes_abstain": 10,
+          "approval_pct": 78.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "東山明",
+          "votes_for": 94723,
+          "votes_against": 24263,
+          "votes_abstain": 10,
+          "approval_pct": 79.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡部信",
+          "votes_for": 116255,
+          "votes_against": 2738,
+          "votes_abstain": 10,
+          "approval_pct": 97.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "夫馬裕子",
+          "votes_for": 116271,
+          "votes_against": 2722,
+          "votes_abstain": 10,
+          "approval_pct": 97.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本良一",
+          "votes_for": 116492,
+          "votes_against": 2501,
+          "votes_abstain": 10,
+          "approval_pct": 97.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤岡高広",
+          "votes_for": 116325,
+          "votes_against": 2668,
+          "votes_abstain": 10,
+          "approval_pct": 97.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 118566,
+          "votes_against": 427,
+          "votes_abstain": 10,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:08:24.690Z"
+}

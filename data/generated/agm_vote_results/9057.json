@@ -1,0 +1,88 @@
+{
+  "company_code": "9057",
+  "company_name": "遠州トラック",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TVOI",
+      "submit_date_time": "2024-06-28 16:23",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TVOI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤田邦彦",
+          "votes_for": 61487,
+          "votes_against": 395,
+          "votes_abstain": 0,
+          "approval_pct": 93.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金原秀樹",
+          "votes_for": 61484,
+          "votes_against": 398,
+          "votes_abstain": 0,
+          "approval_pct": 93.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保田健",
+          "votes_for": 61667,
+          "votes_against": 215,
+          "votes_abstain": 0,
+          "approval_pct": 93.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "斉藤薫",
+          "votes_for": 61652,
+          "votes_against": 230,
+          "votes_abstain": 0,
+          "approval_pct": 93.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本正幸",
+          "votes_for": 61666,
+          "votes_against": 216,
+          "votes_abstain": 0,
+          "approval_pct": 93.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案佐野明人小林充嶋口ゆかり",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 616666158161588,
+          "votes_against": 218303296,
+          "votes_abstain": 0,
+          "approval_pct": 93.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:25:03.441Z"
+}

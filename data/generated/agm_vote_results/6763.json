@@ -1,0 +1,64 @@
+{
+  "company_code": "6763",
+  "company_name": "帝国通信工業",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYSS",
+      "submit_date_time": "2024-07-01 14:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYSS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 70522,
+          "votes_against": 1952,
+          "votes_abstain": 0,
+          "approval_pct": 94.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋啓章",
+          "votes_for": 72083,
+          "votes_against": 391,
+          "votes_abstain": 0,
+          "approval_pct": 96.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "畑宮正憲",
+          "votes_for": 68578,
+          "votes_against": 3896,
+          "votes_abstain": 0,
+          "approval_pct": 91.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三井浩二",
+          "votes_for": 72226,
+          "votes_against": 248,
+          "votes_abstain": 0,
+          "approval_pct": 96.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:18:39.554Z"
+}

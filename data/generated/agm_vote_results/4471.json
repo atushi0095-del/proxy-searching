@@ -1,0 +1,40 @@
+{
+  "company_code": "4471",
+  "company_name": "三洋化成工業",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TQE3",
+      "submit_date_time": "2024-06-25 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TQE3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案白井文樋口章憲原田正大須崎裕之奥喜之西村健一小畑英明佐野由美",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.7591415399518076e+47,
+          "votes_against": 6.629285031773173e+32,
+          "votes_abstain": 43000000,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案黒目泰一竹内昌",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 143445174444,
+          "votes_against": 391438146,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:10:09.712Z"
+}

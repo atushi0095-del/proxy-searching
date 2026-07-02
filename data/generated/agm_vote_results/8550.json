@@ -1,0 +1,88 @@
+{
+  "company_code": "8550",
+  "company_name": "栃木銀行",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TZL7",
+      "submit_date_time": "2024-07-04 12:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TZL7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 790577,
+          "votes_against": 24786,
+          "votes_abstain": 0,
+          "approval_pct": 96.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荻原孝志",
+          "votes_for": 747046,
+          "votes_against": 68214,
+          "votes_abstain": 0,
+          "approval_pct": 91.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荒川政利",
+          "votes_for": 746354,
+          "votes_against": 68906,
+          "votes_abstain": 0,
+          "approval_pct": 91.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉澤一子",
+          "votes_for": 772852,
+          "votes_against": 42408,
+          "votes_abstain": 0,
+          "approval_pct": 94.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "須賀英之",
+          "votes_for": 598947,
+          "votes_against": 216332,
+          "votes_abstain": 0,
+          "approval_pct": 73.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮内豊",
+          "votes_for": 799628,
+          "votes_against": 15655,
+          "votes_abstain": 0,
+          "approval_pct": 98.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:10:10.965Z"
+}

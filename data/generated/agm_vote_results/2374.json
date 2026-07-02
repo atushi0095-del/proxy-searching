@@ -1,0 +1,52 @@
+{
+  "company_code": "2374",
+  "company_name": "セントケア・ホールディング",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXG2",
+      "submit_date_time": "2024-06-28 09:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXG2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 188875,
+          "votes_against": 515,
+          "votes_abstain": null,
+          "approval_pct": 96.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 175759,
+          "votes_against": 13631,
+          "votes_abstain": null,
+          "approval_pct": 89.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案村上美晴藤間和敏田村良一瀧井創濵岡邦雅土屋真山口公明湯浅紀佳白石智哉",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.8662618674318887e+53,
+          "votes_against": 2.7632646526464606e+28,
+          "votes_abstain": null,
+          "approval_pct": 95.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:40:24.551Z"
+}

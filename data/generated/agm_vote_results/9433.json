@@ -1,0 +1,52 @@
+{
+  "company_code": "9433",
+  "company_name": "KDDI株式会社",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-19",
+      "meeting_year": 2024,
+      "doc_id": "S100TQOW",
+      "submit_date_time": "2024-06-25 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TQOW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件注1）",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 17312598,
+          "votes_against": 5089,
+          "votes_abstain": 3,
+          "approval_pct": 98.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件注2）候補者(1）田中孝司",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 16673318,
+          "votes_against": 593178,
+          "votes_abstain": 51161,
+          "approval_pct": 94.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役4名選任の件注2）候補者(1）山下和保",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 17106346,
+          "votes_against": 210640,
+          "votes_abstain": 677,
+          "approval_pct": 97.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:06:54.210Z"
+}

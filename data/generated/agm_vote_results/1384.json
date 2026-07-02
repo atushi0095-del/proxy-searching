@@ -1,0 +1,88 @@
+{
+  "company_code": "1384",
+  "company_name": "ホクリヨウ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TWCX",
+      "submit_date_time": "2024-06-28 15:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TWCX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "米山大介",
+          "votes_for": 64508,
+          "votes_against": 973,
+          "votes_abstain": 0,
+          "approval_pct": 97.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松岡昌哉",
+          "votes_for": 64608,
+          "votes_against": 873,
+          "votes_abstain": 0,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福島尚樹",
+          "votes_for": 64616,
+          "votes_against": 865,
+          "votes_abstain": 0,
+          "approval_pct": 97.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山角征司",
+          "votes_for": 64594,
+          "votes_against": 887,
+          "votes_abstain": 0,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "日浅尚子",
+          "votes_for": 64518,
+          "votes_against": 963,
+          "votes_abstain": 0,
+          "approval_pct": 97.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案退任取締役に対して退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 61635,
+          "votes_against": 3855,
+          "votes_abstain": 0,
+          "approval_pct": 93.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:26:45.984Z"
+}

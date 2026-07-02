@@ -1,0 +1,88 @@
+{
+  "company_code": "6699",
+  "company_name": "ダイヤモンドエレクトリックホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXRK",
+      "submit_date_time": "2024-06-28 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXRK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 38394,
+          "votes_against": 4783,
+          "votes_abstain": 154,
+          "approval_pct": 88.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小野有理",
+          "votes_for": 35479,
+          "votes_against": 7713,
+          "votes_abstain": 145,
+          "approval_pct": 81.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田夛佳志",
+          "votes_for": 34972,
+          "votes_against": 8220,
+          "votes_abstain": 145,
+          "approval_pct": 80.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡本岳",
+          "votes_for": 38743,
+          "votes_against": 4449,
+          "votes_abstain": 145,
+          "approval_pct": 89.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮本和俊",
+          "votes_for": 39795,
+          "votes_against": 3388,
+          "votes_abstain": 154,
+          "approval_pct": 91.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "笠間士郎",
+          "votes_for": 39696,
+          "votes_against": 3487,
+          "votes_abstain": 154,
+          "approval_pct": 91.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:29:39.126Z"
+}

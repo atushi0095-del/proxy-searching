@@ -1,0 +1,88 @@
+{
+  "company_code": "6971",
+  "company_name": "京セラ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TW64",
+      "submit_date_time": "2024-06-27 15:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TW64",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 12014502,
+          "votes_against": 5360,
+          "votes_abstain": 303,
+          "approval_pct": 99.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "須永順子",
+          "votes_for": 11921327,
+          "votes_against": 98601,
+          "votes_abstain": 283,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小山繁",
+          "votes_for": 11045539,
+          "votes_against": 974296,
+          "votes_abstain": 280,
+          "approval_pct": 91.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木田稔",
+          "votes_for": 12013234,
+          "votes_against": 6616,
+          "votes_abstain": 279,
+          "approval_pct": 99.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小原路絵",
+          "votes_for": 12012724,
+          "votes_against": 7126,
+          "votes_abstain": 279,
+          "approval_pct": 99.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中野雄介",
+          "votes_for": 12012947,
+          "votes_against": 6982,
+          "votes_abstain": 287,
+          "approval_pct": 99.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:45:36.222Z"
+}

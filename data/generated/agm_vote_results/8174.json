@@ -1,0 +1,112 @@
+{
+  "company_code": "8174",
+  "company_name": "日本瓦斯",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TXGH",
+      "submit_date_time": "2024-06-28 10:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXGH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 936440,
+          "votes_against": 116,
+          "votes_abstain": 116,
+          "approval_pct": 99.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "和田眞治",
+          "votes_for": 917580,
+          "votes_against": 13875,
+          "votes_abstain": 5215,
+          "approval_pct": 97.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "柏谷邦彦",
+          "votes_for": 907915,
+          "votes_against": 23543,
+          "votes_abstain": 5215,
+          "approval_pct": 96.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田恵一",
+          "votes_for": 926695,
+          "votes_against": 9110,
+          "votes_abstain": 868,
+          "approval_pct": 98.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "土屋友紀",
+          "votes_for": 926698,
+          "votes_against": 9107,
+          "votes_abstain": 868,
+          "approval_pct": 98.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田剛志",
+          "votes_for": 934612,
+          "votes_against": 1945,
+          "votes_abstain": 116,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "里中恵理子",
+          "votes_for": 935089,
+          "votes_against": 1468,
+          "votes_abstain": 116,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "文倉辰永",
+          "votes_for": 936384,
+          "votes_against": 173,
+          "votes_abstain": 116,
+          "approval_pct": 99.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:38:46.805Z"
+}

@@ -1,0 +1,40 @@
+{
+  "company_code": "7775",
+  "company_name": "大研医器",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TPNA",
+      "submit_date_time": "2024-06-21 13:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TPNA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役会4名選任の件山田圭一山田雅之大工舎宏稲垣喜三",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 1.9090020613719602e+23,
+          "votes_against": 168271590117051650,
+          "votes_abstain": 0,
+          "approval_pct": 91.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件玉牧健二村上創大西由紀",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 206694206659206500,
+          "votes_against": 104110761243,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:19:43.148Z"
+}

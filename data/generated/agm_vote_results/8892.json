@@ -1,0 +1,124 @@
+{
+  "company_code": "8892",
+  "company_name": "日本エスコン",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TU3G",
+      "submit_date_time": "2024-06-26 13:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TU3G",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 789313,
+          "votes_against": 825,
+          "votes_abstain": null,
+          "approval_pct": 98.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤貴俊",
+          "votes_for": 785503,
+          "votes_against": 4637,
+          "votes_abstain": null,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中西稔",
+          "votes_for": 787146,
+          "votes_against": 2994,
+          "votes_abstain": null,
+          "approval_pct": 98.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松澤光彦",
+          "votes_for": 787024,
+          "votes_against": 3116,
+          "votes_abstain": null,
+          "approval_pct": 98.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川島敦",
+          "votes_for": 787311,
+          "votes_against": 2829,
+          "votes_abstain": null,
+          "approval_pct": 98.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大槻啓子",
+          "votes_for": 787374,
+          "votes_against": 2766,
+          "votes_abstain": null,
+          "approval_pct": 98.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "服部博明",
+          "votes_for": 786473,
+          "votes_against": 3667,
+          "votes_abstain": null,
+          "approval_pct": 98.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 785270,
+          "votes_against": 4856,
+          "votes_abstain": null,
+          "approval_pct": 98.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 787618,
+          "votes_against": 2522,
+          "votes_abstain": null,
+          "approval_pct": 98.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:01:42.698Z"
+}

@@ -1,0 +1,100 @@
+{
+  "company_code": "8871",
+  "company_name": "ゴールドクレスト",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-19",
+      "meeting_year": 2024,
+      "doc_id": "S100TP5N",
+      "submit_date_time": "2024-06-21 09:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TP5N",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 275871,
+          "votes_against": 32323,
+          "votes_abstain": 3,
+          "approval_pct": 89.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安川秀俊",
+          "votes_for": 212008,
+          "votes_against": 96182,
+          "votes_abstain": 3,
+          "approval_pct": 68.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤正樹",
+          "votes_for": 265148,
+          "votes_against": 43045,
+          "votes_abstain": 3,
+          "approval_pct": 85.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "津村政男",
+          "votes_for": 245464,
+          "votes_against": 62725,
+          "votes_abstain": 3,
+          "approval_pct": 79.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中隆吉",
+          "votes_for": 268087,
+          "votes_against": 40106,
+          "votes_abstain": 3,
+          "approval_pct": 86.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 273136,
+          "votes_against": 2852,
+          "votes_abstain": 32209,
+          "approval_pct": 88.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 250840,
+          "votes_against": 57233,
+          "votes_abstain": 119,
+          "approval_pct": 81.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:21:24.365Z"
+}

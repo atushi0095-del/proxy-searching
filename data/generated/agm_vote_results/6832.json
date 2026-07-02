@@ -1,0 +1,76 @@
+{
+  "company_code": "6832",
+  "company_name": "アオイ電子",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TTO0",
+      "submit_date_time": "2024-06-26 10:29",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TTO0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 88911,
+          "votes_against": 540,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木下和洋",
+          "votes_for": 87048,
+          "votes_against": 2403,
+          "votes_abstain": 0,
+          "approval_pct": 97.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福田一幸",
+          "votes_for": 89083,
+          "votes_against": 368,
+          "votes_abstain": 0,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青木良二",
+          "votes_for": 89145,
+          "votes_against": 306,
+          "votes_abstain": 0,
+          "approval_pct": 99.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "相沢吉昭",
+          "votes_for": 89031,
+          "votes_against": 420,
+          "votes_abstain": 0,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:03:08.694Z"
+}

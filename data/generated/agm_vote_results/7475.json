@@ -1,0 +1,100 @@
+{
+  "company_code": "7475",
+  "company_name": "アルビス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TSBN",
+      "submit_date_time": "2024-06-25 13:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TSBN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 70528,
+          "votes_against": 197,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田和男",
+          "votes_for": 61497,
+          "votes_against": 9230,
+          "votes_abstain": 0,
+          "approval_pct": 86.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉原絹彦",
+          "votes_for": 68621,
+          "votes_against": 2106,
+          "votes_abstain": 0,
+          "approval_pct": 97.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上野弘樹",
+          "votes_for": 68666,
+          "votes_against": 2061,
+          "votes_abstain": 0,
+          "approval_pct": 97.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加世多達也",
+          "votes_for": 68544,
+          "votes_against": 2183,
+          "votes_abstain": 0,
+          "approval_pct": 96.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松村篤樹",
+          "votes_for": 68601,
+          "votes_against": 2126,
+          "votes_abstain": 0,
+          "approval_pct": 96.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹内公彦",
+          "votes_for": 70360,
+          "votes_against": 367,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:07:36.989Z"
+}

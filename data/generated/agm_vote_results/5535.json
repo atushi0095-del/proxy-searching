@@ -1,0 +1,40 @@
+{
+  "company_code": "5535",
+  "company_name": "ミガロホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TWEN",
+      "submit_date_time": "2024-06-27 15:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TWEN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 50688,
+          "votes_against": 75,
+          "votes_abstain": null,
+          "approval_pct": 94.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役及び監査役の報酬額決定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 50248,
+          "votes_against": 524,
+          "votes_abstain": null,
+          "approval_pct": 94.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:44:48.960Z"
+}

@@ -1,0 +1,88 @@
+{
+  "company_code": "6918",
+  "company_name": "ｱﾊﾞｰﾙﾃﾞｰﾀ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TQ7P",
+      "submit_date_time": "2024-06-24 13:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TQ7P",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 45715,
+          "votes_against": 132,
+          "votes_abstain": null,
+          "approval_pct": 99.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "菊地豊",
+          "votes_for": 41924,
+          "votes_against": 3958,
+          "votes_abstain": null,
+          "approval_pct": 91.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "広光勲",
+          "votes_for": 45039,
+          "votes_against": 843,
+          "votes_abstain": null,
+          "approval_pct": 98.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岩本直樹",
+          "votes_for": 45054,
+          "votes_against": 828,
+          "votes_abstain": null,
+          "approval_pct": 98.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "熊澤陽一",
+          "votes_for": 45052,
+          "votes_against": 830,
+          "votes_abstain": null,
+          "approval_pct": 98.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "村田英孝",
+          "votes_for": 45046,
+          "votes_against": 836,
+          "votes_abstain": null,
+          "approval_pct": 98.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:14:39.122Z"
+}

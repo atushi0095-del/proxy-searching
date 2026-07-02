@@ -1,0 +1,52 @@
+{
+  "company_code": "9006",
+  "company_name": "京浜急行電鉄",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYPJ",
+      "submit_date_time": "2024-07-01 15:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYPJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2177067,
+          "votes_against": 11791,
+          "votes_abstain": 105,
+          "approval_pct": 98.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案原田一之川俣幸宏櫻井和秀金子雄一竹谷英樹杉山勲寺島剛紀柿崎環野原佐和子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2.0536742102969217e+62,
+          "votes_against": 1.3519285900327143e+45,
+          "votes_abstain": 1.4214215015015015e+26,
+          "approval_pct": 93.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案末綱隆須藤修",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 21699532172399,
+          "votes_against": 1885316407,
+          "votes_abstain": 105105,
+          "approval_pct": 98.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:17:21.910Z"
+}

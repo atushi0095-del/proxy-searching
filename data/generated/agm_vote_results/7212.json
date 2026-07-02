@@ -1,0 +1,88 @@
+{
+  "company_code": "7212",
+  "company_name": "エフテック",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-20",
+      "meeting_year": 2024,
+      "doc_id": "S100TPXL",
+      "submit_date_time": "2024-06-21 16:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TPXL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 112755,
+          "votes_against": 5942,
+          "votes_abstain": 0,
+          "approval_pct": 94.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福田祐一",
+          "votes_for": 101852,
+          "votes_against": 15922,
+          "votes_abstain": 0,
+          "approval_pct": 86.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤瀧一",
+          "votes_for": 108997,
+          "votes_against": 8777,
+          "votes_abstain": 0,
+          "approval_pct": 92.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "青木啓之",
+          "votes_for": 109022,
+          "votes_against": 8752,
+          "votes_abstain": 0,
+          "approval_pct": 92.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "友野直子",
+          "votes_for": 109076,
+          "votes_against": 8698,
+          "votes_abstain": 0,
+          "approval_pct": 92.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "古閑伸裕",
+          "votes_for": 109029,
+          "votes_against": 8745,
+          "votes_abstain": 0,
+          "approval_pct": 92.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:17:20.620Z"
+}

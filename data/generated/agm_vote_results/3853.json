@@ -1,0 +1,40 @@
+{
+  "company_code": "3853",
+  "company_name": "アステリア",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-22",
+      "meeting_year": 2024,
+      "doc_id": "S100TQCR",
+      "submit_date_time": "2024-06-24 14:17",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TQCR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案平野洋一郎北原淑行五味廣文AnisUzzaman時岡真理子正宗エリザベス",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 8.42758917889232e+29,
+          "votes_against": 1.2539763675839766e+24,
+          "votes_abstain": null,
+          "approval_pct": 87.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋もと子",
+          "votes_for": 92275,
+          "votes_against": 4567,
+          "votes_abstain": null,
+          "approval_pct": 95.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:13:44.151Z"
+}

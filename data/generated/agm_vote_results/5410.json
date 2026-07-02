@@ -1,0 +1,64 @@
+{
+  "company_code": "5410",
+  "company_name": "合同製鐵",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TU8H",
+      "submit_date_time": "2024-06-26 13:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TU8H",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 109121,
+          "votes_against": 319,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件内田裕之瀬戸口昭人西仲桂藤田倫之土屋光章松田紀子増岡研介",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 1.048321076091072e+41,
+          "votes_against": 4.291183022451826e+26,
+          "votes_abstain": 316000000,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "酒井清",
+          "votes_for": 106412,
+          "votes_against": 3028,
+          "votes_abstain": 0,
+          "approval_pct": 97.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "井上嘉之",
+          "votes_for": 106866,
+          "votes_against": 2574,
+          "votes_abstain": 0,
+          "approval_pct": 97.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:00:49.994Z"
+}

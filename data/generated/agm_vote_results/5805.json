@@ -1,0 +1,76 @@
+{
+  "company_code": "5805",
+  "company_name": "ＳＷＣＣ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TU52",
+      "submit_date_time": "2024-06-26 13:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TU52",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 237112,
+          "votes_against": 150,
+          "votes_abstain": 1,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長谷川隆代",
+          "votes_for": 231775,
+          "votes_against": 3901,
+          "votes_abstain": 2,
+          "approval_pct": 97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小又哲夫",
+          "votes_for": 236554,
+          "votes_against": 712,
+          "votes_abstain": 1,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂倉裕司",
+          "votes_for": 236546,
+          "votes_against": 780,
+          "votes_abstain": 1,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口太",
+          "votes_for": 234287,
+          "votes_against": 3037,
+          "votes_abstain": 1,
+          "approval_pct": 98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:00:37.761Z"
+}

@@ -1,0 +1,40 @@
+{
+  "company_code": "4031",
+  "company_name": "片倉コープアグリ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TU7A",
+      "submit_date_time": "2024-06-26 13:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TU7A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 72602,
+          "votes_against": 713,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案退任取締役に対し退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 70216,
+          "votes_against": 3101,
+          "votes_abstain": 0,
+          "approval_pct": 95.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:00:54.905Z"
+}

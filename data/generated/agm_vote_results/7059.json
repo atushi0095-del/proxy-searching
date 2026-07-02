@@ -1,0 +1,88 @@
+{
+  "company_code": "7059",
+  "company_name": "コプロ・ホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TQFX",
+      "submit_date_time": "2024-06-24 13:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TQFX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 154710,
+          "votes_against": 391,
+          "votes_abstain": null,
+          "approval_pct": 98.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清川甲介",
+          "votes_for": 144838,
+          "votes_against": 10264,
+          "votes_abstain": null,
+          "approval_pct": 92.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小粥哉澄",
+          "votes_for": 153396,
+          "votes_against": 1706,
+          "votes_abstain": null,
+          "approval_pct": 97.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "越川裕介",
+          "votes_for": 153399,
+          "votes_against": 1703,
+          "votes_abstain": null,
+          "approval_pct": 97.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "葉山憲夫",
+          "votes_for": 153459,
+          "votes_against": 1643,
+          "votes_abstain": null,
+          "approval_pct": 97.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤巻正司",
+          "votes_for": 153390,
+          "votes_against": 1712,
+          "votes_abstain": null,
+          "approval_pct": 97.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:14:36.682Z"
+}

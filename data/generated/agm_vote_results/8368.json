@@ -1,0 +1,64 @@
+{
+  "company_code": "8368",
+  "company_name": "百五銀行",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-20",
+      "meeting_year": 2024,
+      "doc_id": "S100TOXN",
+      "submit_date_time": "2024-06-21 09:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TOXN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1860111,
+          "votes_against": 128577,
+          "votes_abstain": 0,
+          "approval_pct": 93.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣田恵子",
+          "votes_for": 1965321,
+          "votes_against": 23771,
+          "votes_abstain": 0,
+          "approval_pct": 98.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川崇",
+          "votes_for": 1834271,
+          "votes_against": 154126,
+          "votes_abstain": 0,
+          "approval_pct": 92.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浦出雅人",
+          "votes_for": 1834226,
+          "votes_against": 154171,
+          "votes_abstain": 0,
+          "approval_pct": 92.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:21:12.226Z"
+}

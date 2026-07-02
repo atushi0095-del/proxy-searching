@@ -1,0 +1,136 @@
+{
+  "company_code": "7259",
+  "company_name": "アイシン",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-19",
+      "meeting_year": 2024,
+      "doc_id": "S100TND1",
+      "submit_date_time": "2024-06-20 09:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TND1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田守孝",
+          "votes_for": 2131651,
+          "votes_against": 203919,
+          "votes_abstain": 3572,
+          "approval_pct": 90.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤慎太郎",
+          "votes_for": 2257733,
+          "votes_against": 81429,
+          "votes_abstain": null,
+          "approval_pct": 96.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本義久",
+          "votes_for": 2315903,
+          "votes_against": 23260,
+          "votes_abstain": null,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濵田道代",
+          "votes_for": 2167455,
+          "votes_against": 171708,
+          "votes_abstain": null,
+          "approval_pct": 92.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新誠一",
+          "votes_for": 2333123,
+          "votes_against": 6041,
+          "votes_abstain": null,
+          "approval_pct": 99.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林耕士",
+          "votes_for": 1831744,
+          "votes_against": 507409,
+          "votes_abstain": null,
+          "approval_pct": 78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "星野次彦",
+          "votes_for": 2333110,
+          "votes_against": 6054,
+          "votes_abstain": null,
+          "approval_pct": 99.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西川昌宏",
+          "votes_for": 2312893,
+          "votes_against": 26269,
+          "votes_abstain": null,
+          "approval_pct": 98.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2338524,
+          "votes_against": 479,
+          "votes_abstain": null,
+          "approval_pct": 99.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2333525,
+          "votes_against": 3890,
+          "votes_abstain": 1764,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:24:14.693Z"
+}

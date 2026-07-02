@@ -1,0 +1,100 @@
+{
+  "company_code": "5838",
+  "company_name": "楽天銀行",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TY5K",
+      "submit_date_time": "2024-06-28 16:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TY5K",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1350363,
+          "votes_against": 80402,
+          "votes_abstain": 163,
+          "approval_pct": 94.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永井啓之",
+          "votes_for": 1131181,
+          "votes_against": 298351,
+          "votes_abstain": 1393,
+          "approval_pct": 79.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三木谷浩史",
+          "votes_for": 1189334,
+          "votes_against": 237140,
+          "votes_abstain": 4456,
+          "approval_pct": 83.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "海老沼英次",
+          "votes_for": 1397330,
+          "votes_against": 33442,
+          "votes_abstain": 163,
+          "approval_pct": 97.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "茅野倫生",
+          "votes_for": 1397304,
+          "votes_against": 33468,
+          "votes_abstain": 163,
+          "approval_pct": 97.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長門正貢",
+          "votes_for": 1397261,
+          "votes_against": 33511,
+          "votes_abstain": 163,
+          "approval_pct": 97.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1369073,
+          "votes_against": 61453,
+          "votes_abstain": 409,
+          "approval_pct": 95.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:24:51.599Z"
+}

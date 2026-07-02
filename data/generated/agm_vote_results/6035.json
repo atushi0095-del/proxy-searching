@@ -1,0 +1,52 @@
+{
+  "company_code": "6035",
+  "company_name": "アイ・アールジャパンホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-18",
+      "meeting_year": 2024,
+      "doc_id": "S100TNT8",
+      "submit_date_time": "2024-06-19 13:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TNT8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 131530,
+          "votes_against": 1312,
+          "votes_abstain": 15,
+          "approval_pct": 99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "寺下史郎",
+          "votes_for": 113907,
+          "votes_against": 18978,
+          "votes_abstain": 15,
+          "approval_pct": 85.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤原豊",
+          "votes_for": 129045,
+          "votes_against": 3841,
+          "votes_abstain": 15,
+          "approval_pct": 97.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:25:15.472Z"
+}

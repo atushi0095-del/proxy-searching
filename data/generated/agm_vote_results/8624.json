@@ -1,0 +1,112 @@
+{
+  "company_code": "8624",
+  "company_name": "いちよし証券",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-22",
+      "meeting_year": 2024,
+      "doc_id": "S100TSUP",
+      "submit_date_time": "2024-06-26 09:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TSUP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武樋政司",
+          "votes_for": 207887,
+          "votes_against": 12155,
+          "votes_abstain": null,
+          "approval_pct": 94.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "玉田弘文",
+          "votes_for": 209965,
+          "votes_against": 10077,
+          "votes_abstain": null,
+          "approval_pct": 95.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山﨑昇一",
+          "votes_for": 216189,
+          "votes_against": 3853,
+          "votes_abstain": null,
+          "approval_pct": 98.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "五木田彬",
+          "votes_for": 160242,
+          "votes_against": 59800,
+          "votes_abstain": null,
+          "approval_pct": 72.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "真下陽子",
+          "votes_for": 216388,
+          "votes_against": 3654,
+          "votes_abstain": null,
+          "approval_pct": 98.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平野英治",
+          "votes_for": 214880,
+          "votes_against": 5162,
+          "votes_abstain": null,
+          "approval_pct": 97.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "沼田優子",
+          "votes_for": 203913,
+          "votes_against": 16127,
+          "votes_abstain": null,
+          "approval_pct": 92.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 206364,
+          "votes_against": 13678,
+          "votes_abstain": null,
+          "approval_pct": 93.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:03:52.231Z"
+}

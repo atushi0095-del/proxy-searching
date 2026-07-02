@@ -1,0 +1,64 @@
+{
+  "company_code": "1417",
+  "company_name": "ミライト・ワン",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TUUO",
+      "submit_date_time": "2024-06-26 17:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TUUO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 746469,
+          "votes_against": 1508,
+          "votes_abstain": 10,
+          "approval_pct": 99.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 746713,
+          "votes_against": 1264,
+          "votes_abstain": 10,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "瀬尾真二勝丸千晶（石川千晶）早川治",
+          "votes_for": 712628743400741500,
+          "votes_against": 3534345766476,
+          "votes_abstain": 101010,
+          "approval_pct": 94.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠の監査等委員である取締役1名選任の件紺野秀之",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 745932,
+          "votes_against": 2037,
+          "votes_abstain": 10,
+          "approval_pct": 99.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:56:08.781Z"
+}

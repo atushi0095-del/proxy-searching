@@ -1,0 +1,100 @@
+{
+  "company_code": "6262",
+  "company_name": "ＰＥＧＡＳＵＳ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TU3Y",
+      "submit_date_time": "2024-06-26 15:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TU3Y",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "美馬成望",
+          "votes_for": 163160,
+          "votes_against": 5988,
+          "votes_abstain": 0,
+          "approval_pct": 96.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡田義秀",
+          "votes_for": 166740,
+          "votes_against": 2408,
+          "votes_abstain": 0,
+          "approval_pct": 98.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大西宏尚",
+          "votes_for": 166363,
+          "votes_against": 2785,
+          "votes_abstain": 0,
+          "approval_pct": 98.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小高得央",
+          "votes_for": 166466,
+          "votes_against": 2682,
+          "votes_abstain": 0,
+          "approval_pct": 98.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中知加",
+          "votes_for": 166409,
+          "votes_against": 2739,
+          "votes_abstain": 0,
+          "approval_pct": 98.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "岡本裕之",
+          "votes_for": 167045,
+          "votes_against": 2148,
+          "votes_abstain": 0,
+          "approval_pct": 98.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "溝渕雅男",
+          "votes_for": 167094,
+          "votes_against": 2099,
+          "votes_abstain": 0,
+          "approval_pct": 98.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:59:01.057Z"
+}

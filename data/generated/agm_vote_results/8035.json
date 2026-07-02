@@ -1,0 +1,64 @@
+{
+  "company_code": "8035",
+  "company_name": "東京エレクトロン株式会社",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-18",
+      "meeting_year": 2024,
+      "doc_id": "S100TO76",
+      "submit_date_time": "2024-06-20 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TO76",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案①河合利樹②佐々木貞夫③布川好一④佐々木道夫⑤市川佐知子⑥ジョセフ・クラフト⑦鈴木ゆかり",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3.6976383782701376e+48,
+          "votes_against": 8.867620999249092e+32,
+          "votes_abstain": 1.7749367367367368e+22,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案①三浦亮太②遠藤寛",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 37907313802671,
+          "votes_against": 130501110,
+          "votes_abstain": 367367,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3775137,
+          "votes_against": 19590,
+          "votes_abstain": 9348,
+          "approval_pct": 99.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3734794,
+          "votes_against": 69063,
+          "votes_abstain": 292,
+          "approval_pct": 98.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:23:04.473Z"
+}

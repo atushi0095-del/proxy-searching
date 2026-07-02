@@ -1,0 +1,112 @@
+{
+  "company_code": "7687",
+  "company_name": "ミクリード",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TUDG",
+      "submit_date_time": "2024-06-26 14:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TUDG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 15707,
+          "votes_against": 87,
+          "votes_abstain": null,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 15542,
+          "votes_against": 252,
+          "votes_abstain": null,
+          "approval_pct": 98.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "片山礼子",
+          "votes_for": 15107,
+          "votes_against": 687,
+          "votes_abstain": null,
+          "approval_pct": 95.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長島忠則",
+          "votes_for": 15542,
+          "votes_against": 252,
+          "votes_abstain": null,
+          "approval_pct": 98.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松森美雪",
+          "votes_for": 15535,
+          "votes_against": 259,
+          "votes_abstain": null,
+          "approval_pct": 98.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西谷浩司",
+          "votes_for": 15534,
+          "votes_against": 260,
+          "votes_abstain": null,
+          "approval_pct": 98.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠取締役1名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "井筒廣之",
+          "votes_for": 15557,
+          "votes_against": 237,
+          "votes_abstain": null,
+          "approval_pct": 98.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "福永敦",
+          "votes_for": 15579,
+          "votes_against": 215,
+          "votes_abstain": null,
+          "approval_pct": 98.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:59:34.788Z"
+}

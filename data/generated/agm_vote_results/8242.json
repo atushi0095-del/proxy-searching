@@ -1,0 +1,28 @@
+{
+  "company_code": "8242",
+  "company_name": "エイチ・ツー・オー　リテイリング",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TTWD",
+      "submit_date_time": "2024-06-26 15:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TTWD",
+      "proposals": [
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 835961,
+          "votes_against": 5069,
+          "votes_abstain": 250,
+          "approval_pct": 99.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:59:15.429Z"
+}

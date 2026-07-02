@@ -1,0 +1,40 @@
+{
+  "company_code": "1847",
+  "company_name": "イチケン",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TVN0",
+      "submit_date_time": "2024-06-27 09:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TVN0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 47795,
+          "votes_against": 3768,
+          "votes_abstain": 0,
+          "approval_pct": 91.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 51327,
+          "votes_against": 236,
+          "votes_abstain": 0,
+          "approval_pct": 98.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:55:39.750Z"
+}

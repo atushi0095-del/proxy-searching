@@ -1,0 +1,100 @@
+{
+  "company_code": "4082",
+  "company_name": "第一稀元素化学工業",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-19",
+      "meeting_year": 2024,
+      "doc_id": "S100TOKU",
+      "submit_date_time": "2024-06-20 11:56",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TOKU",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "國部洋",
+          "votes_for": 179814,
+          "votes_against": 7285,
+          "votes_abstain": 171,
+          "approval_pct": 96.02,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大内公夫",
+          "votes_for": 181305,
+          "votes_against": 5965,
+          "votes_abstain": 0,
+          "approval_pct": 96.81,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "板橋正幸",
+          "votes_for": 182469,
+          "votes_against": 4801,
+          "votes_abstain": 0,
+          "approval_pct": 97.44,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "梅原俊志",
+          "votes_for": 181693,
+          "votes_against": 5577,
+          "votes_abstain": 0,
+          "approval_pct": 97.02,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中純一",
+          "votes_for": 181507,
+          "votes_against": 5763,
+          "votes_abstain": 0,
+          "approval_pct": 96.92,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "飛田尚美",
+          "votes_for": 182327,
+          "votes_against": 4943,
+          "votes_abstain": 0,
+          "approval_pct": 97.36,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 182839,
+          "votes_against": 4479,
+          "votes_abstain": 0,
+          "approval_pct": 97.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:23:47.783Z"
+}

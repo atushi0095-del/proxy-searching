@@ -1,0 +1,100 @@
+{
+  "company_code": "3183",
+  "company_name": "ウイン・パートナーズ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYN3",
+      "submit_date_time": "2024-07-01 11:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYN3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 223503,
+          "votes_against": 319,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "秋沢英海",
+          "votes_for": 223370,
+          "votes_against": 465,
+          "votes_abstain": 0,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三田上浩美",
+          "votes_for": 223404,
+          "votes_against": 431,
+          "votes_abstain": 0,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "秋田裕二",
+          "votes_for": 223433,
+          "votes_against": 402,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本啓二",
+          "votes_for": 223348,
+          "votes_against": 487,
+          "votes_abstain": 0,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井出健治郎",
+          "votes_for": 220771,
+          "votes_against": 3064,
+          "votes_abstain": 0,
+          "approval_pct": 98.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高村悦子",
+          "votes_for": 223255,
+          "votes_against": 580,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:21:03.619Z"
+}

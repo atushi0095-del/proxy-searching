@@ -1,0 +1,136 @@
+{
+  "company_code": "3123",
+  "company_name": "サイボー",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TZA1",
+      "submit_date_time": "2024-07-02 15:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TZA1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 105862,
+          "votes_against": 303,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "飯塚榮一",
+          "votes_for": 105530,
+          "votes_against": 635,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "伊藤素典",
+          "votes_for": 105500,
+          "votes_against": 665,
+          "votes_abstain": 0,
+          "approval_pct": 99.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西原京子",
+          "votes_for": 105352,
+          "votes_against": 813,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "嶋田昌美",
+          "votes_for": 105349,
+          "votes_against": 816,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役4名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "村木徹",
+          "votes_for": 105400,
+          "votes_against": 765,
+          "votes_abstain": 0,
+          "approval_pct": 99.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役4名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "錦戸景一",
+          "votes_for": 105399,
+          "votes_against": 766,
+          "votes_abstain": 0,
+          "approval_pct": 99.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役4名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "藤井孝男",
+          "votes_for": 105308,
+          "votes_against": 857,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役4名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "大野功",
+          "votes_for": 105508,
+          "votes_against": 657,
+          "votes_abstain": 0,
+          "approval_pct": 99.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案退任取締役に対し退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 104769,
+          "votes_against": 1396,
+          "votes_abstain": 0,
+          "approval_pct": 98.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:12:56.513Z"
+}

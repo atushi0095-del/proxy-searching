@@ -1,0 +1,112 @@
+{
+  "company_code": "9025",
+  "company_name": "鴻池運輸",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TR5T",
+      "submit_date_time": "2024-06-24 15:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TR5T",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鴻池忠彦",
+          "votes_for": 465969,
+          "votes_against": 7432,
+          "votes_abstain": 2,
+          "approval_pct": 98.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鴻池忠嗣",
+          "votes_for": 472329,
+          "votes_against": 1073,
+          "votes_abstain": 2,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大田嘉仁",
+          "votes_for": 472060,
+          "votes_against": 1342,
+          "votes_abstain": 2,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "増山美佳",
+          "votes_for": 472570,
+          "votes_against": 831,
+          "votes_abstain": 2,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤田泰介",
+          "votes_for": 397164,
+          "votes_against": 76234,
+          "votes_abstain": 2,
+          "approval_pct": 83.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中俊一",
+          "votes_for": 459952,
+          "votes_against": 13446,
+          "votes_abstain": 2,
+          "approval_pct": 97.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村朋成",
+          "votes_for": 449889,
+          "votes_against": 23508,
+          "votes_abstain": 2,
+          "approval_pct": 95.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案高坂敬三",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 424595,
+          "votes_against": 48806,
+          "votes_abstain": 2,
+          "approval_pct": 89.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:12:27.811Z"
+}

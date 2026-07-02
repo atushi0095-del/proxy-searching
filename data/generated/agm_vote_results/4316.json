@@ -1,0 +1,52 @@
+{
+  "company_code": "4316",
+  "company_name": "ビーマップ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TWUT",
+      "submit_date_time": "2024-06-28 13:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TWUT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査役3名選任の件小山信行小林義典小林弘樹",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 166731668616685,
+          "votes_against": 692679680,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 16660,
+          "votes_against": 706,
+          "votes_abstain": 0,
+          "approval_pct": 95.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案従業員に対する税制適格型ストック・オプション（新株予約権）発行の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 16189,
+          "votes_against": 1177,
+          "votes_abstain": 0,
+          "approval_pct": 93.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:33:33.957Z"
+}

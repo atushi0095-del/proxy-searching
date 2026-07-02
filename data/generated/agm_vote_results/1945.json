@@ -1,0 +1,100 @@
+{
+  "company_code": "1945",
+  "company_name": "東京エネシス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYO8",
+      "submit_date_time": "2024-07-01 16:17",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYO8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 272558,
+          "votes_against": 626,
+          "votes_abstain": 0,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "眞島俊昭",
+          "votes_for": 253526,
+          "votes_against": 19663,
+          "votes_abstain": 0,
+          "approval_pct": 92.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀川総一郎",
+          "votes_for": 265665,
+          "votes_against": 7524,
+          "votes_abstain": 0,
+          "approval_pct": 97.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中等",
+          "votes_for": 265635,
+          "votes_against": 7554,
+          "votes_abstain": 0,
+          "approval_pct": 97.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西山茂",
+          "votes_for": 265817,
+          "votes_against": 7372,
+          "votes_abstain": 0,
+          "approval_pct": 97.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長谷川園恵",
+          "votes_for": 272364,
+          "votes_against": 825,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤直哉",
+          "votes_for": 272357,
+          "votes_against": 832,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:15:58.058Z"
+}

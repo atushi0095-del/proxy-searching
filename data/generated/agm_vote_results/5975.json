@@ -1,0 +1,112 @@
+{
+  "company_code": "5975",
+  "company_name": "東プレ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TXMM",
+      "submit_date_time": "2024-06-28 11:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXMM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 458151,
+          "votes_against": 281,
+          "votes_abstain": 0,
+          "approval_pct": 99.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本豊",
+          "votes_for": 443390,
+          "votes_against": 15030,
+          "votes_abstain": 12,
+          "approval_pct": 96.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田勝郎",
+          "votes_for": 457580,
+          "votes_against": 840,
+          "votes_abstain": 12,
+          "approval_pct": 99.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "露木好則",
+          "votes_for": 457583,
+          "votes_against": 837,
+          "votes_abstain": 12,
+          "approval_pct": 99.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高田剛",
+          "votes_for": 382553,
+          "votes_against": 75863,
+          "votes_abstain": 12,
+          "approval_pct": 83.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小笠原直",
+          "votes_for": 451346,
+          "votes_against": 7074,
+          "votes_abstain": 12,
+          "approval_pct": 8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "緑川芳江",
+          "votes_for": 457557,
+          "votes_against": 862,
+          "votes_abstain": 12,
+          "approval_pct": 43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 458027,
+          "votes_against": 393,
+          "votes_abstain": 12,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:36:24.588Z"
+}

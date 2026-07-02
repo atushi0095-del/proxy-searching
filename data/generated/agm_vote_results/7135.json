@@ -1,0 +1,40 @@
+{
+  "company_code": "7135",
+  "company_name": "ジャパンクラフトホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-28",
+      "meeting_year": 2024,
+      "doc_id": "S100TX5Y",
+      "submit_date_time": "2024-07-01 15:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TX5Y",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 219376,
+          "votes_against": 2269,
+          "votes_abstain": null,
+          "approval_pct": 96.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀孝子",
+          "votes_for": 219612,
+          "votes_against": 2047,
+          "votes_abstain": null,
+          "approval_pct": 96.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:16:33.433Z"
+}

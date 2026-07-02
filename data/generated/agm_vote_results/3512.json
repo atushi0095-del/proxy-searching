@@ -1,0 +1,112 @@
+{
+  "company_code": "3512",
+  "company_name": "日本フエルト",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TZ0N",
+      "submit_date_time": "2024-07-02 11:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TZ0N",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芝原誠一",
+          "votes_for": 123119,
+          "votes_against": 9250,
+          "votes_abstain": null,
+          "approval_pct": 92.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "矢崎荘太郎",
+          "votes_for": 124093,
+          "votes_against": 8276,
+          "votes_abstain": null,
+          "approval_pct": 93.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "富田協一",
+          "votes_for": 130244,
+          "votes_against": 2125,
+          "votes_abstain": null,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮坂隆志",
+          "votes_for": 130259,
+          "votes_against": 2110,
+          "votes_abstain": null,
+          "approval_pct": 98.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "緒方孝則",
+          "votes_for": 130276,
+          "votes_against": 2093,
+          "votes_abstain": null,
+          "approval_pct": 98.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河津司",
+          "votes_for": 130328,
+          "votes_against": 2041,
+          "votes_abstain": null,
+          "approval_pct": 98.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柳岡肇",
+          "votes_for": 131511,
+          "votes_against": 865,
+          "votes_abstain": null,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "市東康男",
+          "votes_for": 131311,
+          "votes_against": 1065,
+          "votes_abstain": null,
+          "approval_pct": 99.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:14:28.839Z"
+}

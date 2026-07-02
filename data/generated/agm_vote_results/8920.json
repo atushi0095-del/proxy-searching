@@ -1,0 +1,40 @@
+{
+  "company_code": "8920",
+  "company_name": "東祥",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-19",
+      "meeting_year": 2024,
+      "doc_id": "S100TO5U",
+      "submit_date_time": "2024-06-21 10:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TO5U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案沓名俊裕沓名裕一郎谷澤亜希神谷明文菊池修",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2.6780326499329972e+29,
+          "votes_against": 5.039653206184935e+24,
+          "votes_abstain": null,
+          "approval_pct": 84.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 262927,
+          "votes_against": 55540,
+          "votes_abstain": null,
+          "approval_pct": 82.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:20:31.477Z"
+}

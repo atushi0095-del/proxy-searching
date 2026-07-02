@@ -1,0 +1,52 @@
+{
+  "company_code": "8370",
+  "company_name": "紀陽銀行",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYZ5",
+      "submit_date_time": "2024-07-03 09:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYZ5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 470875,
+          "votes_against": 28213,
+          "votes_abstain": 57,
+          "approval_pct": 94.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案松岡靖之原口裕之丸岡範夫溝渕栄朝本悦宏向井守寿",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 4.457594371724864e+35,
+          "votes_against": 5.335861945127572e+28,
+          "votes_abstain": 212121212121,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 438370,
+          "votes_against": 60757,
+          "votes_abstain": 11,
+          "approval_pct": 87.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:12:07.632Z"
+}

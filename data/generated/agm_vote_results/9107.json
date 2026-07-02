@@ -1,0 +1,64 @@
+{
+  "company_code": "9107",
+  "company_name": "川崎汽船",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TUNC",
+      "submit_date_time": "2024-06-26 15:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TUNC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1959413,
+          "votes_against": 1633,
+          "votes_abstain": null,
+          "approval_pct": 99.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案明珍幸一針谷雄彦山鹿徳昌山田啓二内田龍平小高功嗣牧寛之政井貴子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.9257201954466197e+55,
+          "votes_against": 3.458765646028511e+34,
+          "votes_abstain": null,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1957318,
+          "votes_against": 3734,
+          "votes_abstain": null,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1959368,
+          "votes_against": 1682,
+          "votes_abstain": null,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:58:20.436Z"
+}

@@ -1,0 +1,88 @@
+{
+  "company_code": "6629",
+  "company_name": "ﾃｸﾉﾎﾗｲｿﾞﾝ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYZ9",
+      "submit_date_time": "2024-07-02 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYZ9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 60373,
+          "votes_against": 1650,
+          "votes_abstain": 37,
+          "approval_pct": 96.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野村拡伸",
+          "votes_for": 56975,
+          "votes_against": 5084,
+          "votes_abstain": 1,
+          "approval_pct": 91.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "口野達也",
+          "votes_for": 59520,
+          "votes_against": 2539,
+          "votes_abstain": 1,
+          "approval_pct": 95.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤靖博",
+          "votes_for": 60469,
+          "votes_against": 1590,
+          "votes_abstain": 1,
+          "approval_pct": 97.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "寺澤和哉",
+          "votes_for": 60458,
+          "votes_against": 1601,
+          "votes_abstain": 1,
+          "approval_pct": 97.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "AnisUzzaman",
+          "votes_for": 59501,
+          "votes_against": 2558,
+          "votes_abstain": 1,
+          "approval_pct": 95.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:12:49.162Z"
+}

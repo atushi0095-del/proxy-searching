@@ -1,0 +1,52 @@
+{
+  "company_code": "2296",
+  "company_name": "伊藤ハム米久ホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TTEJ",
+      "submit_date_time": "2024-06-26 15:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TTEJ",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "1松崎義郎",
+          "votes_for": 454626,
+          "votes_against": 22906,
+          "votes_abstain": 0,
+          "approval_pct": 95.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "2梅林啓",
+          "votes_for": 476683,
+          "votes_against": 856,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "1瓜生健太郎",
+          "votes_for": 476635,
+          "votes_against": 902,
+          "votes_abstain": 0,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:58:15.694Z"
+}

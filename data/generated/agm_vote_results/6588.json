@@ -1,0 +1,40 @@
+{
+  "company_code": "6588",
+  "company_name": "東芝テック",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-28",
+      "meeting_year": 2024,
+      "doc_id": "S100TYY7",
+      "submit_date_time": "2024-07-01 16:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYY7",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案坂本一郎河邦雄",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 403724423113,
+          "votes_against": 3802518640,
+          "votes_abstain": 0,
+          "approval_pct": 91.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案嵯峨谷厳",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 423237,
+          "votes_against": 18517,
+          "votes_abstain": 0,
+          "approval_pct": 95.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:15:48.607Z"
+}

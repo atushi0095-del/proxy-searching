@@ -1,0 +1,40 @@
+{
+  "company_code": "9788",
+  "company_name": "ナック",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXDE",
+      "submit_date_time": "2024-06-28 16:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXDE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 318585,
+          "votes_against": 602,
+          "votes_abstain": null,
+          "approval_pct": 99.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案川上裕也脇本和好嶋内穣山下真実",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3.126023126103127e+23,
+          "votes_against": 6640663265674248,
+          "votes_abstain": null,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:25:48.295Z"
+}

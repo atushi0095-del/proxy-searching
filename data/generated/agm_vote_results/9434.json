@@ -1,0 +1,52 @@
+{
+  "company_code": "9434",
+  "company_name": "ソフトバンク",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-20",
+      "meeting_year": 2024,
+      "doc_id": "S100TR06",
+      "submit_date_time": "2024-06-24 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TR06",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 37512713,
+          "votes_against": 70047,
+          "votes_abstain": 20,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件今井康之宮川潤一榛葉淳藤原和彦孫正義堀場厚上釜健宏大木一昭越直美坂本真樹佐々木裕子",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 3.705573837327668e+87,
+          "votes_against": 2.942932434321777e+63,
+          "votes_abstain": 2.3568414617151816e+46,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件中嶋康博",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 37534238,
+          "votes_against": 49921,
+          "votes_abstain": 1315,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:13:12.317Z"
+}

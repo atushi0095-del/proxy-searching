@@ -1,0 +1,136 @@
+{
+  "company_code": "5217",
+  "company_name": "5217",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TST6",
+      "submit_date_time": "2024-06-25 16:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TST6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案株式移転計画承認の件",
+          "proposal_category": "組織再編",
+          "candidate_name": null,
+          "votes_for": 31725,
+          "votes_against": 493,
+          "votes_abstain": 5,
+          "approval_pct": 98.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 32075,
+          "votes_against": 148,
+          "votes_abstain": 0,
+          "approval_pct": 99.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員であるものを除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "園田育伸",
+          "votes_for": 31585,
+          "votes_against": 638,
+          "votes_abstain": 0,
+          "approval_pct": 98.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員であるものを除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高橋寛",
+          "votes_for": 32041,
+          "votes_against": 182,
+          "votes_abstain": 0,
+          "approval_pct": 99.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員であるものを除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "増田勇",
+          "votes_for": 32051,
+          "votes_against": 172,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員であるものを除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "手川英一",
+          "votes_for": 32049,
+          "votes_against": 174,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員であるものを除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "麻田俊弘",
+          "votes_for": 32031,
+          "votes_against": 192,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "谷口茂樹",
+          "votes_for": 31847,
+          "votes_against": 376,
+          "votes_abstain": 0,
+          "approval_pct": 98.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森田岳人",
+          "votes_for": 32019,
+          "votes_against": 204,
+          "votes_abstain": 0,
+          "approval_pct": 99.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 32034,
+          "votes_against": 189,
+          "votes_abstain": 0,
+          "approval_pct": 99.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:05:10.919Z"
+}

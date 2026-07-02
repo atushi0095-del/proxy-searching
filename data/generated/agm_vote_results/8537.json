@@ -1,0 +1,112 @@
+{
+  "company_code": "8537",
+  "company_name": "大光銀行",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TYYU",
+      "submit_date_time": "2024-07-02 09:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYYU",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 72381,
+          "votes_against": 1067,
+          "votes_abstain": 0,
+          "approval_pct": 97.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石田幸雄",
+          "votes_for": 59520,
+          "votes_against": 13928,
+          "votes_abstain": 0,
+          "approval_pct": 80.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川合昌一",
+          "votes_for": 61730,
+          "votes_against": 11718,
+          "votes_abstain": 0,
+          "approval_pct": 83.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木裕之",
+          "votes_for": 66015,
+          "votes_against": 7433,
+          "votes_abstain": 0,
+          "approval_pct": 89.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金井哲男",
+          "votes_for": 72845,
+          "votes_against": 603,
+          "votes_abstain": 0,
+          "approval_pct": 98.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "相場実",
+          "votes_for": 72525,
+          "votes_against": 923,
+          "votes_abstain": 0,
+          "approval_pct": 97.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋義彦",
+          "votes_for": 72521,
+          "votes_against": 927,
+          "votes_abstain": 0,
+          "approval_pct": 97.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "関口寛",
+          "votes_for": 72939,
+          "votes_against": 509,
+          "votes_abstain": 0,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:15:24.756Z"
+}

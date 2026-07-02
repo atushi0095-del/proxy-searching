@@ -1,0 +1,64 @@
+{
+  "company_code": "7280",
+  "company_name": "ミツバ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-20",
+      "meeting_year": 2024,
+      "doc_id": "S100TNI5",
+      "submit_date_time": "2024-06-21 16:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TNI5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 354328,
+          "votes_against": 6030,
+          "votes_abstain": 0,
+          "approval_pct": 98.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案第三者割当による募集株式（Ｄ種種類株式）発行の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 353339,
+          "votes_against": 7020,
+          "votes_abstain": 0,
+          "approval_pct": 98.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "日野貞実武信幸杉山雅彦北田勝義",
+          "votes_for": 3.5761735824835845e+23,
+          "votes_against": 2741211019054413,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "今井秀夫丹治宏彰中井陽子",
+          "votes_for": 354976358831358460,
+          "votes_against": 538215271921,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:17:06.447Z"
+}

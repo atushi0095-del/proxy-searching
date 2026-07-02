@@ -1,0 +1,40 @@
+{
+  "company_code": "4177",
+  "company_name": "ｉ－ｐｌｕｇ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TO9U",
+      "submit_date_time": "2024-06-24 09:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TO9U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案中野智哉直木英訓阪田貴郁田中伸明山田雅人田中邦裕麻田祐司",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2.778028232282303e+34,
+          "votes_against": 574122124122123140000,
+          "votes_abstain": null,
+          "approval_pct": 97.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案赤木孝一中澤未生子廣瀬好伸",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 283072830228302,
+          "votes_against": 475252,
+          "votes_abstain": null,
+          "approval_pct": 99.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:16:28.327Z"
+}

@@ -1,0 +1,136 @@
+{
+  "company_code": "1860",
+  "company_name": "戸田建設",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TVO6",
+      "submit_date_time": "2024-06-27 14:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TVO6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2696761,
+          "votes_against": 2137,
+          "votes_abstain": 0,
+          "approval_pct": 99.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "今井雅則",
+          "votes_for": 1920926,
+          "votes_against": 778000,
+          "votes_abstain": 0,
+          "approval_pct": 71.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大谷清介",
+          "votes_for": 2003037,
+          "votes_against": 695887,
+          "votes_abstain": 0,
+          "approval_pct": 74.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山嵜俊博",
+          "votes_for": 2423551,
+          "votes_against": 275379,
+          "votes_abstain": 0,
+          "approval_pct": 89.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "伊丹俊彦",
+          "votes_for": 2418045,
+          "votes_against": 280885,
+          "votes_abstain": 0,
+          "approval_pct": 89.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "荒金久美",
+          "votes_for": 2418006,
+          "votes_against": 280924,
+          "votes_abstain": 0,
+          "approval_pct": 89.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "室井雅博",
+          "votes_for": 2425337,
+          "votes_against": 273594,
+          "votes_abstain": 0,
+          "approval_pct": 89.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "西山潤子",
+          "votes_for": 2616520,
+          "votes_against": 82410,
+          "votes_abstain": 0,
+          "approval_pct": 96.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "海川直毅",
+          "votes_for": 2627054,
+          "votes_against": 71877,
+          "votes_abstain": 0,
+          "approval_pct": 97.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案自己株式取得の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 639066,
+          "votes_against": 2059496,
+          "votes_abstain": 310,
+          "approval_pct": 23.68,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:48:55.992Z"
+}

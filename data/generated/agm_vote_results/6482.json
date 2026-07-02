@@ -1,0 +1,52 @@
+{
+  "company_code": "6482",
+  "company_name": "ＹＵＳＨＩＮ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TXG5",
+      "submit_date_time": "2024-06-28 09:40",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXG5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 277946,
+          "votes_against": 17560,
+          "votes_abstain": null,
+          "approval_pct": 93.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件小谷高代小田康太北川康史稲野智宏西口泰夫松久寛中山礼子",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 2.660402711072711e+41,
+          "votes_against": 2.9468244012442425e+34,
+          "votes_abstain": 0,
+          "approval_pct": 89.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件福井理仁山田美樹",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 277636277691,
+          "votes_against": 1787217817,
+          "votes_abstain": 0,
+          "approval_pct": 93.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:40:14.983Z"
+}

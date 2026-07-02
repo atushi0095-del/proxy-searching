@@ -1,0 +1,52 @@
+{
+  "company_code": "3666",
+  "company_name": "テクノスジャパン",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TTE1",
+      "submit_date_time": "2024-06-26 14:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TTE1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉岡隆石田実小林希与志太田知子岡浩治",
+          "votes_for": 7.109888316865859e+24,
+          "votes_against": 192992081381238500000,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "窪田茂大嶋義孝三好林太郎",
+          "votes_for": 841158665788285,
+          "votes_against": 628237402112,
+          "votes_abstain": 0,
+          "approval_pct": 99.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡浩治",
+          "votes_for": 78891,
+          "votes_against": 11506,
+          "votes_abstain": 0,
+          "approval_pct": 87.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:59:53.963Z"
+}

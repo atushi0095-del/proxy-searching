@@ -1,0 +1,52 @@
+{
+  "company_code": "6521",
+  "company_name": "ｵｷｻｲﾄﾞ",
+  "meetings": [
+    {
+      "meeting_date": "2024-05-30",
+      "meeting_year": 2024,
+      "doc_id": "S100TJL8",
+      "submit_date_time": "2024-05-31 16:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TJL8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件古川保典山本正幸石橋浩之藤浦和夫内田誠二中村二朗為近恵美GarethC.W.Jones",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 6.893372782728277e+39,
+          "votes_against": 4.2494003553803584e+26,
+          "votes_abstain": 0,
+          "approval_pct": 92.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件吉田貴小坂義人田中良幸",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 728556894072854,
+          "votes_against": 3274242328,
+          "votes_abstain": 0,
+          "approval_pct": 97.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役3名選任の件殿村悦子岡田貴子土肥健太郎",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 726287285472850,
+          "votes_against": 554328332,
+          "votes_abstain": 0,
+          "approval_pct": 97.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:31:32.251Z"
+}

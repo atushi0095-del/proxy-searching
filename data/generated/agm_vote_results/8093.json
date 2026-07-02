@@ -1,0 +1,40 @@
+{
+  "company_code": "8093",
+  "company_name": "極東貿易",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-19",
+      "meeting_year": 2024,
+      "doc_id": "S100TR87",
+      "submit_date_time": "2024-06-24 16:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TR87",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 85549,
+          "votes_against": 520,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡田義也佐久間慎治佐藤匡玄八田忠道藤野隆",
+          "votes_for": 7.184480085800778e+24,
+          "votes_against": 144416200620821480000,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:10:36.239Z"
+}

@@ -1,0 +1,76 @@
+{
+  "company_code": "1436",
+  "company_name": "グリーンエナジー＆カンパニー",
+  "meetings": [
+    {
+      "meeting_date": "2024-07-25",
+      "meeting_year": 2024,
+      "doc_id": "S100U45Q",
+      "submit_date_time": "2024-07-26 16:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100U45Q",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 32295,
+          "votes_against": 57,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 32295,
+          "votes_against": 57,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴江崇文山中哲男",
+          "votes_for": 3229532295,
+          "votes_against": 5757,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三谷恭也山田善則飯田花織",
+          "votes_for": 322953229132291,
+          "votes_against": 576161,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠の監査等委員である取締役1名選任の件吉浜哲夫",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 32297,
+          "votes_against": 55,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:01:35.718Z"
+}

@@ -1,0 +1,40 @@
+{
+  "company_code": "9072",
+  "company_name": "ニッコンホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TZZJ",
+      "submit_date_time": "2024-07-04 15:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TZZJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案黒岩正勝大岡誠司枩田泰典本橋秀浩山田起王威高麗愛子尾関竜太郎",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 5.458865480385481e+41,
+          "votes_against": 5.971382037503751e+27,
+          "votes_abstain": 0,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案奥田哲也宮田英樹武田佳奈子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 549104544032551800,
+          "votes_against": 2756782661,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:09:42.280Z"
+}

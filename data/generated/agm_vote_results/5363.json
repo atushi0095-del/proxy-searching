@@ -1,0 +1,64 @@
+{
+  "company_code": "5363",
+  "company_name": "東京窯業",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYCO",
+      "submit_date_time": "2024-06-28 16:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYCO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 386113,
+          "votes_against": 3988,
+          "votes_abstain": null,
+          "approval_pct": 98.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野村茂紀",
+          "votes_for": 385314,
+          "votes_against": 4789,
+          "votes_abstain": null,
+          "approval_pct": 98.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北原譲",
+          "votes_for": 385157,
+          "votes_against": 4946,
+          "votes_abstain": null,
+          "approval_pct": 98.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西村司",
+          "votes_for": 351930,
+          "votes_against": 38173,
+          "votes_abstain": null,
+          "approval_pct": 90.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:25:08.214Z"
+}

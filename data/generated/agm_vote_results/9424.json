@@ -1,0 +1,76 @@
+{
+  "company_code": "9424",
+  "company_name": "日本通信",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TQSS",
+      "submit_date_time": "2024-06-26 15:43",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TQSS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福田尚久",
+          "votes_for": 697452,
+          "votes_against": 152788,
+          "votes_abstain": 607,
+          "approval_pct": 81.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田喜彦",
+          "votes_for": 732279,
+          "votes_against": 117961,
+          "votes_abstain": 607,
+          "approval_pct": 86.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役の金銭報酬（給与）の総額を改定する件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 677889,
+          "votes_against": 172317,
+          "votes_abstain": 607,
+          "approval_pct": 79.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役の金銭報酬（給与）の総額を改定する件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 703318,
+          "votes_against": 146981,
+          "votes_abstain": 607,
+          "approval_pct": 82.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役（社外取締役を除く）の金銭報酬（業績連動型報酬）を導入する件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 692954,
+          "votes_against": 157345,
+          "votes_abstain": 607,
+          "approval_pct": 81.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:57:53.597Z"
+}

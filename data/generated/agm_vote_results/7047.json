@@ -1,0 +1,100 @@
+{
+  "company_code": "7047",
+  "company_name": "ポート",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-20",
+      "meeting_year": 2024,
+      "doc_id": "S100TPI2",
+      "submit_date_time": "2024-06-21 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TPI2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 74509,
+          "votes_against": 818,
+          "votes_abstain": 128,
+          "approval_pct": 98.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "春日博文",
+          "votes_for": 75206,
+          "votes_against": 121,
+          "votes_abstain": 128,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "丸山侑佑",
+          "votes_for": 75174,
+          "votes_against": 153,
+          "votes_abstain": 128,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大森(伊田)愛久美",
+          "votes_for": 75192,
+          "votes_against": 135,
+          "votes_abstain": 128,
+          "approval_pct": 99.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "冨岡大悟",
+          "votes_for": 75193,
+          "votes_against": 134,
+          "votes_abstain": 128,
+          "approval_pct": 99.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "馬渕邦美",
+          "votes_for": 75174,
+          "votes_against": 153,
+          "votes_abstain": 128,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案会計監査人選任の件",
+          "proposal_category": "会計監査人選任",
+          "candidate_name": null,
+          "votes_for": 75184,
+          "votes_against": 143,
+          "votes_abstain": 128,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:18:34.129Z"
+}

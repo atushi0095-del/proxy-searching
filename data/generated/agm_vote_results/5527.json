@@ -1,0 +1,40 @@
+{
+  "company_code": "5527",
+  "company_name": "ｐｒｏｐｅｒｔｙ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+  "meetings": [
+    {
+      "meeting_date": "2024-07-19",
+      "meeting_year": 2024,
+      "doc_id": "S100U2WS",
+      "submit_date_time": "2024-07-19 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100U2WS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役1名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 31817,
+          "votes_against": 877,
+          "votes_abstain": 0,
+          "approval_pct": 97.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案資本金の額の減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 32567,
+          "votes_against": 155,
+          "votes_abstain": 0,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:03:53.421Z"
+}

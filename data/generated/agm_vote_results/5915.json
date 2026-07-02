@@ -1,0 +1,100 @@
+{
+  "company_code": "5915",
+  "company_name": "駒井ハルテック",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100U00S",
+      "submit_date_time": "2024-07-05 09:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100U00S",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 30630,
+          "votes_against": 976,
+          "votes_abstain": 0,
+          "approval_pct": 96.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村貴任",
+          "votes_for": 28372,
+          "votes_against": 3236,
+          "votes_abstain": 0,
+          "approval_pct": 89.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "飯塚勉",
+          "votes_for": 30464,
+          "votes_against": 1146,
+          "votes_abstain": 0,
+          "approval_pct": 96.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "国崎肇",
+          "votes_for": 30402,
+          "votes_against": 1206,
+          "votes_abstain": 0,
+          "approval_pct": 96.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田畑順二朗",
+          "votes_for": 30408,
+          "votes_against": 1200,
+          "votes_abstain": 0,
+          "approval_pct": 96.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "岡田和秀",
+          "votes_for": 30500,
+          "votes_against": 1108,
+          "votes_abstain": 0,
+          "approval_pct": 96.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山本操司",
+          "votes_for": 29880,
+          "votes_against": 1728,
+          "votes_abstain": 0,
+          "approval_pct": 94.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:09:15.956Z"
+}

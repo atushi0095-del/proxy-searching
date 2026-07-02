@@ -1,0 +1,100 @@
+{
+  "company_code": "6405",
+  "company_name": "鈴茂器工",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-22",
+      "meeting_year": 2024,
+      "doc_id": "S100TPNI",
+      "submit_date_time": "2024-06-24 14:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TPNI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 100659,
+          "votes_against": 162,
+          "votes_abstain": 12,
+          "approval_pct": 99.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木美奈子",
+          "votes_for": 98778,
+          "votes_against": 1767,
+          "votes_abstain": 288,
+          "approval_pct": 97.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷口徹",
+          "votes_for": 98771,
+          "votes_against": 2062,
+          "votes_abstain": 0,
+          "approval_pct": 97.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "越野純子",
+          "votes_for": 99106,
+          "votes_against": 1727,
+          "votes_abstain": 0,
+          "approval_pct": 98.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋正己",
+          "votes_for": 99404,
+          "votes_against": 1429,
+          "votes_abstain": 0,
+          "approval_pct": 98.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋昭夫",
+          "votes_for": 99176,
+          "votes_against": 1657,
+          "votes_abstain": 0,
+          "approval_pct": 98.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本泰",
+          "votes_for": 96811,
+          "votes_against": 4022,
+          "votes_abstain": 0,
+          "approval_pct": 96.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:13:31.781Z"
+}

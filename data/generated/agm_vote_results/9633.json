@@ -1,0 +1,124 @@
+{
+  "company_code": "9633",
+  "company_name": "東京テアトル",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXAX",
+      "submit_date_time": "2024-06-28 14:59",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXAX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 44554,
+          "votes_against": 763,
+          "votes_abstain": 0,
+          "approval_pct": 98.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "太田和宏",
+          "votes_for": 41937,
+          "votes_against": 3380,
+          "votes_abstain": 0,
+          "approval_pct": 92.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松岡毅",
+          "votes_for": 43823,
+          "votes_against": 1494,
+          "votes_abstain": 0,
+          "approval_pct": 96.7,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "千葉久司",
+          "votes_for": 43849,
+          "votes_against": 1468,
+          "votes_abstain": 0,
+          "approval_pct": 96.76,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小倉誠",
+          "votes_for": 43996,
+          "votes_against": 1321,
+          "votes_abstain": 0,
+          "approval_pct": 97.08,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "猪山雄央",
+          "votes_for": 43858,
+          "votes_against": 1459,
+          "votes_abstain": 0,
+          "approval_pct": 96.78,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小澤直樹",
+          "votes_for": 43697,
+          "votes_against": 1620,
+          "votes_abstain": 0,
+          "approval_pct": 96.43,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役に対する譲渡制限付株式の付与のための報酬決定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 43172,
+          "votes_against": 2145,
+          "votes_abstain": 0,
+          "approval_pct": 95.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案当社株式の大規模買付行為に関する対応方針（買収への対応方針）の一部改定及び存続の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 39671,
+          "votes_against": 5643,
+          "votes_abstain": 0,
+          "approval_pct": 87.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:29:41.537Z"
+}

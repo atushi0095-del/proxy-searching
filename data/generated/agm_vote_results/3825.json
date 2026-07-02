@@ -1,0 +1,76 @@
+{
+  "company_code": "3825",
+  "company_name": "リミックスポイント",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXD9",
+      "submit_date_time": "2024-06-28 10:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXD9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "高橋由彦",
+          "votes_for": 604322,
+          "votes_against": 157828,
+          "votes_abstain": 0,
+          "approval_pct": 79.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "秋田真人",
+          "votes_for": 610730,
+          "votes_against": 151420,
+          "votes_abstain": 0,
+          "approval_pct": 80.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山田庸一",
+          "votes_for": 657959,
+          "votes_against": 104189,
+          "votes_abstain": 0,
+          "approval_pct": 86.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙木浩二",
+          "votes_for": 657578,
+          "votes_against": 104570,
+          "votes_abstain": 0,
+          "approval_pct": 86.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案会計監査人選任の件",
+          "proposal_category": "会計監査人選任",
+          "candidate_name": null,
+          "votes_for": 661947,
+          "votes_against": 100203,
+          "votes_abstain": 0,
+          "approval_pct": 86.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:38:56.612Z"
+}

@@ -1,0 +1,100 @@
+{
+  "company_code": "6157",
+  "company_name": "日進工具",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TQ2O",
+      "submit_date_time": "2024-06-24 09:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TQ2O",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 217581,
+          "votes_against": 314,
+          "votes_abstain": 4,
+          "approval_pct": 99.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤弘治",
+          "votes_for": 207544,
+          "votes_against": 10355,
+          "votes_abstain": null,
+          "approval_pct": 95.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤隆司",
+          "votes_for": 210774,
+          "votes_against": 7125,
+          "votes_abstain": null,
+          "approval_pct": 96.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "足立有子",
+          "votes_for": 210808,
+          "votes_against": 7091,
+          "votes_abstain": null,
+          "approval_pct": 96.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "戸田覚",
+          "votes_for": 210305,
+          "votes_against": 7594,
+          "votes_abstain": null,
+          "approval_pct": 96.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤崎直子",
+          "votes_for": 217199,
+          "votes_against": 700,
+          "votes_abstain": null,
+          "approval_pct": 99.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平賀敏秋",
+          "votes_for": 217018,
+          "votes_against": 881,
+          "votes_abstain": null,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:16:47.276Z"
+}

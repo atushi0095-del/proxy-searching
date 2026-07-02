@@ -1,0 +1,28 @@
+{
+  "company_code": "2156",
+  "company_name": "セーラー広告",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TW43",
+      "submit_date_time": "2024-06-27 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TW43",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大川俊徳",
+          "votes_for": 28822,
+          "votes_against": 270,
+          "votes_abstain": 10,
+          "approval_pct": 99.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:46:59.776Z"
+}

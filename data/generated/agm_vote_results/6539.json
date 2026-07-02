@@ -1,0 +1,52 @@
+{
+  "company_code": "6539",
+  "company_name": "ＭＳ－Ｊａｐａｎ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TXXS",
+      "submit_date_time": "2024-06-28 14:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXXS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 202348,
+          "votes_against": 467,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案有本隆浩藤江眞之山本拓",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 182210196950196830,
+          "votes_against": 2060558655989,
+          "votes_abstain": 0,
+          "approval_pct": 89.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案大浦善光坂元英峰和田育子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 190127197300196960,
+          "votes_against": 1268855155867,
+          "votes_abstain": 0,
+          "approval_pct": 93.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:31:29.889Z"
+}

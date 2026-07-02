@@ -1,0 +1,88 @@
+{
+  "company_code": "7709",
+  "company_name": "クボテック",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TJQ7",
+      "submit_date_time": "2024-06-28 09:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TJQ7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "久保哲夫",
+          "votes_for": 107605,
+          "votes_against": 1902,
+          "votes_abstain": 0,
+          "approval_pct": 98.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "角張尚道",
+          "votes_for": 107850,
+          "votes_against": 1657,
+          "votes_abstain": 0,
+          "approval_pct": 98.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "柿下尚武",
+          "votes_for": 107967,
+          "votes_against": 1540,
+          "votes_abstain": 0,
+          "approval_pct": 98.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木村文彦",
+          "votes_for": 108509,
+          "votes_against": 998,
+          "votes_abstain": 0,
+          "approval_pct": 99.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "小田大輔",
+          "votes_for": 107877,
+          "votes_against": 1660,
+          "votes_abstain": 0,
+          "approval_pct": 98.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "松井年志子",
+          "votes_for": 109186,
+          "votes_against": 351,
+          "votes_abstain": 0,
+          "approval_pct": 99.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:41:10.620Z"
+}

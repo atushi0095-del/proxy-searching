@@ -1,0 +1,52 @@
+{
+  "company_code": "8416",
+  "company_name": "高知銀行",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TXEW",
+      "submit_date_time": "2024-06-28 09:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXEW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 59974,
+          "votes_against": 2438,
+          "votes_abstain": 5,
+          "approval_pct": 96.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 62146,
+          "votes_against": 267,
+          "votes_abstain": 4,
+          "approval_pct": 99.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案山田浩梅田昭彦",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6211062121,
+          "votes_against": 304293,
+          "votes_abstain": 33,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:40:50.972Z"
+}

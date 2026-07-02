@@ -1,0 +1,40 @@
+{
+  "company_code": "6231",
+  "company_name": "木村工機",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TQTZ",
+      "submit_date_time": "2024-06-24 15:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TQTZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 29382,
+          "votes_against": 70,
+          "votes_abstain": null,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案木村惠一木村晃大村英人梶田正和登尾公彦浦野勝博佐藤信孝",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2.936829371293733e+34,
+          "votes_against": 90878585848486,
+          "votes_abstain": null,
+          "approval_pct": 98.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:11:41.523Z"
+}

@@ -1,0 +1,64 @@
+{
+  "company_code": "7943",
+  "company_name": "ニチハ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TW7A",
+      "submit_date_time": "2024-06-27 16:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TW7A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 331014,
+          "votes_against": 102,
+          "votes_abstain": 12,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案吉岡成充殿井一史小島一行岡宗次田尻直樹西浩明大谷和子野下えみ",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3.2101032164632293e+47,
+          "votes_against": 1.01059468820482e+30,
+          "votes_abstain": 1212121212121212,
+          "approval_pct": 96.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案藤田万之葉杉浦勝美",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 329781327328,
+          "votes_against": 13343787,
+          "votes_abstain": 1212,
+          "approval_pct": 99.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 330133,
+          "votes_against": 976,
+          "votes_abstain": 12,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:43:47.039Z"
+}

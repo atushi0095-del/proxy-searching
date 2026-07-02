@@ -1,0 +1,100 @@
+{
+  "company_code": "8365",
+  "company_name": "富山銀行",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXVW",
+      "submit_date_time": "2024-06-28 14:23",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXVW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 42632,
+          "votes_against": 84,
+          "votes_abstain": null,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 42616,
+          "votes_against": 100,
+          "votes_abstain": null,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "髙田恭介",
+          "votes_for": 42141,
+          "votes_against": 575,
+          "votes_abstain": null,
+          "approval_pct": 98.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "寺尾晋一",
+          "votes_for": 42161,
+          "votes_against": 555,
+          "votes_abstain": null,
+          "approval_pct": 98.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "佐原和生",
+          "votes_for": 42371,
+          "votes_against": 345,
+          "votes_abstain": null,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "海下巧",
+          "votes_for": 41859,
+          "votes_against": 857,
+          "votes_abstain": null,
+          "approval_pct": 97.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "樋爪勇",
+          "votes_for": 42370,
+          "votes_against": 346,
+          "votes_abstain": null,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:31:10.648Z"
+}

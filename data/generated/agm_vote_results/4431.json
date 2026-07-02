@@ -1,0 +1,40 @@
+{
+  "company_code": "4431",
+  "company_name": "ｽﾏﾚｼﾞ",
+  "meetings": [
+    {
+      "meeting_date": "2024-07-29",
+      "meeting_year": 2024,
+      "doc_id": "S100U4JV",
+      "submit_date_time": "2024-07-30 11:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100U4JV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 170898,
+          "votes_against": 110,
+          "votes_abstain": 0,
+          "approval_pct": 99.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役の報酬額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 170552,
+          "votes_against": 458,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:00:45.743Z"
+}

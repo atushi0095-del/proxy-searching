@@ -1,0 +1,52 @@
+{
+  "company_code": "2003",
+  "company_name": "日東富士製粉",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TYF1",
+      "submit_date_time": "2024-07-01 09:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYF1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮原朋宏中田昭久太田大志堤隆敏長﨑剛",
+          "votes_for": 7.408176966769698e+24,
+          "votes_against": 42581373137013700000,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中庭聡豊島ひろ江宮下律江",
+          "votes_for": 767257700276993,
+          "votes_against": 161413371346,
+          "votes_abstain": null,
+          "approval_pct": 99.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役等に対する業績連動型株式報酬等の額及び内容決定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 78243,
+          "votes_against": 92,
+          "votes_abstain": null,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:23:39.029Z"
+}

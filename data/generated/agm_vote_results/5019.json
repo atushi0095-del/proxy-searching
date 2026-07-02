@@ -1,0 +1,40 @@
+{
+  "company_code": "5019",
+  "company_name": "出光興産",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TY7H",
+      "submit_date_time": "2024-06-28 15:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TY7H",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案木藤俊一平野敦彦酒井則明澤正彦出光正和久保原和也橘川武郎荷堂真紀鈴木純長田志織",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.003420310189426e+79,
+          "votes_against": 3.3378917857518506e+55,
+          "votes_abstain": 1.8918918918918918e+29,
+          "approval_pct": 96.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 9257353,
+          "votes_against": 1123109,
+          "votes_abstain": 189,
+          "approval_pct": 89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:27:26.764Z"
+}

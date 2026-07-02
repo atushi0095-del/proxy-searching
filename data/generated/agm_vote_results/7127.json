@@ -1,0 +1,28 @@
+{
+  "company_code": "7127",
+  "company_name": "一家ホールディングス",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TTJB",
+      "submit_date_time": "2024-06-26 09:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TTJB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件武長太郎秋山淳野瀬健髙橋広宜岩田明清水将登渡邉桂一赤塚元気",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 4.853748545485325e+39,
+          "votes_against": 6.256176306286226e+23,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:04:07.193Z"
+}

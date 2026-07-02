@@ -1,0 +1,52 @@
+{
+  "company_code": "1951",
+  "company_name": "エクシオグループ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-26",
+      "meeting_year": 2024,
+      "doc_id": "S100TVAI",
+      "submit_date_time": "2024-06-27 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TVAI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 874996,
+          "votes_against": 349,
+          "votes_abstain": null,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案梶村啓吾田中幸治",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 855362856820,
+          "votes_against": 1998018522,
+          "votes_abstain": 33,
+          "approval_pct": 96.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案山田成彦大澤栄子原島朗",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 866840873467874300,
+          "votes_against": 850218751002,
+          "votes_abstain": 333,
+          "approval_pct": 98.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:43:54.088Z"
+}

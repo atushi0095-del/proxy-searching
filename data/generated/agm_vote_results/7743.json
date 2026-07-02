@@ -1,0 +1,52 @@
+{
+  "company_code": "7743",
+  "company_name": "シード",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-25",
+      "meeting_year": 2024,
+      "doc_id": "S100TUBM",
+      "submit_date_time": "2024-06-26 14:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TUBM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 234306,
+          "votes_against": 976,
+          "votes_abstain": null,
+          "approval_pct": 98.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案浦壁昌広杉山哲也五十嵐淳福田猛佐藤隆郎中村きく江小原之夫大竹裕子小泉範子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2.168162324152325e+53,
+          "votes_against": 1.846728682786276e+37,
+          "votes_abstain": null,
+          "approval_pct": 91.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 228445,
+          "votes_against": 6838,
+          "votes_abstain": null,
+          "approval_pct": 95.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:00:20.942Z"
+}

@@ -1,0 +1,184 @@
+{
+  "company_code": "8359",
+  "company_name": "八十二銀行",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-21",
+      "meeting_year": 2024,
+      "doc_id": "S100TTXJ",
+      "submit_date_time": "2024-06-26 13:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TTXJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 4015141,
+          "votes_against": 10915,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更(商号変更)の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 4020595,
+          "votes_against": 5566,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田下佳代",
+          "votes_for": 3627578,
+          "votes_against": 398452,
+          "votes_abstain": 0,
+          "approval_pct": 90.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "金井孝行",
+          "votes_for": 3964011,
+          "votes_against": 62020,
+          "votes_abstain": 0,
+          "approval_pct": 98.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "峰村千秀",
+          "votes_for": 3709776,
+          "votes_against": 316254,
+          "votes_abstain": 0,
+          "approval_pct": 92.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山沢清人",
+          "votes_for": 3472576,
+          "votes_against": 553447,
+          "votes_abstain": 0,
+          "approval_pct": 86.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役の報酬等(取締役に対する業績連動型報酬)の内容改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 4018699,
+          "votes_against": 7469,
+          "votes_abstain": 0,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役(社外取締役を除く)に対する譲渡制限付株式の付与のための報酬決定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 4002510,
+          "votes_against": 21149,
+          "votes_abstain": 2509,
+          "approval_pct": 99.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案定款一部変更(国内基準行への転換)の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 144307,
+          "votes_against": 3862756,
+          "votes_abstain": 0,
+          "approval_pct": 3.6,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案定款一部変更(政策保有株式の売却)の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 185848,
+          "votes_against": 3840199,
+          "votes_abstain": 0,
+          "approval_pct": 4.62,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 9,
+          "proposal_title": "第9号議案定款一部変更(政策保有株式の目的の検証と結果の開示)の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 554410,
+          "votes_against": 3471525,
+          "votes_abstain": 0,
+          "approval_pct": 13.77,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 10,
+          "proposal_title": "第10号議案定款一部変更(取締役報酬の個別開示)の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 1205930,
+          "votes_against": 2819903,
+          "votes_abstain": 0,
+          "approval_pct": 29.95,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 11,
+          "proposal_title": "第11号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 833676,
+          "votes_against": 3192510,
+          "votes_abstain": 0,
+          "approval_pct": 20.71,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 12,
+          "proposal_title": "第12号議案自己株式の取得の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 601516,
+          "votes_against": 3424103,
+          "votes_abstain": 487,
+          "approval_pct": 14.94,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:01:40.268Z"
+}

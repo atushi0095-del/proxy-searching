@@ -1,0 +1,40 @@
+{
+  "company_code": "6337",
+  "company_name": "ﾃｾｯｸ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-27",
+      "meeting_year": 2024,
+      "doc_id": "S100TXP9",
+      "submit_date_time": "2024-06-28 11:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXP9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案田中賢治宮脇浩幸渡邊弘一戸田雄介",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 33241344453444534000,
+          "votes_against": 1717513513529,
+          "votes_abstain": 0,
+          "approval_pct": 95.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案尾亦利夫南忠良舛川博昭",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 340593263434028,
+          "votes_against": 9012326932,
+          "votes_abstain": 0,
+          "approval_pct": 97.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T09:36:01.010Z"
+}

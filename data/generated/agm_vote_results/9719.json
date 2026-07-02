@@ -1,0 +1,40 @@
+{
+  "company_code": "9719",
+  "company_name": "ＳＣＳＫ",
+  "meetings": [
+    {
+      "meeting_date": "2024-06-20",
+      "meeting_year": 2024,
+      "doc_id": "S100TP3Q",
+      "submit_date_time": "2024-06-21 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TP3Q",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2883193,
+          "votes_against": 624,
+          "votes_abstain": 0,
+          "approval_pct": 99.955,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三木泰雄",
+          "votes_for": 2582355,
+          "votes_against": 301460,
+          "votes_abstain": 0,
+          "approval_pct": 89.526,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T10:18:38.965Z"
+}
