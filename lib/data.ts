@@ -1,9 +1,9 @@
+import { readFileSync } from "node:fs";
+import path from "node:path";
 import investorsRaw from "@/data/investors.json";
 import guidelineRulesRaw from "@/data/guideline_rules.json";
 import companiesRaw from "@/data/companies.json";
 import financialMetricsRaw from "@/data/financial_metrics.json";
-import directorsRaw from "@/data/directors.json";
-import directorRoleHistoryRaw from "@/data/director_role_history.json";
 import governanceMetricsRaw from "@/data/company_governance_metrics.json";
 import guidelineSourcesRaw from "@/data/guideline_sources.json";
 import voteResultsRaw from "@/data/vote_results.json";
@@ -19,12 +19,35 @@ import type {
   VoteResult,
 } from "@/lib/types";
 
+// 巨大ファイル（directors 17MB / role_history 19MB）は import せず fs で遅延読込する。
+// import するとサーバーバンドルに埋め込まれ、ビルドが遅く・メモリ常駐が重くなるため。
+// このモジュールはサーバー専用（client component から import しないこと）。
+// path.join は "data" サブフォルダに静的スコープ（Turbopack のビルドトレース対策）
+const DATA_DIR = path.join(process.cwd(), "data");
+
+function readLargeJson<T>(fileName: string): T {
+  return JSON.parse(readFileSync(path.join(DATA_DIR, fileName), "utf8")) as T;
+}
+
+const lazyCache = globalThis as unknown as {
+  __directorsCache?: Director[];
+  __roleHistoryCache?: unknown[];
+};
+
+function loadDirectors(): Director[] {
+  lazyCache.__directorsCache ??= readLargeJson<Director[]>("directors.json");
+  return lazyCache.__directorsCache;
+}
+
+function loadDirectorRoleHistory(): unknown[] {
+  lazyCache.__roleHistoryCache ??= readLargeJson<unknown[]>("director_role_history.json");
+  return lazyCache.__roleHistoryCache;
+}
+
 export const investors = investorsRaw as Investor[];
 export const guidelineRules = guidelineRulesRaw as GuidelineRule[];
 export const companies = companiesRaw as Company[];
 export const financialMetrics = financialMetricsRaw as FinancialMetric[];
-export const directors = directorsRaw as Director[];
-export const directorRoleHistory = directorRoleHistoryRaw;
 export const companyGovernanceMetrics = governanceMetricsRaw as CompanyGovernanceMetric[];
 export const guidelineSources = guidelineSourcesRaw as GuidelineSource[];
 export const voteResults = voteResultsRaw as VoteResult[];
@@ -43,8 +66,16 @@ export function getFinancialMetrics(companyCode: string): FinancialMetric[] {
     .sort((a, b) => a.fiscal_year - b.fiscal_year);
 }
 
+export function getAllDirectors(): Director[] {
+  return loadDirectors();
+}
+
+export function getDirectorRoleHistory(): unknown[] {
+  return loadDirectorRoleHistory();
+}
+
 export function getDirectors(companyCode: string, meetingYear: number): Director[] {
-  return directors.filter(
+  return loadDirectors().filter(
     (director) =>
       director.company_code === companyCode &&
       director.meeting_year === meetingYear

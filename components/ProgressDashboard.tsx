@@ -10,7 +10,7 @@ import fidelityJapanSummary from "@/data/generated/fidelity_japan_vote_summary.j
 import mufgAmSummary from "@/data/generated/mufg_am_vote_summary.json";
 import nissayAmSummary from "@/data/generated/nissay_am_vote_summary.json";
 import smtamSummary from "@/data/generated/sumitomo_mitsui_trust_am_vote_summary.json";
-import { companies, companyGovernanceMetrics, directors, financialMetrics, guidelineRules, investors } from "@/lib/data";
+import { companies, companyGovernanceMetrics, financialMetrics, getAllDirectors, guidelineRules, investors } from "@/lib/data";
 
 function percent(done: number, total: number) {
   return Math.max(0, Math.min(100, Math.round((done / total) * 100)));
@@ -41,7 +41,7 @@ export function ProgressDashboard() {
 
   const companiesWithFinancials = new Set(financialMetrics.map((metric) => metric.company_code)).size;
   const companiesWithGovernance = new Set(companyGovernanceMetrics.map((metric) => metric.company_code)).size;
-  const companiesWithDirectors = new Set(directors.map((director) => director.company_code)).size;
+  const companiesWithDirectors = new Set(getAllDirectors().map((director) => director.company_code)).size;
   const targetInvestorCount = 12;
   const targetCompanySeed = 50;
   const targetRuleCount = 160;

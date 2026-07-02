@@ -129,6 +129,12 @@ const steps = [
     name: "split-opposition-records",
     script: "scripts/split-opposition-records.mjs",
     args: []
+  },
+  {
+    // 投資家ページのサーバー側フィルタ用 SQLite（analysis.db）を再構築
+    name: "build-analysis-db",
+    script: "scripts/build-analysis-db.mjs",
+    args: []
   }
 ];
 

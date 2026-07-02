@@ -1,5 +1,5 @@
 import type { InvestorJudgment, IssueType } from "@/lib/types";
-import { issueLabels } from "@/lib/inference";
+import { issueLabels } from "@/lib/issue-labels";
 
 export interface ExportRow {
   企業名: string;

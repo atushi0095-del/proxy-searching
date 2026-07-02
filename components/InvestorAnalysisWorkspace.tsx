@@ -4,93 +4,80 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { InvestorOppositionTable } from "@/components/InvestorOppositionTable";
 
-interface VoteRecord {
+interface MetricValue {
+  label: string;
+  value: number | null;
+  sourceUrl: string;
+  notes: string;
+}
+
+interface DirectorRef {
+  director_id?: string;
+  name: string;
+  current_title: string;
+  is_inside_director?: boolean;
+  is_outside_director?: boolean;
+  is_independent?: boolean;
+  is_president?: boolean;
+  is_ceo?: boolean;
+  is_chair?: boolean;
+  has_representative_authority?: boolean;
+  is_board_chair?: boolean;
+  tenure_years_before_meeting?: number;
+  is_female?: boolean;
+}
+
+interface AnalysisRow {
+  id: number;
   investor_id: string;
   company_code: string;
   company_name: string;
   meeting_date: string;
+  meeting_year: number;
   proposal_number: string;
-  resolution_number?: string;
-  candidate_number?: string;
+  resolution_number?: string | null;
+  candidate_number?: string | null;
   proposal_type: string;
-  proposal_title_normalized?: string;
   director_or_role: string;
   vote: string;
   issue_type: string;
-  detail_tags?: string[];
-  target_label?: string;
-  target_resolution_type?: string;
-  target_candidate_number?: string;
-  match_method?: string;
-  target_confidence?: string;
-  target_notes?: string;
-  matched_director_id?: string;
-  matched_director_name?: string;
-  matched_director_title?: string;
-  matched_director_attributes?: string[];
-  director_match_method?: string;
-  director_match_confidence?: string;
-  director_match_notes?: string;
+  detail_tags: string[];
+  target_label?: string | null;
+  match_method?: string | null;
+  target_confidence?: string | null;
+  matched_director_name?: string | null;
+  matched_director_title?: string | null;
+  matched_director_attributes: string[];
   reason: string;
   source_url: string;
-  source_title: string;
-  convocation_notice_url?: string;
+  convocation_notice_url?: string | null;
+  metric_values: MetricValue[];
+  matched_directors: { name: string; title: string; director: DirectorRef }[];
+  historical_names: string[];
+  is_direct_match: boolean;
 }
 
-interface FinancialMetric {
-  company_code: string;
-  fiscal_year: number;
-  roe: number | null;
-  pbr: number | null;
-  tsr_3y_rank_percentile?: number | null;
-  source_url: string;
-  notes: string;
+interface ConditionResponse {
+  rows: AnalysisRow[];
+  totalMatched: number;
+  matchedAgainst: number;
+  matchedFor: number;
+  displayTotal: number;
+  displayAgainst: number;
+  displayFor: number;
+  matchedCompanyCount: number;
 }
 
-interface GovernanceMetric {
-  company_code: string;
-  meeting_year: number;
-  independent_director_ratio: number;
-  female_director_ratio: number;
-  policy_shareholdings_ratio: number | null;
-  source_url: string;
-  notes: string;
+interface BoundaryResponse {
+  rows: { record: AnalysisRow; values: MetricValue[] }[];
+  total: number;
 }
 
-interface Director {
-  director_id?: string;
-  company_code: string;
-  meeting_year: number;
-  name: string;
-  current_title: string;
-  is_inside_director: boolean;
-  is_outside_director: boolean;
-  is_independent: boolean;
-  is_president: boolean;
-  is_ceo: boolean;
-  is_chair: boolean;
-  has_representative_authority: boolean;
-  is_board_chair: boolean;
-  tenure_years_before_meeting?: number;
-  tenure_years_after_reelection?: number;
-  board_attendance_rate?: number | null;
-  committee_attendance_rate?: number | null;
-  outside_board_seats?: number;
-  listed_company_board_seats?: number;
-  is_female: boolean;
-}
-
-interface DirectorRoleHistory {
-  director_id: string;
-  company_code: string;
-  name: string;
-  role_type: string;
-  role_title: string;
-  start_year: number;
-  end_year: number | null;
-  has_representative_authority: boolean;
-  confidence: string;
-  notes: string;
+interface Facets {
+  issueTypes: string[];
+  detailTags: string[];
+  meetingYears: string[];
+  summary: { total: number; againstCount: number; forCount: number; forWithReasonCount: number };
 }
 
 type VoteFilter = "all" | "反対" | "賛成";
@@ -125,11 +112,6 @@ interface SavedCondition {
 
 interface Props {
   investorId: string;
-  records: VoteRecord[];
-  financialMetrics: FinancialMetric[];
-  governanceMetrics: GovernanceMetric[];
-  directors: Director[];
-  roleHistory: DirectorRoleHistory[];
 }
 
 const issueLabels: Record<string, string> = {
@@ -193,7 +175,7 @@ function issueLabel(issue: string) {
   return issueLabels[issue] ?? issue;
 }
 
-function getDirectorAttributeTags(director: Director): { label: string; color: string }[] {
+function getDirectorAttributeTags(director: DirectorRef): { label: string; color: string }[] {
   const tags: { label: string; color: string }[] = [];
   if (director.is_president) tags.push({ label: "社長", color: "bg-red-50 text-red-700" });
   if (director.is_ceo) tags.push({ label: "CEO", color: "bg-red-50 text-red-700" });
@@ -209,199 +191,12 @@ function getDirectorAttributeTags(director: Director): { label: string; color: s
   return tags;
 }
 
-function matchedDirectorObjectsFull(
-  record: VoteRecord,
-  directors: Director[],
-  roleHistory: DirectorRoleHistory[],
-  roleCondition: string
-): Director[] {
-  if (roleCondition === "all") return [];
-  if (roleCondition.startsWith("former_")) return [];
-  const year = meetingYear(record);
-  return directorsForRecord(record, directors)
-    .filter((director) => directorMatchesRole(director, roleCondition));
+function companyDetailHref(record: AnalysisRow) {
+  return `/companies/${record.company_code}?year=${record.meeting_year}`;
 }
 
-function roleLabel(roleCondition: string) {
-  return roleConditionLabels[roleCondition] ?? roleCondition;
-}
-
-function companyDetailHref(record: VoteRecord) {
-  return `/companies/${record.company_code}?year=${meetingYear(record)}`;
-}
-
-function convocationNoticeUrl(record: VoteRecord) {
+function convocationNoticeUrl(record: AnalysisRow) {
   return record.convocation_notice_url || "";
-}
-
-function meetingYear(record: VoteRecord) {
-  // Handle formats like "定時20250826", "20250826", "2025-08-26"
-  const match = String(record.meeting_date).match(/(\d{4})/);
-  return match ? Number(match[1]) : 2025;
-}
-
-function recentMetrics(metrics: FinancialMetric[], companyCode: string, year: number, periods: number) {
-  return metrics
-    .filter((metric) => metric.company_code === companyCode && metric.fiscal_year <= year)
-    .sort((a, b) => b.fiscal_year - a.fiscal_year)
-    .slice(0, periods)
-    .reverse();
-}
-
-function latestGovernance(metrics: GovernanceMetric[], companyCode: string, year: number) {
-  return metrics
-    .filter((metric) => metric.company_code === companyCode && metric.meeting_year <= year)
-    .sort((a, b) => b.meeting_year - a.meeting_year)[0];
-}
-
-function directorsForRecord(record: VoteRecord, directors: Director[]) {
-  const year = meetingYear(record);
-  return directors.filter((director) => director.company_code === record.company_code && director.meeting_year <= year);
-}
-
-function directorMatchesRole(director: Director, roleCondition: string) {
-  if (roleCondition === "all") return true;
-  if (roleCondition === "current_president_or_ceo") return director.is_president || director.is_ceo;
-  if (roleCondition === "current_representative_chair") return director.is_chair && director.has_representative_authority;
-  if (roleCondition === "current_board_chair") return director.is_board_chair;
-  if (roleCondition === "current_inside_director") return director.is_inside_director;
-  if (roleCondition === "current_outside_director") return director.is_outside_director;
-  if (roleCondition === "current_independent_outside_director") return director.is_outside_director && director.is_independent;
-  if (roleCondition === "current_female_director") return director.is_female;
-  if (roleCondition === "current_female_outside_director") return director.is_female && director.is_outside_director;
-  return false;
-}
-
-function historyMatchesRole(history: DirectorRoleHistory, roleCondition: string, year: number) {
-  const endYear = history.end_year ?? year;
-  const activeWithin3Years = history.start_year <= year && endYear >= year - 3;
-  if (!activeWithin3Years) return false;
-  if (roleCondition === "former_president_within_3_years") return history.role_type === "president" || history.role_type === "ceo";
-  if (roleCondition === "former_representative_chair_within_3_years") return history.role_type === "chair" && history.has_representative_authority;
-  return false;
-}
-
-function companyMatchesRole(record: VoteRecord, directors: Director[], roleHistory: DirectorRoleHistory[], roleCondition: string) {
-  if (roleCondition === "all") return true;
-  const year = meetingYear(record);
-  // If no data registered for this company, skip the role filter (pass through)
-  const companyDirectors = directors.filter((d) => d.company_code === record.company_code);
-  const companyHistory = roleHistory.filter((h) => h.company_code === record.company_code);
-  if (companyDirectors.length === 0 && companyHistory.length === 0) return true;
-  if (roleCondition.startsWith("former_")) {
-    return companyHistory.some((history) => historyMatchesRole(history, roleCondition, year));
-  }
-  return companyDirectors.filter((d) => d.meeting_year <= year).some((director) => directorMatchesRole(director, roleCondition));
-}
-
-function matchedDirectorNames(record: VoteRecord, directors: Director[], roleHistory: DirectorRoleHistory[], roleCondition: string) {
-  if (roleCondition === "all") return [];
-  const year = meetingYear(record);
-  if (roleCondition.startsWith("former_")) {
-    return roleHistory
-      .filter((history) => history.company_code === record.company_code)
-      .filter((history) => historyMatchesRole(history, roleCondition, year))
-      .map((history) => `${history.name}（${history.role_title}、${history.start_year}-${history.end_year ?? "現任"}）`);
-  }
-  return directorsForRecord(record, directors)
-    .filter((director) => directorMatchesRole(director, roleCondition))
-    .map((director) => `${director.name}（${director.current_title}）`);
-}
-
-function compareValue(value: number | null | undefined, operator: Operator, thresholdText: string) {
-  if (operator === "none" || thresholdText.trim() === "") return true;
-  if (value === null || value === undefined || Number.isNaN(value)) return false;
-  const threshold = Number(thresholdText);
-  if (!Number.isFinite(threshold)) return true;
-  if (operator === "below") return value < threshold;
-  if (operator === "below_or_equal") return value <= threshold;
-  if (operator === "above") return value > threshold;
-  if (operator === "above_or_equal") return value >= threshold;
-  return true;
-}
-
-function metricValuesForRecord(
-  record: VoteRecord,
-  financialMetrics: FinancialMetric[],
-  governanceMetrics: GovernanceMetric[],
-  directors: Director[],
-  metricKey: MetricKey,
-  periods: number
-) {
-  const year = meetingYear(record);
-  if (metricKey === "none") return [];
-  if (metricKey === "roe" || metricKey === "pbr" || metricKey === "tsr_3y_rank_percentile") {
-    return recentMetrics(financialMetrics, record.company_code, year, periods).map((metric) => ({
-      label: String(metric.fiscal_year),
-      value: metric[metricKey] ?? null,
-      sourceUrl: metric.source_url,
-      notes: metric.notes,
-    }));
-  }
-  if (metricKey === "policy_shareholdings_ratio" || metricKey === "independent_director_ratio" || metricKey === "female_director_ratio") {
-    const metric = latestGovernance(governanceMetrics, record.company_code, year);
-    return metric
-      ? [{ label: String(metric.meeting_year), value: metric[metricKey], sourceUrl: metric.source_url, notes: metric.notes }]
-      : [];
-  }
-  return directorsForRecord(record, directors).map((director) => {
-    const valueMap: Record<string, number | null | undefined> = {
-      tenure_before: director.tenure_years_before_meeting,
-      tenure_after: director.tenure_years_after_reelection,
-      board_attendance_rate: director.board_attendance_rate,
-      outside_board_seats: director.outside_board_seats,
-      listed_company_board_seats: director.listed_company_board_seats,
-    };
-    return {
-      label: director.name,
-      value: valueMap[metricKey],
-      sourceUrl: "",
-      notes: director.current_title,
-    };
-  });
-}
-
-function metricConditionMatches(
-  record: VoteRecord,
-  financialMetrics: FinancialMetric[],
-  governanceMetrics: GovernanceMetric[],
-  directors: Director[],
-  condition: SavedCondition
-) {
-  if (condition.metricKey === "none" || condition.metricOperator === "none") return true;
-  const periods = Math.max(1, Number(condition.metricPeriods) || 1);
-  const values = metricValuesForRecord(record, financialMetrics, governanceMetrics, directors, condition.metricKey, periods);
-  // When no metric data is registered for the company, skip the metric filter (pass through)
-  // This allows 行使結果データのある全企業を表示しつつ、登録済み財務データ保有企業のみ数値条件を適用する
-  if (values.length === 0) return true;
-  if (condition.metricKey === "roe" || condition.metricKey === "pbr" || condition.metricKey === "tsr_3y_rank_percentile") {
-    return values.length >= periods && values.every((item) => compareValue(item.value, condition.metricOperator, condition.metricThreshold));
-  }
-  return values.some((item) => compareValue(item.value, condition.metricOperator, condition.metricThreshold));
-}
-
-function matchesCondition(
-  record: VoteRecord,
-  financialMetrics: FinancialMetric[],
-  governanceMetrics: GovernanceMetric[],
-  directors: Director[],
-  roleHistory: DirectorRoleHistory[],
-  condition: SavedCondition
-) {
-  if (condition.vote !== "all" && record.vote !== condition.vote) return false;
-  if (condition.issueType !== "all" && record.issue_type !== condition.issueType) return false;
-  if (condition.detailTag !== "all" && !(record.detail_tags ?? []).includes(condition.detailTag)) return false;
-  if (!companyMatchesRole(record, directors, roleHistory, condition.roleCondition)) return false;
-
-  const keyword = condition.keyword.trim().toLowerCase();
-  if (keyword) {
-    const text = `${record.company_code} ${record.company_name} ${record.proposal_type} ${record.director_or_role} ${record.target_label ?? ""} ${record.match_method ?? ""} ${record.matched_director_name ?? ""} ${record.matched_director_title ?? ""} ${(record.matched_director_attributes ?? []).join(" ")} ${record.reason} ${(record.detail_tags ?? []).join(" ")}`.toLowerCase();
-    // スペース区切りで複数キーワードのOR検索（いずれか1語が含まれれば通過）
-    const words = keyword.split(/\s+/).filter(Boolean);
-    if (!words.some((word) => text.includes(word))) return false;
-  }
-
-  return metricConditionMatches(record, financialMetrics, governanceMetrics, directors, condition);
 }
 
 function normalizeCondition(condition: Partial<SavedCondition> | null | undefined): SavedCondition {
@@ -420,68 +215,21 @@ function normalizeCondition(condition: Partial<SavedCondition> | null | undefine
   };
 }
 
-function csvEscape(value: string | number | null | undefined) {
-  return `"${String(value ?? "").replace(/"/g, '""')}"`;
-}
-
-function downloadAnalysisCsv(rows: VoteRecord[], investorId: string, filePrefix: string) {
-  const headers = [
-    "投資家ID",
-    "企業コード",
-    "企業名",
-    "総会日",
-    "行使",
-    "議案",
-    "候補者番号",
-    "反対対象候補",
-    "対象推定方法",
-    "対象推定信頼度",
-    "照合候補者名",
-    "照合候補者肩書",
-    "候補者属性",
-    "候補者照合方法",
-    "候補者照合信頼度",
-    "候補者/役割",
-    "推定論点",
-    "詳細条件",
-    "理由",
-    "出典URL",
-    "招集通知URL",
-  ];
-  const body = rows.map((row) =>
-    [
-      row.investor_id,
-      row.company_code,
-      row.company_name,
-      row.meeting_date,
-      row.vote,
-      row.proposal_type,
-      row.candidate_number ?? "",
-      row.target_label ?? "",
-      row.match_method ?? "",
-      row.target_confidence ?? "",
-      row.matched_director_name ?? "",
-      row.matched_director_title ?? "",
-      (row.matched_director_attributes ?? []).join(" / "),
-      row.director_match_method ?? "",
-      row.director_match_confidence ?? "",
-      row.director_or_role,
-      issueLabel(row.issue_type),
-      (row.detail_tags ?? []).join(" / "),
-      row.reason,
-      row.source_url,
-      convocationNoticeUrl(row),
-    ].map(csvEscape).join(",")
-  );
-  const blob = new Blob([[headers.join(","), ...body].join("\n")], { type: "text/csv;charset=utf-8" });
-  const url = URL.createObjectURL(blob);
-  const link = document.createElement("a");
-  link.href = url;
-  link.download = `${filePrefix}_${investorId}.csv`;
-  document.body.appendChild(link);
-  link.click();
-  link.remove();
-  URL.revokeObjectURL(url);
+function conditionQueryString(condition: SavedCondition, expand: boolean): string {
+  const params = new URLSearchParams({
+    mode: "conditions",
+    vote: condition.vote,
+    issueType: condition.issueType,
+    detailTag: condition.detailTag,
+    role: condition.roleCondition,
+    metricKey: condition.metricKey,
+    metricOp: condition.metricOperator,
+    metricThreshold: condition.metricThreshold,
+    metricPeriods: condition.metricPeriods,
+    expand: expand ? "1" : "0",
+  });
+  if (condition.keyword.trim()) params.set("q", condition.keyword.trim());
+  return params.toString();
 }
 
 function metricValueText(value: number | null | undefined, suffix = "") {
@@ -489,27 +237,32 @@ function metricValueText(value: number | null | undefined, suffix = "") {
   return `${Number(value).toFixed(1)}${suffix}`;
 }
 
-export function InvestorAnalysisWorkspace({ investorId, records, financialMetrics, governanceMetrics, directors, roleHistory }: Props) {
+export function InvestorAnalysisWorkspace({ investorId }: Props) {
   const [tab, setTab] = useState<"list" | "conditions" | "boundary">("list");
   const [draft, setDraft] = useState<SavedCondition>(() => normalizeCondition(null));
   const [conditions, setConditions] = useState<SavedCondition[]>([]);
+  const [conditionCounts, setConditionCounts] = useState<Record<string, number>>({});
   const [showAllCompanyProposals, setShowAllCompanyProposals] = useState(false);
   const [boundaryMetric, setBoundaryMetric] = useState<MetricKey>("roe");
   const [boundaryIssue, setBoundaryIssue] = useState("all");
   const [boundaryVote, setBoundaryVote] = useState<VoteFilter>("all");
 
-  const investorRecords = useMemo(
-    () => records.filter((record) => record.investor_id === investorId),
-    [records, investorId]
-  );
-  const issueTypes = useMemo(
-    () => [...new Set(investorRecords.map((record) => record.issue_type))].sort(),
-    [investorRecords]
-  );
-  const detailTags = useMemo(
-    () => [...new Set(investorRecords.flatMap((record) => record.detail_tags ?? []))].sort(),
-    [investorRecords]
-  );
+  const [facets, setFacets] = useState<Facets | null>(null);
+  const [conditionResult, setConditionResult] = useState<ConditionResponse | null>(null);
+  const [conditionLoading, setConditionLoading] = useState(false);
+  const [boundaryResult, setBoundaryResult] = useState<BoundaryResponse | null>(null);
+
+  const issueTypes = facets?.issueTypes ?? [];
+  const detailTags = facets?.detailTags ?? [];
+
+  useEffect(() => {
+    const controller = new AbortController();
+    fetch(`/api/investors/${investorId}/analysis?mode=facets`, { signal: controller.signal })
+      .then((res) => res.json())
+      .then(setFacets)
+      .catch(() => {});
+    return () => controller.abort();
+  }, [investorId]);
 
   useEffect(() => {
     const raw = window.localStorage.getItem(`analysis_conditions_${investorId}`);
@@ -521,6 +274,54 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
       setConditions([]);
     }
   }, [investorId]);
+
+  // 詳細条件分析: 条件が変わったらサーバー側でフィルタして表示分だけ取得
+  const conditionsQuery = useMemo(() => conditionQueryString(draft, showAllCompanyProposals), [draft, showAllCompanyProposals]);
+  useEffect(() => {
+    if (tab !== "conditions") return;
+    const controller = new AbortController();
+    setConditionLoading(true);
+    const timer = window.setTimeout(() => {
+      fetch(`/api/investors/${investorId}/analysis?${conditionsQuery}`, { signal: controller.signal })
+        .then((res) => res.json())
+        .then((data: ConditionResponse) => {
+          setConditionResult(data);
+          setConditionLoading(false);
+        })
+        .catch(() => {});
+    }, 300);
+    return () => {
+      window.clearTimeout(timer);
+      controller.abort();
+    };
+  }, [investorId, conditionsQuery, tab]);
+
+  // 保存済み条件の該当件数（軽量な countOnly リクエスト）
+  useEffect(() => {
+    if (tab !== "conditions" || conditions.length === 0) return;
+    const controller = new AbortController();
+    for (const condition of conditions) {
+      fetch(`/api/investors/${investorId}/analysis?${conditionQueryString(condition, false)}&countOnly=1`, { signal: controller.signal })
+        .then((res) => res.json())
+        .then((data: { totalMatched: number }) => {
+          setConditionCounts((prev) => ({ ...prev, [condition.id]: data.totalMatched }));
+        })
+        .catch(() => {});
+    }
+    return () => controller.abort();
+  }, [investorId, conditions, tab]);
+
+  // ボーダー分析
+  useEffect(() => {
+    if (tab !== "boundary") return;
+    const controller = new AbortController();
+    const params = new URLSearchParams({ mode: "boundary", metric: boundaryMetric, vote: boundaryVote, issueType: boundaryIssue });
+    fetch(`/api/investors/${investorId}/analysis?${params}`, { signal: controller.signal })
+      .then((res) => res.json())
+      .then(setBoundaryResult)
+      .catch(() => {});
+    return () => controller.abort();
+  }, [investorId, boundaryMetric, boundaryVote, boundaryIssue, tab]);
 
   function saveCondition() {
     const next = [...conditions, { ...draft, id: `condition_${Date.now()}` }];
@@ -538,49 +339,17 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
     window.localStorage.setItem(`analysis_conditions_${investorId}`, JSON.stringify(next));
   }
 
-  const previewRows = useMemo(
-    () => investorRecords.filter((record) => matchesCondition(record, financialMetrics, governanceMetrics, directors, roleHistory, draft)),
-    [directors, draft, financialMetrics, governanceMetrics, investorRecords, roleHistory]
-  );
+  function downloadConditionsCsv() {
+    window.location.href = `/api/investors/${investorId}/analysis?${conditionsQuery}&format=csv`;
+  }
 
-  // 条件企業の全議案展開用: 条件に該当した企業コード×総会年のセット
-  const previewCompanyKeys = useMemo(
-    () => new Set(previewRows.map((r) => `${r.company_code}:${meetingYear(r)}`)),
-    [previewRows]
-  );
+  function downloadBoundaryCsv() {
+    const params = new URLSearchParams({ mode: "boundary", metric: boundaryMetric, vote: boundaryVote, issueType: boundaryIssue, format: "csv" });
+    window.location.href = `/api/investors/${investorId}/analysis?${params}`;
+  }
 
-  // 条件該当行のキーセット（視覚的区別用）
-  const previewRowKeys = useMemo(
-    () => new Set(previewRows.map((r) => `${r.company_code}:${r.meeting_date}:${r.proposal_number}`)),
-    [previewRows]
-  );
-
-  // 展開モード時は条件企業の全議案、通常時は条件一致行のみ
-  const analysisRows = useMemo(() => {
-    if (!showAllCompanyProposals) return previewRows;
-    return investorRecords.filter((r) => previewCompanyKeys.has(`${r.company_code}:${meetingYear(r)}`));
-  }, [showAllCompanyProposals, investorRecords, previewRows, previewCompanyKeys]);
-
-  const boundaryRows = useMemo(() => {
-    const unique = new Map<string, VoteRecord>();
-    for (const record of investorRecords) {
-      if (boundaryVote !== "all" && record.vote !== boundaryVote) continue;
-      if (boundaryIssue !== "all" && record.issue_type !== boundaryIssue) continue;
-      const key = `${record.company_code}-${record.vote}-${record.issue_type}-${record.proposal_type}`;
-      if (!unique.has(key)) unique.set(key, record);
-    }
-
-    return [...unique.values()]
-      .map((record) => ({
-        record,
-        values: metricValuesForRecord(record, financialMetrics, governanceMetrics, directors, boundaryMetric, boundaryMetric === "roe" ? 3 : 1),
-      }))
-      .sort((a, b) => {
-        const av = Math.max(...a.values.map((item) => item.value ?? Number.NEGATIVE_INFINITY));
-        const bv = Math.max(...b.values.map((item) => item.value ?? Number.NEGATIVE_INFINITY));
-        return av - bv || a.record.company_code.localeCompare(b.record.company_code);
-      });
-  }, [boundaryIssue, boundaryMetric, boundaryVote, directors, financialMetrics, governanceMetrics, investorRecords]);
+  const analysisRows = conditionResult?.rows ?? [];
+  const boundaryRows = boundaryResult?.rows ?? [];
 
   return (
     <section className="space-y-4">
@@ -603,7 +372,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
         </div>
       </div>
 
-      {tab === "list" && <InvestorOppositionTable investorId={investorId} records={records} />}
+      {tab === "list" && <InvestorOppositionTable investorId={investorId} />}
 
       {tab === "conditions" && (
         <section className="rounded-xl border bg-white p-5 shadow-sm">
@@ -616,7 +385,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
             </div>
             <button
               type="button"
-              onClick={() => downloadAnalysisCsv(analysisRows, investorId, showAllCompanyProposals ? "詳細条件分析_全議案展開" : "詳細条件分析")}
+              onClick={downloadConditionsCsv}
               className="rounded border bg-white px-4 py-2 text-sm text-slate-700 shadow-sm hover:bg-slate-50"
             >
               CSV出力
@@ -696,7 +465,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
             <div className="mt-3 rounded-lg border border-blue-200 bg-blue-50 px-4 py-3">
               <p className="text-sm font-bold text-blue-900">条件企業の全議案を表示中</p>
               <p className="mt-0.5 text-xs leading-5 text-blue-800">
-                条件に該当した <strong>{previewCompanyKeys.size}社</strong> の全議案（賛否問わず）を表示しています。
+                条件に該当した <strong>{conditionResult?.matchedCompanyCount ?? 0}社</strong> の全議案（賛否問わず）を表示しています。
                 同一企業で「誰に反対し誰に賛成したか」を横断確認できます。
                 <span className="ml-2 rounded bg-blue-200 px-1.5 py-0.5 text-[11px] text-blue-900 font-semibold">条件該当</span> バッジが条件に一致した行です。
               </p>
@@ -706,12 +475,12 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
           <div className="mt-4 grid gap-3 md:grid-cols-4">
             <div className="rounded bg-slate-50 p-3">
               <p className="text-xs text-slate-500">{showAllCompanyProposals ? "表示（全議案）" : "条件該当"}</p>
-              <p className="text-2xl font-bold">{analysisRows.length.toLocaleString()}</p>
-              {showAllCompanyProposals && <p className="text-[11px] text-slate-500">うち条件一致 {previewRows.length.toLocaleString()}件</p>}
+              <p className="text-2xl font-bold">{conditionLoading ? "…" : (conditionResult?.displayTotal ?? 0).toLocaleString()}</p>
+              {showAllCompanyProposals && <p className="text-[11px] text-slate-500">うち条件一致 {(conditionResult?.totalMatched ?? 0).toLocaleString()}件</p>}
             </div>
-            <div className="rounded bg-red-50 p-3"><p className="text-xs text-red-700">反対</p><p className="text-2xl font-bold text-red-700">{analysisRows.filter((row) => row.vote === "反対").length.toLocaleString()}</p></div>
-            <div className="rounded bg-green-50 p-3"><p className="text-xs text-green-700">賛成</p><p className="text-2xl font-bold text-green-700">{analysisRows.filter((row) => row.vote === "賛成").length.toLocaleString()}</p></div>
-            <div className="rounded bg-amber-50 p-3"><p className="text-xs text-amber-700">反対比率</p><p className="text-2xl font-bold text-amber-700">{analysisRows.length ? Math.round((analysisRows.filter((row) => row.vote === "反対").length / analysisRows.length) * 100) : 0}%</p></div>
+            <div className="rounded bg-red-50 p-3"><p className="text-xs text-red-700">反対</p><p className="text-2xl font-bold text-red-700">{(conditionResult?.displayAgainst ?? 0).toLocaleString()}</p></div>
+            <div className="rounded bg-green-50 p-3"><p className="text-xs text-green-700">賛成</p><p className="text-2xl font-bold text-green-700">{(conditionResult?.displayFor ?? 0).toLocaleString()}</p></div>
+            <div className="rounded bg-amber-50 p-3"><p className="text-xs text-amber-700">反対比率</p><p className="text-2xl font-bold text-amber-700">{conditionResult?.displayTotal ? Math.round(((conditionResult?.displayAgainst ?? 0) / conditionResult.displayTotal) * 100) : 0}%</p></div>
           </div>
           <p className="mt-2 rounded bg-blue-50 px-3 py-2 text-xs leading-5 text-blue-800">
             財務・役員データが登録されている企業（約25社）は数値条件が適用されます。未登録企業は論点・行使区分のみで絞り込まれ、条件値欄は「-」で表示されます。
@@ -737,17 +506,13 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                 {analysisRows.length === 0 && (
                   <tr>
                     <td colSpan={10} className="px-3 py-8 text-center text-sm leading-6 text-slate-500">
-                      この条件に該当する行使結果はありません。論点・行使区分を「すべて」に変更するか、財務・在任条件を外してお試しください。
+                      {conditionLoading ? "検索中..." : "この条件に該当する行使結果はありません。論点・行使区分を「すべて」に変更するか、財務・在任条件を外してお試しください。"}
                     </td>
                   </tr>
                 )}
-                {analysisRows.slice(0, 300).map((record, index) => {
-                  const isDirectMatch = previewRowKeys.has(`${record.company_code}:${record.meeting_date}:${record.proposal_number}`);
-                  const values = metricValuesForRecord(record, financialMetrics, governanceMetrics, directors, draft.metricKey, Number(draft.metricPeriods) || 1);
-                  const matchedDirObjects = matchedDirectorObjectsFull(record, directors, roleHistory, draft.roleCondition);
-                  const historicalNames = draft.roleCondition.startsWith("former_")
-                    ? matchedDirectorNames(record, directors, roleHistory, draft.roleCondition)
-                    : [];
+                {analysisRows.map((record, index) => {
+                  const isDirectMatch = record.is_direct_match;
+                  const values = record.metric_values;
                   return (
                     <tr
                       key={`${record.company_code}-${record.meeting_date}-${record.proposal_number}-${index}`}
@@ -784,9 +549,9 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                           <div className="rounded border border-slate-200 bg-slate-50 px-2 py-1.5">
                             <p className="text-xs font-semibold text-slate-900">{record.matched_director_name}</p>
                             {record.matched_director_title && <p className="text-[11px] text-slate-500">{record.matched_director_title}</p>}
-                            {(record.matched_director_attributes ?? []).length > 0 && (
+                            {record.matched_director_attributes.length > 0 && (
                               <div className="mt-1 flex flex-wrap gap-1">
-                                {record.matched_director_attributes?.map((tag) => (
+                                {record.matched_director_attributes.map((tag) => (
                                   <span key={tag} className="rounded bg-blue-50 px-1.5 py-0.5 text-[10px] font-semibold text-blue-700">{tag}</span>
                                 ))}
                               </div>
@@ -795,12 +560,12 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                           </div>
                         )}
                         {/* ロール条件で照合したローカル取締役データ */}
-                        {matchedDirObjects.map((dir) => {
-                          const attrTags = getDirectorAttributeTags(dir);
+                        {record.matched_directors.map(({ director }) => {
+                          const attrTags = getDirectorAttributeTags(director);
                           return (
-                            <div key={dir.director_id ?? dir.name} className="mt-1 rounded border border-slate-200 bg-slate-50 px-2 py-1.5">
-                              <p className="text-xs font-semibold text-slate-900">{dir.name}</p>
-                              <p className="text-[11px] text-slate-500">{dir.current_title}</p>
+                            <div key={director.director_id ?? director.name} className="mt-1 rounded border border-slate-200 bg-slate-50 px-2 py-1.5">
+                              <p className="text-xs font-semibold text-slate-900">{director.name}</p>
+                              <p className="text-[11px] text-slate-500">{director.current_title}</p>
                               <div className="mt-1 flex flex-wrap gap-1">
                                 {attrTags.map((tag) => (
                                   <span key={tag.label} className={`rounded px-1.5 py-0.5 text-[10px] font-semibold ${tag.color}`}>
@@ -812,14 +577,14 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                           );
                         })}
                         {/* 元役職（過去3年以内の社長等） */}
-                        {historicalNames.length > 0 && (
+                        {record.historical_names.length > 0 && (
                           <div className="mt-1 rounded border border-amber-200 bg-amber-50 px-2 py-1">
-                            {historicalNames.map((n) => (
+                            {record.historical_names.map((n) => (
                               <p key={n} className="text-[11px] text-amber-800">{n}</p>
                             ))}
                           </div>
                         )}
-                        {!record.matched_director_name && matchedDirObjects.length === 0 && historicalNames.length === 0 && (
+                        {!record.matched_director_name && record.matched_directors.length === 0 && record.historical_names.length === 0 && (
                           <span className="text-[11px] text-slate-300">未特定</span>
                         )}
                       </td>
@@ -840,25 +605,24 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
             </table>
           </div>
 
-          {analysisRows.length > 300 && (
+          {(conditionResult?.displayTotal ?? 0) > analysisRows.length && (
             <p className="mt-2 text-xs text-slate-500">
-              画面表示は先頭300件です。CSVには全{analysisRows.length.toLocaleString()}件を出力します。
+              画面表示は先頭300件です。CSVには全{(conditionResult?.displayTotal ?? 0).toLocaleString()}件（上限5万件）を出力します。
             </p>
           )}
 
           {conditions.length > 0 && (
             <div className="mt-5 space-y-2">
               <h3 className="text-sm font-bold">保存済み条件</h3>
-              {conditions.map((condition) => {
-                const matched = investorRecords.filter((record) => matchesCondition(record, financialMetrics, governanceMetrics, directors, roleHistory, condition));
-                return (
-                  <div key={condition.id} className="flex flex-wrap items-center justify-between gap-3 rounded-lg border px-3 py-2 text-sm">
-                    <button type="button" onClick={() => setDraft(condition)} className="text-left font-semibold text-blue-700 hover:underline">{condition.name}</button>
-                    <span className="text-xs text-slate-500">{issueLabel(condition.issueType)} / {metricLabels[condition.metricKey]} {operatorLabels[condition.metricOperator]} {condition.metricThreshold} / {matched.length.toLocaleString()}件</span>
-                    <button type="button" onClick={() => deleteCondition(condition.id)} className="rounded border px-3 py-1 text-xs text-slate-600">削除</button>
-                  </div>
-                );
-              })}
+              {conditions.map((condition) => (
+                <div key={condition.id} className="flex flex-wrap items-center justify-between gap-3 rounded-lg border px-3 py-2 text-sm">
+                  <button type="button" onClick={() => setDraft(condition)} className="text-left font-semibold text-blue-700 hover:underline">{condition.name}</button>
+                  <span className="text-xs text-slate-500">
+                    {issueLabel(condition.issueType)} / {metricLabels[condition.metricKey]} {operatorLabels[condition.metricOperator]} {condition.metricThreshold} / {conditionCounts[condition.id] != null ? `${conditionCounts[condition.id].toLocaleString()}件` : "…"}
+                  </span>
+                  <button type="button" onClick={() => deleteCondition(condition.id)} className="rounded border px-3 py-1 text-xs text-slate-600">削除</button>
+                </div>
+              ))}
             </div>
           )}
         </section>
@@ -875,7 +639,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
             </div>
             <button
               type="button"
-              onClick={() => downloadAnalysisCsv(boundaryRows.map((row) => row.record), investorId, "ボーダー分析")}
+              onClick={downloadBoundaryCsv}
               className="rounded border bg-white px-4 py-2 text-sm text-slate-700 shadow-sm hover:bg-slate-50"
             >
               CSV出力
@@ -916,7 +680,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
                     </td>
                   </tr>
                 )}
-                {boundaryRows.slice(0, 300).map(({ record, values }, index) => {
+                {boundaryRows.map(({ record, values }, index) => {
                   const visibleValues = values.slice(0, 4);
                   const hasEvidence = values.find((item) => item.sourceUrl);
                   return (
@@ -954,7 +718,7 @@ export function InvestorAnalysisWorkspace({ investorId, records, financialMetric
               </tbody>
             </table>
           </div>
-          {boundaryRows.length > 300 && <p className="mt-2 text-xs text-slate-500">画面表示は先頭300件です。CSVには絞り込み後の全件を出力します。</p>}
+          {(boundaryResult?.total ?? 0) > boundaryRows.length && <p className="mt-2 text-xs text-slate-500">画面表示は先頭300件です。CSVには絞り込み後の全件を出力します。</p>}
         </section>
       )}
     </section>

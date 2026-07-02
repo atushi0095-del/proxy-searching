@@ -4,8 +4,8 @@ import Link from "next/link";
 import {
   companies,
   companyGovernanceMetrics,
-  directors as allDirectors,
   financialMetrics,
+  getAllDirectors,
   investors,
 } from "@/lib/data";
 import { runJudgment, issueLabels } from "@/lib/inference";
@@ -293,7 +293,7 @@ export default async function ScreenPage({ searchParams }: Params) {
     [k: string]: any;
   };
   const dirMap = new Map<string, DirectorLike[]>();
-  for (const d of allDirectors as DirectorLike[]) {
+  for (const d of getAllDirectors() as DirectorLike[]) {
     const arr = dirMap.get(d.company_code) ?? [];
     arr.push(d);
     dirMap.set(d.company_code, arr);

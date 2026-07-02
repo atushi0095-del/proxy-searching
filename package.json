@@ -34,7 +34,8 @@
     "edinet:download": "node scripts/edinet-download-documents.mjs",
     "edinet:merge-sources": "node scripts/merge-edinet-filings-into-sources.mjs",
     "edinet:extract-financials": "node scripts/edinet-extract-financials.mjs",
-    "seed:companies": "node scripts/seed-companies-from-jpx.mjs"
+    "seed:companies": "node scripts/seed-companies-from-jpx.mjs",
+    "build:analysis-db": "node scripts/build-analysis-db.mjs"
   },
   "dependencies": {
     "next": "16.2.4",

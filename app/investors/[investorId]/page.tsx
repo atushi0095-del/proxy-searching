@@ -1,25 +1,13 @@
 import Link from "next/link";
-import fs from "node:fs/promises";
-import path from "node:path";
 import { notFound } from "next/navigation";
 import { GuidelineRuleModalList } from "@/components/GuidelineRuleModalList";
 import { InvestorAnalysisWorkspace } from "@/components/InvestorAnalysisWorkspace";
-import { companyGovernanceMetrics, directorRoleHistory, directors, financialMetrics, getGuidelineRules, getGuidelineSources, getInvestor } from "@/lib/data";
+import { getGuidelineRules, getGuidelineSources, getInvestor } from "@/lib/data";
 import blackrockVoteSummary from "@/data/generated/blackrock_vote_summary.json";
 import mufgVoteSummary from "@/data/generated/mufg_vote_summary.json";
 
 interface Props {
   params: Promise<{ investorId: string }>;
-}
-
-async function loadInvestorOppositionRecords(investorId: string): Promise<any[]> {
-  const filePath = path.join(process.cwd(), "data", "generated", "opposition_records_by_investor", `${investorId}.json`);
-  try {
-    const parsed = JSON.parse(await fs.readFile(filePath, "utf8")) as { records?: any[] };
-    return parsed.records ?? [];
-  } catch {
-    return [];
-  }
 }
 
 const investorTypeLabels: Record<string, string> = {
@@ -65,7 +53,6 @@ export default async function InvestorPage({ params }: Props) {
 
   const rules = getGuidelineRules(investorId);
   const sources = getGuidelineSources(investorId);
-  const investorRecords = await loadInvestorOppositionRecords(investorId);
   const extractedIssues = Object.entries(mufgVoteSummary.by_issue_type)
     .filter(([key]) => key.endsWith(" / 反対"))
     .map(([key, count]) => ({
@@ -101,15 +88,8 @@ export default async function InvestorPage({ params }: Props) {
         {investor.notes && <p className="mt-2 text-sm leading-6 text-slate-500">{investor.notes}</p>}
       </section>
 
-      {/* 行使結果・分析ワークスペース */}
-      <InvestorAnalysisWorkspace
-        investorId={investorId}
-        records={investorRecords}
-        financialMetrics={financialMetrics}
-        governanceMetrics={companyGovernanceMetrics}
-        directors={directors}
-        roleHistory={directorRoleHistory}
-      />
+      {/* 行使結果・分析ワークスペース（データはAPI経由でサーバー側フィルタ） */}
+      <InvestorAnalysisWorkspace investorId={investorId} />
 
       {/* 投資家固有: BlackRock PDF取込状況 */}
       {investorId === "blackrock" && (

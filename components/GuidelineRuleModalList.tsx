@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { GuidelineRule } from "@/lib/types";
-import { issueLabels } from "@/lib/inference";
+import { issueLabels } from "@/lib/issue-labels";
 
 const categoryColors: Record<string, string> = {
   "取締役会構成": "bg-blue-50 text-blue-700",
