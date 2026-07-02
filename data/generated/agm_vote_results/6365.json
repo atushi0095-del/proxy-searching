@@ -3,6 +3,39 @@
   "company_name": "電業社機械製作所",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W98S",
+      "submit_date_time": "2025-06-30 10:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W98S",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前田治郎山本英男市原美紀",
+          "votes_for": 307213016530150,
+          "votes_against": 80636651,
+          "votes_abstain": 0,
+          "approval_pct": 98.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伴鋼造",
+          "votes_for": 30640,
+          "votes_against": 163,
+          "votes_abstain": 0,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXIW",
@@ -36,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:38:32.468Z"
+  "updated_at": "2026-07-02T21:26:33.479Z"
 }

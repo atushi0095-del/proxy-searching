@@ -3,6 +3,87 @@
   "company_name": "岡三証券グループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W95F",
+      "submit_date_time": "2025-06-30 12:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W95F",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新芝宏之",
+          "votes_for": 1640444,
+          "votes_against": 41548,
+          "votes_abstain": 55,
+          "approval_pct": 97.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田嘉宏",
+          "votes_for": 1676650,
+          "votes_against": 5343,
+          "votes_abstain": 55,
+          "approval_pct": 99.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮林綾子",
+          "votes_for": 1670362,
+          "votes_against": 12340,
+          "votes_abstain": 48,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村芳文",
+          "votes_for": 1680637,
+          "votes_against": 2065,
+          "votes_abstain": 48,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤慎一",
+          "votes_for": 1680603,
+          "votes_against": 2099,
+          "votes_abstain": 48,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡野貞彦",
+          "votes_for": 1680879,
+          "votes_against": 1823,
+          "votes_abstain": 48,
+          "approval_pct": 99.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXPM",
@@ -60,5 +141,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:35:10.058Z"
+  "updated_at": "2026-07-02T21:23:22.669Z"
 }

@@ -3,6 +3,123 @@
   "company_name": "北海道瓦斯",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W43F",
+      "submit_date_time": "2025-06-24 14:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W43F",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大槻博",
+          "votes_for": 598477,
+          "votes_against": 70751,
+          "votes_abstain": null,
+          "approval_pct": 88.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川村智郷",
+          "votes_for": 604520,
+          "votes_against": 64708,
+          "votes_abstain": null,
+          "approval_pct": 89.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井澤文俊",
+          "votes_for": 638280,
+          "votes_against": 30949,
+          "votes_abstain": null,
+          "approval_pct": 94.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前谷浩樹",
+          "votes_for": 638267,
+          "votes_against": 30962,
+          "votes_abstain": null,
+          "approval_pct": 94.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金沢明法",
+          "votes_for": 638270,
+          "votes_against": 30959,
+          "votes_abstain": null,
+          "approval_pct": 94.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡田美弥子",
+          "votes_for": 637724,
+          "votes_against": 31505,
+          "votes_abstain": null,
+          "approval_pct": 94.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小磯修二",
+          "votes_for": 636477,
+          "votes_against": 32752,
+          "votes_abstain": null,
+          "approval_pct": 94.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "綿貫泰之",
+          "votes_for": 637221,
+          "votes_against": 32008,
+          "votes_abstain": null,
+          "approval_pct": 94.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本間あづみ",
+          "votes_for": 638938,
+          "votes_against": 30291,
+          "votes_abstain": null,
+          "approval_pct": 94.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQ26",
@@ -120,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:10:00.016Z"
+  "updated_at": "2026-07-02T22:06:15.994Z"
 }

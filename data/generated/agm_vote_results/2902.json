@@ -3,6 +3,159 @@
   "company_name": "太陽化学",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W6NH",
+      "submit_date_time": "2025-06-26 09:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W6NH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山崎長宏",
+          "votes_for": 132444,
+          "votes_against": 4397,
+          "votes_abstain": null,
+          "approval_pct": 96.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山崎長宣",
+          "votes_for": 135107,
+          "votes_against": 1734,
+          "votes_abstain": null,
+          "approval_pct": 98.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤則夫",
+          "votes_for": 135351,
+          "votes_against": 1490,
+          "votes_abstain": null,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武藤孝次",
+          "votes_for": 135412,
+          "votes_against": 1429,
+          "votes_abstain": null,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中宏明",
+          "votes_for": 135411,
+          "votes_against": 1430,
+          "votes_abstain": null,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山崎長俊",
+          "votes_for": 135321,
+          "votes_against": 1520,
+          "votes_abstain": null,
+          "approval_pct": 98.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ScottJamesonSmith",
+          "votes_for": 135174,
+          "votes_against": 1667,
+          "votes_abstain": null,
+          "approval_pct": 98.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保田修平",
+          "votes_for": 132692,
+          "votes_against": 4149,
+          "votes_abstain": null,
+          "approval_pct": 96.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部啓子",
+          "votes_for": 135195,
+          "votes_against": 1646,
+          "votes_abstain": null,
+          "approval_pct": 98.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉誠人",
+          "votes_for": 132479,
+          "votes_against": 4363,
+          "votes_abstain": null,
+          "approval_pct": 96.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村文哉",
+          "votes_for": 132610,
+          "votes_against": 4232,
+          "votes_abstain": null,
+          "approval_pct": 96.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 132252,
+          "votes_against": 4590,
+          "votes_abstain": null,
+          "approval_pct": 96.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TUKX",
@@ -144,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:58:22.844Z"
+  "updated_at": "2026-07-02T21:54:41.719Z"
 }

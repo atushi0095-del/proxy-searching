@@ -3,6 +3,147 @@
   "company_name": "大紀アルミニウム工業所",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2M8",
+      "submit_date_time": "2025-06-24 09:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2M8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 318775,
+          "votes_against": 2717,
+          "votes_abstain": 0,
+          "approval_pct": 99.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山本隆章",
+          "votes_for": 265442,
+          "votes_against": 56052,
+          "votes_abstain": 0,
+          "approval_pct": 82.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "林繁典",
+          "votes_for": 265574,
+          "votes_against": 55920,
+          "votes_abstain": 0,
+          "approval_pct": 82.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "後藤和示",
+          "votes_for": 313751,
+          "votes_against": 7743,
+          "votes_abstain": 0,
+          "approval_pct": 97.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "門谷正雄",
+          "votes_for": 313927,
+          "votes_against": 7567,
+          "votes_abstain": 0,
+          "approval_pct": 97.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川口絵里",
+          "votes_for": 313871,
+          "votes_against": 7623,
+          "votes_abstain": 0,
+          "approval_pct": 97.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "辰野守彦",
+          "votes_for": 259025,
+          "votes_against": 62469,
+          "votes_abstain": 0,
+          "approval_pct": 80.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "谷謙二",
+          "votes_for": 313425,
+          "votes_against": 8069,
+          "votes_abstain": 0,
+          "approval_pct": 97.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山本未生",
+          "votes_for": 313741,
+          "votes_against": 7753,
+          "votes_abstain": 0,
+          "approval_pct": 97.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "野澤密孝",
+          "votes_for": 319584,
+          "votes_against": 1894,
+          "votes_abstain": 0,
+          "approval_pct": 99.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "石黒訓",
+          "votes_for": 307400,
+          "votes_against": 14077,
+          "votes_abstain": 0,
+          "approval_pct": 95.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TRZ3",
@@ -72,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:09:08.037Z"
+  "updated_at": "2026-07-02T22:08:47.672Z"
 }

@@ -3,6 +3,147 @@
   "company_name": "テンポイノベーション",
   "meetings": [
     {
+      "meeting_date": "2025-06-17",
+      "meeting_year": 2025,
+      "doc_id": "S100W0B0",
+      "submit_date_time": "2025-06-19 14:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0B0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 133262,
+          "votes_against": 457,
+          "votes_abstain": null,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原康雄",
+          "votes_for": 133003,
+          "votes_against": 714,
+          "votes_abstain": null,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "志村洋平",
+          "votes_for": 133015,
+          "votes_against": 702,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "東城学将",
+          "votes_for": 133013,
+          "votes_against": 704,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北澤学",
+          "votes_for": 133035,
+          "votes_against": 682,
+          "votes_abstain": null,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "近藤裕二",
+          "votes_for": 133025,
+          "votes_against": 692,
+          "votes_abstain": null,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前田有幾",
+          "votes_for": 132853,
+          "votes_against": 864,
+          "votes_abstain": null,
+          "approval_pct": 99.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川原誠",
+          "votes_for": 132836,
+          "votes_against": 883,
+          "votes_abstain": null,
+          "approval_pct": 99.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青山理恵",
+          "votes_for": 132959,
+          "votes_against": 760,
+          "votes_abstain": null,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "玉伊吹",
+          "votes_for": 132953,
+          "votes_against": 766,
+          "votes_abstain": null,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長島康隆",
+          "votes_for": 133043,
+          "votes_against": 676,
+          "votes_abstain": null,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-17",
       "meeting_year": 2024,
       "doc_id": "S100TO18",
@@ -120,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:24:38.478Z"
+  "updated_at": "2026-07-02T22:18:43.341Z"
 }

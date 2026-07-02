@@ -3,6 +3,123 @@
   "company_name": "ジャノメ",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W1PC",
+      "submit_date_time": "2025-06-23 16:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1PC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 124726,
+          "votes_against": 242,
+          "votes_abstain": 0,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "齋藤真",
+          "votes_for": 94500,
+          "votes_against": 30468,
+          "votes_abstain": 0,
+          "approval_pct": 75.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大島毅之",
+          "votes_for": 120743,
+          "votes_against": 4225,
+          "votes_abstain": 0,
+          "approval_pct": 96.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "土井仁",
+          "votes_for": 120614,
+          "votes_against": 4354,
+          "votes_abstain": 0,
+          "approval_pct": 96.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "保坂幸夫",
+          "votes_for": 124462,
+          "votes_against": 506,
+          "votes_abstain": 0,
+          "approval_pct": 99.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中島文明",
+          "votes_for": 120375,
+          "votes_against": 4593,
+          "votes_abstain": 0,
+          "approval_pct": 96.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中恭代",
+          "votes_for": 120435,
+          "votes_against": 4533,
+          "votes_abstain": 0,
+          "approval_pct": 96.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "保坂美江子",
+          "votes_for": 124218,
+          "votes_against": 750,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 84503,
+          "votes_against": 40463,
+          "votes_abstain": null,
+          "approval_pct": 67.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TSAJ",
@@ -180,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:07:39.435Z"
+  "updated_at": "2026-07-02T22:09:51.728Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "日本カーバイド工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9PT",
+      "submit_date_time": "2025-07-01 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9PT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 49197,
+          "votes_against": 239,
+          "votes_abstain": 0,
+          "approval_pct": 96.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉山孝久",
+          "votes_for": 43687,
+          "votes_against": 5748,
+          "votes_abstain": 0,
+          "approval_pct": 85.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井口吉忠",
+          "votes_for": 43706,
+          "votes_against": 5729,
+          "votes_abstain": 0,
+          "approval_pct": 85.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長谷川幸伸",
+          "votes_for": 46184,
+          "votes_against": 3251,
+          "votes_abstain": 0,
+          "approval_pct": 90.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横田祐一",
+          "votes_for": 46175,
+          "votes_against": 3260,
+          "votes_abstain": 0,
+          "approval_pct": 90.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉岡早月",
+          "votes_for": 48501,
+          "votes_against": 934,
+          "votes_abstain": 0,
+          "approval_pct": 94.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "門向裕三",
+          "votes_for": 48513,
+          "votes_against": 922,
+          "votes_abstain": 0,
+          "approval_pct": 94.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林文明",
+          "votes_for": 48590,
+          "votes_against": 795,
+          "votes_abstain": 0,
+          "approval_pct": 94.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鮎川裕美",
+          "votes_for": 48985,
+          "votes_against": 401,
+          "votes_abstain": 0,
+          "approval_pct": 95.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡あゆみ",
+          "votes_for": 49054,
+          "votes_against": 332,
+          "votes_abstain": 0,
+          "approval_pct": 95.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYBV",
@@ -120,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:16:26.217Z"
+  "updated_at": "2026-07-02T21:07:08.143Z"
 }

@@ -3,6 +3,111 @@
   "company_name": "ＳＥＣカーボン",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W7GJ",
+      "submit_date_time": "2025-06-27 09:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7GJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大谷民明",
+          "votes_for": 146616,
+          "votes_against": 8633,
+          "votes_abstain": 29,
+          "approval_pct": 94.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中島耕",
+          "votes_for": 146331,
+          "votes_against": 8918,
+          "votes_abstain": 29,
+          "approval_pct": 94.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長谷川和重",
+          "votes_for": 150788,
+          "votes_against": 4461,
+          "votes_abstain": 29,
+          "approval_pct": 97.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田畑洋",
+          "votes_for": 150799,
+          "votes_against": 4450,
+          "votes_abstain": 29,
+          "approval_pct": 97.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岩井清一",
+          "votes_for": 150766,
+          "votes_against": 4483,
+          "votes_abstain": 29,
+          "approval_pct": 97.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大谷壽一",
+          "votes_for": 148684,
+          "votes_against": 6565,
+          "votes_abstain": 29,
+          "approval_pct": 95.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森千春",
+          "votes_for": 150355,
+          "votes_against": 4894,
+          "votes_abstain": 29,
+          "approval_pct": 96.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "森下宏也",
+          "votes_for": 154391,
+          "votes_against": 857,
+          "votes_abstain": 29,
+          "approval_pct": 99.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TWIZ",
@@ -144,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:38:42.087Z"
+  "updated_at": "2026-07-02T21:42:41.106Z"
 }

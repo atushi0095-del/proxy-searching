@@ -3,6 +3,147 @@
   "company_name": "ナガワ",
   "meetings": [
     {
+      "meeting_date": "2025-06-17",
+      "meeting_year": 2025,
+      "doc_id": "S100VZKS",
+      "submit_date_time": "2025-06-18 15:57",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VZKS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "髙橋修",
+          "votes_for": 130128,
+          "votes_against": 14267,
+          "votes_abstain": 0,
+          "approval_pct": 90.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "新村亮",
+          "votes_for": 137229,
+          "votes_against": 7166,
+          "votes_abstain": 0,
+          "approval_pct": 95.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "濱野新大",
+          "votes_for": 143254,
+          "votes_against": 1142,
+          "votes_abstain": 0,
+          "approval_pct": 99.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "菅井賢志",
+          "votes_for": 143244,
+          "votes_against": 1152,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "溝口真樹",
+          "votes_for": 144105,
+          "votes_against": 291,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木之瀨幹夫",
+          "votes_for": 143327,
+          "votes_against": 1069,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "猪岡修治",
+          "votes_for": 143232,
+          "votes_against": 1164,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高橋淳子",
+          "votes_for": 143319,
+          "votes_against": 1077,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 143879,
+          "votes_against": 515,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案役員賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 139864,
+          "votes_against": 4530,
+          "votes_abstain": 0,
+          "approval_pct": 96.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案当社の株券等の大規模買付行為に関する対応策の継続及び一部変更の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 108351,
+          "votes_against": 36044,
+          "votes_abstain": 0,
+          "approval_pct": 75.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-18",
       "meeting_year": 2024,
       "doc_id": "S100TNY7",
@@ -72,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:24:48.244Z"
+  "updated_at": "2026-07-02T22:19:50.114Z"
 }

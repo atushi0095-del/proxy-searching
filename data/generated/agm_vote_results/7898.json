@@ -3,6 +3,135 @@
   "company_name": "ウッドワン",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W9TN",
+      "submit_date_time": "2025-07-01 10:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9TN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 69394,
+          "votes_against": 695,
+          "votes_abstain": 0,
+          "approval_pct": 95.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 68962,
+          "votes_against": 1127,
+          "votes_abstain": 0,
+          "approval_pct": 94.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中本祐昌",
+          "votes_for": 65010,
+          "votes_against": 5079,
+          "votes_abstain": 0,
+          "approval_pct": 89.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥田清人",
+          "votes_for": 67440,
+          "votes_against": 2649,
+          "votes_abstain": 0,
+          "approval_pct": 92.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊永成伸",
+          "votes_for": 69157,
+          "votes_against": 932,
+          "votes_abstain": 0,
+          "approval_pct": 94.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坪井寿之",
+          "votes_for": 69176,
+          "votes_against": 913,
+          "votes_abstain": 0,
+          "approval_pct": 94.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤慎次郎",
+          "votes_for": 69212,
+          "votes_against": 877,
+          "votes_abstain": 0,
+          "approval_pct": 94.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "秦清",
+          "votes_for": 67422,
+          "votes_against": 2667,
+          "votes_abstain": 0,
+          "approval_pct": 92.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大松洋二",
+          "votes_for": 69218,
+          "votes_against": 871,
+          "votes_abstain": 0,
+          "approval_pct": 94.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 68990,
+          "votes_against": 1099,
+          "votes_abstain": 0,
+          "approval_pct": 94.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TY6S",
@@ -168,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:23:41.435Z"
+  "updated_at": "2026-07-02T21:12:30.495Z"
 }

@@ -3,6 +3,171 @@
   "company_name": "ハウス食品グループ本社",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W9IZ",
+      "submit_date_time": "2025-07-01 14:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9IZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 810986,
+          "votes_against": 1206,
+          "votes_abstain": null,
+          "approval_pct": 99.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "浦上博史",
+          "votes_for": 694286,
+          "votes_against": 117936,
+          "votes_abstain": null,
+          "approval_pct": 84.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大澤善行",
+          "votes_for": 788664,
+          "votes_against": 23559,
+          "votes_abstain": 1,
+          "approval_pct": 96.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川崎浩太郎",
+          "votes_for": 790652,
+          "votes_against": 21572,
+          "votes_abstain": null,
+          "approval_pct": 96.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮奥美行",
+          "votes_for": 790500,
+          "votes_against": 21724,
+          "votes_abstain": null,
+          "approval_pct": 96.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山口竜巳",
+          "votes_for": 790706,
+          "votes_against": 21517,
+          "votes_abstain": 1,
+          "approval_pct": 96.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐久間淳",
+          "votes_for": 805198,
+          "votes_against": 7026,
+          "votes_abstain": null,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡本雄一",
+          "votes_for": 805263,
+          "votes_against": 6961,
+          "votes_abstain": null,
+          "approval_pct": 98.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "久保田恒夫",
+          "votes_for": 795789,
+          "votes_against": 16401,
+          "votes_abstain": 1,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡島敦子",
+          "votes_for": 808084,
+          "votes_against": 4111,
+          "votes_abstain": null,
+          "approval_pct": 98.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "関根福一",
+          "votes_for": 808987,
+          "votes_against": 3208,
+          "votes_abstain": null,
+          "approval_pct": 98.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川嵜靖之",
+          "votes_for": 751804,
+          "votes_against": 60387,
+          "votes_abstain": 1,
+          "approval_pct": 91.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山田美和",
+          "votes_for": 810643,
+          "votes_against": 1552,
+          "votes_abstain": null,
+          "approval_pct": 99.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TYJ6",
@@ -156,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:23:34.367Z"
+  "updated_at": "2026-07-02T21:08:53.797Z"
 }

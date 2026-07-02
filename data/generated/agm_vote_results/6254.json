@@ -3,6 +3,135 @@
   "company_name": "野村マイクロ・サイエンス",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W5RH",
+      "submit_date_time": "2025-06-25 14:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5RH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 192514,
+          "votes_against": 1039,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内田誠",
+          "votes_for": 191063,
+          "votes_against": 2490,
+          "votes_abstain": 0,
+          "approval_pct": 98.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西江勝治",
+          "votes_for": 191838,
+          "votes_against": 1715,
+          "votes_abstain": 0,
+          "approval_pct": 99.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西村司朗",
+          "votes_for": 191788,
+          "votes_against": 1765,
+          "votes_abstain": 0,
+          "approval_pct": 99.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上嘉成",
+          "votes_for": 191807,
+          "votes_against": 1746,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千田豊作",
+          "votes_for": 191153,
+          "votes_against": 2400,
+          "votes_abstain": 0,
+          "approval_pct": 98.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "瀬下忍",
+          "votes_for": 190823,
+          "votes_against": 2724,
+          "votes_abstain": 0,
+          "approval_pct": 98.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中伸介",
+          "votes_for": 192045,
+          "votes_against": 1504,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新島由未子",
+          "votes_for": 192116,
+          "votes_against": 1433,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 190915,
+          "votes_against": 2628,
+          "votes_abstain": 16,
+          "approval_pct": 98.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTQD",
@@ -120,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:02:51.640Z"
+  "updated_at": "2026-07-02T22:00:06.494Z"
 }

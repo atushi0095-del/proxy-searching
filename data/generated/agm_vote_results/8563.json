@@ -3,6 +3,99 @@
   "company_name": "大東銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W5G3",
+      "submit_date_time": "2025-06-26 10:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5G3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 85933,
+          "votes_against": 324,
+          "votes_abstain": 0,
+          "approval_pct": 99.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木孝雄",
+          "votes_for": 77963,
+          "votes_against": 8294,
+          "votes_abstain": 0,
+          "approval_pct": 90.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡安廣",
+          "votes_for": 81386,
+          "votes_against": 4871,
+          "votes_abstain": 0,
+          "approval_pct": 94.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木輔",
+          "votes_for": 85462,
+          "votes_against": 795,
+          "votes_abstain": 0,
+          "approval_pct": 99.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大八木孝之",
+          "votes_for": 85468,
+          "votes_against": 789,
+          "votes_abstain": 0,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "畑中敦志",
+          "votes_for": 85437,
+          "votes_against": 820,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 82170,
+          "votes_against": 4051,
+          "votes_abstain": 37,
+          "approval_pct": 95.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TXPI",
@@ -144,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:35:33.949Z"
+  "updated_at": "2026-07-02T21:53:09.937Z"
 }

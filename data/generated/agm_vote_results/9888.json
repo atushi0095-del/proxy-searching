@@ -3,6 +3,99 @@
   "company_name": "UEX",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W2XV",
+      "submit_date_time": "2025-06-24 09:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2XV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 65758,
+          "votes_against": 4000,
+          "votes_abstain": 0,
+          "approval_pct": 94.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岸本則之",
+          "votes_for": 64079,
+          "votes_against": 5679,
+          "votes_abstain": 0,
+          "approval_pct": 91.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "秀髙雅紀",
+          "votes_for": 64492,
+          "votes_against": 5266,
+          "votes_abstain": 0,
+          "approval_pct": 92.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "合瀨雄介",
+          "votes_for": 65368,
+          "votes_against": 4390,
+          "votes_abstain": 0,
+          "approval_pct": 93.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤哲夫",
+          "votes_for": 64752,
+          "votes_against": 5006,
+          "votes_abstain": 0,
+          "approval_pct": 92.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小佐井優",
+          "votes_for": 64968,
+          "votes_against": 4790,
+          "votes_abstain": 0,
+          "approval_pct": 93.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新倉陽子",
+          "votes_for": 64908,
+          "votes_against": 4850,
+          "votes_abstain": 0,
+          "approval_pct": 93.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-24",
       "meeting_year": 2024,
       "doc_id": "S100TQSL",
@@ -108,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:14:12.808Z"
+  "updated_at": "2026-07-02T22:08:32.647Z"
 }

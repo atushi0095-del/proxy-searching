@@ -3,6 +3,147 @@
   "company_name": "東京電力ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WB2F",
+      "submit_date_time": "2025-07-04 09:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WB2F",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 21650689,
+          "votes_against": 3460127,
+          "votes_abstain": 1,
+          "approval_pct": 13.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "株主提案",
+          "votes_for": 500080,
+          "votes_against": 24602967,
+          "votes_abstain": 1189,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 505304,
+          "votes_against": 24598907,
+          "votes_abstain": 53,
+          "approval_pct": 97.88,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案の修正動議(1)",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 17190993,
+          "votes_against": 7912816,
+          "votes_abstain": null,
+          "approval_pct": 68.4,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案の修正動議",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 17657444,
+          "votes_against": 7446573,
+          "votes_abstain": null,
+          "approval_pct": 70.26,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案の修正動議",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 17655668,
+          "votes_against": 7448492,
+          "votes_abstain": null,
+          "approval_pct": 70.25,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案の修正動議",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 17661492,
+          "votes_against": 7442700,
+          "votes_abstain": null,
+          "approval_pct": 70.28,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案の修正動議",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 17691073,
+          "votes_against": 7413163,
+          "votes_abstain": null,
+          "approval_pct": 70.39,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案の修正動議",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 21204041,
+          "votes_against": 3900214,
+          "votes_abstain": null,
+          "approval_pct": 84.37,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 9,
+          "proposal_title": "第9号議案の修正動議",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 17680783,
+          "votes_against": 7423299,
+          "votes_abstain": null,
+          "approval_pct": 70.35,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 10,
+          "proposal_title": "第10号議案の修正動議",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 17681894,
+          "votes_against": 7422135,
+          "votes_abstain": null,
+          "approval_pct": 70.36,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100U024",
@@ -156,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:09:02.228Z"
+  "updated_at": "2026-07-02T21:01:05.087Z"
 }

@@ -3,6 +3,111 @@
   "company_name": "タキヒヨー",
   "meetings": [
     {
+      "meeting_date": "2025-05-28",
+      "meeting_year": 2025,
+      "doc_id": "S100VVTV",
+      "submit_date_time": "2025-06-06 09:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VVTV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 66738,
+          "votes_against": 4783,
+          "votes_abstain": 0,
+          "approval_pct": 93.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "滝一夫",
+          "votes_for": 63134,
+          "votes_against": 8387,
+          "votes_abstain": 0,
+          "approval_pct": 88.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "武藤篤",
+          "votes_for": 63773,
+          "votes_against": 7748,
+          "votes_abstain": 0,
+          "approval_pct": 89.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "板倉秀紀",
+          "votes_for": 65027,
+          "votes_against": 6494,
+          "votes_abstain": 0,
+          "approval_pct": 90.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "土屋旅人",
+          "votes_for": 69592,
+          "votes_against": 1929,
+          "votes_abstain": 0,
+          "approval_pct": 97.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小笠原剛",
+          "votes_for": 63704,
+          "votes_against": 7817,
+          "votes_abstain": 0,
+          "approval_pct": 89.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "金子靖代",
+          "votes_for": 69535,
+          "votes_against": 1986,
+          "votes_abstain": 0,
+          "approval_pct": 97.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役及び社外取締役を除く。)に対する譲渡制限付株式の付与のための報酬決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 69439,
+          "votes_against": 2082,
+          "votes_abstain": 0,
+          "approval_pct": 97.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-29",
       "meeting_year": 2024,
       "doc_id": "S100TKKO",
@@ -144,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:29:38.930Z"
+  "updated_at": "2026-07-02T22:24:36.049Z"
 }

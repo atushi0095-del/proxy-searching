@@ -3,6 +3,87 @@
   "company_name": "川西倉庫",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W97S",
+      "submit_date_time": "2025-06-30 10:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W97S",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 66574,
+          "votes_against": 189,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川西二郎",
+          "votes_for": 66509,
+          "votes_against": 253,
+          "votes_abstain": 0,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高杉誠",
+          "votes_for": 66519,
+          "votes_against": 243,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "笠原謙",
+          "votes_for": 66533,
+          "votes_against": 229,
+          "votes_abstain": 0,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長島聡",
+          "votes_for": 66534,
+          "votes_against": 228,
+          "votes_abstain": 0,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "公江正典",
+          "votes_for": 66520,
+          "votes_against": 242,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TW0C",
@@ -132,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:44:39.393Z"
+  "updated_at": "2026-07-02T21:25:44.131Z"
 }

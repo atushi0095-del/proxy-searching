@@ -3,6 +3,135 @@
   "company_name": "ネットプロテクションズホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9QQ",
+      "submit_date_time": "2025-06-30 16:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9QQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柴田紳",
+          "votes_for": 660652,
+          "votes_against": 41946,
+          "votes_abstain": 7662,
+          "approval_pct": 92.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉一治",
+          "votes_for": 663555,
+          "votes_against": 39043,
+          "votes_abstain": 7662,
+          "approval_pct": 92.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "秋山瞬",
+          "votes_for": 701004,
+          "votes_against": 1594,
+          "votes_abstain": 7662,
+          "approval_pct": 98.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山下貴史",
+          "votes_for": 701046,
+          "votes_against": 1552,
+          "votes_abstain": 7662,
+          "approval_pct": 98.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "江尻裕一",
+          "votes_for": 688724,
+          "votes_against": 13874,
+          "votes_abstain": 7662,
+          "approval_pct": 96.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村公美",
+          "votes_for": 701052,
+          "votes_against": 1546,
+          "votes_abstain": 7662,
+          "approval_pct": 98.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "滝田健太郎",
+          "votes_for": 578601,
+          "votes_against": 123997,
+          "votes_abstain": 7662,
+          "approval_pct": 81.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井隆一",
+          "votes_for": 701144,
+          "votes_against": 1454,
+          "votes_abstain": 7662,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 698555,
+          "votes_against": 4043,
+          "votes_abstain": 7662,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 615696,
+          "votes_against": 86902,
+          "votes_abstain": 7662,
+          "approval_pct": 86.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TYWH",
@@ -144,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:16:17.460Z"
+  "updated_at": "2026-07-02T21:14:42.715Z"
 }

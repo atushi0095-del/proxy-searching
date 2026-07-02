@@ -3,6 +3,87 @@
   "company_name": "不動テトラ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W60D",
+      "submit_date_time": "2025-06-25 17:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W60D",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 116928,
+          "votes_against": 1022,
+          "votes_abstain": 23,
+          "approval_pct": 99.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥田眞也",
+          "votes_for": 116422,
+          "votes_against": 1551,
+          "votes_abstain": null,
+          "approval_pct": 98.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大林淳",
+          "votes_for": 113786,
+          "votes_against": 4187,
+          "votes_abstain": null,
+          "approval_pct": 96.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川地洋治",
+          "votes_for": 116488,
+          "votes_against": 1485,
+          "votes_abstain": null,
+          "approval_pct": 98.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大沢真理",
+          "votes_for": 116418,
+          "votes_against": 1555,
+          "votes_abstain": null,
+          "approval_pct": 98.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川村倫大",
+          "votes_for": 116672,
+          "votes_against": 1301,
+          "votes_abstain": null,
+          "approval_pct": 98.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQXL",
@@ -168,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:13:46.596Z"
+  "updated_at": "2026-07-02T21:55:36.299Z"
 }

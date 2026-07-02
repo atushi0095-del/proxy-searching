@@ -3,6 +3,159 @@
   "company_name": "日産化学",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W84D",
+      "submit_date_time": "2025-06-27 11:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W84D",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1115646,
+          "votes_against": 346,
+          "votes_abstain": 0,
+          "approval_pct": 98.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木下小次郎",
+          "votes_for": 1017946,
+          "votes_against": 98073,
+          "votes_abstain": 0,
+          "approval_pct": 90.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "八木晋介",
+          "votes_for": 1028276,
+          "votes_against": 87743,
+          "votes_abstain": 0,
+          "approval_pct": 90.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大門秀樹",
+          "votes_for": 1060596,
+          "votes_against": 55424,
+          "votes_abstain": 0,
+          "approval_pct": 93.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石川元明",
+          "votes_for": 1060876,
+          "votes_against": 55144,
+          "votes_abstain": 0,
+          "approval_pct": 93.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤祐二",
+          "votes_for": 1097538,
+          "votes_against": 18481,
+          "votes_abstain": 0,
+          "approval_pct": 97.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松岡健",
+          "votes_for": 1060887,
+          "votes_against": 55133,
+          "votes_abstain": 0,
+          "approval_pct": 93.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "片岡一則",
+          "votes_for": 1066336,
+          "votes_against": 49686,
+          "votes_abstain": 0,
+          "approval_pct": 94.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川深雪",
+          "votes_for": 1072803,
+          "votes_against": 43219,
+          "votes_abstain": 0,
+          "approval_pct": 94.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹岡裕子",
+          "votes_for": 1109949,
+          "votes_against": 6073,
+          "votes_abstain": 0,
+          "approval_pct": 98.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濱逸夫",
+          "votes_for": 1108532,
+          "votes_against": 7490,
+          "votes_abstain": 0,
+          "approval_pct": 98.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "絹川幸恵",
+          "votes_for": 820876,
+          "votes_against": 295143,
+          "votes_abstain": 0,
+          "approval_pct": 72.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TWFU",
@@ -156,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:45:38.643Z"
+  "updated_at": "2026-07-02T21:39:34.256Z"
 }

@@ -3,6 +3,207 @@
   "company_name": "日本郵船",
   "meetings": [
     {
+      "meeting_date": "2025-06-18",
+      "meeting_year": 2025,
+      "doc_id": "S100W08I",
+      "submit_date_time": "2025-06-19 14:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W08I",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 3061169,
+          "votes_against": 4328,
+          "votes_abstain": 360,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "長澤仁志",
+          "votes_for": 2886166,
+          "votes_against": 165908,
+          "votes_abstain": 13816,
+          "approval_pct": 93.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "曽我貴也",
+          "votes_for": 2875293,
+          "votes_against": 176777,
+          "votes_abstain": 13816,
+          "approval_pct": 93.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "河野晃",
+          "votes_for": 2885663,
+          "votes_against": 179866,
+          "votes_abstain": 360,
+          "approval_pct": 93.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木康修",
+          "votes_for": 3028192,
+          "votes_against": 37338,
+          "votes_abstain": 360,
+          "approval_pct": 98.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田邊栄一",
+          "votes_for": 3000394,
+          "votes_against": 65131,
+          "votes_abstain": 360,
+          "approval_pct": 97.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "志濟聡子",
+          "votes_for": 3054287,
+          "votes_against": 11244,
+          "votes_abstain": 360,
+          "approval_pct": 98.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "桑原聡子",
+          "votes_for": 2909825,
+          "votes_against": 155705,
+          "votes_abstain": 360,
+          "approval_pct": 94.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小杉桂子",
+          "votes_for": 2931627,
+          "votes_against": 133857,
+          "votes_abstain": 360,
+          "approval_pct": 94.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "日暮豊",
+          "votes_for": 2790144,
+          "votes_against": 275340,
+          "votes_abstain": 360,
+          "approval_pct": 90.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中曽宏",
+          "votes_for": 3048962,
+          "votes_against": 16530,
+          "votes_abstain": 360,
+          "approval_pct": 98.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井伊基之",
+          "votes_for": 3056251,
+          "votes_against": 9241,
+          "votes_abstain": 360,
+          "approval_pct": 98.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "野々宮律子",
+          "votes_for": 3055562,
+          "votes_against": 9930,
+          "votes_abstain": 360,
+          "approval_pct": 98.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 2682919,
+          "votes_against": 382541,
+          "votes_abstain": 360,
+          "approval_pct": 86.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役（監査等委員である取締役を除く。）等に対する業績連動型金銭報酬制度に基づく報酬額の算定方法等一部改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 3045389,
+          "votes_against": 15026,
+          "votes_abstain": 5421,
+          "approval_pct": 98.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役（監査等委員である取締役を除く。）等に対する業績連動型株式報酬制度等に基づく報酬額の算定方法等一部改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 3010007,
+          "votes_against": 49923,
+          "votes_abstain": 5931,
+          "approval_pct": 97.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TOGB",
@@ -108,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:23:23.757Z"
+  "updated_at": "2026-07-02T22:18:48.295Z"
 }

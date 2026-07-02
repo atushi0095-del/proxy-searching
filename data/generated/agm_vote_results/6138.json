@@ -3,6 +3,63 @@
   "company_name": "ダイジヱット工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WA1J",
+      "submit_date_time": "2025-07-01 09:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA1J",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 21614,
+          "votes_against": 24,
+          "votes_abstain": 0,
+          "approval_pct": 99.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": "生悦住歩古林雄一安藤信夫藤井繁光",
+          "votes_for": 21523215212152320000,
+          "votes_against": 117119117117,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井川貴夫平井満南場祐希",
+          "votes_for": 216052158421591,
+          "votes_against": 355649,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "針原祥次",
+          "votes_for": 21591,
+          "votes_against": 49,
+          "votes_abstain": 0,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TYOX",
@@ -36,5 +93,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:20:16.262Z"
+  "updated_at": "2026-07-02T21:13:44.909Z"
 }

@@ -3,6 +3,39 @@
   "company_name": "フコク",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W9D0",
+      "submit_date_time": "2025-06-30 11:17",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9D0",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "木村尚藤原康弘赤澤義文",
+          "votes_for": 120152116895122270,
+          "votes_against": 329465511177,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案当社株式等の大量買付行為等に関する対応策（買収への対応方針）継続の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 90519,
+          "votes_against": 32927,
+          "votes_abstain": 0,
+          "approval_pct": 73.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TYXI",
@@ -36,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:16:02.989Z"
+  "updated_at": "2026-07-02T21:24:34.963Z"
 }

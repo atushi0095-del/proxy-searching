@@ -3,6 +3,75 @@
   "company_name": "イワキポンプ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W99N",
+      "submit_date_time": "2025-06-30 13:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W99N",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 186485,
+          "votes_against": 153,
+          "votes_abstain": null,
+          "approval_pct": 99.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤中茂",
+          "votes_for": 171693,
+          "votes_against": 14945,
+          "votes_abstain": null,
+          "approval_pct": 91.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "打田秀樹",
+          "votes_for": 183162,
+          "votes_against": 3477,
+          "votes_abstain": null,
+          "approval_pct": 98.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "茅原敏広",
+          "votes_for": 166654,
+          "votes_against": 19985,
+          "votes_abstain": null,
+          "approval_pct": 89.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "富安貴子",
+          "votes_for": 182961,
+          "votes_against": 3678,
+          "votes_abstain": null,
+          "approval_pct": 98.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY2Z",
@@ -48,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:25:32.400Z"
+  "updated_at": "2026-07-02T21:22:47.946Z"
 }

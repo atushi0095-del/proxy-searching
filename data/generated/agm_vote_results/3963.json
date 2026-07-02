@@ -3,6 +3,99 @@
   "company_name": "シンクロ・フード",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W5UE",
+      "submit_date_time": "2025-06-27 11:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5UE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 126295,
+          "votes_against": 38183,
+          "votes_abstain": 27166,
+          "approval_pct": 65.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤代真一",
+          "votes_for": 161683,
+          "votes_against": 30124,
+          "votes_abstain": 0,
+          "approval_pct": 84.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中川二博",
+          "votes_for": 161963,
+          "votes_against": 29844,
+          "votes_abstain": 0,
+          "approval_pct": 84.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森田勝樹",
+          "votes_for": 125503,
+          "votes_against": 39138,
+          "votes_abstain": 27166,
+          "approval_pct": 65.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大久保俊",
+          "votes_for": 161721,
+          "votes_against": 30086,
+          "votes_abstain": 0,
+          "approval_pct": 84.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松崎良太",
+          "votes_for": 181149,
+          "votes_against": 10658,
+          "votes_abstain": 0,
+          "approval_pct": 94.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "永井美保子",
+          "votes_for": 181140,
+          "votes_against": 10667,
+          "votes_abstain": 0,
+          "approval_pct": 94.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TV5F",
@@ -132,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:46:12.313Z"
+  "updated_at": "2026-07-02T21:40:18.205Z"
 }

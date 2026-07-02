@@ -3,6 +3,123 @@
   "company_name": "イーレックス",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W8V8",
+      "submit_date_time": "2025-06-27 15:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8V8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "剰余金処分の件",
+          "votes_for": 602323,
+          "votes_against": 926,
+          "votes_abstain": null,
+          "approval_pct": 98.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本名均",
+          "votes_for": 551505,
+          "votes_against": 51762,
+          "votes_abstain": null,
+          "approval_pct": 90.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "角田知紀",
+          "votes_for": 592577,
+          "votes_against": 10690,
+          "votes_abstain": null,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "斉藤靖",
+          "votes_for": 592625,
+          "votes_against": 10642,
+          "votes_abstain": null,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中稔道",
+          "votes_for": 592191,
+          "votes_against": 11076,
+          "votes_abstain": null,
+          "approval_pct": 97.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平井教夫",
+          "votes_for": 601756,
+          "votes_against": 1511,
+          "votes_abstain": null,
+          "approval_pct": 98.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田村信",
+          "votes_for": 592529,
+          "votes_against": 10738,
+          "votes_abstain": null,
+          "approval_pct": 97.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "守田道明",
+          "votes_for": 591854,
+          "votes_against": 11413,
+          "votes_abstain": null,
+          "approval_pct": 97.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村滋",
+          "votes_for": 592259,
+          "votes_against": 11008,
+          "votes_abstain": null,
+          "approval_pct": 97.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TVXW",
@@ -120,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:50:04.042Z"
+  "updated_at": "2026-07-02T21:31:35.117Z"
 }

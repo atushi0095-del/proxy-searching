@@ -3,6 +3,147 @@
   "company_name": "ショーエイコーポレーション",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W74N",
+      "submit_date_time": "2025-06-26 12:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W74N",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 53841,
+          "votes_against": 615,
+          "votes_abstain": 0,
+          "approval_pct": 98.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "芝原英司",
+          "votes_for": 53086,
+          "votes_against": 1370,
+          "votes_abstain": 0,
+          "approval_pct": 97.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川上弘恭",
+          "votes_for": 53319,
+          "votes_against": 1137,
+          "votes_abstain": 0,
+          "approval_pct": 97.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小倉幹雄",
+          "votes_for": 53540,
+          "votes_against": 916,
+          "votes_abstain": 0,
+          "approval_pct": 98.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中博文",
+          "votes_for": 53504,
+          "votes_against": 952,
+          "votes_abstain": 0,
+          "approval_pct": 98.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "稲谷和樹",
+          "votes_for": 53553,
+          "votes_against": 923,
+          "votes_abstain": 0,
+          "approval_pct": 98.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山之口良子",
+          "votes_for": 53391,
+          "votes_against": 1065,
+          "votes_abstain": 0,
+          "approval_pct": 98.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "片山淳一郎",
+          "votes_for": 53356,
+          "votes_against": 1100,
+          "votes_abstain": 0,
+          "approval_pct": 97.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員3名選任の件",
+          "proposal_category": "その他",
+          "candidate_name": "新城学",
+          "votes_for": 53517,
+          "votes_against": 938,
+          "votes_abstain": 0,
+          "approval_pct": 98.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員3名選任の件",
+          "proposal_category": "その他",
+          "candidate_name": "大森茂樹",
+          "votes_for": 53277,
+          "votes_against": 1178,
+          "votes_abstain": 0,
+          "approval_pct": 97.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員3名選任の件",
+          "proposal_category": "その他",
+          "candidate_name": "種田ゆみこ",
+          "votes_for": 53509,
+          "votes_against": 946,
+          "votes_abstain": 0,
+          "approval_pct": 98.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TURN",
@@ -96,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:55:56.558Z"
+  "updated_at": "2026-07-02T21:51:30.895Z"
 }

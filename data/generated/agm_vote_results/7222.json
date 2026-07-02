@@ -3,6 +3,111 @@
   "company_name": "日産車体",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W9SM",
+      "submit_date_time": "2025-06-30 15:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9SM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1207157,
+          "votes_against": 1375,
+          "votes_abstain": 46188,
+          "approval_pct": 96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "冨山隆",
+          "votes_for": 781796,
+          "votes_against": 472934,
+          "votes_abstain": 0,
+          "approval_pct": 62.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "矢部雅之",
+          "votes_for": 839181,
+          "votes_against": 415548,
+          "votes_abstain": 0,
+          "approval_pct": 66.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村卓也",
+          "votes_for": 839217,
+          "votes_against": 415512,
+          "votes_abstain": 0,
+          "approval_pct": 66.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴木渉",
+          "votes_for": 907387,
+          "votes_against": 347342,
+          "votes_abstain": 0,
+          "approval_pct": 72.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大平靖之",
+          "votes_for": 844481,
+          "votes_against": 410248,
+          "votes_abstain": 0,
+          "approval_pct": 67.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "品田英明",
+          "votes_for": 854748,
+          "votes_against": 399981,
+          "votes_abstain": 0,
+          "approval_pct": 68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "芥川知美",
+          "votes_for": 1208026,
+          "votes_against": 506,
+          "votes_abstain": 46188,
+          "approval_pct": 96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TYAL",
@@ -72,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:24:34.325Z"
+  "updated_at": "2026-07-02T21:18:01.113Z"
 }

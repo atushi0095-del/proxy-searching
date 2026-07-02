@@ -3,6 +3,99 @@
   "company_name": "フルッタフルッタ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W8WI",
+      "submit_date_time": "2025-06-27 16:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8WI",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "定款一部変更の件",
+          "votes_for": 290208,
+          "votes_against": 4820,
+          "votes_abstain": null,
+          "approval_pct": 98.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長澤誠",
+          "votes_for": 289769,
+          "votes_against": 5259,
+          "votes_abstain": null,
+          "approval_pct": 98.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "德島一孝",
+          "votes_for": 289973,
+          "votes_against": 5055,
+          "votes_abstain": null,
+          "approval_pct": 98.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ジェイソン・サウスト",
+          "votes_for": 281672,
+          "votes_against": 5520,
+          "votes_abstain": 7836,
+          "approval_pct": 95.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木朗広",
+          "votes_for": 290008,
+          "votes_against": 5020,
+          "votes_abstain": null,
+          "approval_pct": 98.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤直二",
+          "votes_for": 290364,
+          "votes_against": 4664,
+          "votes_abstain": null,
+          "approval_pct": 98.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岸本雄介",
+          "votes_for": 290781,
+          "votes_against": 4247,
+          "votes_abstain": null,
+          "approval_pct": 98.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TTE2",
@@ -60,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:43:25.189Z"
+  "updated_at": "2026-07-02T21:30:56.830Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "ディスコ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W539",
+      "submit_date_time": "2025-06-25 09:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W539",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 817826,
+          "votes_against": 38598,
+          "votes_abstain": 22,
+          "approval_pct": 95.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "関家一馬",
+          "votes_for": 818262,
+          "votes_against": 38237,
+          "votes_abstain": 22,
+          "approval_pct": 95.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉永晃",
+          "votes_for": 850225,
+          "votes_against": 6282,
+          "votes_abstain": 22,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田村隆夫",
+          "votes_for": 849233,
+          "votes_against": 7274,
+          "votes_abstain": 22,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "時丸和好",
+          "votes_for": 849746,
+          "votes_against": 6759,
+          "votes_abstain": 22,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "隠樹紀子",
+          "votes_for": 849853,
+          "votes_against": 6654,
+          "votes_abstain": 22,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松尾亜紀子",
+          "votes_for": 848644,
+          "votes_against": 7863,
+          "votes_abstain": 22,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小林英津子",
+          "votes_for": 847522,
+          "votes_against": 8985,
+          "votes_abstain": 22,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ChristinaL.Ahmadjian",
+          "votes_for": 850182,
+          "votes_against": 6325,
+          "votes_abstain": 22,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "村上敦士",
+          "votes_for": 850192,
+          "votes_against": 6315,
+          "votes_abstain": 22,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQ6R",
@@ -156,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:15:54.990Z"
+  "updated_at": "2026-07-02T22:03:12.319Z"
 }

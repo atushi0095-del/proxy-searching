@@ -3,6 +3,63 @@
   "company_name": "力の源ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W7SC",
+      "submit_date_time": "2025-06-27 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7SC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件河原成美山根智之鈴木美奈子",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 226392226464229470,
+          "votes_against": 431442421244,
+          "votes_abstain": null,
+          "approval_pct": 98.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件齋藤晃宏辻哲哉田鍋晋二",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 229440229398229440,
+          "votes_against": 126613081279,
+          "votes_abstain": null,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠の監査等委員である取締役1名選任の件松田洋志",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 221962,
+          "votes_against": 8743,
+          "votes_abstain": 1,
+          "approval_pct": 96.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案退任取締役に対する退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 212754,
+          "votes_against": 17952,
+          "votes_abstain": null,
+          "approval_pct": 92.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY9V",
@@ -36,5 +93,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:24:27.076Z"
+  "updated_at": "2026-07-02T21:44:37.955Z"
 }

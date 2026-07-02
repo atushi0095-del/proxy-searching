@@ -3,6 +3,147 @@
   "company_name": "カルビー",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W6UC",
+      "submit_date_time": "2025-06-26 14:57",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W6UC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1083917,
+          "votes_against": 10490,
+          "votes_abstain": 32316,
+          "approval_pct": 96.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "江原信",
+          "votes_for": 1074557,
+          "votes_against": 52156,
+          "votes_abstain": null,
+          "approval_pct": 95.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "井本朗",
+          "votes_for": 1120178,
+          "votes_against": 6536,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "笙啓英",
+          "votes_for": 1119999,
+          "votes_against": 6715,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "宮内義彦",
+          "votes_for": 1120231,
+          "votes_against": 6483,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "桐山一憲",
+          "votes_for": 1123644,
+          "votes_against": 3070,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "杉田浩章",
+          "votes_for": 1124444,
+          "votes_against": 2271,
+          "votes_abstain": null,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴木貴子",
+          "votes_for": 1124116,
+          "votes_against": 2599,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ウェイウェイ・ヤオ",
+          "votes_for": 898201,
+          "votes_against": 228513,
+          "votes_abstain": null,
+          "approval_pct": 79.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山崎徳司",
+          "votes_for": 1071101,
+          "votes_against": 55620,
+          "votes_abstain": null,
+          "approval_pct": 95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案役員賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 1119616,
+          "votes_against": 6894,
+          "votes_abstain": 213,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTXV",
@@ -168,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:58:58.757Z"
+  "updated_at": "2026-07-02T21:48:33.938Z"
 }

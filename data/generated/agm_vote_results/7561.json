@@ -3,6 +3,87 @@
   "company_name": "ハークスレイ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100VWK0",
+      "submit_date_time": "2025-06-26 14:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VWK0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 140269,
+          "votes_against": 383,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 140016,
+          "votes_against": 636,
+          "votes_abstain": 0,
+          "approval_pct": 99.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水野治彦",
+          "votes_for": 139502,
+          "votes_against": 1150,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部豊明",
+          "votes_for": 139519,
+          "votes_against": 1133,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "米田憲弘",
+          "votes_for": 131038,
+          "votes_against": 9614,
+          "votes_abstain": 0,
+          "approval_pct": 93.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中野雅哉",
+          "votes_for": 139811,
+          "votes_against": 841,
+          "votes_abstain": 0,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TPIO",
@@ -108,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:20:14.589Z"
+  "updated_at": "2026-07-02T21:49:54.225Z"
 }

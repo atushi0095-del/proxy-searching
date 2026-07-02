@@ -3,6 +3,63 @@
   "company_name": "ナック",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9SD",
+      "submit_date_time": "2025-06-30 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9SD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 340743,
+          "votes_against": 783,
+          "votes_abstain": null,
+          "approval_pct": 99.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 340732,
+          "votes_against": 794,
+          "votes_abstain": null,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案吉村寛川上裕也脇本和好大場直樹嶋内穣中畑裕子山下真実吉田隆司",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3.2375633670733674e+47,
+          "votes_against": 1.7769481847894748e+33,
+          "votes_abstain": null,
+          "approval_pct": 94.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 340501,
+          "votes_against": 1022,
+          "votes_abstain": null,
+          "approval_pct": 68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXDE",
@@ -36,5 +93,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:25:48.295Z"
+  "updated_at": "2026-07-02T21:16:07.219Z"
 }

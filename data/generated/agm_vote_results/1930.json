@@ -3,6 +3,147 @@
   "company_name": "北陸電気工事",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9OX",
+      "submit_date_time": "2025-06-30 14:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9OX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 231569,
+          "votes_against": 11479,
+          "votes_abstain": 14,
+          "approval_pct": 95.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北克彦",
+          "votes_for": 228651,
+          "votes_against": 14396,
+          "votes_abstain": 14,
+          "approval_pct": 94.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐野みゆき",
+          "votes_for": 231742,
+          "votes_against": 11305,
+          "votes_abstain": 14,
+          "approval_pct": 95.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "多賀満",
+          "votes_for": 239221,
+          "votes_against": 3826,
+          "votes_abstain": 14,
+          "approval_pct": 98.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "早瀬庄一郎",
+          "votes_for": 231838,
+          "votes_against": 11209,
+          "votes_abstain": 14,
+          "approval_pct": 95.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "水谷和久",
+          "votes_for": 218376,
+          "votes_against": 24672,
+          "votes_abstain": 14,
+          "approval_pct": 89.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "南果",
+          "votes_for": 239470,
+          "votes_against": 3578,
+          "votes_abstain": 14,
+          "approval_pct": 98.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "村田良昭",
+          "votes_for": 231683,
+          "votes_against": 11364,
+          "votes_abstain": 14,
+          "approval_pct": 95.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山崎勇志",
+          "votes_for": 218546,
+          "votes_against": 24502,
+          "votes_abstain": 14,
+          "approval_pct": 89.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "斎藤弘志",
+          "votes_for": 242457,
+          "votes_against": 590,
+          "votes_abstain": 14,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山本英樹",
+          "votes_for": 242494,
+          "votes_against": 553,
+          "votes_abstain": 14,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY3Q",
@@ -216,5 +357,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:30:27.469Z"
+  "updated_at": "2026-07-02T21:19:24.758Z"
 }

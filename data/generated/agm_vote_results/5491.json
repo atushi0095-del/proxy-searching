@@ -3,6 +3,147 @@
   "company_name": "日本金属",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WARL",
+      "submit_date_time": "2025-07-02 17:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WARL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 39452,
+          "votes_against": 607,
+          "votes_abstain": 0,
+          "approval_pct": 98.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下川康志",
+          "votes_for": 38189,
+          "votes_against": 1870,
+          "votes_abstain": 0,
+          "approval_pct": 95.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田喜弘",
+          "votes_for": 37056,
+          "votes_against": 3003,
+          "votes_abstain": 0,
+          "approval_pct": 92.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山﨑修",
+          "votes_for": 37114,
+          "votes_against": 2945,
+          "votes_abstain": 0,
+          "approval_pct": 92.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川和洋",
+          "votes_for": 37167,
+          "votes_against": 2892,
+          "votes_abstain": 0,
+          "approval_pct": 92.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永塚良知",
+          "votes_for": 37197,
+          "votes_against": 2862,
+          "votes_abstain": 0,
+          "approval_pct": 92.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "假屋ゆう子",
+          "votes_for": 37123,
+          "votes_against": 2936,
+          "votes_abstain": 0,
+          "approval_pct": 92.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山下匡史",
+          "votes_for": 37319,
+          "votes_against": 2740,
+          "votes_abstain": 0,
+          "approval_pct": 93.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 36035,
+          "votes_against": 4024,
+          "votes_abstain": 0,
+          "approval_pct": 89.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤寛",
+          "votes_for": 37347,
+          "votes_against": 2712,
+          "votes_abstain": 0,
+          "approval_pct": 93.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "豊島絵",
+          "votes_for": 37275,
+          "votes_against": 2784,
+          "votes_abstain": 0,
+          "approval_pct": 93.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ3I",
@@ -132,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:14:21.767Z"
+  "updated_at": "2026-07-02T21:03:16.025Z"
 }

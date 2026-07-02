@@ -3,6 +3,75 @@
   "company_name": "理想科学工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W83U",
+      "submit_date_time": "2025-06-27 09:29",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W83U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 580359,
+          "votes_against": 165,
+          "votes_abstain": 0,
+          "approval_pct": 99.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 562133,
+          "votes_against": 18392,
+          "votes_abstain": 0,
+          "approval_pct": 96.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 579544,
+          "votes_against": 961,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 570017,
+          "votes_against": 10406,
+          "votes_abstain": 82,
+          "approval_pct": 98.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 569623,
+          "votes_against": 10882,
+          "votes_abstain": 0,
+          "approval_pct": 98.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TWE8",
@@ -48,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:48:46.295Z"
+  "updated_at": "2026-07-02T21:43:35.536Z"
 }

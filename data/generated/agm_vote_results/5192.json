@@ -3,6 +3,135 @@
   "company_name": "三ツ星ベルト",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9JQ",
+      "submit_date_time": "2025-06-30 13:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9JQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 199641,
+          "votes_against": 499,
+          "votes_abstain": 0,
+          "approval_pct": 96.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田浩",
+          "votes_for": 197978,
+          "votes_against": 2156,
+          "votes_abstain": 0,
+          "approval_pct": 95.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "熊﨑敏美",
+          "votes_for": 198671,
+          "votes_against": 1464,
+          "votes_abstain": 0,
+          "approval_pct": 95.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "又場敬司",
+          "votes_for": 198714,
+          "votes_against": 1421,
+          "votes_abstain": 0,
+          "approval_pct": 95.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "倉本信二",
+          "votes_for": 198569,
+          "votes_against": 1566,
+          "votes_abstain": 0,
+          "approval_pct": 95.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹田和浩",
+          "votes_for": 198580,
+          "votes_against": 1555,
+          "votes_abstain": 0,
+          "approval_pct": 95.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥田真弥",
+          "votes_for": 198749,
+          "votes_against": 1386,
+          "votes_abstain": 0,
+          "approval_pct": 95.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三宅由佳",
+          "votes_for": 199100,
+          "votes_against": 1035,
+          "votes_abstain": 0,
+          "approval_pct": 95.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "辻泰弘",
+          "votes_for": 198490,
+          "votes_against": 1645,
+          "votes_abstain": 0,
+          "approval_pct": 95.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤一郎",
+          "votes_for": 199276,
+          "votes_against": 754,
+          "votes_abstain": 100,
+          "approval_pct": 95.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY9U",
@@ -144,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:26:17.120Z"
+  "updated_at": "2026-07-02T21:21:18.863Z"
 }

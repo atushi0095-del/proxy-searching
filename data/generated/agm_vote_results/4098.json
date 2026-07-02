@@ -3,6 +3,135 @@
   "company_name": "チタン工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W84V",
+      "submit_date_time": "2025-06-27 15:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W84V",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 13651,
+          "votes_against": 314,
+          "votes_abstain": 0,
+          "approval_pct": 97.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上保雄",
+          "votes_for": 13126,
+          "votes_against": 842,
+          "votes_abstain": 0,
+          "approval_pct": 93.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長岡佳孝",
+          "votes_for": 13147,
+          "votes_against": 821,
+          "votes_abstain": 0,
+          "approval_pct": 94.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長岡茂",
+          "votes_for": 13143,
+          "votes_against": 825,
+          "votes_abstain": 0,
+          "approval_pct": 94.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千々松義人",
+          "votes_for": 13150,
+          "votes_against": 818,
+          "votes_abstain": 0,
+          "approval_pct": 94.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西田敦",
+          "votes_for": 13156,
+          "votes_against": 812,
+          "votes_abstain": 0,
+          "approval_pct": 94.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松崎正人",
+          "votes_for": 13683,
+          "votes_against": 285,
+          "votes_abstain": 0,
+          "approval_pct": 97.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤久典",
+          "votes_for": 13690,
+          "votes_against": 278,
+          "votes_abstain": 0,
+          "approval_pct": 98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松野文子",
+          "votes_for": 13630,
+          "votes_against": 338,
+          "votes_abstain": 0,
+          "approval_pct": 97.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 13651,
+          "votes_against": 317,
+          "votes_abstain": 0,
+          "approval_pct": 97.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TVMF",
@@ -96,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:45:41.067Z"
+  "updated_at": "2026-07-02T21:34:50.544Z"
 }

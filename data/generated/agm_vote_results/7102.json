@@ -3,6 +3,123 @@
   "company_name": "日本車輌製造",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9QD",
+      "submit_date_time": "2025-06-30 15:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9QD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 117138,
+          "votes_against": 2443,
+          "votes_abstain": 10,
+          "approval_pct": 96.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中守",
+          "votes_for": 100943,
+          "votes_against": 18638,
+          "votes_abstain": 10,
+          "approval_pct": 82.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "深谷道一",
+          "votes_for": 114401,
+          "votes_against": 5180,
+          "votes_abstain": 10,
+          "approval_pct": 93.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿彦雄一",
+          "votes_for": 117527,
+          "votes_against": 2054,
+          "votes_abstain": 10,
+          "approval_pct": 96.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "冨田庸公",
+          "votes_for": 117573,
+          "votes_against": 2008,
+          "votes_abstain": 10,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新実篤志",
+          "votes_for": 114332,
+          "votes_against": 5249,
+          "votes_abstain": 10,
+          "approval_pct": 93.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤倫子",
+          "votes_for": 115876,
+          "votes_against": 3705,
+          "votes_abstain": 10,
+          "approval_pct": 95.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西畑彰",
+          "votes_for": 114404,
+          "votes_against": 5177,
+          "votes_abstain": 10,
+          "approval_pct": 93.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平岩寿朗",
+          "votes_for": 116867,
+          "votes_against": 2714,
+          "votes_abstain": 10,
+          "approval_pct": 95.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY9Q",
@@ -132,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:26:24.361Z"
+  "updated_at": "2026-07-02T21:18:27.534Z"
 }

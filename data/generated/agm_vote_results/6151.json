@@ -3,6 +3,123 @@
   "company_name": "日東工器",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W7LV",
+      "submit_date_time": "2025-06-26 15:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7LV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 171394,
+          "votes_against": 236,
+          "votes_abstain": 0,
+          "approval_pct": 99.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小形明誠",
+          "votes_for": 135813,
+          "votes_against": 35816,
+          "votes_abstain": 0,
+          "approval_pct": 78.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高田揚子",
+          "votes_for": 167384,
+          "votes_against": 4246,
+          "votes_abstain": 0,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野口浩臣",
+          "votes_for": 171158,
+          "votes_against": 472,
+          "votes_abstain": 0,
+          "approval_pct": 99.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川康生",
+          "votes_for": 157374,
+          "votes_against": 14256,
+          "votes_abstain": 0,
+          "approval_pct": 91.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小見山満",
+          "votes_for": 168369,
+          "votes_against": 3261,
+          "votes_abstain": 0,
+          "approval_pct": 97.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山東理二",
+          "votes_for": 171023,
+          "votes_against": 607,
+          "votes_abstain": 0,
+          "approval_pct": 99.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田秀雄",
+          "votes_for": 171290,
+          "votes_against": 340,
+          "votes_abstain": 0,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 127006,
+          "votes_against": 44624,
+          "votes_abstain": 0,
+          "approval_pct": 73.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-24",
       "meeting_year": 2024,
       "doc_id": "S100TTKD",
@@ -132,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:03:59.887Z"
+  "updated_at": "2026-07-02T21:46:47.323Z"
 }

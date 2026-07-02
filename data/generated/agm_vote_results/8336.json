@@ -3,6 +3,123 @@
   "company_name": "武蔵野銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W9QS",
+      "submit_date_time": "2025-06-30 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9QS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 267708,
+          "votes_against": 6512,
+          "votes_abstain": 53,
+          "approval_pct": 97.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長堀和正",
+          "votes_for": 197345,
+          "votes_against": 76916,
+          "votes_abstain": 53,
+          "approval_pct": 71.94,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白井利幸",
+          "votes_for": 253412,
+          "votes_against": 20850,
+          "votes_abstain": 53,
+          "approval_pct": 92.38,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大友謙",
+          "votes_for": 266292,
+          "votes_against": 7970,
+          "votes_abstain": 53,
+          "approval_pct": 97.08,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮﨑貴夫",
+          "votes_for": 272976,
+          "votes_against": 1286,
+          "votes_abstain": 53,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "滝沢潔",
+          "votes_for": 272971,
+          "votes_against": 1291,
+          "votes_abstain": 53,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "満岡隆一",
+          "votes_for": 266894,
+          "votes_against": 7368,
+          "votes_abstain": 53,
+          "approval_pct": 97.29,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "真田幸光",
+          "votes_for": 266449,
+          "votes_against": 7813,
+          "votes_abstain": 53,
+          "approval_pct": 97.13,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林彩子",
+          "votes_for": 266937,
+          "votes_against": 7325,
+          "votes_abstain": 53,
+          "approval_pct": 97.31,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TYK6",
@@ -72,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:13:13.849Z"
+  "updated_at": "2026-07-02T21:16:11.970Z"
 }

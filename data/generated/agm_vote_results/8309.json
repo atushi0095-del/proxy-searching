@@ -3,6 +3,39 @@
   "company_name": "三井住友トラストグループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W28G",
+      "submit_date_time": "2025-06-23 11:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W28G",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 5697736,
+          "votes_against": 4969,
+          "votes_abstain": 0,
+          "approval_pct": 99.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 5700126,
+          "votes_against": 2576,
+          "votes_abstain": 0,
+          "approval_pct": 99.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TPKO",
@@ -48,5 +81,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:19:55.303Z"
+  "updated_at": "2026-07-02T22:12:45.763Z"
 }

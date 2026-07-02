@@ -3,6 +3,159 @@
   "company_name": "パウダーテック",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2BY",
+      "submit_date_time": "2025-06-23 14:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2BY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 21619,
+          "votes_against": 12,
+          "votes_abstain": 0,
+          "approval_pct": 99.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 21612,
+          "votes_against": 19,
+          "votes_abstain": 0,
+          "approval_pct": 99.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "菊池節",
+          "votes_for": 21591,
+          "votes_against": 40,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "丸山憲行",
+          "votes_for": 21601,
+          "votes_against": 30,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "樋口真道",
+          "votes_for": 21604,
+          "votes_against": 27,
+          "votes_abstain": 0,
+          "approval_pct": 99.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "板越剛",
+          "votes_for": 21607,
+          "votes_against": 24,
+          "votes_abstain": 0,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森隆男",
+          "votes_for": 21606,
+          "votes_against": 25,
+          "votes_abstain": 0,
+          "approval_pct": 99.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小林弘道",
+          "votes_for": 21607,
+          "votes_against": 24,
+          "votes_abstain": 0,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "村尾治亮",
+          "votes_for": 21607,
+          "votes_against": 24,
+          "votes_abstain": 0,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡田和之",
+          "votes_for": 21605,
+          "votes_against": 26,
+          "votes_abstain": 0,
+          "approval_pct": 99.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 21605,
+          "votes_against": 26,
+          "votes_abstain": 0,
+          "approval_pct": 99.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 21607,
+          "votes_against": 24,
+          "votes_abstain": 0,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TR83",
@@ -96,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:11:29.359Z"
+  "updated_at": "2026-07-02T22:11:59.058Z"
 }

@@ -3,6 +3,111 @@
   "company_name": "三十三フィナンシャルグループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W6VP",
+      "submit_date_time": "2025-06-26 10:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W6VP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 194673,
+          "votes_against": 464,
+          "votes_abstain": 505,
+          "approval_pct": 97.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺三憲",
+          "votes_for": 181659,
+          "votes_against": 13924,
+          "votes_abstain": 505,
+          "approval_pct": 91.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "道廣剛太郎",
+          "votes_for": 170024,
+          "votes_against": 25559,
+          "votes_abstain": 505,
+          "approval_pct": 85.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山川憲一",
+          "votes_for": 175283,
+          "votes_against": 20300,
+          "votes_abstain": 505,
+          "approval_pct": 87.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀内浩樹",
+          "votes_for": 191975,
+          "votes_against": 3608,
+          "votes_abstain": 505,
+          "approval_pct": 96.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川瀬和也",
+          "votes_for": 191966,
+          "votes_against": 3617,
+          "votes_abstain": 505,
+          "approval_pct": 96.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本勲",
+          "votes_for": 194738,
+          "votes_against": 845,
+          "votes_abstain": 505,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀部勝寛",
+          "votes_for": 194726,
+          "votes_against": 857,
+          "votes_abstain": 505,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TUFT",
@@ -168,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:51:08.438Z"
+  "updated_at": "2026-07-02T21:52:57.832Z"
 }

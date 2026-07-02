@@ -3,6 +3,135 @@
   "company_name": "任天堂株式会社",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9ZX",
+      "submit_date_time": "2025-07-01 12:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9ZX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 9348674,
+          "votes_against": 4593,
+          "votes_abstain": 11336,
+          "approval_pct": 99.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "古川俊太郎",
+          "votes_for": 8743745,
+          "votes_against": 571217,
+          "votes_abstain": 52093,
+          "approval_pct": 93.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮本茂",
+          "votes_for": 9082442,
+          "votes_against": 231206,
+          "votes_abstain": 53414,
+          "approval_pct": 96.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋伸也",
+          "votes_for": 9086983,
+          "votes_against": 226665,
+          "votes_abstain": 53414,
+          "approval_pct": 97.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柴田聡",
+          "votes_for": 9086934,
+          "votes_against": 226714,
+          "votes_abstain": 53414,
+          "approval_pct": 97.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塩田興",
+          "votes_for": 9086999,
+          "votes_against": 226649,
+          "votes_abstain": 53414,
+          "approval_pct": 97.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "別府裕介",
+          "votes_for": 9086849,
+          "votes_against": 226799,
+          "votes_abstain": 53414,
+          "approval_pct": 97.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ChrisMeledandri",
+          "votes_for": 7164790,
+          "votes_against": 2189091,
+          "votes_abstain": 13182,
+          "approval_pct": 76.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "MiyokoDemay",
+          "votes_for": 9248456,
+          "votes_against": 105551,
+          "votes_abstain": 13057,
+          "approval_pct": 98.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "八谷和彦",
+          "votes_for": 9264069,
+          "votes_against": 89814,
+          "votes_abstain": 13182,
+          "approval_pct": 98.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYGS",
@@ -192,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:20:13.846Z"
+  "updated_at": "2026-07-02T21:10:40.371Z"
 }

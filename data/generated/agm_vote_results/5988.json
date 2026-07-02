@@ -3,6 +3,123 @@
   "company_name": "パイオラックス",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W5BK",
+      "submit_date_time": "2025-06-25 11:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5BK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 238615,
+          "votes_against": 339,
+          "votes_abstain": 0,
+          "approval_pct": 99.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 223767,
+          "votes_against": 15187,
+          "votes_abstain": 0,
+          "approval_pct": 93.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "島津幸彦",
+          "votes_for": 167494,
+          "votes_against": 71458,
+          "votes_abstain": 0,
+          "approval_pct": 70.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田聡",
+          "votes_for": 229267,
+          "votes_against": 9685,
+          "votes_abstain": 0,
+          "approval_pct": 95.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "梶雅昭",
+          "votes_for": 218693,
+          "votes_against": 20261,
+          "votes_abstain": 0,
+          "approval_pct": 91.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "増田茂",
+          "votes_for": 217500,
+          "votes_against": 21454,
+          "votes_abstain": 0,
+          "approval_pct": 91.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "落合宏行",
+          "votes_for": 222701,
+          "votes_against": 16253,
+          "votes_abstain": 0,
+          "approval_pct": 93.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赤羽真紀子",
+          "votes_for": 222736,
+          "votes_against": 16218,
+          "votes_abstain": 0,
+          "approval_pct": 93.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤佳奈子",
+          "votes_for": 238517,
+          "votes_against": 437,
+          "votes_abstain": 0,
+          "approval_pct": 99.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTPR",
@@ -144,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:03:01.510Z"
+  "updated_at": "2026-07-02T22:02:05.901Z"
 }

@@ -3,6 +3,147 @@
   "company_name": "ＪＣＵ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W7GI",
+      "submit_date_time": "2025-06-27 09:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7GI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村昌志",
+          "votes_for": 198681,
+          "votes_against": 10916,
+          "votes_abstain": 0,
+          "approval_pct": 94.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大森晃久",
+          "votes_for": 201412,
+          "votes_against": 8185,
+          "votes_abstain": 0,
+          "approval_pct": 96.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新隆徳",
+          "votes_for": 208706,
+          "votes_against": 891,
+          "votes_abstain": 0,
+          "approval_pct": 99.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池側浩文",
+          "votes_for": 207410,
+          "votes_against": 2187,
+          "votes_abstain": 0,
+          "approval_pct": 98.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上洋二",
+          "votes_for": 207423,
+          "votes_against": 2174,
+          "votes_abstain": 0,
+          "approval_pct": 98.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荒明文彦",
+          "votes_for": 208726,
+          "votes_against": 871,
+          "votes_abstain": 0,
+          "approval_pct": 99.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本眞弓",
+          "votes_for": 209026,
+          "votes_against": 571,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "板垣昌幸",
+          "votes_for": 209039,
+          "votes_against": 558,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "二瓶晴郷",
+          "votes_for": 160455,
+          "votes_against": 49139,
+          "votes_abstain": 0,
+          "approval_pct": 76.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河藤小百合",
+          "votes_for": 209134,
+          "votes_against": 463,
+          "votes_abstain": 0,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木原大輔",
+          "votes_for": 209375,
+          "votes_against": 222,
+          "votes_abstain": 0,
+          "approval_pct": 99.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TVW6",
@@ -144,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:52:44.614Z"
+  "updated_at": "2026-07-02T21:44:00.073Z"
 }

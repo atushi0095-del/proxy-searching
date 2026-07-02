@@ -3,6 +3,135 @@
   "company_name": "パーソルホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W8B9",
+      "submit_date_time": "2025-06-27 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8B9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 19005041,
+          "votes_against": 4728,
+          "votes_abstain": 0,
+          "approval_pct": 99.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 18802701,
+          "votes_against": 207068,
+          "votes_abstain": 0,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水田正道",
+          "votes_for": 18565514,
+          "votes_against": 444252,
+          "votes_abstain": 0,
+          "approval_pct": 97.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和田孝雄",
+          "votes_for": 18556422,
+          "votes_against": 437256,
+          "votes_abstain": 16088,
+          "approval_pct": 97.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山内雅喜",
+          "votes_for": 18591259,
+          "votes_against": 418508,
+          "votes_abstain": 0,
+          "approval_pct": 97.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉澤和弘",
+          "votes_for": 18585927,
+          "votes_against": 423840,
+          "votes_abstain": 0,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "DebraA.Hazelton",
+          "votes_for": 18897690,
+          "votes_against": 95989,
+          "votes_abstain": 16088,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村林聡",
+          "votes_for": 17738587,
+          "votes_against": 1271178,
+          "votes_abstain": 0,
+          "approval_pct": 93.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅谷とも子",
+          "votes_for": 18986900,
+          "votes_against": 22847,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉澤和弘",
+          "votes_for": 18885215,
+          "votes_against": 124554,
+          "votes_abstain": 0,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-18",
       "meeting_year": 2024,
       "doc_id": "S100TPLL",
@@ -120,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:18:46.313Z"
+  "updated_at": "2026-07-02T21:33:19.571Z"
 }

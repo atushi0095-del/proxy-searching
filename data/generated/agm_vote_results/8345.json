@@ -3,6 +3,123 @@
   "company_name": "岩手銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W99B",
+      "submit_date_time": "2025-07-01 14:26",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W99B",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 135907,
+          "votes_against": 717,
+          "votes_abstain": 32,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩山徹",
+          "votes_for": 116381,
+          "votes_against": 20254,
+          "votes_abstain": 32,
+          "approval_pct": 85.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石川健正",
+          "votes_for": 125497,
+          "votes_against": 11139,
+          "votes_abstain": 32,
+          "approval_pct": 91.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岸真英",
+          "votes_for": 129132,
+          "votes_against": 7504,
+          "votes_abstain": 32,
+          "approval_pct": 94.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊地文彦",
+          "votes_for": 129141,
+          "votes_against": 7495,
+          "votes_abstain": 32,
+          "approval_pct": 94.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅原和宏",
+          "votes_for": 135542,
+          "votes_against": 1094,
+          "votes_abstain": 32,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮野谷篤",
+          "votes_for": 130054,
+          "votes_against": 6582,
+          "votes_abstain": 32,
+          "approval_pct": 95.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋豊",
+          "votes_for": 131052,
+          "votes_against": 5584,
+          "votes_abstain": 32,
+          "approval_pct": 95.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部俊徳",
+          "votes_for": 135518,
+          "votes_against": 1118,
+          "votes_abstain": 32,
+          "approval_pct": 99.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TZA2",
@@ -192,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:11:23.549Z"
+  "updated_at": "2026-07-02T21:08:43.493Z"
 }

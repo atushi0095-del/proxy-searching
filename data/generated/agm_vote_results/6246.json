@@ -3,6 +3,147 @@
   "company_name": "テクノスマート",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W66H",
+      "submit_date_time": "2025-06-25 16:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W66H",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 94911,
+          "votes_against": 185,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯田陽弘",
+          "votes_for": 88545,
+          "votes_against": 6552,
+          "votes_abstain": 0,
+          "approval_pct": 93.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西宮良材",
+          "votes_for": 89505,
+          "votes_against": 5592,
+          "votes_abstain": 0,
+          "approval_pct": 94.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下村壽一",
+          "votes_for": 89522,
+          "votes_against": 5575,
+          "votes_abstain": 0,
+          "approval_pct": 94.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋要",
+          "votes_for": 89436,
+          "votes_against": 5661,
+          "votes_abstain": 0,
+          "approval_pct": 94.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三沢浩司",
+          "votes_for": 89482,
+          "votes_against": 5615,
+          "votes_abstain": 0,
+          "approval_pct": 94.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青木透",
+          "votes_for": 89498,
+          "votes_against": 5599,
+          "votes_abstain": 0,
+          "approval_pct": 94.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡健治",
+          "votes_for": 89500,
+          "votes_against": 5597,
+          "votes_abstain": 0,
+          "approval_pct": 94.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平松亜矢子",
+          "votes_for": 89472,
+          "votes_against": 5625,
+          "votes_abstain": 0,
+          "approval_pct": 94.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "仲下正一",
+          "votes_for": 88577,
+          "votes_against": 6519,
+          "votes_abstain": 0,
+          "approval_pct": 93.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 61517,
+          "votes_against": 33580,
+          "votes_abstain": 0,
+          "approval_pct": 64.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TSFR",
@@ -108,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:06:58.843Z"
+  "updated_at": "2026-07-02T21:56:03.378Z"
 }

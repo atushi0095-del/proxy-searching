@@ -3,6 +3,135 @@
   "company_name": "ディー・エル・イー",
   "meetings": [
     {
+      "meeting_date": "2025-06-23",
+      "meeting_year": 2025,
+      "doc_id": "S100W2VF",
+      "submit_date_time": "2025-06-23 16:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2VF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 310284,
+          "votes_against": 7721,
+          "votes_abstain": null,
+          "approval_pct": 97.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小野亮",
+          "votes_for": 312133,
+          "votes_against": 5872,
+          "votes_abstain": null,
+          "approval_pct": 98.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "椎木隆太",
+          "votes_for": 312107,
+          "votes_against": 5898,
+          "votes_abstain": null,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "稲岡啓一",
+          "votes_for": 312954,
+          "votes_against": 5051,
+          "votes_abstain": null,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川端良和",
+          "votes_for": 312948,
+          "votes_against": 5057,
+          "votes_abstain": null,
+          "approval_pct": 98.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "北川智哉",
+          "votes_for": 311799,
+          "votes_against": 6206,
+          "votes_abstain": null,
+          "approval_pct": 98.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "折茂賢成",
+          "votes_for": 311430,
+          "votes_against": 6575,
+          "votes_abstain": null,
+          "approval_pct": 97.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "馬場貞幸",
+          "votes_for": 311946,
+          "votes_against": 6059,
+          "votes_abstain": null,
+          "approval_pct": 98.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山岸洋一",
+          "votes_for": 312059,
+          "votes_against": 5946,
+          "votes_abstain": null,
+          "approval_pct": 98.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井上和久",
+          "votes_for": 310650,
+          "votes_against": 7355,
+          "votes_abstain": null,
+          "approval_pct": 97.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-24",
       "meeting_year": 2024,
       "doc_id": "S100TLMV",
@@ -84,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:08:10.462Z"
+  "updated_at": "2026-07-02T22:09:22.193Z"
 }

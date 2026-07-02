@@ -3,6 +3,207 @@
   "company_name": "マキタ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W66B",
+      "submit_date_time": "2025-06-25 17:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W66B",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2312451,
+          "votes_against": 19703,
+          "votes_abstain": 53,
+          "approval_pct": 99.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "後藤宗利",
+          "votes_for": 2100360,
+          "votes_against": 225934,
+          "votes_abstain": 5901,
+          "approval_pct": 90.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "金子哲久",
+          "votes_for": 2203149,
+          "votes_against": 129002,
+          "votes_abstain": 53,
+          "approval_pct": 94.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "土屋隆",
+          "votes_for": 2208269,
+          "votes_against": 123884,
+          "votes_abstain": 53,
+          "approval_pct": 94.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉田雅樹",
+          "votes_for": 2208321,
+          "votes_against": 123832,
+          "votes_abstain": 53,
+          "approval_pct": 94.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "表孝至",
+          "votes_for": 2208297,
+          "votes_against": 123856,
+          "votes_abstain": 53,
+          "approval_pct": 94.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大津行弘",
+          "votes_for": 2208093,
+          "votes_against": 124060,
+          "votes_abstain": 53,
+          "approval_pct": 94.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "犬塚善久",
+          "votes_for": 2208322,
+          "votes_against": 123831,
+          "votes_abstain": 53,
+          "approval_pct": 94.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川瀬英行",
+          "votes_for": 2208290,
+          "votes_against": 123863,
+          "votes_abstain": 53,
+          "approval_pct": 94.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岩瀬隆広",
+          "votes_for": 2301127,
+          "votes_against": 31029,
+          "votes_abstain": 53,
+          "approval_pct": 98.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安藤隆司",
+          "votes_for": 2173257,
+          "votes_against": 158890,
+          "votes_abstain": 53,
+          "approval_pct": 93.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "都築浩二",
+          "votes_for": 2200150,
+          "votes_against": 131999,
+          "votes_abstain": 53,
+          "approval_pct": 94.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "西川浩司",
+          "votes_for": 2305768,
+          "votes_against": 26388,
+          "votes_abstain": 53,
+          "approval_pct": 98.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "氏原亜由美",
+          "votes_for": 2305819,
+          "votes_against": 26337,
+          "votes_abstain": 53,
+          "approval_pct": 98.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "福本美苗",
+          "votes_for": 2312096,
+          "votes_against": 20060,
+          "votes_abstain": 53,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案役員賞与の支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 2260256,
+          "votes_against": 27807,
+          "votes_abstain": 44154,
+          "approval_pct": 96.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TW0U",
@@ -156,5 +357,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:50:08.904Z"
+  "updated_at": "2026-07-02T21:55:38.826Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "東和薬品",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W8GR",
+      "submit_date_time": "2025-06-27 15:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8GR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 423615,
+          "votes_against": 10275,
+          "votes_abstain": null,
+          "approval_pct": 96.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "1吉田逸郎",
+          "votes_for": 404272,
+          "votes_against": 29613,
+          "votes_abstain": null,
+          "approval_pct": 92.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "2内川治",
+          "votes_for": 426527,
+          "votes_against": 7361,
+          "votes_abstain": null,
+          "approval_pct": 97.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "3國分俊和",
+          "votes_for": 426567,
+          "votes_against": 7321,
+          "votes_abstain": null,
+          "approval_pct": 97.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "4竹安正顕",
+          "votes_for": 426541,
+          "votes_against": 7347,
+          "votes_abstain": null,
+          "approval_pct": 97.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "5栄木憲和",
+          "votes_for": 409531,
+          "votes_against": 24356,
+          "votes_abstain": null,
+          "approval_pct": 93.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "1後藤研了",
+          "votes_for": 429014,
+          "votes_against": 4875,
+          "votes_abstain": null,
+          "approval_pct": 98.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TW61",
@@ -120,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:50:42.801Z"
+  "updated_at": "2026-07-02T21:34:53.045Z"
 }

@@ -3,6 +3,147 @@
   "company_name": "三浦工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9TI",
+      "submit_date_time": "2025-07-01 09:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9TI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 998731,
+          "votes_against": 324,
+          "votes_abstain": 281,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 998696,
+          "votes_against": 359,
+          "votes_abstain": 281,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮内大介",
+          "votes_for": 987312,
+          "votes_against": 11742,
+          "votes_abstain": 281,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "米田剛",
+          "votes_for": 984354,
+          "votes_against": 12763,
+          "votes_abstain": 2217,
+          "approval_pct": 98.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣井政幸",
+          "votes_for": 987492,
+          "votes_against": 11562,
+          "votes_abstain": 281,
+          "approval_pct": 98.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河本憲一",
+          "votes_for": 987498,
+          "votes_against": 11556,
+          "votes_abstain": 281,
+          "approval_pct": 98.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武藤直樹",
+          "votes_for": 993740,
+          "votes_against": 5314,
+          "votes_abstain": 281,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山内修",
+          "votes_for": 976955,
+          "votes_against": 22097,
+          "votes_abstain": 281,
+          "approval_pct": 97.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安藤吉昭",
+          "votes_for": 992628,
+          "votes_against": 6426,
+          "votes_abstain": 281,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池達子",
+          "votes_for": 992767,
+          "votes_against": 6287,
+          "votes_abstain": 281,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "正力裕子",
+          "votes_for": 993730,
+          "votes_against": 5324,
+          "votes_abstain": 281,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYY3",
@@ -84,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:15:40.221Z"
+  "updated_at": "2026-07-02T21:12:42.981Z"
 }

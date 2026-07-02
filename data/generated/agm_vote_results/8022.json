@@ -3,6 +3,87 @@
   "company_name": "美津濃",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W0GI",
+      "submit_date_time": "2025-06-23 11:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0GI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 202158,
+          "votes_against": 9313,
+          "votes_abstain": 2,
+          "approval_pct": 95.595,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案水野明人",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 211094,
+          "votes_against": 1765,
+          "votes_abstain": 2,
+          "approval_pct": 99.169,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案水野明人",
+          "proposal_category": "その他",
+          "candidate_name": "七條毅",
+          "votes_for": 211684,
+          "votes_against": 1175,
+          "votes_abstain": 2,
+          "approval_pct": 99.447,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案水野明人",
+          "proposal_category": "その他",
+          "candidate_name": "佐野治",
+          "votes_for": 211687,
+          "votes_against": 1172,
+          "votes_abstain": 2,
+          "approval_pct": 99.448,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案水野明人",
+          "proposal_category": "その他",
+          "candidate_name": "中田匠",
+          "votes_for": 211697,
+          "votes_against": 1162,
+          "votes_abstain": 2,
+          "approval_pct": 99.453,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案水野明人",
+          "proposal_category": "その他",
+          "candidate_name": "新居勇子",
+          "votes_for": 212153,
+          "votes_against": 706,
+          "votes_abstain": 2,
+          "approval_pct": 99.667,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TPQN",
@@ -132,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:12:03.592Z"
+  "updated_at": "2026-07-02T22:12:53.258Z"
 }

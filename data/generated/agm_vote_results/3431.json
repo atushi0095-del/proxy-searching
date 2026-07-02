@@ -3,6 +3,111 @@
   "company_name": "宮地エンジニアリンググループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W990",
+      "submit_date_time": "2025-06-30 11:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W990",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 173766,
+          "votes_against": 273,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池浦正裕",
+          "votes_for": 173179,
+          "votes_against": 868,
+          "votes_abstain": 0,
+          "approval_pct": 99.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥村恭司",
+          "votes_for": 173397,
+          "votes_against": 650,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平島崇嗣",
+          "votes_for": 173374,
+          "votes_against": 673,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平瀬真由美",
+          "votes_for": 172342,
+          "votes_against": 1705,
+          "votes_abstain": 0,
+          "approval_pct": 98.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "太田英美",
+          "votes_for": 169255,
+          "votes_against": 4789,
+          "votes_abstain": 0,
+          "approval_pct": 97.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "樋口眞人",
+          "votes_for": 173123,
+          "votes_against": 921,
+          "votes_abstain": 0,
+          "approval_pct": 99.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "植村淳子",
+          "votes_for": 173363,
+          "votes_against": 681,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY4C",
@@ -72,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:28:30.008Z"
+  "updated_at": "2026-07-02T21:25:02.598Z"
 }

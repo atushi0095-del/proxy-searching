@@ -3,6 +3,183 @@
   "company_name": "ＮＴＮ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W62X",
+      "submit_date_time": "2025-06-27 10:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W62X",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 3861782,
+          "votes_against": 134478,
+          "votes_abstain": 0,
+          "approval_pct": 96.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案利益準備金の額の減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3977720,
+          "votes_against": 19137,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者1鵜飼英一",
+          "votes_for": 2506156,
+          "votes_against": 1489494,
+          "votes_abstain": 0,
+          "approval_pct": 62.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者2山本正明",
+          "votes_for": 3548427,
+          "votes_against": 447223,
+          "votes_abstain": 0,
+          "approval_pct": 88.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者3木下俊平",
+          "votes_for": 3839745,
+          "votes_against": 155909,
+          "votes_abstain": 0,
+          "approval_pct": 95.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者4孝橋宏二",
+          "votes_for": 3840773,
+          "votes_against": 154881,
+          "votes_abstain": 0,
+          "approval_pct": 95.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者5江上正樹",
+          "votes_for": 3460522,
+          "votes_against": 535127,
+          "votes_abstain": 0,
+          "approval_pct": 86.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者6播磨悦",
+          "votes_for": 3818957,
+          "votes_against": 176692,
+          "votes_abstain": 0,
+          "approval_pct": 95.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者7川上良",
+          "votes_for": 3505825,
+          "votes_against": 489829,
+          "votes_abstain": 0,
+          "approval_pct": 87.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者8小松百合弥",
+          "votes_for": 3610620,
+          "votes_against": 385034,
+          "votes_abstain": 0,
+          "approval_pct": 90.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者9村越晃",
+          "votes_for": 3589584,
+          "votes_against": 406070,
+          "votes_abstain": 0,
+          "approval_pct": 89.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者10木谷泰夫",
+          "votes_for": 3363940,
+          "votes_against": 631711,
+          "votes_abstain": 0,
+          "approval_pct": 83.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者11塔下辰彦",
+          "votes_for": 3966588,
+          "votes_against": 29066,
+          "votes_abstain": 0,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "候補者12和田浩美",
+          "votes_for": 3971076,
+          "votes_against": 24578,
+          "votes_abstain": 0,
+          "approval_pct": 99.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TUGH",
@@ -168,5 +345,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:48:30.907Z"
+  "updated_at": "2026-07-02T21:42:24.997Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "菱友ｼｽﾃﾑｽﾞ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W85U",
+      "submit_date_time": "2025-06-27 10:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W85U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安井譲",
+          "votes_for": 52124,
+          "votes_against": 986,
+          "votes_abstain": 0,
+          "approval_pct": 98.14,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "笠間晴人",
+          "votes_for": 53018,
+          "votes_against": 92,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前田真由美",
+          "votes_for": 52358,
+          "votes_against": 752,
+          "votes_abstain": 0,
+          "approval_pct": 98.58,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宇田茂雄",
+          "votes_for": 53015,
+          "votes_against": 95,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石田真悟",
+          "votes_for": 52544,
+          "votes_against": 566,
+          "votes_abstain": 0,
+          "approval_pct": 98.93,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井昌悟",
+          "votes_for": 52527,
+          "votes_against": 583,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡田正記",
+          "votes_for": 52851,
+          "votes_against": 259,
+          "votes_abstain": 0,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TWPS",
@@ -108,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:41:29.533Z"
+  "updated_at": "2026-07-02T21:42:05.317Z"
 }

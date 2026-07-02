@@ -3,6 +3,123 @@
   "company_name": "サイバートラスト",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9D2",
+      "submit_date_time": "2025-06-30 15:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9D2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 68829,
+          "votes_against": 62,
+          "votes_abstain": 0,
+          "approval_pct": 99.91,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "眞柄泰利",
+          "votes_for": 68254,
+          "votes_against": 637,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北村裕司",
+          "votes_for": 68265,
+          "votes_against": 626,
+          "votes_abstain": 0,
+          "approval_pct": 99.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水哲也",
+          "votes_for": 68566,
+          "votes_against": 325,
+          "votes_abstain": 0,
+          "approval_pct": 99.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "香山春明",
+          "votes_for": 68541,
+          "votes_against": 350,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "広瀬容子",
+          "votes_for": 68557,
+          "votes_against": 334,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田島弓子",
+          "votes_for": 68544,
+          "votes_against": 347,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石田佳久",
+          "votes_for": 68549,
+          "votes_against": 342,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 67076,
+          "votes_against": 1815,
+          "votes_abstain": 0,
+          "approval_pct": 97.37,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-14",
       "meeting_year": 2024,
       "doc_id": "S100TMXU",
@@ -144,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:26:50.676Z"
+  "updated_at": "2026-07-02T21:16:46.375Z"
 }

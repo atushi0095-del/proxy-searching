@@ -3,6 +3,123 @@
   "company_name": "ＴＯＷＡ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W8RH",
+      "submit_date_time": "2025-06-30 10:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8RH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡田博和",
+          "votes_for": 381337,
+          "votes_against": 42001,
+          "votes_abstain": 91,
+          "approval_pct": 90.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三浦宗男",
+          "votes_for": 396279,
+          "votes_against": 27059,
+          "votes_abstain": 91,
+          "approval_pct": 93.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "石田耕一",
+          "votes_for": 413997,
+          "votes_against": 9341,
+          "votes_abstain": 91,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "柴原信隆",
+          "votes_for": 413991,
+          "votes_against": 9347,
+          "votes_abstain": 91,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "西村一洋",
+          "votes_for": 414043,
+          "votes_against": 9295,
+          "votes_abstain": 91,
+          "approval_pct": 97.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中西和彦",
+          "votes_for": 414504,
+          "votes_against": 8834,
+          "votes_abstain": 91,
+          "approval_pct": 97.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "矢野輝弘",
+          "votes_for": 413632,
+          "votes_against": 9706,
+          "votes_abstain": 91,
+          "approval_pct": 97.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）の報酬額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 412964,
+          "votes_against": 10417,
+          "votes_abstain": 91,
+          "approval_pct": 97.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役の報酬額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 413162,
+          "votes_against": 10222,
+          "votes_abstain": 91,
+          "approval_pct": 97.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TW28",
@@ -120,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:37:27.387Z"
+  "updated_at": "2026-07-02T21:26:05.807Z"
 }

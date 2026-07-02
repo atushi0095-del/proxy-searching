@@ -3,6 +3,123 @@
   "company_name": "椿本興業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WASO",
+      "submit_date_time": "2025-07-04 09:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WASO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 134359,
+          "votes_against": 149,
+          "votes_abstain": 8,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "椿本哲也",
+          "votes_for": 123013,
+          "votes_against": 11495,
+          "votes_abstain": 8,
+          "approval_pct": 91.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "香田昌司",
+          "votes_for": 123516,
+          "votes_against": 10992,
+          "votes_abstain": 8,
+          "approval_pct": 91.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "春日部博",
+          "votes_for": 134161,
+          "votes_against": 347,
+          "votes_abstain": 8,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤重卓一",
+          "votes_for": 134206,
+          "votes_against": 302,
+          "votes_abstain": 8,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "二宮秀樹",
+          "votes_for": 134215,
+          "votes_against": 293,
+          "votes_abstain": 8,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安原由美子",
+          "votes_for": 134265,
+          "votes_against": 243,
+          "votes_abstain": 8,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本直道",
+          "votes_for": 134274,
+          "votes_against": 234,
+          "votes_abstain": 8,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "植野禎仁",
+          "votes_for": 134294,
+          "votes_against": 215,
+          "votes_abstain": 7,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZDU",
@@ -168,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:09:18.395Z"
+  "updated_at": "2026-07-02T21:01:07.540Z"
 }

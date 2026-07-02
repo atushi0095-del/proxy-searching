@@ -3,6 +3,147 @@
   "company_name": "住友不動産",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9K0",
+      "submit_date_time": "2025-06-30 13:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9K0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 4294088,
+          "votes_against": 21066,
+          "votes_abstain": 14,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 4314766,
+          "votes_against": 388,
+          "votes_abstain": 14,
+          "approval_pct": 99.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小野寺研一",
+          "votes_for": 3310772,
+          "votes_against": 1004372,
+          "votes_abstain": 14,
+          "approval_pct": 76.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "仁島浩順",
+          "votes_for": 3151057,
+          "votes_against": 1164080,
+          "votes_abstain": 14,
+          "approval_pct": 73.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小林正人",
+          "votes_for": 3912360,
+          "votes_against": 402787,
+          "votes_abstain": 14,
+          "approval_pct": 90.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "尾台賀幸",
+          "votes_for": 3912391,
+          "votes_against": 402756,
+          "votes_abstain": 14,
+          "approval_pct": 90.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "片山久壽",
+          "votes_for": 3914559,
+          "votes_against": 400588,
+          "votes_abstain": 14,
+          "approval_pct": 90.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "家守伸正",
+          "votes_for": 3904376,
+          "votes_against": 410766,
+          "votes_abstain": 14,
+          "approval_pct": 90.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "寺田千代乃",
+          "votes_for": 4103519,
+          "votes_against": 211632,
+          "votes_abstain": 14,
+          "approval_pct": 95.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田村計",
+          "votes_for": 3659281,
+          "votes_against": 655858,
+          "votes_abstain": 14,
+          "approval_pct": 84.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "中村節弥",
+          "votes_for": 4312985,
+          "votes_against": 2167,
+          "votes_abstain": 14,
+          "approval_pct": 99.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXXC",
@@ -48,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:32:25.920Z"
+  "updated_at": "2026-07-02T21:21:47.499Z"
 }

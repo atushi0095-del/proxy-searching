@@ -3,6 +3,63 @@
   "company_name": "エーアンドエーマテリアル",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA2E",
+      "submit_date_time": "2025-07-01 10:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA2E",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 52613,
+          "votes_against": 2345,
+          "votes_abstain": 12,
+          "approval_pct": 95.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件巻野徹大橋徹也大島武人髙原一登田倉榮美菅谷朋子",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 5.150652427524505e+29,
+          "votes_against": 3.452253125082519e+23,
+          "votes_abstain": 121212121212,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件松井雄一郎中谷内茂樹",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 5245350217,
+          "votes_against": 25054741,
+          "votes_abstain": 1212,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠監査役1名選任の件桶師修",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 50219,
+          "votes_against": 4739,
+          "votes_abstain": 12,
+          "approval_pct": 91.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY75",
@@ -72,5 +129,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:22:01.571Z"
+  "updated_at": "2026-07-02T21:12:18.039Z"
 }

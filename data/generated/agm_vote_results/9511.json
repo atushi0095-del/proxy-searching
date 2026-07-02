@@ -3,6 +3,159 @@
   "company_name": "沖縄電力",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAME",
+      "submit_date_time": "2025-07-02 13:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAME",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 388448,
+          "votes_against": 5069,
+          "votes_abstain": 0,
+          "approval_pct": 96.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本永浩之",
+          "votes_for": 292067,
+          "votes_against": 101466,
+          "votes_abstain": 0,
+          "approval_pct": 72.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "成底勇人",
+          "votes_for": 344224,
+          "votes_against": 49311,
+          "votes_abstain": 0,
+          "approval_pct": 85.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横田哲",
+          "votes_for": 345057,
+          "votes_against": 48478,
+          "votes_abstain": 0,
+          "approval_pct": 86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上間淳",
+          "votes_for": 362936,
+          "votes_against": 30599,
+          "votes_abstain": 0,
+          "approval_pct": 90.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "仲村直将",
+          "votes_for": 362676,
+          "votes_against": 30859,
+          "votes_abstain": 0,
+          "approval_pct": 90.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "仲程拓",
+          "votes_for": 363098,
+          "votes_against": 30437,
+          "votes_abstain": 0,
+          "approval_pct": 90.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "糸数昌英",
+          "votes_for": 387047,
+          "votes_against": 6488,
+          "votes_abstain": 0,
+          "approval_pct": 96.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "与儀達樹",
+          "votes_for": 370073,
+          "votes_against": 23462,
+          "votes_abstain": 0,
+          "approval_pct": 92.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野崎聖子",
+          "votes_for": 370124,
+          "votes_against": 23411,
+          "votes_abstain": 0,
+          "approval_pct": 92.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長峯豊之",
+          "votes_for": 387520,
+          "votes_against": 6015,
+          "votes_abstain": 0,
+          "approval_pct": 96.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "玉城絵美",
+          "votes_for": 387624,
+          "votes_against": 5911,
+          "votes_abstain": 0,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYQ0",
@@ -36,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:13:21.148Z"
+  "updated_at": "2026-07-02T21:04:35.084Z"
 }

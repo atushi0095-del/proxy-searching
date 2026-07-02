@@ -3,6 +3,123 @@
   "company_name": "横河ブリッジホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W9UF",
+      "submit_date_time": "2025-06-30 15:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9UF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 320428,
+          "votes_against": 299,
+          "votes_abstain": 13,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙田和彦",
+          "votes_for": 318586,
+          "votes_against": 2161,
+          "votes_abstain": 13,
+          "approval_pct": 99.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中村譲",
+          "votes_for": 319525,
+          "votes_against": 1222,
+          "votes_abstain": 13,
+          "approval_pct": 99.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮本英典",
+          "votes_for": 319525,
+          "votes_against": 1222,
+          "votes_abstain": 13,
+          "approval_pct": 99.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "湯川雅之",
+          "votes_for": 319538,
+          "votes_against": 1209,
+          "votes_abstain": 13,
+          "approval_pct": 99.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "黒本和憲",
+          "votes_for": 319587,
+          "votes_against": 1160,
+          "votes_abstain": 13,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "天野玲子",
+          "votes_for": 319275,
+          "votes_against": 1471,
+          "votes_abstain": 13,
+          "approval_pct": 99.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "神野秀磨",
+          "votes_for": 319647,
+          "votes_against": 1100,
+          "votes_abstain": 13,
+          "approval_pct": 99.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "梶山園子",
+          "votes_for": 320246,
+          "votes_against": 531,
+          "votes_abstain": 13,
+          "approval_pct": 99.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TXII",
@@ -216,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:38:22.631Z"
+  "updated_at": "2026-07-02T21:16:31.803Z"
 }

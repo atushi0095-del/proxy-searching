@@ -3,6 +3,75 @@
   "company_name": "モリ工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W82S",
+      "submit_date_time": "2025-06-27 09:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W82S",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 62681,
+          "votes_against": 43,
+          "votes_abstain": 0,
+          "approval_pct": 99.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森宏明",
+          "votes_for": 57893,
+          "votes_against": 4832,
+          "votes_abstain": 0,
+          "approval_pct": 92.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "浅野弘明",
+          "votes_for": 62643,
+          "votes_against": 82,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "元山耕一",
+          "votes_for": 62652,
+          "votes_against": 73,
+          "votes_abstain": 0,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "新田竜一",
+          "votes_for": 62639,
+          "votes_against": 86,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TWAC",
@@ -156,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:41:36.649Z"
+  "updated_at": "2026-07-02T21:44:23.416Z"
 }

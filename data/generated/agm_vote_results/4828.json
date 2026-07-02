@@ -3,6 +3,135 @@
   "company_name": "ビジネスエンジニアリング",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W8BJ",
+      "submit_date_time": "2025-06-27 15:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8BJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 104488,
+          "votes_against": 275,
+          "votes_abstain": 0,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "羽田雅一",
+          "votes_for": 100630,
+          "votes_against": 4133,
+          "votes_abstain": 0,
+          "approval_pct": 95.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "別納成明",
+          "votes_for": 101813,
+          "votes_against": 2950,
+          "votes_abstain": 0,
+          "approval_pct": 96.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中野敦士",
+          "votes_for": 103446,
+          "votes_against": 1317,
+          "votes_abstain": 0,
+          "approval_pct": 98.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐藤雄祐",
+          "votes_for": 103445,
+          "votes_against": 1318,
+          "votes_abstain": 0,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "入交俊行",
+          "votes_for": 103445,
+          "votes_against": 1318,
+          "votes_abstain": 0,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮澤由美子",
+          "votes_for": 103443,
+          "votes_against": 1320,
+          "votes_abstain": 0,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "清水弘",
+          "votes_for": 97030,
+          "votes_against": 7733,
+          "votes_abstain": 0,
+          "approval_pct": 92.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "北村正仁",
+          "votes_for": 103405,
+          "votes_against": 1358,
+          "votes_abstain": 0,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "北村正仁",
+          "votes_for": 103395,
+          "votes_against": 1368,
+          "votes_abstain": 0,
+          "approval_pct": 98.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TWH0",
@@ -168,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:37:36.987Z"
+  "updated_at": "2026-07-02T21:34:40.657Z"
 }

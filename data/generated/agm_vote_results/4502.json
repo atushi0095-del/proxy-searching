@@ -3,6 +3,51 @@
   "company_name": "武田薬品工業株式会社",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W9V8",
+      "submit_date_time": "2025-07-01 12:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9V8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 11330491,
+          "votes_against": 49100,
+          "votes_abstain": 286,
+          "approval_pct": 98.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案クリストフウェバー古田未来乃アンドリュープランプ飯島彰己イアンクラークスティーブンギリス東恵美子ジョンマラガノアミシェルオーシンガー津坂美樹",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 8.938796108316101e+77,
+          "votes_against": 2.4412725485161184e+63,
+          "votes_abstain": 3.4928634928628625e+29,
+          "approval_pct": 77.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7737292,
+          "votes_against": 3623372,
+          "votes_abstain": 19984,
+          "approval_pct": 67.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TXWJ",
@@ -60,5 +105,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:13:59.807Z"
+  "updated_at": "2026-07-02T21:10:37.883Z"
 }

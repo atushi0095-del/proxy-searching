@@ -3,6 +3,147 @@
   "company_name": "森永製菓",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAAC",
+      "submit_date_time": "2025-07-01 14:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAAC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 553507,
+          "votes_against": 808,
+          "votes_abstain": 0,
+          "approval_pct": 98.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "太田栄二郎",
+          "votes_for": 535630,
+          "votes_against": 17778,
+          "votes_abstain": 1015,
+          "approval_pct": 95.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森信也",
+          "votes_for": 533299,
+          "votes_against": 20109,
+          "votes_abstain": 1015,
+          "approval_pct": 95.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤井大右",
+          "votes_for": 543773,
+          "votes_against": 10651,
+          "votes_abstain": 0,
+          "approval_pct": 96.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松永秀樹",
+          "votes_for": 543836,
+          "votes_against": 10588,
+          "votes_abstain": 0,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙木哲也",
+          "votes_for": 543635,
+          "votes_against": 10789,
+          "votes_abstain": 0,
+          "approval_pct": 96.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高波健二",
+          "votes_for": 543793,
+          "votes_against": 10631,
+          "votes_abstain": 0,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "榊真二",
+          "votes_for": 550801,
+          "votes_against": 3623,
+          "votes_abstain": 0,
+          "approval_pct": 97.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤村環",
+          "votes_for": 551107,
+          "votes_against": 3317,
+          "votes_abstain": 0,
+          "approval_pct": 97.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下村陽一郎",
+          "votes_for": 552494,
+          "votes_against": 1930,
+          "votes_abstain": 0,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山岸裕美",
+          "votes_for": 552550,
+          "votes_against": 1874,
+          "votes_abstain": 0,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYXW",
@@ -144,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:15:55.607Z"
+  "updated_at": "2026-07-02T21:08:48.743Z"
 }

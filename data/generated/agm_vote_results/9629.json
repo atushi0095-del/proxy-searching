@@ -3,6 +3,63 @@
   "company_name": "ピー・シー・エー",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2IV",
+      "submit_date_time": "2025-06-23 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2IV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 170615,
+          "votes_against": 438,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 170774,
+          "votes_against": 279,
+          "votes_abstain": 0,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案佐藤文昭玉井史郎佐久間哲雄園田信彦隈元裕濱口聡子山田健雄吉田恵美",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.6574817013517016e+47,
+          "votes_against": 5.3059188908171617e+26,
+          "votes_abstain": 0,
+          "approval_pct": 96.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案中平栄富",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 170606,
+          "votes_against": 447,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TPPK",
@@ -60,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:17:40.289Z"
+  "updated_at": "2026-07-02T22:10:19.704Z"
 }

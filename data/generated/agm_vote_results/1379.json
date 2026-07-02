@@ -3,6 +3,135 @@
   "company_name": "ホクト株式会社",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2P7",
+      "submit_date_time": "2025-06-23 15:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2P7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 245104,
+          "votes_against": 851,
+          "votes_abstain": 0,
+          "approval_pct": 97.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "水野雅義",
+          "votes_for": 210803,
+          "votes_against": 35164,
+          "votes_abstain": 0,
+          "approval_pct": 83.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "稲冨聡",
+          "votes_for": 236009,
+          "votes_against": 9958,
+          "votes_abstain": 0,
+          "approval_pct": 93.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中田康平",
+          "votes_for": 235813,
+          "votes_against": 10154,
+          "votes_abstain": 0,
+          "approval_pct": 93.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤由幸",
+          "votes_for": 235899,
+          "votes_against": 10068,
+          "votes_abstain": 0,
+          "approval_pct": 93.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "原明",
+          "votes_for": 236197,
+          "votes_against": 9770,
+          "votes_abstain": 0,
+          "approval_pct": 93.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北村晴男",
+          "votes_for": 203820,
+          "votes_against": 42147,
+          "votes_abstain": 0,
+          "approval_pct": 80.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小竹貴子",
+          "votes_for": 203672,
+          "votes_against": 42295,
+          "votes_abstain": 0,
+          "approval_pct": 80.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "池田潤",
+          "votes_for": 236788,
+          "votes_against": 9179,
+          "votes_abstain": 0,
+          "approval_pct": 93.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "神田芳夫",
+          "votes_for": 236160,
+          "votes_against": 9809,
+          "votes_abstain": 0,
+          "approval_pct": 93.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQOI",
@@ -36,5 +165,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:15:07.558Z"
+  "updated_at": "2026-07-02T22:10:39.549Z"
 }

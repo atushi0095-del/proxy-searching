@@ -3,6 +3,123 @@
   "company_name": "東邦亜鉛",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WACU",
+      "submit_date_time": "2025-07-01 15:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WACU",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤正人",
+          "votes_for": 229505,
+          "votes_against": 4873,
+          "votes_abstain": 0,
+          "approval_pct": 97.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤義和",
+          "votes_for": 232736,
+          "votes_against": 1642,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鷲巣寛",
+          "votes_for": 232533,
+          "votes_against": 1845,
+          "votes_abstain": 0,
+          "approval_pct": 98.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "印東徹",
+          "votes_for": 224875,
+          "votes_against": 9503,
+          "votes_abstain": 0,
+          "approval_pct": 95.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中耕路",
+          "votes_for": 224807,
+          "votes_against": 9571,
+          "votes_abstain": 0,
+          "approval_pct": 95.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮本洋之",
+          "votes_for": 224817,
+          "votes_against": 9561,
+          "votes_abstain": 0,
+          "approval_pct": 95.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川有紀子",
+          "votes_for": 230768,
+          "votes_against": 3650,
+          "votes_abstain": 0,
+          "approval_pct": 98.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 232877,
+          "votes_against": 1541,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 232826,
+          "votes_against": 1591,
+          "votes_abstain": 0,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY7P",
@@ -96,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:27:07.551Z"
+  "updated_at": "2026-07-02T21:07:21.161Z"
 }

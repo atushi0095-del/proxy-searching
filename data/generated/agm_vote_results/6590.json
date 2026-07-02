@@ -3,6 +3,111 @@
   "company_name": "芝浦メカトロニクス",
   "meetings": [
     {
+      "meeting_date": "2025-06-18",
+      "meeting_year": 2025,
+      "doc_id": "S100W025",
+      "submit_date_time": "2025-06-23 14:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W025",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "①今村圭吾氏",
+          "votes_for": 72297,
+          "votes_against": 656,
+          "votes_abstain": 15,
+          "approval_pct": 98.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "②黒川禎明氏",
+          "votes_for": 72306,
+          "votes_against": 647,
+          "votes_abstain": 15,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "③堀内和敏氏",
+          "votes_for": 72304,
+          "votes_against": 649,
+          "votes_abstain": 15,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "④井奈波朋子氏",
+          "votes_for": 72372,
+          "votes_against": 581,
+          "votes_abstain": 15,
+          "approval_pct": 98.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "⑤小野満氏",
+          "votes_for": 72441,
+          "votes_against": 512,
+          "votes_abstain": 15,
+          "approval_pct": 98.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "⑥澤由紀子氏",
+          "votes_for": 72654,
+          "votes_against": 299,
+          "votes_abstain": 15,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "桑田啓二氏",
+          "votes_for": 72689,
+          "votes_against": 275,
+          "votes_abstain": 15,
+          "approval_pct": 99.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 70221,
+          "votes_against": 806,
+          "votes_abstain": 2015,
+          "approval_pct": 95.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TP8G",
@@ -96,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:14:32.125Z"
+  "updated_at": "2026-07-02T22:11:44.291Z"
 }

@@ -3,6 +3,75 @@
   "company_name": "あんしん保証",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W3S4",
+      "submit_date_time": "2025-06-24 12:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W3S4",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 127156,
+          "votes_against": 4576,
+          "votes_abstain": 6,
+          "approval_pct": 96.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 128366,
+          "votes_against": 3360,
+          "votes_abstain": 12,
+          "approval_pct": 97.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊藤義英関原昌浩中嶋明堂本顕孝大川馨一郎",
+          "votes_for": 1.2294412168412203e+29,
+          "votes_against": 878610046969497000000,
+          "votes_abstain": 88888,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "村上寛",
+          "votes_for": 123095,
+          "votes_against": 8641,
+          "votes_abstain": 2,
+          "approval_pct": 93.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "赤羽根茂",
+          "votes_for": 122984,
+          "votes_against": 8754,
+          "votes_abstain": 0,
+          "approval_pct": 93.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TVVF",
@@ -120,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:52:47.024Z"
+  "updated_at": "2026-07-02T22:07:12.414Z"
 }

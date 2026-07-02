@@ -3,6 +3,87 @@
   "company_name": "オリコン",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W8TJ",
+      "submit_date_time": "2025-06-27 15:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8TJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池恒",
+          "votes_for": 97167,
+          "votes_against": 4985,
+          "votes_abstain": null,
+          "approval_pct": 94.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤直也",
+          "votes_for": 101636,
+          "votes_against": 516,
+          "votes_abstain": null,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田健明",
+          "votes_for": 101600,
+          "votes_against": 552,
+          "votes_abstain": null,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤原誠司",
+          "votes_for": 101578,
+          "votes_against": 574,
+          "votes_abstain": null,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森川幸",
+          "votes_for": 101576,
+          "votes_against": 576,
+          "votes_abstain": null,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林知之",
+          "votes_for": 101740,
+          "votes_against": 432,
+          "votes_abstain": null,
+          "approval_pct": 99.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TWKC",
@@ -84,5 +165,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:47:09.296Z"
+  "updated_at": "2026-07-02T21:33:02.741Z"
 }

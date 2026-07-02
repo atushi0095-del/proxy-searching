@@ -3,6 +3,39 @@
   "company_name": "ＵＴグループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-28",
+      "meeting_year": 2025,
+      "doc_id": "S100W9G9",
+      "submit_date_time": "2025-06-30 12:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9G9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "若山陽一",
+          "votes_for": 294048,
+          "votes_against": 10426,
+          "votes_abstain": 646,
+          "approval_pct": 96.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "外村学",
+          "votes_for": 293984,
+          "votes_against": 10490,
+          "votes_abstain": 646,
+          "approval_pct": 96.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-22",
       "meeting_year": 2024,
       "doc_id": "S100TQRP",
@@ -84,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:10:29.126Z"
+  "updated_at": "2026-07-02T21:23:36.495Z"
 }

@@ -3,6 +3,51 @@
   "company_name": "ﾐﾝｶﾌﾞ･ｼﾞ･ｲﾝﾌｫﾉｲﾄﾞ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W8BD",
+      "submit_date_time": "2025-06-27 11:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8BD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）2名選任の件伴将行矢口順子",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 8675486772,
+          "votes_against": 46844666,
+          "votes_abstain": null,
+          "approval_pct": 94.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役2名選任の件吉村貞彦尾﨑恒康",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 8667086829,
+          "votes_against": 47684609,
+          "votes_abstain": null,
+          "approval_pct": 93.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案吸収合併契約締結承認の件",
+          "proposal_category": "組織再編",
+          "candidate_name": null,
+          "votes_for": 87737,
+          "votes_against": 3701,
+          "votes_abstain": null,
+          "approval_pct": 95.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TYU7",
@@ -72,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:17:14.579Z"
+  "updated_at": "2026-07-02T21:40:08.291Z"
 }

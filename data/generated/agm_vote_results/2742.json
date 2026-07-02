@@ -3,6 +3,51 @@
   "company_name": "ハローズ",
   "meetings": [
     {
+      "meeting_date": "2025-05-29",
+      "meeting_year": 2025,
+      "doc_id": "S100VVE7",
+      "submit_date_time": "2025-06-04 09:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VVE7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案佐藤利行佐藤太志花岡秀典髙橋正名末光憲司砂田健二佐藤新三大原崇典上原瑞江藤井義則池田千明",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.7821318102618102e+65,
+          "votes_against": 3.3195065135035107e+33,
+          "votes_abstain": 4.747474747474747e+21,
+          "approval_pct": 96.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案尾崎和正岡本均杉山愼策富山栄子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.5652214646418126e+23,
+          "votes_against": 2500935066275280,
+          "votes_abstain": 47474747,
+          "approval_pct": 77.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 181029,
+          "votes_against": 504,
+          "votes_abstain": 47,
+          "approval_pct": 96.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-23",
       "meeting_year": 2024,
       "doc_id": "S100TJE6",
@@ -24,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:32:42.257Z"
+  "updated_at": "2026-07-02T22:25:21.719Z"
 }

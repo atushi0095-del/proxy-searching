@@ -3,6 +3,99 @@
   "company_name": "明電舎",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W7VH",
+      "submit_date_time": "2025-06-27 12:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7VH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 365102,
+          "votes_against": 173,
+          "votes_abstain": 837,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三井田健",
+          "votes_for": 351409,
+          "votes_against": 13947,
+          "votes_abstain": 926,
+          "approval_pct": 95.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井上晃夫",
+          "votes_for": 341050,
+          "votes_against": 24305,
+          "votes_abstain": 926,
+          "approval_pct": 93.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木雅彦",
+          "votes_for": 356994,
+          "votes_against": 8452,
+          "votes_abstain": 837,
+          "approval_pct": 97.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安達博治",
+          "votes_for": 364562,
+          "votes_against": 885,
+          "votes_abstain": 837,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "木下学",
+          "votes_for": 356194,
+          "votes_against": 9251,
+          "votes_abstain": 837,
+          "approval_pct": 97.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "白井久美子",
+          "votes_for": 364555,
+          "votes_against": 892,
+          "votes_abstain": 837,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TY4K",
@@ -120,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:30:12.918Z"
+  "updated_at": "2026-07-02T21:38:47.523Z"
 }

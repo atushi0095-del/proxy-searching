@@ -3,6 +3,51 @@
   "company_name": "琉球銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100WANG",
+      "submit_date_time": "2025-07-02 14:42",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WANG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 275306,
+          "votes_against": 13729,
+          "votes_abstain": 0,
+          "approval_pct": 95.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件川上康島袋健菊地毅渡名喜郁夫中川道男山入端裕哉譜久山當則富原加奈子花崎正晴",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 2.4729124733927687e+53,
+          "votes_against": 4.174441696121822e+41,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "上野大",
+          "votes_for": 287333,
+          "votes_against": 1702,
+          "votes_abstain": 0,
+          "approval_pct": 99.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100U1OX",
@@ -48,5 +93,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:06:22.934Z"
+  "updated_at": "2026-07-02T21:04:05.614Z"
 }

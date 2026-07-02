@@ -3,6 +3,147 @@
   "company_name": "中山福",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W8BX",
+      "submit_date_time": "2025-06-30 09:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8BX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石川宣博",
+          "votes_for": 129662,
+          "votes_against": 3185,
+          "votes_abstain": 150,
+          "approval_pct": 97.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本謹也",
+          "votes_for": 130142,
+          "votes_against": 2705,
+          "votes_abstain": 150,
+          "approval_pct": 97.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北代憲司",
+          "votes_for": 131705,
+          "votes_against": 1142,
+          "votes_abstain": 150,
+          "approval_pct": 99.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐々本剛広",
+          "votes_for": 130534,
+          "votes_against": 2313,
+          "votes_abstain": 150,
+          "approval_pct": 98.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川敬夫",
+          "votes_for": 131560,
+          "votes_against": 1287,
+          "votes_abstain": 150,
+          "approval_pct": 98.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石川洋泰",
+          "votes_for": 131268,
+          "votes_against": 1579,
+          "votes_abstain": 150,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡本敏",
+          "votes_for": 131280,
+          "votes_against": 1567,
+          "votes_abstain": 150,
+          "approval_pct": 98.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柴田直子",
+          "votes_for": 131417,
+          "votes_against": 1430,
+          "votes_abstain": 150,
+          "approval_pct": 98.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野由美子",
+          "votes_for": 131482,
+          "votes_against": 1365,
+          "votes_abstain": 150,
+          "approval_pct": 98.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上住雅哉",
+          "votes_for": 131256,
+          "votes_against": 1631,
+          "votes_abstain": 150,
+          "approval_pct": 98.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡藤秀樹",
+          "votes_for": 131052,
+          "votes_against": 1835,
+          "votes_abstain": 150,
+          "approval_pct": 98.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TXFF",
@@ -144,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:39:38.858Z"
+  "updated_at": "2026-07-02T21:27:05.214Z"
 }

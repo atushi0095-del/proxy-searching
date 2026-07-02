@@ -3,6 +3,159 @@
   "company_name": "塩水港精糖",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9WT",
+      "submit_date_time": "2025-06-30 16:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9WT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 171505,
+          "votes_against": 4735,
+          "votes_abstain": 0,
+          "approval_pct": 97.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村成克",
+          "votes_for": 163273,
+          "votes_against": 12947,
+          "votes_abstain": 0,
+          "approval_pct": 92.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "酒井英喜",
+          "votes_for": 168237,
+          "votes_against": 7983,
+          "votes_abstain": 0,
+          "approval_pct": 95.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "波多野雅",
+          "votes_for": 168195,
+          "votes_against": 8025,
+          "votes_abstain": 0,
+          "approval_pct": 95.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤哲也",
+          "votes_for": 168282,
+          "votes_against": 7938,
+          "votes_abstain": 0,
+          "approval_pct": 95.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小田俊一",
+          "votes_for": 168263,
+          "votes_against": 7957,
+          "votes_abstain": 0,
+          "approval_pct": 95.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和田守真",
+          "votes_for": 168282,
+          "votes_against": 7938,
+          "votes_abstain": 0,
+          "approval_pct": 95.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赤星礼子",
+          "votes_for": 168533,
+          "votes_against": 7687,
+          "votes_abstain": 0,
+          "approval_pct": 95.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三和彦幸",
+          "votes_for": 167402,
+          "votes_against": 8818,
+          "votes_abstain": 0,
+          "approval_pct": 95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤敦広",
+          "votes_for": 167379,
+          "votes_against": 8841,
+          "votes_abstain": 0,
+          "approval_pct": 94.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部奈美",
+          "votes_for": 167865,
+          "votes_against": 8355,
+          "votes_abstain": 0,
+          "approval_pct": 95.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡部以光",
+          "votes_for": 165426,
+          "votes_against": 10814,
+          "votes_abstain": 0,
+          "approval_pct": 93.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXJC",
@@ -96,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:38:05.852Z"
+  "updated_at": "2026-07-02T21:15:05.488Z"
 }

@@ -3,6 +3,87 @@
   "company_name": "酒井重工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAOL",
+      "submit_date_time": "2025-07-02 14:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAOL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 62314,
+          "votes_against": 261,
+          "votes_abstain": null,
+          "approval_pct": 95.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "酒井一郎",
+          "votes_for": 59866,
+          "votes_against": 2709,
+          "votes_abstain": null,
+          "approval_pct": 91.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水内健一",
+          "votes_for": 62152,
+          "votes_against": 423,
+          "votes_abstain": null,
+          "approval_pct": 95.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉川孝郎",
+          "votes_for": 61716,
+          "votes_against": 859,
+          "votes_abstain": null,
+          "approval_pct": 94.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "朝倉陽保",
+          "votes_for": 62220,
+          "votes_against": 355,
+          "votes_abstain": null,
+          "approval_pct": 95.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 38803,
+          "votes_against": 23772,
+          "votes_abstain": null,
+          "approval_pct": 59.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ29",
@@ -60,5 +141,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:14:38.362Z"
+  "updated_at": "2026-07-02T21:04:03.162Z"
 }

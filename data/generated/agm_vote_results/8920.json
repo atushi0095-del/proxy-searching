@@ -3,6 +3,39 @@
   "company_name": "東祥",
   "meetings": [
     {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100W0ZP",
+      "submit_date_time": "2025-06-20 14:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0ZP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案沓名俊裕沓名裕一郎谷澤亜希神谷明文菊池修",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2.5933425609029682e+29,
+          "votes_against": 5.526058504177925e+24,
+          "votes_abstain": 897897897897897,
+          "approval_pct": 82.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案江口崇前田篤岩本一良",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 313049313028313100,
+          "votes_against": 158216031572,
+          "votes_abstain": 897897897,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TO5U",
@@ -36,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:20:31.477Z"
+  "updated_at": "2026-07-02T22:16:04.076Z"
 }

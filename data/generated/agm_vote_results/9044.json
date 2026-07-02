@@ -3,6 +3,87 @@
   "company_name": "南海電気鉄道",
   "meetings": [
     {
+      "meeting_date": "2025-06-23",
+      "meeting_year": 2025,
+      "doc_id": "S100W0FN",
+      "submit_date_time": "2025-06-23 11:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0FN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 645685,
+          "votes_against": 79612,
+          "votes_abstain": 67,
+          "approval_pct": 89.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 720203,
+          "votes_against": 5220,
+          "votes_abstain": 67,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 720544,
+          "votes_against": 4877,
+          "votes_abstain": 67,
+          "approval_pct": 99.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案遠北光彦岡嶋信行芦辺直人梶谷知志大塚貴裕常陰均肥塚見春望月愛子堀直樹",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6.655586715886973e+53,
+          "votes_against": 5.986353833275483e+44,
+          "votes_abstain": 6.76762062062062e+23,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案浦井啓至泰田崇義國部毅三木章平田中崇公林理恵",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6.676206676856207e+35,
+          "votes_against": 5.724557180104157e+28,
+          "votes_abstain": 6226226226226969,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 718062,
+          "votes_against": 7361,
+          "votes_abstain": 67,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TTOH",
@@ -36,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:01:27.833Z"
+  "updated_at": "2026-07-02T22:12:50.735Z"
 }

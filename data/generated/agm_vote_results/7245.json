@@ -3,6 +3,147 @@
   "company_name": "大同メタル工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAJ6",
+      "submit_date_time": "2025-07-02 14:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAJ6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "判治誠吾",
+          "votes_for": 293989,
+          "votes_against": 76737,
+          "votes_abstain": 0,
+          "approval_pct": 77.2,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "古川智充",
+          "votes_for": 343661,
+          "votes_against": 27065,
+          "votes_abstain": 0,
+          "approval_pct": 90.2,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "墓越繁昌",
+          "votes_for": 351648,
+          "votes_against": 19078,
+          "votes_abstain": 0,
+          "approval_pct": 92.3,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田有宏",
+          "votes_for": 351690,
+          "votes_against": 19036,
+          "votes_abstain": 0,
+          "approval_pct": 92.3,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "伊藤啓貴",
+          "votes_for": 367809,
+          "votes_against": 2917,
+          "votes_abstain": 0,
+          "approval_pct": 96.6,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "正田健二",
+          "votes_for": 365663,
+          "votes_against": 5063,
+          "votes_abstain": 0,
+          "approval_pct": 96,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "星長清隆",
+          "votes_for": 349351,
+          "votes_against": 21375,
+          "votes_abstain": 0,
+          "approval_pct": 91.7,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "白井美由里",
+          "votes_for": 355168,
+          "votes_against": 15558,
+          "votes_abstain": 0,
+          "approval_pct": 93.2,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "石原真二",
+          "votes_for": 367524,
+          "votes_against": 3202,
+          "votes_abstain": 0,
+          "approval_pct": 96.5,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役1名選任の件鈴木隆臣",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 369361,
+          "votes_against": 1449,
+          "votes_abstain": 0,
+          "approval_pct": 97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案役員賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 327264,
+          "votes_against": 43546,
+          "votes_abstain": 0,
+          "approval_pct": 85.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ17",
@@ -132,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:13:35.452Z"
+  "updated_at": "2026-07-02T21:04:20.320Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "しずおかフィナンシャルグループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W3GK",
+      "submit_date_time": "2025-06-24 14:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W3GK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 4436257,
+          "votes_against": 3345,
+          "votes_abstain": 2625,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中西勝則",
+          "votes_for": 3914837,
+          "votes_against": 529048,
+          "votes_abstain": 2625,
+          "approval_pct": 87.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柴田久",
+          "votes_for": 3978092,
+          "votes_against": 465788,
+          "votes_abstain": 2625,
+          "approval_pct": 89.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "八木稔",
+          "votes_for": 4404672,
+          "votes_against": 39215,
+          "votes_abstain": 2625,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福島豊",
+          "votes_for": 4404695,
+          "votes_against": 39192,
+          "votes_abstain": 2625,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤沢久美",
+          "votes_for": 4221825,
+          "votes_against": 222063,
+          "votes_abstain": 2625,
+          "approval_pct": 94.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "稲野和利",
+          "votes_for": 4409798,
+          "votes_against": 34088,
+          "votes_abstain": 2625,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-14",
       "meeting_year": 2024,
       "doc_id": "S100TNBM",
@@ -144,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:25:58.736Z"
+  "updated_at": "2026-07-02T22:06:12.784Z"
 }

@@ -1,0 +1,40 @@
+{
+  "company_code": "4925",
+  "company_name": "ハーバー研究所",
+  "meetings": [
+    {
+      "meeting_date": "2025-06-18",
+      "meeting_year": 2025,
+      "doc_id": "S100W1J8",
+      "submit_date_time": "2025-06-20 15:57",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1J8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（数字は候補者番号）",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1,
+          "votes_against": 8906,
+          "votes_abstain": 464,
+          "approval_pct": 0.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（数字は候補者番号）",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1,
+          "votes_against": 9009,
+          "votes_abstain": 364,
+          "approval_pct": 0.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T22:14:53.466Z"
+}

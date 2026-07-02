@@ -3,6 +3,111 @@
   "company_name": "ヤマダホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W8U1",
+      "submit_date_time": "2025-06-30 14:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8U1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 4620936,
+          "votes_against": 79395,
+          "votes_abstain": 2603,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山田昇",
+          "votes_for": 4435212,
+          "votes_against": 264870,
+          "votes_abstain": 7231,
+          "approval_pct": 94.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "上野善紀",
+          "votes_for": 4299383,
+          "votes_against": 400699,
+          "votes_abstain": 7231,
+          "approval_pct": 91.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小暮めぐ美",
+          "votes_for": 4557619,
+          "votes_against": 147097,
+          "votes_abstain": 2603,
+          "approval_pct": 96.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "古谷野賢一",
+          "votes_for": 4598053,
+          "votes_against": 106663,
+          "votes_abstain": 2603,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "長野毅",
+          "votes_for": 4606315,
+          "votes_against": 98401,
+          "votes_abstain": 2603,
+          "approval_pct": 97.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "得平司",
+          "votes_for": 4596522,
+          "votes_against": 108192,
+          "votes_abstain": 2603,
+          "approval_pct": 97.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "光成美樹",
+          "votes_for": 4617979,
+          "votes_against": 86738,
+          "votes_abstain": 2603,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXH4",
@@ -216,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:39:41.299Z"
+  "updated_at": "2026-07-02T21:20:29.002Z"
 }

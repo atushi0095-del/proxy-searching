@@ -3,6 +3,111 @@
   "company_name": "オートバックスセブン",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W56J",
+      "submit_date_time": "2025-06-25 10:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W56J",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "1.堀井勇吾",
+          "votes_for": 527480,
+          "votes_against": 42244,
+          "votes_abstain": 0,
+          "approval_pct": 92.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "2.藤原伸一",
+          "votes_for": 545122,
+          "votes_against": 24602,
+          "votes_abstain": 0,
+          "approval_pct": 95.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "3.西川征宏",
+          "votes_for": 564203,
+          "votes_against": 5521,
+          "votes_abstain": 0,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "4.松田洋祐",
+          "votes_for": 564166,
+          "votes_against": 5558,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "5.鴨居達哉",
+          "votes_for": 564833,
+          "votes_against": 4891,
+          "votes_abstain": 0,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "1.池田知明",
+          "votes_for": 552487,
+          "votes_against": 17231,
+          "votes_abstain": 0,
+          "approval_pct": 96.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "2.小泉正己",
+          "votes_for": 564184,
+          "votes_against": 5536,
+          "votes_abstain": 0,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "3.金丸絢子",
+          "votes_for": 564653,
+          "votes_against": 5067,
+          "votes_abstain": 0,
+          "approval_pct": 99.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TYD8",
@@ -72,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:24:29.503Z"
+  "updated_at": "2026-07-02T22:02:35.692Z"
 }

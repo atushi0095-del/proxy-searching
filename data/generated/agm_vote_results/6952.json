@@ -3,6 +3,147 @@
   "company_name": "カシオ計算機",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAZN",
+      "submit_date_time": "2025-07-04 15:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAZN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1892254,
+          "votes_against": 2922,
+          "votes_abstain": 1611,
+          "approval_pct": 99.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1893569,
+          "votes_against": 1607,
+          "votes_abstain": 1612,
+          "approval_pct": 99.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "樫尾和宏",
+          "votes_for": 1817158,
+          "votes_against": 78027,
+          "votes_abstain": 1611,
+          "approval_pct": 95.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高野晋",
+          "votes_for": 1835463,
+          "votes_against": 59723,
+          "votes_abstain": 1611,
+          "approval_pct": 96.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田村誠治",
+          "votes_for": 1871102,
+          "votes_against": 24083,
+          "votes_abstain": 1611,
+          "approval_pct": 98.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "数原英一郎",
+          "votes_for": 1851432,
+          "votes_against": 43754,
+          "votes_abstain": 1611,
+          "approval_pct": 97.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "倉澤佳子",
+          "votes_for": 1891696,
+          "votes_against": 3491,
+          "votes_abstain": 1611,
+          "approval_pct": 99.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部博友",
+          "votes_for": 1890008,
+          "votes_against": 5178,
+          "votes_abstain": 1611,
+          "approval_pct": 99.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原夏代",
+          "votes_for": 1892413,
+          "votes_against": 2774,
+          "votes_abstain": 1611,
+          "approval_pct": 99.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口昭彦",
+          "votes_for": 1848377,
+          "votes_against": 46805,
+          "votes_abstain": 1611,
+          "approval_pct": 97.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1892679,
+          "votes_against": 2504,
+          "votes_abstain": 1612,
+          "approval_pct": 99.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ96",
@@ -144,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:11:33.340Z"
+  "updated_at": "2026-07-02T21:00:20.891Z"
 }

@@ -3,6 +3,111 @@
   "company_name": "名糖産業",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W84B",
+      "submit_date_time": "2025-06-27 10:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W84B",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 136467,
+          "votes_against": 2540,
+          "votes_abstain": 0,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 138396,
+          "votes_against": 611,
+          "votes_abstain": 0,
+          "approval_pct": 99.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三矢益夫",
+          "votes_for": 131482,
+          "votes_against": 7526,
+          "votes_abstain": 0,
+          "approval_pct": 94.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山崎潔",
+          "votes_for": 138028,
+          "votes_against": 980,
+          "votes_abstain": 0,
+          "approval_pct": 99.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内木裕之",
+          "votes_for": 138074,
+          "votes_against": 934,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井尾哲也",
+          "votes_for": 138081,
+          "votes_against": 927,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田和徳",
+          "votes_for": 138486,
+          "votes_against": 522,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 137958,
+          "votes_against": 1050,
+          "votes_abstain": 0,
+          "approval_pct": 99.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TW17",
@@ -108,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:50:58.795Z"
+  "updated_at": "2026-07-02T21:42:36.135Z"
 }

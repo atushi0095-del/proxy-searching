@@ -3,6 +3,135 @@
   "company_name": "信越ポリマー",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W8S9",
+      "submit_date_time": "2025-06-27 15:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8S9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 703225,
+          "votes_against": 621,
+          "votes_abstain": 0,
+          "approval_pct": 99.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 703285,
+          "votes_against": 561,
+          "votes_abstain": 0,
+          "approval_pct": 99.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小野義昭",
+          "votes_for": 608172,
+          "votes_against": 95671,
+          "votes_abstain": 0,
+          "approval_pct": 86.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "出戸利明",
+          "votes_for": 573779,
+          "votes_against": 130064,
+          "votes_abstain": 0,
+          "approval_pct": 81.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "菅野悟",
+          "votes_for": 669454,
+          "votes_against": 34389,
+          "votes_abstain": 0,
+          "approval_pct": 95.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "宮下修",
+          "votes_for": 670678,
+          "votes_against": 33166,
+          "votes_abstain": 0,
+          "approval_pct": 95.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "村田珠美",
+          "votes_for": 684381,
+          "votes_against": 19463,
+          "votes_abstain": 0,
+          "approval_pct": 97.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "平澤秀明",
+          "votes_for": 657611,
+          "votes_against": 46231,
+          "votes_abstain": 0,
+          "approval_pct": 93.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "吉原達生",
+          "votes_for": 700192,
+          "votes_against": 3652,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案当社執行役員及び従業員に対してストックオプションとして発行する新株予約権の募集事項の決定を当社取締役会に委任する件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 686833,
+          "votes_against": 17013,
+          "votes_abstain": 0,
+          "approval_pct": 97.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TY1W",
@@ -36,5 +165,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:31:15.503Z"
+  "updated_at": "2026-07-02T21:33:39.366Z"
 }

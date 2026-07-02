@@ -3,6 +3,147 @@
   "company_name": "ＳＵＢＡＲＵ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W6ZN",
+      "submit_date_time": "2025-06-26 11:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W6ZN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 6017125,
+          "votes_against": 38301,
+          "votes_abstain": 0,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大崎篤",
+          "votes_for": 5603322,
+          "votes_against": 450807,
+          "votes_abstain": 1340,
+          "approval_pct": 92.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "早田文昭",
+          "votes_for": 5945070,
+          "votes_against": 110412,
+          "votes_abstain": 2,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村知美",
+          "votes_for": 5511786,
+          "votes_against": 543681,
+          "votes_abstain": 2,
+          "approval_pct": 90.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤貫哲郎",
+          "votes_for": 5945712,
+          "votes_against": 109770,
+          "votes_abstain": 2,
+          "approval_pct": 97.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "戸田真介",
+          "votes_for": 5919984,
+          "votes_against": 135497,
+          "votes_abstain": 2,
+          "approval_pct": 97.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "土井美和子",
+          "votes_for": 6032725,
+          "votes_against": 22760,
+          "votes_abstain": 2,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "八馬史尚",
+          "votes_for": 6014322,
+          "votes_against": 41163,
+          "votes_abstain": 2,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山下茂",
+          "votes_for": 6014450,
+          "votes_against": 41035,
+          "votes_abstain": 2,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "庄司仁也",
+          "votes_for": 5366301,
+          "votes_against": 689114,
+          "votes_abstain": 2,
+          "approval_pct": 88.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "笠浩久",
+          "votes_for": 6035055,
+          "votes_against": 20458,
+          "votes_abstain": 2,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TON6",
@@ -168,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:23:35.696Z"
+  "updated_at": "2026-07-02T21:52:08.554Z"
 }

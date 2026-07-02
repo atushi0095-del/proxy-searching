@@ -3,6 +3,87 @@
   "company_name": "アネスト岩田",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W6XV",
+      "submit_date_time": "2025-06-26 11:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W6XV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 311575,
+          "votes_against": 530,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "三好栄祐",
+          "votes_for": 303916,
+          "votes_against": 8199,
+          "votes_abstain": 0,
+          "approval_pct": 97.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大澤健一",
+          "votes_for": 304037,
+          "votes_against": 8078,
+          "votes_abstain": 0,
+          "approval_pct": 97.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岩田仁",
+          "votes_for": 304133,
+          "votes_against": 7982,
+          "votes_abstain": 0,
+          "approval_pct": 97.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "島本誠",
+          "votes_for": 303971,
+          "votes_against": 8144,
+          "votes_abstain": 0,
+          "approval_pct": 97.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "金山貴博",
+          "votes_for": 304191,
+          "votes_against": 7924,
+          "votes_abstain": 0,
+          "approval_pct": 97.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTUT",
@@ -144,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:02:09.982Z"
+  "updated_at": "2026-07-02T21:52:43.264Z"
 }

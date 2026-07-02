@@ -3,6 +3,51 @@
   "company_name": "エイチ・ツー・オー　リテイリング",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W754",
+      "submit_date_time": "2025-06-26 15:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W754",
+      "proposals": [
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 933121,
+          "votes_against": 4677,
+          "votes_abstain": 378,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 784381,
+          "votes_against": 153421,
+          "votes_abstain": 378,
+          "approval_pct": 83.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 800963,
+          "votes_against": 136839,
+          "votes_abstain": 378,
+          "approval_pct": 85.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTWD",
@@ -24,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:59:15.429Z"
+  "updated_at": "2026-07-02T21:47:33.172Z"
 }

@@ -1,0 +1,40 @@
+{
+  "company_code": "6193",
+  "company_name": "バーチャレクス・ホールディング",
+  "meetings": [
+    {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W87T",
+      "submit_date_time": "2025-06-27 15:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W87T",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 15207,
+          "votes_against": 246,
+          "votes_abstain": null,
+          "approval_pct": 84.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件丸山栄樹丸山勇人黒田勝漆山伸一坂宗篤",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 1.5159151591515914e+24,
+          "votes_against": 295295295295295,
+          "votes_abstain": null,
+          "approval_pct": 83.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T21:31:30.296Z"
+}

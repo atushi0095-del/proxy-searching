@@ -3,6 +3,135 @@
   "company_name": "東映",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W80S",
+      "submit_date_time": "2025-06-30 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W80S",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 564252,
+          "votes_against": 33884,
+          "votes_abstain": 0,
+          "approval_pct": 94.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "多田憲之",
+          "votes_for": 541044,
+          "votes_against": 57113,
+          "votes_abstain": 0,
+          "approval_pct": 90.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉村文雄",
+          "votes_for": 538015,
+          "votes_against": 60141,
+          "votes_abstain": 0,
+          "approval_pct": 89.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "和田耕一",
+          "votes_for": 572746,
+          "votes_against": 25411,
+          "votes_abstain": 0,
+          "approval_pct": 95.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鎌田裕也",
+          "votes_for": 572554,
+          "votes_against": 25603,
+          "votes_abstain": 0,
+          "approval_pct": 95.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小嶋雄嗣",
+          "votes_for": 572774,
+          "votes_against": 25383,
+          "votes_abstain": 0,
+          "approval_pct": 95.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "早河洋",
+          "votes_for": 572355,
+          "votes_against": 25802,
+          "votes_abstain": 0,
+          "approval_pct": 95.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "野本弘文",
+          "votes_for": 562938,
+          "votes_against": 35218,
+          "votes_abstain": 0,
+          "approval_pct": 94.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "植木義晴",
+          "votes_for": 573314,
+          "votes_against": 24843,
+          "votes_abstain": 0,
+          "approval_pct": 95.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案当社株券等の大規模買付行為に関する対応方針（買収への対応方針）継続の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 443033,
+          "votes_against": 155127,
+          "votes_abstain": 0,
+          "approval_pct": 74.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TSZ4",
@@ -180,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:33:07.674Z"
+  "updated_at": "2026-07-02T21:17:43.982Z"
 }

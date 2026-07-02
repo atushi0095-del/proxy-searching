@@ -3,6 +3,123 @@
   "company_name": "ＧＭＢ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W98B",
+      "submit_date_time": "2025-06-30 13:59",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W98B",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 27163,
+          "votes_against": 263,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松岡祐吉",
+          "votes_for": 25733,
+          "votes_against": 1699,
+          "votes_abstain": 0,
+          "approval_pct": 93.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大瀧民也",
+          "votes_for": 26270,
+          "votes_against": 1162,
+          "votes_abstain": 0,
+          "approval_pct": 95.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "善田篤志",
+          "votes_for": 26277,
+          "votes_against": 1155,
+          "votes_abstain": 0,
+          "approval_pct": 95.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "文ヨンジュ",
+          "votes_for": 26257,
+          "votes_against": 1175,
+          "votes_abstain": 0,
+          "approval_pct": 95.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤孝治",
+          "votes_for": 26293,
+          "votes_against": 1139,
+          "votes_abstain": 0,
+          "approval_pct": 95.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "嶋田高寛",
+          "votes_for": 26306,
+          "votes_against": 1126,
+          "votes_abstain": 0,
+          "approval_pct": 95.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "梁亨恩",
+          "votes_for": 26226,
+          "votes_against": 1206,
+          "votes_abstain": 0,
+          "approval_pct": 95.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡本依子",
+          "votes_for": 26261,
+          "votes_against": 1171,
+          "votes_abstain": 0,
+          "approval_pct": 95.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQME",
@@ -144,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:11:26.867Z"
+  "updated_at": "2026-07-02T21:20:33.818Z"
 }

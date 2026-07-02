@@ -3,6 +3,99 @@
   "company_name": "プリマハム",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W562",
+      "submit_date_time": "2025-06-26 10:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W562",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 414766,
+          "votes_against": 636,
+          "votes_abstain": 0,
+          "approval_pct": 99.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "1.千葉尚登",
+          "votes_for": 389873,
+          "votes_against": 25542,
+          "votes_abstain": 0,
+          "approval_pct": 93.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "2.鯛健一",
+          "votes_for": 408919,
+          "votes_against": 6496,
+          "votes_abstain": 0,
+          "approval_pct": 98.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "3.山下丈",
+          "votes_for": 361940,
+          "votes_against": 53474,
+          "votes_abstain": 0,
+          "approval_pct": 87.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "4.井出雄三",
+          "votes_for": 408441,
+          "votes_against": 6974,
+          "votes_abstain": 0,
+          "approval_pct": 98.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "5.辻田淑乃",
+          "votes_for": 408703,
+          "votes_against": 6712,
+          "votes_abstain": 0,
+          "approval_pct": 98.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 401210,
+          "votes_against": 14201,
+          "votes_abstain": 0,
+          "approval_pct": 96.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TUHK",
@@ -96,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:53:47.445Z"
+  "updated_at": "2026-07-02T21:53:42.728Z"
 }

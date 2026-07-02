@@ -3,6 +3,99 @@
   "company_name": "ｉ－ｐｌｕｇ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W683",
+      "submit_date_time": "2025-06-25 16:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W683",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 28602,
+          "votes_against": 61,
+          "votes_abstain": null,
+          "approval_pct": 99.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案中野智哉直木英訓阪田貴郁田中伸明山田雅人田中邦裕麻田祐司古川明日香",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2.7207272072720728e+39,
+          "votes_against": 1.456145614561457e+28,
+          "votes_abstain": null,
+          "approval_pct": 94.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案会計監査人選任の件",
+          "proposal_category": "会計監査人選任",
+          "candidate_name": null,
+          "votes_for": 28644,
+          "votes_against": 19,
+          "votes_abstain": null,
+          "approval_pct": 99.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役の報酬額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 28624,
+          "votes_against": 39,
+          "votes_abstain": null,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査役の報酬額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 28594,
+          "votes_against": 69,
+          "votes_abstain": null,
+          "approval_pct": 99.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役（社外取締役を除く。）に対する譲渡制限付株式報酬制度改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 27194,
+          "votes_against": 1469,
+          "votes_abstain": null,
+          "approval_pct": 94.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案社外取締役に対する譲渡制限付株式の付与のための報酬決定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 27183,
+          "votes_against": 1480,
+          "votes_abstain": null,
+          "approval_pct": 94.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TO9U",
@@ -36,5 +129,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:16:28.327Z"
+  "updated_at": "2026-07-02T21:55:48.600Z"
 }

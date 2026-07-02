@@ -3,6 +3,135 @@
   "company_name": "レック",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W9MZ",
+      "submit_date_time": "2025-06-30 16:58",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9MZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "青木光男",
+          "votes_for": 225902,
+          "votes_against": 39514,
+          "votes_abstain": null,
+          "approval_pct": 85.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "青木勇",
+          "votes_for": 244446,
+          "votes_against": 20970,
+          "votes_abstain": null,
+          "approval_pct": 92.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "貝方士利浩",
+          "votes_for": 244217,
+          "votes_against": 21199,
+          "votes_abstain": null,
+          "approval_pct": 92.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小澤一壽",
+          "votes_for": 244558,
+          "votes_against": 20858,
+          "votes_abstain": null,
+          "approval_pct": 92.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "増田英生",
+          "votes_for": 244667,
+          "votes_against": 20749,
+          "votes_abstain": null,
+          "approval_pct": 92.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "久米裕康",
+          "votes_for": 251724,
+          "votes_against": 13692,
+          "votes_abstain": null,
+          "approval_pct": 94.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "北村秀一",
+          "votes_for": 248428,
+          "votes_against": 16998,
+          "votes_abstain": null,
+          "approval_pct": 93.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "坂口隆夫",
+          "votes_for": 251391,
+          "votes_against": 14035,
+          "votes_abstain": null,
+          "approval_pct": 94.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "瀬口宇晴",
+          "votes_for": 223848,
+          "votes_against": 41578,
+          "votes_abstain": null,
+          "approval_pct": 84.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "野末寿一",
+          "votes_for": 249160,
+          "votes_against": 16266,
+          "votes_abstain": null,
+          "approval_pct": 93.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TXCI",
@@ -144,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:37:53.822Z"
+  "updated_at": "2026-07-02T21:14:19.350Z"
 }

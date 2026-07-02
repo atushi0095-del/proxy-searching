@@ -3,6 +3,147 @@
   "company_name": "カーリット",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9KW",
+      "submit_date_time": "2025-06-30 13:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9KW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 172781,
+          "votes_against": 515,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金子洋文",
+          "votes_for": 133004,
+          "votes_against": 40292,
+          "votes_abstain": null,
+          "approval_pct": 76.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡本英夫",
+          "votes_for": 160167,
+          "votes_against": 13129,
+          "votes_abstain": null,
+          "approval_pct": 92.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋茂信",
+          "votes_for": 160170,
+          "votes_against": 13126,
+          "votes_abstain": null,
+          "approval_pct": 92.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中津隆一",
+          "votes_for": 157237,
+          "votes_against": 16059,
+          "votes_abstain": null,
+          "approval_pct": 90.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村山由香里",
+          "votes_for": 171814,
+          "votes_against": 1482,
+          "votes_abstain": null,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤原康弘",
+          "votes_for": 148137,
+          "votes_against": 25159,
+          "votes_abstain": null,
+          "approval_pct": 85.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤晴俊",
+          "votes_for": 171856,
+          "votes_against": 1440,
+          "votes_abstain": null,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩村伸一",
+          "votes_for": 146569,
+          "votes_against": 26725,
+          "votes_abstain": null,
+          "approval_pct": 84.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三田村玲子",
+          "votes_for": 165287,
+          "votes_against": 8007,
+          "votes_abstain": null,
+          "approval_pct": 95.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青木章哲",
+          "votes_for": 162310,
+          "votes_against": 10984,
+          "votes_abstain": null,
+          "approval_pct": 93.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXWV",
@@ -156,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:33:16.939Z"
+  "updated_at": "2026-07-02T21:21:13.533Z"
 }

@@ -3,6 +3,183 @@
   "company_name": "東海東京フィナンシャル・ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W92N",
+      "submit_date_time": "2025-06-30 15:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W92N",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1806798,
+          "votes_against": 7788,
+          "votes_abstain": 30,
+          "approval_pct": 99.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石田建昭",
+          "votes_for": 1725245,
+          "votes_against": 89141,
+          "votes_abstain": 306,
+          "approval_pct": 95.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "春日井博",
+          "votes_for": 1793180,
+          "votes_against": 21206,
+          "votes_abstain": 306,
+          "approval_pct": 98.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北川尚子",
+          "votes_for": 1793446,
+          "votes_against": 21206,
+          "votes_abstain": 40,
+          "approval_pct": 98.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山恒博",
+          "votes_for": 1729529,
+          "votes_against": 85122,
+          "votes_abstain": 40,
+          "approval_pct": 95.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮沢和正",
+          "votes_for": 1792197,
+          "votes_against": 22456,
+          "votes_abstain": 40,
+          "approval_pct": 98.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1784522,
+          "votes_against": 30135,
+          "votes_abstain": 30,
+          "approval_pct": 98.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1782496,
+          "votes_against": 32282,
+          "votes_abstain": 30,
+          "approval_pct": 98.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 51631,
+          "votes_against": 1763068,
+          "votes_abstain": 30,
+          "approval_pct": 2.85,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤昌孝",
+          "votes_for": 62248,
+          "votes_against": 1752435,
+          "votes_abstain": 50,
+          "approval_pct": 3.43,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北川尚子",
+          "votes_for": 60474,
+          "votes_against": 1754209,
+          "votes_abstain": 50,
+          "approval_pct": 3.33,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山恒博",
+          "votes_for": 62214,
+          "votes_against": 1752469,
+          "votes_abstain": 50,
+          "approval_pct": 3.43,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田綾子",
+          "votes_for": 61038,
+          "votes_against": 1753723,
+          "votes_abstain": 30,
+          "approval_pct": 3.36,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案",
+          "proposal_category": "その他",
+          "candidate_name": "太田克彦",
+          "votes_for": 61098,
+          "votes_against": 1753663,
+          "votes_abstain": 30,
+          "approval_pct": 3.37,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TXUT",
@@ -228,5 +405,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:27:02.693Z"
+  "updated_at": "2026-07-02T21:16:51.344Z"
 }

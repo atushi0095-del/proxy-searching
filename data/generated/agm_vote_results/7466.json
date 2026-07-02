@@ -3,6 +3,87 @@
   "company_name": "ＳＰＫ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W3CY",
+      "submit_date_time": "2025-06-26 14:56",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W3CY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "沖恭一郎",
+          "votes_for": 73665,
+          "votes_against": 3669,
+          "votes_abstain": 2,
+          "approval_pct": 95.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村彰良",
+          "votes_for": 74383,
+          "votes_against": 2951,
+          "votes_abstain": 2,
+          "approval_pct": 95.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上田耕司",
+          "votes_for": 74374,
+          "votes_against": 2960,
+          "votes_abstain": 2,
+          "approval_pct": 95.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小河昌史",
+          "votes_for": 76330,
+          "votes_against": 1004,
+          "votes_abstain": 2,
+          "approval_pct": 98.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西島康二",
+          "votes_for": 73651,
+          "votes_against": 3683,
+          "votes_abstain": 2,
+          "approval_pct": 95.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本創",
+          "votes_for": 76480,
+          "votes_against": 856,
+          "votes_abstain": 0,
+          "approval_pct": 98.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TPEB",
@@ -132,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:56:44.828Z"
+  "updated_at": "2026-07-02T21:48:36.249Z"
 }

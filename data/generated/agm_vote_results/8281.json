@@ -3,6 +3,123 @@
   "company_name": "ゼビオホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA03",
+      "submit_date_time": "2025-07-01 09:23",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA03",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "諸橋友良",
+          "votes_for": 281219,
+          "votes_against": 55016,
+          "votes_abstain": 187,
+          "approval_pct": 83.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北澤猛",
+          "votes_for": 320355,
+          "votes_against": 15881,
+          "votes_abstain": 187,
+          "approval_pct": 95.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤澤剛",
+          "votes_for": 335102,
+          "votes_against": 1134,
+          "votes_abstain": 187,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岩本保",
+          "votes_for": 325370,
+          "votes_against": 10866,
+          "votes_abstain": 187,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "住田智子",
+          "votes_for": 335425,
+          "votes_against": 811,
+          "votes_abstain": 187,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "篠原倫太郎",
+          "votes_for": 299351,
+          "votes_against": 36885,
+          "votes_abstain": 187,
+          "approval_pct": 89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "向谷地正一",
+          "votes_for": 294361,
+          "votes_against": 41876,
+          "votes_abstain": 187,
+          "approval_pct": 87.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "小平健善",
+          "votes_for": 291100,
+          "votes_against": 45137,
+          "votes_abstain": 187,
+          "approval_pct": 86.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案ストックオプションとして新株予約権を発行する件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 317379,
+          "votes_against": 18858,
+          "votes_abstain": 187,
+          "approval_pct": 94.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ44",
@@ -108,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:14:19.325Z"
+  "updated_at": "2026-07-02T21:13:14.743Z"
 }

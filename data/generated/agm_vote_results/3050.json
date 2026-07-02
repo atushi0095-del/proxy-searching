@@ -3,6 +3,99 @@
   "company_name": "ＤＣＭホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-05-29",
+      "meeting_year": 2025,
+      "doc_id": "S100VV84",
+      "submit_date_time": "2025-06-02 15:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VV84",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1105467,
+          "votes_against": 1445,
+          "votes_abstain": null,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久田宗弘",
+          "votes_for": 1072307,
+          "votes_against": 34647,
+          "votes_abstain": null,
+          "approval_pct": 96.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石黒靖規",
+          "votes_for": 1090118,
+          "votes_against": 16838,
+          "votes_abstain": null,
+          "approval_pct": 98.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本田桂三",
+          "votes_for": 1097402,
+          "votes_against": 9554,
+          "votes_abstain": null,
+          "approval_pct": 99.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水敏光",
+          "votes_for": 1097572,
+          "votes_against": 9384,
+          "votes_abstain": null,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川真行",
+          "votes_for": 1097525,
+          "votes_against": 9431,
+          "votes_abstain": null,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大亀裕",
+          "votes_for": 1097365,
+          "votes_against": 9591,
+          "votes_abstain": null,
+          "approval_pct": 99.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-30",
       "meeting_year": 2024,
       "doc_id": "S100TJRP",
@@ -168,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:31:08.949Z"
+  "updated_at": "2026-07-02T22:26:13.738Z"
 }

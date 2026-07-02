@@ -3,6 +3,135 @@
   "company_name": "ツムラ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAEE",
+      "submit_date_time": "2025-07-01 16:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAEE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 602654,
+          "votes_against": 44795,
+          "votes_abstain": 1196,
+          "approval_pct": 92.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤照和",
+          "votes_for": 615503,
+          "votes_against": 31932,
+          "votes_abstain": 1196,
+          "approval_pct": 94.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉井圭",
+          "votes_for": 617013,
+          "votes_against": 30423,
+          "votes_abstain": 1196,
+          "approval_pct": 94.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三宅博",
+          "votes_for": 628956,
+          "votes_against": 18480,
+          "votes_abstain": 1196,
+          "approval_pct": 96.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡田正",
+          "votes_for": 629221,
+          "votes_against": 18215,
+          "votes_abstain": 1196,
+          "approval_pct": 96.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "江口真理子",
+          "votes_for": 609230,
+          "votes_against": 38207,
+          "votes_abstain": 1196,
+          "approval_pct": 93.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永渕富弘",
+          "votes_for": 600937,
+          "votes_against": 46502,
+          "votes_abstain": 1196,
+          "approval_pct": 92.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "望月明美",
+          "votes_for": 605053,
+          "votes_against": 42388,
+          "votes_abstain": 1196,
+          "approval_pct": 92.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "土屋智恵子",
+          "votes_for": 630060,
+          "votes_against": 17382,
+          "votes_abstain": 1196,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山岡憲江",
+          "votes_for": 630034,
+          "votes_against": 17415,
+          "votes_abstain": 1196,
+          "approval_pct": 96.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYMJ",
@@ -96,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:16:41.192Z"
+  "updated_at": "2026-07-02T21:06:40.487Z"
 }

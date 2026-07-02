@@ -3,6 +3,135 @@
   "company_name": "日本コンクリート工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W8XS",
+      "submit_date_time": "2025-06-30 14:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8XS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塚本博",
+          "votes_for": 346068,
+          "votes_against": 80644,
+          "votes_abstain": 0,
+          "approval_pct": 80.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "椙田宜彦",
+          "votes_for": 405793,
+          "votes_against": 20919,
+          "votes_abstain": 0,
+          "approval_pct": 94.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "饗場潔",
+          "votes_for": 424220,
+          "votes_against": 2492,
+          "votes_abstain": 0,
+          "approval_pct": 98.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小寺満",
+          "votes_for": 405949,
+          "votes_against": 20763,
+          "votes_abstain": 0,
+          "approval_pct": 94.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "角柄明彦",
+          "votes_for": 405798,
+          "votes_against": 20914,
+          "votes_abstain": 0,
+          "approval_pct": 94.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "間塚道義",
+          "votes_for": 408953,
+          "votes_against": 17759,
+          "votes_abstain": 0,
+          "approval_pct": 95.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本武徳",
+          "votes_for": 408412,
+          "votes_against": 18300,
+          "votes_abstain": 0,
+          "approval_pct": 95.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "広瀬史乃",
+          "votes_for": 424168,
+          "votes_against": 2544,
+          "votes_abstain": 0,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅原修",
+          "votes_for": 424739,
+          "votes_against": 1983,
+          "votes_abstain": 0,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 345675,
+          "votes_against": 81047,
+          "votes_abstain": 0,
+          "approval_pct": 80.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TWVO",
@@ -120,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:31:37.247Z"
+  "updated_at": "2026-07-02T21:20:09.109Z"
 }

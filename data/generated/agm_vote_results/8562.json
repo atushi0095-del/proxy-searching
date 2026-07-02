@@ -3,6 +3,123 @@
   "company_name": "福島銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W7T5",
+      "submit_date_time": "2025-06-27 09:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7T5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 261826,
+          "votes_against": 1271,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案資本準備金及び利益準備金の額の減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 242555,
+          "votes_against": 1865,
+          "votes_abstain": 18677,
+          "approval_pct": 92.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加藤容啓",
+          "votes_for": 255051,
+          "votes_against": 8044,
+          "votes_abstain": 0,
+          "approval_pct": 96.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴木岳伯",
+          "votes_for": 261125,
+          "votes_against": 1970,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤俊彦",
+          "votes_for": 261078,
+          "votes_against": 2017,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "草野真之",
+          "votes_for": 261098,
+          "votes_against": 1997,
+          "votes_abstain": 0,
+          "approval_pct": 99.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "二瓶由美子",
+          "votes_for": 260582,
+          "votes_against": 2513,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "石井浩",
+          "votes_for": 260598,
+          "votes_against": 2497,
+          "votes_abstain": 0,
+          "approval_pct": 99.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "竹内淳一郎",
+          "votes_for": 255274,
+          "votes_against": 7821,
+          "votes_abstain": 0,
+          "approval_pct": 97.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TX4P",
@@ -156,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:39:22.435Z"
+  "updated_at": "2026-07-02T21:43:57.594Z"
 }

@@ -3,6 +3,51 @@
   "company_name": "Ｈａｍｅｅ",
   "meetings": [
     {
+      "meeting_date": "2025-07-28",
+      "meeting_year": 2025,
+      "doc_id": "S100WF2J",
+      "submit_date_time": "2025-07-28 16:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WF2J",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 125999,
+          "votes_against": 1029,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）2名選任の件樋口敦士水島育大",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 126352126338,
+          "votes_against": 677691,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案子会社であるNE株式会社の普通株式の現物配当（株式分配型スピンオフ）の実施の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 126714,
+          "votes_against": 315,
+          "votes_abstain": 0,
+          "approval_pct": 99.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-07-25",
       "meeting_year": 2024,
       "doc_id": "S100U3YT",
@@ -84,5 +129,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:02:09.411Z"
+  "updated_at": "2026-07-02T20:52:34.059Z"
 }

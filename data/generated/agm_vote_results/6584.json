@@ -3,6 +3,135 @@
   "company_name": "三櫻工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W38J",
+      "submit_date_time": "2025-06-24 10:29",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W38J",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹田陽三",
+          "votes_for": 224245,
+          "votes_against": 22284,
+          "votes_abstain": null,
+          "approval_pct": 89.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹田玄哉",
+          "votes_for": 224553,
+          "votes_against": 21976,
+          "votes_abstain": null,
+          "approval_pct": 89.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中本浩寿",
+          "votes_for": 244379,
+          "votes_against": 2150,
+          "votes_abstain": null,
+          "approval_pct": 97.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐々木宗俊",
+          "votes_for": 239186,
+          "votes_against": 7343,
+          "votes_abstain": null,
+          "approval_pct": 95.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金子素久",
+          "votes_for": 239237,
+          "votes_against": 7292,
+          "votes_abstain": null,
+          "approval_pct": 95.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森地高文",
+          "votes_for": 234602,
+          "votes_against": 11927,
+          "votes_abstain": null,
+          "approval_pct": 93.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "入山章栄",
+          "votes_for": 239227,
+          "votes_against": 7302,
+          "votes_abstain": null,
+          "approval_pct": 95.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井澤吉幸",
+          "votes_for": 238672,
+          "votes_against": 7857,
+          "votes_abstain": null,
+          "approval_pct": 95.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "富岡さやか",
+          "votes_for": 244233,
+          "votes_against": 2296,
+          "votes_abstain": null,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 244764,
+          "votes_against": 1828,
+          "votes_abstain": null,
+          "approval_pct": 97.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TSXA",
@@ -132,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:04:48.750Z"
+  "updated_at": "2026-07-02T22:08:06.142Z"
 }

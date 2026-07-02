@@ -3,6 +3,99 @@
   "company_name": "ザッパラス",
   "meetings": [
     {
+      "meeting_date": "2025-07-29",
+      "meeting_year": 2025,
+      "doc_id": "S100WFBT",
+      "submit_date_time": "2025-07-30 12:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WFBT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 65237,
+          "votes_against": 2430,
+          "votes_abstain": 5,
+          "approval_pct": 96.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "溝上雅俊",
+          "votes_for": 63638,
+          "votes_against": 4034,
+          "votes_abstain": null,
+          "approval_pct": 94.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永井裕恭",
+          "votes_for": 65079,
+          "votes_against": 2593,
+          "votes_abstain": null,
+          "approval_pct": 96.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大田太佳生",
+          "votes_for": 64969,
+          "votes_against": 2703,
+          "votes_abstain": null,
+          "approval_pct": 96.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "市川雅彦",
+          "votes_for": 65048,
+          "votes_against": 2624,
+          "votes_abstain": null,
+          "approval_pct": 96.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柴田亮",
+          "votes_for": 65050,
+          "votes_against": 2622,
+          "votes_abstain": null,
+          "approval_pct": 96.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹中由重",
+          "votes_for": 65064,
+          "votes_against": 2608,
+          "votes_abstain": null,
+          "approval_pct": 96.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-07-26",
       "meeting_year": 2024,
       "doc_id": "S100U46Q",
@@ -60,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:01:09.167Z"
+  "updated_at": "2026-07-02T20:51:25.525Z"
 }

@@ -3,6 +3,75 @@
   "company_name": "ニッカトー",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W1HS",
+      "submit_date_time": "2025-06-23 09:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1HS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 76931,
+          "votes_against": 52,
+          "votes_abstain": null,
+          "approval_pct": 99.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大西宏司濱田悦男田邉絵理子大久保嘉太郎",
+          "votes_for": 75385762087661980000,
+          "votes_against": 969189100,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "土井祐二臼間真次田渕謙二",
+          "votes_for": 763567667576670,
+          "votes_against": 847783,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 76531,
+          "votes_against": 74,
+          "votes_abstain": null,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案役員賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 75787,
+          "votes_against": 142,
+          "votes_abstain": null,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TPD2",
@@ -72,5 +141,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:16:42.428Z"
+  "updated_at": "2026-07-02T22:14:03.920Z"
 }

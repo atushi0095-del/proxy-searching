@@ -3,6 +3,171 @@
   "company_name": "テルモ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W996",
+      "submit_date_time": "2025-06-30 13:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W996",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 12763472,
+          "votes_against": 3163,
+          "votes_abstain": 18458,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高木俊明",
+          "votes_for": 11819048,
+          "votes_against": 906543,
+          "votes_abstain": 59497,
+          "approval_pct": 92.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鮫島光",
+          "votes_for": 12271355,
+          "votes_against": 454227,
+          "votes_abstain": 59513,
+          "approval_pct": 95.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長田敏彦",
+          "votes_for": 12543818,
+          "votes_against": 176967,
+          "votes_abstain": 64312,
+          "approval_pct": 98.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "国元規正",
+          "votes_for": 12542342,
+          "votes_against": 178426,
+          "votes_abstain": 64328,
+          "approval_pct": 98.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西秀訓",
+          "votes_for": 12714651,
+          "votes_against": 51623,
+          "votes_abstain": 18826,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小澤敬也",
+          "votes_for": 12470484,
+          "votes_against": 295784,
+          "votes_abstain": 18826,
+          "approval_pct": 97.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小木曾麻里",
+          "votes_for": 12719690,
+          "votes_against": 46952,
+          "votes_abstain": 18458,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柴﨑崇紀",
+          "votes_for": 12157346,
+          "votes_against": 563426,
+          "votes_abstain": 64312,
+          "approval_pct": 95.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宇野総一郎",
+          "votes_for": 12713890,
+          "votes_against": 52376,
+          "votes_abstain": 18826,
+          "approval_pct": 99.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林敬子",
+          "votes_for": 12753290,
+          "votes_against": 12976,
+          "votes_abstain": 18826,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "古杉裕亮",
+          "votes_for": 12757684,
+          "votes_against": 8583,
+          "votes_abstain": 18826,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白ሽ麻子",
+          "votes_for": 12759285,
+          "votes_against": 6982,
+          "votes_abstain": 18826,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TZ6C",
@@ -144,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:13:47.610Z"
+  "updated_at": "2026-07-02T21:22:33.533Z"
 }

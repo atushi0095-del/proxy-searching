@@ -3,6 +3,111 @@
   "company_name": "ＲＩＺＡＰグループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAY2",
+      "submit_date_time": "2025-07-03 15:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAY2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "瀬戸健",
+          "votes_for": 4126895,
+          "votes_against": 127592,
+          "votes_abstain": 4,
+          "approval_pct": 97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塩田徹",
+          "votes_for": 4132050,
+          "votes_against": 122437,
+          "votes_abstain": 4,
+          "approval_pct": 97.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木隆之",
+          "votes_for": 4184614,
+          "votes_against": 69873,
+          "votes_abstain": 4,
+          "approval_pct": 98.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤田勉",
+          "votes_for": 4124563,
+          "votes_against": 129924,
+          "votes_abstain": 4,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松岡真宏",
+          "votes_for": 4119051,
+          "votes_against": 135436,
+          "votes_abstain": 4,
+          "approval_pct": 96.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "車谷暢昭",
+          "votes_for": 4117605,
+          "votes_against": 136882,
+          "votes_abstain": 4,
+          "approval_pct": 96.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 4197336,
+          "votes_against": 57222,
+          "votes_abstain": 4,
+          "approval_pct": 98.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 4188812,
+          "votes_against": 65857,
+          "votes_abstain": 4,
+          "approval_pct": 98.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TZOK",
@@ -132,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:09:39.950Z"
+  "updated_at": "2026-07-02T21:01:42.585Z"
 }

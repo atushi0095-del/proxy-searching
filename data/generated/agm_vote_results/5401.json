@@ -3,6 +3,195 @@
   "company_name": "日本製鉄",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W73H",
+      "submit_date_time": "2025-06-26 16:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W73H",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7443097,
+          "votes_against": 29295,
+          "votes_abstain": 479,
+          "approval_pct": 98.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本英二",
+          "votes_for": 7109476,
+          "votes_against": 360141,
+          "votes_abstain": 3483,
+          "approval_pct": 94.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今井正",
+          "votes_for": 6587553,
+          "votes_against": 880300,
+          "votes_abstain": 5248,
+          "approval_pct": 87.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森高弘",
+          "votes_for": 7354511,
+          "votes_against": 113306,
+          "votes_abstain": 5294,
+          "approval_pct": 97.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤直樹",
+          "votes_for": 7355767,
+          "votes_against": 112050,
+          "votes_abstain": 5294,
+          "approval_pct": 97.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣瀨孝",
+          "votes_for": 7355674,
+          "votes_against": 112143,
+          "votes_abstain": 5294,
+          "approval_pct": 97.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "船越弘文",
+          "votes_for": 7353758,
+          "votes_against": 114058,
+          "votes_abstain": 5294,
+          "approval_pct": 97.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "湊博之",
+          "votes_for": 7355545,
+          "votes_against": 112272,
+          "votes_abstain": 5294,
+          "approval_pct": 97.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤田展弘",
+          "votes_for": 7321639,
+          "votes_against": 146178,
+          "votes_abstain": 5294,
+          "approval_pct": 96.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "冨田哲郎",
+          "votes_for": 7181490,
+          "votes_against": 288098,
+          "votes_abstain": 3517,
+          "approval_pct": 94.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浦野邦子",
+          "votes_for": 7423926,
+          "votes_against": 49011,
+          "votes_abstain": 177,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6997754,
+          "votes_against": 302046,
+          "votes_abstain": 9062,
+          "approval_pct": 94.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 953817,
+          "votes_against": 6518429,
+          "votes_abstain": 1087,
+          "approval_pct": 86.19,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 283733,
+          "votes_against": 7024579,
+          "votes_abstain": 899,
+          "approval_pct": 94.95,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 730685,
+          "votes_against": 6742140,
+          "votes_abstain": 879,
+          "approval_pct": 89.15,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TSF3",
@@ -264,5 +453,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:06:46.957Z"
+  "updated_at": "2026-07-02T21:46:20.387Z"
 }

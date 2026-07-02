@@ -3,6 +3,123 @@
   "company_name": "ニコン",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W1PK",
+      "submit_date_time": "2025-07-02 15:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1PK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2453617,
+          "votes_against": 4392,
+          "votes_abstain": 0,
+          "approval_pct": 98.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "馬立稔和",
+          "votes_for": 2051737,
+          "votes_against": 110365,
+          "votes_abstain": 296023,
+          "approval_pct": 82.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "德成旨亮",
+          "votes_for": 2340938,
+          "votes_against": 117094,
+          "votes_abstain": 94,
+          "approval_pct": 93.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大村康弘",
+          "votes_for": 2450401,
+          "votes_against": 7635,
+          "votes_abstain": 94,
+          "approval_pct": 98.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "蛭田史郎",
+          "votes_for": 2130489,
+          "votes_against": 38944,
+          "votes_abstain": 288697,
+          "approval_pct": 85.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "立岡恒良",
+          "votes_for": 2446841,
+          "votes_against": 11195,
+          "votes_abstain": 94,
+          "approval_pct": 98.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中田卓也",
+          "votes_for": 2452750,
+          "votes_against": 5287,
+          "votes_abstain": 94,
+          "approval_pct": 98.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "萩原哲",
+          "votes_for": 2428157,
+          "votes_against": 29877,
+          "votes_abstain": 0,
+          "approval_pct": 97.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "千葉通子",
+          "votes_for": 2451725,
+          "votes_against": 6311,
+          "votes_abstain": 0,
+          "approval_pct": 98.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-24",
       "meeting_year": 2024,
       "doc_id": "S100TP8M",
@@ -156,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:58:34.936Z"
+  "updated_at": "2026-07-02T21:03:33.324Z"
 }

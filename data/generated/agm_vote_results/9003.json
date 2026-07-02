@@ -3,6 +3,123 @@
   "company_name": "相鉄ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAXO",
+      "submit_date_time": "2025-07-04 10:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAXO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 609881,
+          "votes_against": 2166,
+          "votes_abstain": null,
+          "approval_pct": 97.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 609867,
+          "votes_against": 2190,
+          "votes_abstain": null,
+          "approval_pct": 97.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "滝澤秀之",
+          "votes_for": 592936,
+          "votes_against": 19050,
+          "votes_abstain": null,
+          "approval_pct": 94.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤尊正",
+          "votes_for": 604735,
+          "votes_against": 7251,
+          "votes_abstain": null,
+          "approval_pct": 96.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤亮一",
+          "votes_for": 605181,
+          "votes_against": 6805,
+          "votes_abstain": null,
+          "approval_pct": 96.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣瀨佳恵",
+          "votes_for": 605211,
+          "votes_against": 6775,
+          "votes_abstain": null,
+          "approval_pct": 96.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "恩地祥光",
+          "votes_for": 595390,
+          "votes_against": 16597,
+          "votes_abstain": null,
+          "approval_pct": 95.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤川裕紀子",
+          "votes_for": 596089,
+          "votes_against": 15898,
+          "votes_abstain": null,
+          "approval_pct": 95.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芳仲美惠子",
+          "votes_for": 607870,
+          "votes_against": 4117,
+          "votes_abstain": null,
+          "approval_pct": 97.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZFP",
@@ -120,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:10:23.051Z"
+  "updated_at": "2026-07-02T21:00:52.507Z"
 }

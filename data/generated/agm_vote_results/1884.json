@@ -3,6 +3,123 @@
   "company_name": "日本道路",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W8V3",
+      "submit_date_time": "2025-06-27 15:51",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8V3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井敏行",
+          "votes_for": 342337,
+          "votes_against": 47560,
+          "votes_abstain": 189,
+          "approval_pct": 87.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "兵藤政和",
+          "votes_for": 368615,
+          "votes_against": 21284,
+          "votes_abstain": 189,
+          "approval_pct": 94.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤馨",
+          "votes_for": 379868,
+          "votes_against": 10031,
+          "votes_abstain": 189,
+          "approval_pct": 97.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙杉丈之",
+          "votes_for": 372050,
+          "votes_against": 17849,
+          "votes_abstain": 189,
+          "approval_pct": 95.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河西俊彦",
+          "votes_for": 379878,
+          "votes_against": 10021,
+          "votes_abstain": 189,
+          "approval_pct": 97.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森村望",
+          "votes_for": 380208,
+          "votes_against": 9691,
+          "votes_abstain": 189,
+          "approval_pct": 97.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小棹ふみ子",
+          "votes_for": 380179,
+          "votes_against": 9720,
+          "votes_abstain": 189,
+          "approval_pct": 97.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "友野直子",
+          "votes_for": 385401,
+          "votes_against": 4499,
+          "votes_abstain": 189,
+          "approval_pct": 98.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂上彦太郎",
+          "votes_for": 381348,
+          "votes_against": 8749,
+          "votes_abstain": 189,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TR7J",
@@ -168,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:11:51.257Z"
+  "updated_at": "2026-07-02T21:31:37.639Z"
 }

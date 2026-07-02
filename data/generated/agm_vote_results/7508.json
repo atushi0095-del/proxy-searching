@@ -3,6 +3,135 @@
   "company_name": "Ｇ－７ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9Z5",
+      "submit_date_time": "2025-06-30 17:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9Z5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金田達三",
+          "votes_for": 332499,
+          "votes_against": 26655,
+          "votes_abstain": 0,
+          "approval_pct": 85.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岸本安正",
+          "votes_for": 328469,
+          "votes_against": 30685,
+          "votes_abstain": 0,
+          "approval_pct": 84.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松田幸俊",
+          "votes_for": 351909,
+          "votes_against": 7245,
+          "votes_abstain": 0,
+          "approval_pct": 90.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "関大作",
+          "votes_for": 352001,
+          "votes_against": 7153,
+          "votes_abstain": 0,
+          "approval_pct": 90.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "玉木功",
+          "votes_for": 351991,
+          "votes_against": 7163,
+          "votes_abstain": 0,
+          "approval_pct": 90.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野口真一",
+          "votes_for": 350236,
+          "votes_against": 8918,
+          "votes_abstain": 0,
+          "approval_pct": 89.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂本充",
+          "votes_for": 318577,
+          "votes_against": 40577,
+          "votes_abstain": 0,
+          "approval_pct": 81.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "志田幸宏",
+          "votes_for": 351714,
+          "votes_against": 7440,
+          "votes_abstain": 0,
+          "approval_pct": 90.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤康彦",
+          "votes_for": 343673,
+          "votes_against": 15481,
+          "votes_abstain": 0,
+          "approval_pct": 88.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "米田耕士",
+          "votes_for": 352429,
+          "votes_against": 6725,
+          "votes_abstain": 0,
+          "approval_pct": 90.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ4J",
@@ -156,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:14:02.260Z"
+  "updated_at": "2026-07-02T21:14:09.612Z"
 }

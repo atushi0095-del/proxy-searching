@@ -3,6 +3,159 @@
   "company_name": "清水銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W86O",
+      "submit_date_time": "2025-06-27 12:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W86O",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 91504,
+          "votes_against": 500,
+          "votes_abstain": 0,
+          "approval_pct": 98.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩山靖宏",
+          "votes_for": 72543,
+          "votes_against": 19537,
+          "votes_abstain": 0,
+          "approval_pct": 78.01,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "望月文人",
+          "votes_for": 78383,
+          "votes_against": 13697,
+          "votes_abstain": 0,
+          "approval_pct": 84.29,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "豊島勝一郎",
+          "votes_for": 79503,
+          "votes_against": 12577,
+          "votes_abstain": 0,
+          "approval_pct": 85.49,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平岩将",
+          "votes_for": 87320,
+          "votes_against": 4760,
+          "votes_abstain": 0,
+          "approval_pct": 93.9,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "深澤亘英",
+          "votes_for": 87343,
+          "votes_against": 4737,
+          "votes_abstain": 0,
+          "approval_pct": 93.92,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "東惠子",
+          "votes_for": 87133,
+          "votes_against": 4947,
+          "votes_abstain": 0,
+          "approval_pct": 93.7,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河野誠",
+          "votes_for": 88964,
+          "votes_against": 3116,
+          "votes_abstain": 0,
+          "approval_pct": 95.67,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉山髙広",
+          "votes_for": 89948,
+          "votes_against": 2132,
+          "votes_abstain": 0,
+          "approval_pct": 96.72,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "八木真樹",
+          "votes_for": 91596,
+          "votes_against": 484,
+          "votes_abstain": 0,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大木康正",
+          "votes_for": 91595,
+          "votes_against": 485,
+          "votes_abstain": 0,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前田邦彦",
+          "votes_for": 91573,
+          "votes_against": 507,
+          "votes_abstain": 0,
+          "approval_pct": 98.47,
+          "approval_pct_source": "reported",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TRXA",
@@ -204,5 +357,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:08:19.838Z"
+  "updated_at": "2026-07-02T21:38:56.981Z"
 }

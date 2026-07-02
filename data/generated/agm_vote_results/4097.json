@@ -3,6 +3,135 @@
   "company_name": "高圧ガス工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W56F",
+      "submit_date_time": "2025-06-25 10:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W56F",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 470419,
+          "votes_against": 21106,
+          "votes_abstain": 0,
+          "approval_pct": 95.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "黒木幹也",
+          "votes_for": 443031,
+          "votes_against": 48494,
+          "votes_abstain": 0,
+          "approval_pct": 90.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "説田和洋",
+          "votes_for": 448482,
+          "votes_against": 43043,
+          "votes_abstain": 0,
+          "approval_pct": 91.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森本孝",
+          "votes_for": 454069,
+          "votes_against": 37456,
+          "votes_abstain": 0,
+          "approval_pct": 92.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "池田佳弘",
+          "votes_for": 454071,
+          "votes_against": 37454,
+          "votes_abstain": 0,
+          "approval_pct": 92.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中野健次",
+          "votes_for": 420638,
+          "votes_against": 70887,
+          "votes_abstain": 0,
+          "approval_pct": 85.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松井良祐",
+          "votes_for": 453289,
+          "votes_against": 38236,
+          "votes_abstain": 0,
+          "approval_pct": 92.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山村忠夫",
+          "votes_for": 486691,
+          "votes_against": 4834,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "長島広明",
+          "votes_for": 478755,
+          "votes_against": 12769,
+          "votes_abstain": 0,
+          "approval_pct": 97.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "西片和代",
+          "votes_for": 486938,
+          "votes_against": 4587,
+          "votes_abstain": 0,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TTS7",
@@ -96,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:02:49.171Z"
+  "updated_at": "2026-07-02T22:02:38.137Z"
 }

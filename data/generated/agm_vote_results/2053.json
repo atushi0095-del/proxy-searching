@@ -3,6 +3,111 @@
   "company_name": "中部飼料",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W7NH",
+      "submit_date_time": "2025-06-26 16:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7NH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 244599,
+          "votes_against": 382,
+          "votes_abstain": 29,
+          "approval_pct": 99.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤田京一",
+          "votes_for": 237922,
+          "votes_against": 7077,
+          "votes_abstain": 11,
+          "approval_pct": 97.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤敏宏",
+          "votes_for": 237683,
+          "votes_against": 7316,
+          "votes_abstain": 11,
+          "approval_pct": 97.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "全屋和夫",
+          "votes_for": 238014,
+          "votes_against": 6985,
+          "votes_abstain": 11,
+          "approval_pct": 97.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平野晴信",
+          "votes_for": 237110,
+          "votes_against": 7889,
+          "votes_abstain": 11,
+          "approval_pct": 96.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "亀井淳",
+          "votes_for": 237333,
+          "votes_against": 7666,
+          "votes_abstain": 11,
+          "approval_pct": 96.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柴田由紀",
+          "votes_for": 237716,
+          "votes_against": 7283,
+          "votes_abstain": 11,
+          "approval_pct": 97.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "束村博子",
+          "votes_for": 243280,
+          "votes_against": 1719,
+          "votes_abstain": 11,
+          "approval_pct": 99.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TV13",
@@ -120,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:56:03.872Z"
+  "updated_at": "2026-07-02T21:46:04.409Z"
 }

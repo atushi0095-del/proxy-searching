@@ -3,6 +3,159 @@
   "company_name": "ＳＢＩアルヒ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W5YO",
+      "submit_date_time": "2025-06-25 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5YO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 363648,
+          "votes_against": 1371,
+          "votes_abstain": null,
+          "approval_pct": 99.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 361145,
+          "votes_against": 3874,
+          "votes_abstain": null,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉村猛",
+          "votes_for": 335439,
+          "votes_against": 29580,
+          "votes_abstain": null,
+          "approval_pct": 91.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊久間努",
+          "votes_for": 331320,
+          "votes_against": 33699,
+          "votes_abstain": null,
+          "approval_pct": 90.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "高橋和彦",
+          "votes_for": 353146,
+          "votes_against": 11873,
+          "votes_abstain": null,
+          "approval_pct": 96.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "馬場康弘",
+          "votes_for": 357225,
+          "votes_against": 7794,
+          "votes_abstain": null,
+          "approval_pct": 97.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "柳澤美佳",
+          "votes_for": 356696,
+          "votes_against": 8323,
+          "votes_abstain": null,
+          "approval_pct": 97.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "角野里奈（戸籍上の氏名：岡田里奈）",
+          "votes_for": 356216,
+          "votes_against": 8803,
+          "votes_abstain": null,
+          "approval_pct": 97.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小塩勇",
+          "votes_for": 356876,
+          "votes_against": 8143,
+          "votes_abstain": null,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役（監査等委員である取締役を除く。）の報酬額設定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 354293,
+          "votes_against": 10726,
+          "votes_abstain": null,
+          "approval_pct": 97.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案監査等委員である取締役の報酬額設定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 354702,
+          "votes_against": 10317,
+          "votes_abstain": null,
+          "approval_pct": 97.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案取締役（監査等委員である取締役及び社外取締役を除く。）に対する株式報酬制度設定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 353871,
+          "votes_against": 11148,
+          "votes_abstain": null,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TRAR",
@@ -108,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:10:50.996Z"
+  "updated_at": "2026-07-02T21:58:31.433Z"
 }

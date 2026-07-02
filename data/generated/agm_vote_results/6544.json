@@ -3,6 +3,87 @@
   "company_name": "ジャパンエレベーターサービスホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W65U",
+      "submit_date_time": "2025-06-25 16:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W65U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 820753,
+          "votes_against": 388,
+          "votes_abstain": 0,
+          "approval_pct": 99.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石田克史",
+          "votes_for": 815166,
+          "votes_against": 6040,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今村公彦",
+          "votes_for": 810996,
+          "votes_against": 10210,
+          "votes_abstain": 0,
+          "approval_pct": 98.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邊仁",
+          "votes_for": 760374,
+          "votes_against": 60832,
+          "votes_abstain": 0,
+          "approval_pct": 92.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "遠藤典子（戸籍上の氏名：辻廣典子）",
+          "votes_for": 813046,
+          "votes_against": 8160,
+          "votes_abstain": 0,
+          "approval_pct": 99.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "矢野美佳",
+          "votes_for": 820050,
+          "votes_against": 1156,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQJN",
@@ -120,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:12:35.444Z"
+  "updated_at": "2026-07-02T21:56:15.851Z"
 }

@@ -3,6 +3,159 @@
   "company_name": "武蔵精密工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W8Y9",
+      "submit_date_time": "2025-06-27 16:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8Y9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 536250,
+          "votes_against": 280,
+          "votes_abstain": 944,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大塚浩史",
+          "votes_for": 517152,
+          "votes_against": 19377,
+          "votes_abstain": 944,
+          "approval_pct": 96.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "トレーシー・シビル",
+          "votes_for": 518162,
+          "votes_against": 18367,
+          "votes_abstain": 944,
+          "approval_pct": 96.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森崎健司",
+          "votes_for": 517943,
+          "votes_against": 18586,
+          "votes_abstain": 944,
+          "approval_pct": 96.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宗像義恵",
+          "votes_for": 526804,
+          "votes_against": 9725,
+          "votes_abstain": 944,
+          "approval_pct": 98.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神野吾郎",
+          "votes_for": 402965,
+          "votes_against": 133562,
+          "votes_abstain": 944,
+          "approval_pct": 74.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ハリ・ネアー",
+          "votes_for": 526627,
+          "votes_against": 9902,
+          "votes_abstain": 944,
+          "approval_pct": 97.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "富松圭介",
+          "votes_for": 413364,
+          "votes_against": 123163,
+          "votes_abstain": 944,
+          "approval_pct": 76.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野塚惠美",
+          "votes_for": 527201,
+          "votes_against": 9328,
+          "votes_abstain": 944,
+          "approval_pct": 98.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本麻記子",
+          "votes_for": 527261,
+          "votes_against": 9268,
+          "votes_abstain": 944,
+          "approval_pct": 98.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺尚",
+          "votes_for": 536327,
+          "votes_against": 203,
+          "votes_abstain": 944,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 535944,
+          "votes_against": 586,
+          "votes_abstain": 944,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXSN",
@@ -132,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:32:43.051Z"
+  "updated_at": "2026-07-02T21:29:53.343Z"
 }

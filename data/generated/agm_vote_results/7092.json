@@ -3,6 +3,99 @@
   "company_name": "Ｆａｓｔ　Ｆｉｔｎｅｓｓ　Ｊａｐａｎ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W2LE",
+      "submit_date_time": "2025-06-24 17:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2LE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大熊章",
+          "votes_for": 146136,
+          "votes_against": 1139,
+          "votes_abstain": 14040,
+          "approval_pct": 81.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山部清明",
+          "votes_for": 146290,
+          "votes_against": 985,
+          "votes_abstain": 14040,
+          "approval_pct": 81.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "植平光彦",
+          "votes_for": 146329,
+          "votes_against": 946,
+          "votes_abstain": 14040,
+          "approval_pct": 82.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大井幸子",
+          "votes_for": 146328,
+          "votes_against": 947,
+          "votes_abstain": 14040,
+          "approval_pct": 82.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保田浩文",
+          "votes_for": 146697,
+          "votes_against": 14617,
+          "votes_abstain": 0,
+          "approval_pct": 82.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濱岡正己",
+          "votes_for": 146680,
+          "votes_against": 14634,
+          "votes_abstain": 0,
+          "approval_pct": 82.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "酒井大輔",
+          "votes_for": 146713,
+          "votes_against": 14601,
+          "votes_abstain": 0,
+          "approval_pct": 82.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TW9E",
@@ -72,5 +165,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:46:37.181Z"
+  "updated_at": "2026-07-02T22:04:02.142Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "アドバネクス",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WALC",
+      "submit_date_time": "2025-07-02 11:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WALC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 26500,
+          "votes_against": 4700,
+          "votes_abstain": 0,
+          "approval_pct": 84.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "朝田英太郎",
+          "votes_for": 26380,
+          "votes_against": 4821,
+          "votes_abstain": 0,
+          "approval_pct": 84.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉原哲也",
+          "votes_for": 26412,
+          "votes_against": 4789,
+          "votes_abstain": 0,
+          "approval_pct": 84.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加藤精也",
+          "votes_for": 26427,
+          "votes_against": 4774,
+          "votes_abstain": 0,
+          "approval_pct": 84.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "杉井孝",
+          "votes_for": 26374,
+          "votes_against": 4827,
+          "votes_abstain": 0,
+          "approval_pct": 84.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "新田都志子",
+          "votes_for": 26389,
+          "votes_against": 4812,
+          "votes_abstain": 0,
+          "approval_pct": 84.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "岩本生",
+          "votes_for": 26395,
+          "votes_against": 4807,
+          "votes_abstain": 0,
+          "approval_pct": 84.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ1X",
@@ -108,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:14:45.666Z"
+  "updated_at": "2026-07-02T21:05:04.418Z"
 }

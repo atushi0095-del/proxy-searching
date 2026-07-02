@@ -1,0 +1,100 @@
+{
+  "company_code": "6850",
+  "company_name": "チノー",
+  "meetings": [
+    {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA20",
+      "submit_date_time": "2025-07-01 09:26",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA20",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "豊田三喜男",
+          "votes_for": 57775,
+          "votes_against": 551,
+          "votes_abstain": 0,
+          "approval_pct": 98.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西口明彦",
+          "votes_for": 57891,
+          "votes_against": 435,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松岡学",
+          "votes_for": 57969,
+          "votes_against": 357,
+          "votes_abstain": 0,
+          "approval_pct": 99.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三木幸信",
+          "votes_for": 57944,
+          "votes_against": 382,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡真利千恵",
+          "votes_for": 57968,
+          "votes_against": 358,
+          "votes_abstain": 0,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野塚邦子",
+          "votes_for": 57981,
+          "votes_against": 345,
+          "votes_abstain": 0,
+          "approval_pct": 99.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 58062,
+          "votes_against": 306,
+          "votes_abstain": 6,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T21:13:05.025Z"
+}

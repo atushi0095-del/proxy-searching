@@ -3,6 +3,75 @@
   "company_name": "太陽ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-21",
+      "meeting_year": 2025,
+      "doc_id": "S100W30H",
+      "submit_date_time": "2025-06-23 17:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W30H",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案資本準備金及び利益準備金の額の減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 328219,
+          "votes_against": 170562,
+          "votes_abstain": 5467,
+          "approval_pct": 64.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件佐藤英志齋藤斉土屋恵子丸山みさえ",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 2.345574246263734e+23,
+          "votes_against": 264215741461253600000,
+          "votes_abstain": 5467546754675467,
+          "approval_pct": 46.09,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件嶋村紀明",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 490062,
+          "votes_against": 8656,
+          "votes_abstain": 5467,
+          "approval_pct": 96.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役佐藤英志氏解任の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 253802,
+          "votes_against": 249328,
+          "votes_abstain": 5467,
+          "approval_pct": 49.9,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役髙野聖史氏解任の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 124284,
+          "votes_against": 374225,
+          "votes_abstain": 5467,
+          "approval_pct": 24.44,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-15",
       "meeting_year": 2024,
       "doc_id": "S100TMO6",
@@ -108,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:27:19.111Z"
+  "updated_at": "2026-07-02T22:09:09.930Z"
 }

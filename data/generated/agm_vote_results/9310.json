@@ -3,6 +3,111 @@
   "company_name": "日本トランスシティ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W97C",
+      "submit_date_time": "2025-06-30 09:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W97C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 524843,
+          "votes_against": 1210,
+          "votes_abstain": 0,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安藤仁",
+          "votes_for": 474633,
+          "votes_against": 51470,
+          "votes_abstain": 0,
+          "approval_pct": 90.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "青井光大",
+          "votes_for": 524160,
+          "votes_against": 1945,
+          "votes_abstain": 0,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中克典",
+          "votes_for": 524156,
+          "votes_against": 1949,
+          "votes_abstain": 0,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小川謙",
+          "votes_for": 522668,
+          "votes_against": 3437,
+          "votes_abstain": 0,
+          "approval_pct": 99.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "豊田長康",
+          "votes_for": 523805,
+          "votes_against": 2300,
+          "votes_abstain": 0,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "武内彦司",
+          "votes_for": 523736,
+          "votes_against": 2369,
+          "votes_abstain": 0,
+          "approval_pct": 99.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "出口綾子",
+          "votes_for": 523893,
+          "votes_against": 2212,
+          "votes_abstain": 0,
+          "approval_pct": 99.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXGY",
@@ -72,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:39:36.444Z"
+  "updated_at": "2026-07-02T21:27:37.899Z"
 }

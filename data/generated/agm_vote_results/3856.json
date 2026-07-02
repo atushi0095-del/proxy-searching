@@ -1,0 +1,64 @@
+{
+  "company_code": "3856",
+  "company_name": "Ａｂａｌａｎｃｅ",
+  "meetings": [
+    {
+      "meeting_date": "2025-06-28",
+      "meeting_year": 2025,
+      "doc_id": "S100W99O",
+      "submit_date_time": "2025-06-30 16:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W99O",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 82432,
+          "votes_against": 5549,
+          "votes_abstain": 0,
+          "approval_pct": 93.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "国本亮一龍潤生藤澤元晴柴田一泰橋本公一",
+          "votes_for": 8.247882392824198e+24,
+          "votes_against": 55055591556454425000,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員でない取締役の報酬の額決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 81583,
+          "votes_against": 6398,
+          "votes_abstain": 0,
+          "approval_pct": 92.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役の報酬の額決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 81658,
+          "votes_against": 6325,
+          "votes_abstain": 0,
+          "approval_pct": 92.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T21:15:47.797Z"
+}

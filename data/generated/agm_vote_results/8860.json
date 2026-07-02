@@ -3,6 +3,123 @@
   "company_name": "フジ住宅",
   "meetings": [
     {
+      "meeting_date": "2025-06-18",
+      "meeting_year": 2025,
+      "doc_id": "S100W188",
+      "submit_date_time": "2025-06-26 10:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W188",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 276969,
+          "votes_against": 1191,
+          "votes_abstain": null,
+          "approval_pct": 99.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今井光郎",
+          "votes_for": 231829,
+          "votes_against": 46341,
+          "votes_abstain": null,
+          "approval_pct": 83.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮脇宣綱",
+          "votes_for": 231298,
+          "votes_against": 46872,
+          "votes_abstain": null,
+          "approval_pct": 82.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田光次郎",
+          "votes_for": 266675,
+          "votes_against": 11495,
+          "votes_abstain": null,
+          "approval_pct": 95.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松山陽一",
+          "votes_for": 266697,
+          "votes_against": 11473,
+          "votes_abstain": null,
+          "approval_pct": 95.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石本賢一",
+          "votes_for": 266450,
+          "votes_against": 11720,
+          "votes_abstain": null,
+          "approval_pct": 95.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩井伸太郎",
+          "votes_for": 241482,
+          "votes_against": 36688,
+          "votes_abstain": null,
+          "approval_pct": 86.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村慶子",
+          "votes_for": 266615,
+          "votes_against": 11555,
+          "votes_abstain": null,
+          "approval_pct": 95.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 239873,
+          "votes_against": 38307,
+          "votes_abstain": null,
+          "approval_pct": 86.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TQEA",
@@ -120,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:16:39.988Z"
+  "updated_at": "2026-07-02T21:53:32.853Z"
 }

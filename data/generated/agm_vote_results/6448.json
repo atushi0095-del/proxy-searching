@@ -3,6 +3,147 @@
   "company_name": "ブラザー工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W7BD",
+      "submit_date_time": "2025-06-26 15:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7BD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池利和",
+          "votes_for": 1893607,
+          "votes_against": 115723,
+          "votes_abstain": 8492,
+          "approval_pct": 92.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田和史",
+          "votes_for": 1969129,
+          "votes_against": 47595,
+          "votes_abstain": 1099,
+          "approval_pct": 96.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石黒雅",
+          "votes_for": 1974086,
+          "votes_against": 42644,
+          "votes_abstain": 1099,
+          "approval_pct": 96.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "桑原悟",
+          "votes_for": 1978185,
+          "votes_against": 38545,
+          "votes_abstain": 1099,
+          "approval_pct": 96.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村上泰三",
+          "votes_for": 1978172,
+          "votes_against": 38558,
+          "votes_abstain": 1099,
+          "approval_pct": 96.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹内敬介",
+          "votes_for": 1985570,
+          "votes_against": 31160,
+          "votes_abstain": 1099,
+          "approval_pct": 96.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白井文",
+          "votes_for": 2000898,
+          "votes_against": 15832,
+          "votes_abstain": 1099,
+          "approval_pct": 97.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内田和成",
+          "votes_for": 1985465,
+          "votes_against": 31265,
+          "votes_abstain": 1099,
+          "approval_pct": 96.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "日髙直輝",
+          "votes_for": 1987275,
+          "votes_against": 29455,
+          "votes_abstain": 1099,
+          "approval_pct": 97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮木正彦",
+          "votes_for": 1987350,
+          "votes_against": 29380,
+          "votes_abstain": 1099,
+          "approval_pct": 97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赤松育子",
+          "votes_for": 2016505,
+          "votes_against": 384,
+          "votes_abstain": 1099,
+          "approval_pct": 98.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TT49",
@@ -156,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:02:54.088Z"
+  "updated_at": "2026-07-02T21:48:02.943Z"
 }

@@ -3,6 +3,75 @@
   "company_name": "ポート",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2NT",
+      "submit_date_time": "2025-06-23 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2NT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案資本金の額の減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 81290,
+          "votes_against": 1094,
+          "votes_abstain": 303,
+          "approval_pct": 98.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 81533,
+          "votes_against": 851,
+          "votes_abstain": 303,
+          "approval_pct": 98.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "春日博文",
+          "votes_for": 81118,
+          "votes_against": 1266,
+          "votes_abstain": 303,
+          "approval_pct": 98.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "丸山侑佑",
+          "votes_for": 81313,
+          "votes_against": 1071,
+          "votes_abstain": 303,
+          "approval_pct": 98.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "木村由美",
+          "votes_for": 81514,
+          "votes_against": 870,
+          "votes_abstain": 303,
+          "approval_pct": 98.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TPI2",
@@ -96,5 +165,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:18:34.129Z"
+  "updated_at": "2026-07-02T22:10:34.553Z"
 }

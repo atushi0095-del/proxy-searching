@@ -3,6 +3,123 @@
   "company_name": "ＷＯＷＯＷ",
   "meetings": [
     {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100W100",
+      "submit_date_time": "2025-06-20 11:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W100",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 232463,
+          "votes_against": 7550,
+          "votes_abstain": 0,
+          "approval_pct": 96.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中晃",
+          "votes_for": 207660,
+          "votes_against": 32364,
+          "votes_abstain": 0,
+          "approval_pct": 86.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本均",
+          "votes_for": 214990,
+          "votes_against": 25034,
+          "votes_abstain": 0,
+          "approval_pct": 89.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾上純一",
+          "votes_for": 230905,
+          "votes_against": 9119,
+          "votes_abstain": 0,
+          "approval_pct": 96.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井原多美",
+          "votes_for": 237707,
+          "votes_against": 2317,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大友淳",
+          "votes_for": 216121,
+          "votes_against": 23903,
+          "votes_abstain": 0,
+          "approval_pct": 89.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水賢治",
+          "votes_for": 214978,
+          "votes_against": 25046,
+          "votes_abstain": 0,
+          "approval_pct": 89.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永井聖士",
+          "votes_for": 229414,
+          "votes_against": 10610,
+          "votes_abstain": 0,
+          "approval_pct": 95.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本達夫",
+          "votes_for": 232549,
+          "votes_against": 7475,
+          "votes_abstain": 0,
+          "approval_pct": 96.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TOE0",
@@ -156,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:21:02.606Z"
+  "updated_at": "2026-07-02T22:17:12.456Z"
 }

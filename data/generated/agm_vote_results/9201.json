@@ -3,6 +3,183 @@
   "company_name": "日本航空",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W604",
+      "submit_date_time": "2025-06-25 15:40",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W604",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2767925,
+          "votes_against": 11115,
+          "votes_abstain": 963,
+          "approval_pct": 98.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2762697,
+          "votes_against": 16345,
+          "votes_abstain": 963,
+          "approval_pct": 98.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赤坂祐二",
+          "votes_for": 2497814,
+          "votes_against": 277583,
+          "votes_abstain": 4506,
+          "approval_pct": 89.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鳥取三津子",
+          "votes_for": 2704721,
+          "votes_against": 70670,
+          "votes_abstain": 4506,
+          "approval_pct": 96.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "斎藤祐二",
+          "votes_for": 2718161,
+          "votes_against": 60777,
+          "votes_abstain": 963,
+          "approval_pct": 96.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青木紀将",
+          "votes_for": 2744058,
+          "votes_against": 34882,
+          "votes_abstain": 963,
+          "approval_pct": 97.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柏頼之",
+          "votes_for": 2743588,
+          "votes_against": 35352,
+          "votes_abstain": 963,
+          "approval_pct": 97.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川由起夫",
+          "votes_for": 2742952,
+          "votes_against": 35988,
+          "votes_abstain": 963,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柳弘之",
+          "votes_for": 2745139,
+          "votes_against": 33801,
+          "votes_abstain": 963,
+          "approval_pct": 97.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三屋裕子",
+          "votes_for": 2751638,
+          "votes_against": 27303,
+          "votes_abstain": 963,
+          "approval_pct": 98.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菰田正信",
+          "votes_for": 2587426,
+          "votes_against": 191512,
+          "votes_abstain": 963,
+          "approval_pct": 92.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田村亮",
+          "votes_for": 2753446,
+          "votes_against": 25312,
+          "votes_abstain": 963,
+          "approval_pct": 98.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 207209,
+          "votes_against": 2569769,
+          "votes_abstain": 1639,
+          "approval_pct": 92.62,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 294797,
+          "votes_against": 2482503,
+          "votes_abstain": 1642,
+          "approval_pct": 89.5,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-18",
       "meeting_year": 2024,
       "doc_id": "S100TNZ3",
@@ -156,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:24:45.801Z"
+  "updated_at": "2026-07-02T21:57:45.686Z"
 }

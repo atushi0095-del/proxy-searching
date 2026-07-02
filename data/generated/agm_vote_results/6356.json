@@ -3,6 +3,123 @@
   "company_name": "日本ギア工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W77I",
+      "submit_date_time": "2025-06-26 14:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W77I",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 98436,
+          "votes_against": 1722,
+          "votes_abstain": null,
+          "approval_pct": 98.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "寺田治夫",
+          "votes_for": 93571,
+          "votes_against": 6592,
+          "votes_abstain": null,
+          "approval_pct": 93.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林秀樹",
+          "votes_for": 98904,
+          "votes_against": 1259,
+          "votes_abstain": null,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "香川明久",
+          "votes_for": 98850,
+          "votes_against": 1313,
+          "votes_abstain": null,
+          "approval_pct": 98.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "沖田芳樹",
+          "votes_for": 99110,
+          "votes_against": 1053,
+          "votes_abstain": null,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西村至",
+          "votes_for": 99170,
+          "votes_against": 993,
+          "votes_abstain": null,
+          "approval_pct": 98.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "植垣淳哉",
+          "votes_for": 99163,
+          "votes_against": 1000,
+          "votes_abstain": null,
+          "approval_pct": 98.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鶴見肇",
+          "votes_for": 99122,
+          "votes_against": 1041,
+          "votes_abstain": null,
+          "approval_pct": 98.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 97082,
+          "votes_against": 3081,
+          "votes_abstain": null,
+          "approval_pct": 96.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTZE",
@@ -108,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:01:30.140Z"
+  "updated_at": "2026-07-02T21:49:46.860Z"
 }

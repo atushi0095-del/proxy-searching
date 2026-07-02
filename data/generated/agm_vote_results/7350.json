@@ -3,6 +3,123 @@
   "company_name": "おきなわフィナンシャルグループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100WBKO",
+      "submit_date_time": "2025-07-07 14:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WBKO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 163813,
+          "votes_against": 6646,
+          "votes_abstain": 245,
+          "approval_pct": 95.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": "山城正保",
+          "votes_for": 159167,
+          "votes_against": 11294,
+          "votes_abstain": 243,
+          "approval_pct": 93.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": "伊波一也",
+          "votes_for": 168880,
+          "votes_against": 1581,
+          "votes_abstain": 243,
+          "approval_pct": 98.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": "山城貴子",
+          "votes_for": 169998,
+          "votes_against": 463,
+          "votes_abstain": 243,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐喜真裕",
+          "votes_for": 165985,
+          "votes_against": 4475,
+          "votes_abstain": 243,
+          "approval_pct": 97.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "村上尚子",
+          "votes_for": 169960,
+          "votes_against": 501,
+          "votes_abstain": 243,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "杉本健次",
+          "votes_for": 169943,
+          "votes_against": 518,
+          "votes_abstain": 243,
+          "approval_pct": 99.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "野崎聖子",
+          "votes_for": 160936,
+          "votes_against": 9525,
+          "votes_abstain": 243,
+          "approval_pct": 94.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "第4議案役員賞与支給の件",
+          "votes_for": 162178,
+          "votes_against": 8283,
+          "votes_abstain": 243,
+          "approval_pct": 95.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100U0ES",
@@ -72,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:07:56.686Z"
+  "updated_at": "2026-07-02T20:59:36.653Z"
 }

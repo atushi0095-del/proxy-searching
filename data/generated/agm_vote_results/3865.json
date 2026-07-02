@@ -3,6 +3,75 @@
   "company_name": "北越コーポレーション",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA5Q",
+      "submit_date_time": "2025-07-01 16:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA5Q",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1554254,
+          "votes_against": 65578,
+          "votes_abstain": 0,
+          "approval_pct": 95.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1619470,
+          "votes_against": 361,
+          "votes_abstain": 0,
+          "approval_pct": 99.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案岸本晢夫若本茂立花滋春柳澤誠石塚豊飯田智之岩田満泰中瀬一夫倉本博光二瓶ひろ子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 9.62720140697014e+68,
+          "votes_against": 6.571052128612129e+59,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1617395,
+          "votes_against": 2382,
+          "votes_abstain": 54,
+          "approval_pct": 99.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 866134,
+          "votes_against": 753698,
+          "votes_abstain": 0,
+          "approval_pct": 53.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZR6",
@@ -144,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:09:49.498Z"
+  "updated_at": "2026-07-02T21:07:03.171Z"
 }

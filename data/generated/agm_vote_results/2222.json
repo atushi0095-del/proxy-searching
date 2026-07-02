@@ -3,6 +3,99 @@
   "company_name": "寿スピリッツ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W53U",
+      "submit_date_time": "2025-06-26 09:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W53U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1350197,
+          "votes_against": 1523,
+          "votes_abstain": 176,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河越誠剛",
+          "votes_for": 1331744,
+          "votes_against": 20117,
+          "votes_abstain": 33,
+          "approval_pct": 98.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本真司",
+          "votes_for": 1327967,
+          "votes_against": 23894,
+          "votes_abstain": 33,
+          "approval_pct": 98.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "城内正行",
+          "votes_for": 1342848,
+          "votes_against": 9013,
+          "votes_abstain": 33,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阪本良一",
+          "votes_for": 1342675,
+          "votes_against": 9186,
+          "votes_abstain": 33,
+          "approval_pct": 99.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩田松雄",
+          "votes_for": 1340749,
+          "votes_against": 11111,
+          "votes_abstain": 33,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "好本惠",
+          "votes_for": 1341144,
+          "votes_against": 10716,
+          "votes_abstain": 33,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TVN4",
@@ -144,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:55:22.804Z"
+  "updated_at": "2026-07-02T21:54:19.186Z"
 }

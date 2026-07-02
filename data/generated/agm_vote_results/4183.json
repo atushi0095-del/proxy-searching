@@ -3,6 +3,135 @@
   "company_name": "三井化学",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W4SR",
+      "submit_date_time": "2025-06-25 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W4SR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1456977,
+          "votes_against": 1335,
+          "votes_abstain": 168,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "淡輪敏",
+          "votes_for": 1396182,
+          "votes_against": 62164,
+          "votes_abstain": 168,
+          "approval_pct": 94.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本修",
+          "votes_for": 1417253,
+          "votes_against": 37143,
+          "votes_abstain": 4117,
+          "approval_pct": 96.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安藤嘉規",
+          "votes_for": 1435831,
+          "votes_against": 22516,
+          "votes_abstain": 168,
+          "approval_pct": 97.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平原彰男",
+          "votes_for": 1433780,
+          "votes_against": 24566,
+          "votes_abstain": 168,
+          "approval_pct": 97.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "市村聡",
+          "votes_for": 1433949,
+          "votes_against": 24397,
+          "votes_abstain": 168,
+          "approval_pct": 97.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "馬渕晃",
+          "votes_for": 1453312,
+          "votes_against": 5035,
+          "votes_abstain": 168,
+          "approval_pct": 98.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三村孝仁",
+          "votes_for": 1453247,
+          "votes_against": 5100,
+          "votes_abstain": 168,
+          "approval_pct": 98.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木原民",
+          "votes_for": 1453792,
+          "votes_against": 4555,
+          "votes_abstain": 168,
+          "approval_pct": 98.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊地伸",
+          "votes_for": 1456327,
+          "votes_against": 2014,
+          "votes_abstain": 168,
+          "approval_pct": 98.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTPP",
@@ -132,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:03:03.934Z"
+  "updated_at": "2026-07-02T21:59:38.458Z"
 }

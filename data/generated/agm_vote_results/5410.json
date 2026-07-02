@@ -3,6 +3,27 @@
   "company_name": "合同製鐵",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W56C",
+      "submit_date_time": "2025-06-25 10:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W56C",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "福田隆樹",
+          "votes_for": 101062,
+          "votes_against": 1746,
+          "votes_abstain": 0,
+          "approval_pct": 98.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TU8H",
@@ -60,5 +81,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:00:49.994Z"
+  "updated_at": "2026-07-02T22:02:30.741Z"
 }

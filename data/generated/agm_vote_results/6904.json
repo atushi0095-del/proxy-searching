@@ -3,6 +3,111 @@
   "company_name": "原田工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9SK",
+      "submit_date_time": "2025-06-30 15:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9SK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 166858,
+          "votes_against": 1230,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案原田章二",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 163010,
+          "votes_against": 5101,
+          "votes_abstain": 0,
+          "approval_pct": 96.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案原田章二",
+          "proposal_category": "その他",
+          "candidate_name": "三宅康晴",
+          "votes_for": 163093,
+          "votes_against": 5018,
+          "votes_abstain": 0,
+          "approval_pct": 97.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案原田章二",
+          "proposal_category": "その他",
+          "candidate_name": "上山智",
+          "votes_for": 166218,
+          "votes_against": 1893,
+          "votes_abstain": 0,
+          "approval_pct": 98.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案原田章二",
+          "proposal_category": "その他",
+          "candidate_name": "佐々木徹",
+          "votes_for": 166260,
+          "votes_against": 1851,
+          "votes_abstain": 0,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案原田章二",
+          "proposal_category": "その他",
+          "candidate_name": "青木隆",
+          "votes_for": 166280,
+          "votes_against": 1831,
+          "votes_abstain": 0,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案原田章二",
+          "proposal_category": "その他",
+          "candidate_name": "桑原亨二",
+          "votes_for": 166157,
+          "votes_against": 1954,
+          "votes_abstain": 0,
+          "approval_pct": 98.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案原田章二",
+          "proposal_category": "その他",
+          "candidate_name": "井上謙介",
+          "votes_for": 166254,
+          "votes_against": 1857,
+          "votes_abstain": 0,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXGK",
@@ -36,5 +141,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:40:05.167Z"
+  "updated_at": "2026-07-02T21:18:25.102Z"
 }

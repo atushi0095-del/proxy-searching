@@ -3,6 +3,135 @@
   "company_name": "北國フィナンシャルホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-13",
+      "meeting_year": 2025,
+      "doc_id": "S100VYL2",
+      "submit_date_time": "2025-06-17 09:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VYL2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 168300,
+          "votes_against": 2052,
+          "votes_abstain": null,
+          "approval_pct": 96.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杖村修司",
+          "votes_for": 156531,
+          "votes_against": 13816,
+          "votes_abstain": null,
+          "approval_pct": 89.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井川武",
+          "votes_for": 169580,
+          "votes_against": 769,
+          "votes_abstain": null,
+          "approval_pct": 96.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊澤智彦",
+          "votes_for": 169569,
+          "votes_against": 780,
+          "votes_abstain": null,
+          "approval_pct": 96.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宇田左近",
+          "votes_for": 166526,
+          "votes_against": 3822,
+          "votes_abstain": null,
+          "approval_pct": 95.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芳賀文彦",
+          "votes_for": 169356,
+          "votes_against": 993,
+          "votes_abstain": null,
+          "approval_pct": 96.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横越亜紀",
+          "votes_for": 168621,
+          "votes_against": 1753,
+          "votes_abstain": null,
+          "approval_pct": 96.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田喜美枝",
+          "votes_for": 169828,
+          "votes_against": 548,
+          "votes_abstain": null,
+          "approval_pct": 96.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北原道夫",
+          "votes_for": 170012,
+          "votes_against": 365,
+          "votes_abstain": null,
+          "approval_pct": 97.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小宮山榮",
+          "votes_for": 170149,
+          "votes_against": 228,
+          "votes_abstain": null,
+          "approval_pct": 97.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-14",
       "meeting_year": 2024,
       "doc_id": "S100TN1M",
@@ -60,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:26:29.345Z"
+  "updated_at": "2026-07-02T22:21:19.205Z"
 }

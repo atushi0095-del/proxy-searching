@@ -1,0 +1,28 @@
+{
+  "company_code": "3762",
+  "company_name": "テクマトリックス",
+  "meetings": [
+    {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9VS",
+      "submit_date_time": "2025-06-30 16:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9VS",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐々木英之江幡奈歩平等弘二",
+          "votes_for": 263072304345303870,
+          "votes_against": 4283115582042,
+          "votes_abstain": 474474474,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T21:15:37.874Z"
+}

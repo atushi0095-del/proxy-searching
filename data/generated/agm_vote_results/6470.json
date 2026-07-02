@@ -3,6 +3,99 @@
   "company_name": "大豊工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100W0YR",
+      "submit_date_time": "2025-06-20 13:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0YR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新美俊生",
+          "votes_for": 211774,
+          "votes_against": 28399,
+          "votes_abstain": 0,
+          "approval_pct": 87.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "粟津滋喜",
+          "votes_for": 231083,
+          "votes_against": 9090,
+          "votes_abstain": 0,
+          "approval_pct": 95.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加納知広",
+          "votes_for": 231420,
+          "votes_against": 8753,
+          "votes_abstain": 0,
+          "approval_pct": 95.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤邦夫",
+          "votes_for": 227999,
+          "votes_against": 12174,
+          "votes_abstain": 0,
+          "approval_pct": 94.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩井善郎",
+          "votes_for": 231127,
+          "votes_against": 9046,
+          "votes_abstain": 0,
+          "approval_pct": 95.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芦原克宏",
+          "votes_for": 233495,
+          "votes_against": 6657,
+          "votes_abstain": 0,
+          "approval_pct": 96.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾形和哉",
+          "votes_for": 239687,
+          "votes_against": 485,
+          "votes_abstain": 0,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TP3X",
@@ -84,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:17:18.208Z"
+  "updated_at": "2026-07-02T22:16:35.972Z"
 }

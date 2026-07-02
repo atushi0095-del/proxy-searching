@@ -1,0 +1,88 @@
+{
+  "company_code": "9221",
+  "company_name": "フルハシＥＰＯ",
+  "meetings": [
+    {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W7I2",
+      "submit_date_time": "2025-06-26 15:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7I2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 95220,
+          "votes_against": 1393,
+          "votes_abstain": null,
+          "approval_pct": 98.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件山口直彦山口昭彦熊澤修次天野幹也上野徹",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 9.64219642296423e+24,
+          "votes_against": 19219119195195,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件水野信勝織田直子苅谷公平井上理津子",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 96419964239642790000,
+          "votes_against": 1941901862970,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役（監査等委員である取締役を除く。）の報酬等の額決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 96458,
+          "votes_against": 155,
+          "votes_abstain": null,
+          "approval_pct": 99.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査等委員である取締役の報酬等の額決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 96471,
+          "votes_against": 142,
+          "votes_abstain": null,
+          "approval_pct": 99.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役（監査等委員である取締役及び社外取締役を除く。）に対する譲渡制限付株式の付与のための報酬決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 96362,
+          "votes_against": 251,
+          "votes_abstain": null,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T21:47:24.864Z"
+}

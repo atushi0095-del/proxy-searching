@@ -3,6 +3,63 @@
   "company_name": "飯野海運",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W45A",
+      "submit_date_time": "2025-06-30 13:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W45A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 937067,
+          "votes_against": 1519,
+          "votes_abstain": null,
+          "approval_pct": 99.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案大谷祐介鮒子田修藤村誠一保木裕二三好真理野々村智範髙橋静代姫野毅",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 9.02526914887915e+47,
+          "votes_against": 3.607123710237042e+39,
+          "votes_abstain": null,
+          "approval_pct": 95.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 882198,
+          "votes_against": 56417,
+          "votes_abstain": null,
+          "approval_pct": 93.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 654715,
+          "votes_against": 283905,
+          "votes_abstain": null,
+          "approval_pct": 69.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TQCJ",
@@ -168,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:39:15.226Z"
+  "updated_at": "2026-07-02T21:22:19.015Z"
 }

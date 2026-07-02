@@ -3,6 +3,87 @@
   "company_name": "フォーラムエンジニアリング",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W9WA",
+      "submit_date_time": "2025-06-30 16:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9WA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 442219,
+          "votes_against": 195,
+          "votes_abstain": 1424,
+          "approval_pct": 99.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤勉",
+          "votes_for": 424423,
+          "votes_against": 17991,
+          "votes_abstain": 1424,
+          "approval_pct": 95.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本畑弘人",
+          "votes_for": 437124,
+          "votes_against": 5290,
+          "votes_abstain": 1424,
+          "approval_pct": 98.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "バルン・モドギル",
+          "votes_for": 437116,
+          "votes_against": 5298,
+          "votes_abstain": 1424,
+          "approval_pct": 98.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹中平蔵",
+          "votes_for": 368364,
+          "votes_against": 72256,
+          "votes_abstain": 3218,
+          "approval_pct": 82.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "義経百合子（注）4",
+          "votes_for": 440741,
+          "votes_against": 1673,
+          "votes_abstain": 1424,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTK2",
@@ -156,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:47:45.149Z"
+  "updated_at": "2026-07-02T21:15:25.699Z"
 }

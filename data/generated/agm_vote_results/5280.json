@@ -3,6 +3,147 @@
   "company_name": "ヨシコン",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W77Y",
+      "submit_date_time": "2025-06-26 13:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W77Y",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 52960,
+          "votes_against": 1812,
+          "votes_abstain": 0,
+          "approval_pct": 96.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 54599,
+          "votes_against": 173,
+          "votes_abstain": 0,
+          "approval_pct": 99.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田立志",
+          "votes_for": 52933,
+          "votes_against": 1839,
+          "votes_abstain": 0,
+          "approval_pct": 96.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田尚洋",
+          "votes_for": 52947,
+          "votes_against": 1825,
+          "votes_abstain": 0,
+          "approval_pct": 96.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "有岡大成",
+          "votes_for": 54556,
+          "votes_against": 216,
+          "votes_abstain": 0,
+          "approval_pct": 99.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "菊池茂夫",
+          "votes_for": 54550,
+          "votes_against": 222,
+          "votes_abstain": 0,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鵜飼誠司",
+          "votes_for": 54555,
+          "votes_against": 217,
+          "votes_abstain": 0,
+          "approval_pct": 99.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "赤堀一通",
+          "votes_for": 52921,
+          "votes_against": 1851,
+          "votes_abstain": 0,
+          "approval_pct": 96.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "早川清人",
+          "votes_for": 52932,
+          "votes_against": 1840,
+          "votes_abstain": 0,
+          "approval_pct": 96.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案会計監査人選任の件",
+          "proposal_category": "会計監査人選任",
+          "candidate_name": null,
+          "votes_for": 54606,
+          "votes_against": 166,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案役員賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 52226,
+          "votes_against": 2546,
+          "votes_abstain": 0,
+          "approval_pct": 95.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXE5",
@@ -72,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:37:58.585Z"
+  "updated_at": "2026-07-02T21:50:28.614Z"
 }

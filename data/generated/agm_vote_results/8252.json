@@ -3,6 +3,135 @@
   "company_name": "丸井グループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W1LI",
+      "submit_date_time": "2025-06-26 15:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1LI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1584442,
+          "votes_against": 343,
+          "votes_abstain": 3,
+          "approval_pct": 99.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1583109,
+          "votes_against": 1676,
+          "votes_abstain": 3,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青井浩",
+          "votes_for": 1547139,
+          "votes_against": 33762,
+          "votes_abstain": 3885,
+          "approval_pct": 97.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡島悦子",
+          "votes_for": 1539701,
+          "votes_against": 45082,
+          "votes_abstain": 3,
+          "approval_pct": 97.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中神康議",
+          "votes_for": 1583094,
+          "votes_against": 1691,
+          "votes_abstain": 3,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ピーターＤ.ピーダーセン",
+          "votes_for": 1581142,
+          "votes_against": 3643,
+          "votes_abstain": 3,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤浩嗣",
+          "votes_for": 1555906,
+          "votes_against": 28878,
+          "votes_abstain": 3,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小島玲子",
+          "votes_for": 1555899,
+          "votes_against": 28885,
+          "votes_abstain": 3,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1584120,
+          "votes_against": 665,
+          "votes_abstain": 3,
+          "approval_pct": 99.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1214692,
+          "votes_against": 370089,
+          "votes_abstain": 3,
+          "approval_pct": 76.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-24",
       "meeting_year": 2024,
       "doc_id": "S100TSE3",
@@ -144,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:05:33.522Z"
+  "updated_at": "2026-07-02T21:48:05.414Z"
 }

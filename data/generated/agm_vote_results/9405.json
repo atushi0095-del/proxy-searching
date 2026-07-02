@@ -3,6 +3,159 @@
   "company_name": "朝日放送グループホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W70M",
+      "submit_date_time": "2025-06-26 11:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W70M",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 330232,
+          "votes_against": 6824,
+          "votes_abstain": 0,
+          "approval_pct": 97.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 334973,
+          "votes_against": 2083,
+          "votes_abstain": 0,
+          "approval_pct": 99.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "西出将之",
+          "votes_for": 332930,
+          "votes_against": 4125,
+          "votes_abstain": 0,
+          "approval_pct": 98.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "今村俊昭",
+          "votes_for": 330866,
+          "votes_against": 6189,
+          "votes_abstain": 0,
+          "approval_pct": 98.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山本晋也",
+          "votes_for": 315735,
+          "votes_against": 21320,
+          "votes_abstain": 0,
+          "approval_pct": 93.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "胡摩ヶ野洋",
+          "votes_for": 332947,
+          "votes_against": 4108,
+          "votes_abstain": 0,
+          "approval_pct": 98.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "本荘武宏",
+          "votes_for": 326585,
+          "votes_against": 10470,
+          "votes_abstain": 0,
+          "approval_pct": 96.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "黒田章裕",
+          "votes_for": 327701,
+          "votes_against": 9355,
+          "votes_abstain": 0,
+          "approval_pct": 97.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "池坊専好",
+          "votes_for": 331516,
+          "votes_against": 5540,
+          "votes_abstain": 0,
+          "approval_pct": 98.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中村史郎",
+          "votes_for": 315916,
+          "votes_against": 21139,
+          "votes_abstain": 0,
+          "approval_pct": 93.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "西新",
+          "votes_for": 315932,
+          "votes_against": 21123,
+          "votes_abstain": 0,
+          "approval_pct": 93.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡村邦則",
+          "votes_for": 331588,
+          "votes_against": 5466,
+          "votes_abstain": 0,
+          "approval_pct": 98.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TUYT",
@@ -180,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:51:39.891Z"
+  "updated_at": "2026-07-02T21:52:01.092Z"
 }

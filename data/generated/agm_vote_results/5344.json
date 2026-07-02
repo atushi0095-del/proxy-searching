@@ -3,6 +3,99 @@
   "company_name": "ＭＡＲＵＷＡ",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2GW",
+      "submit_date_time": "2025-06-23 13:57",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2GW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 88637,
+          "votes_against": 23504,
+          "votes_abstain": 18,
+          "approval_pct": 78.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林春行",
+          "votes_for": 111301,
+          "votes_against": 842,
+          "votes_abstain": 18,
+          "approval_pct": 99.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神戸俊郎",
+          "votes_for": 103724,
+          "votes_against": 8416,
+          "votes_abstain": 18,
+          "approval_pct": 92.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "マニマラン・アントニ",
+          "votes_for": 111304,
+          "votes_against": 839,
+          "votes_abstain": 18,
+          "approval_pct": 99.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口大介",
+          "votes_for": 111276,
+          "votes_against": 865,
+          "votes_abstain": 18,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保雅男",
+          "votes_for": 112084,
+          "votes_against": 60,
+          "votes_abstain": 18,
+          "approval_pct": 99.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 111771,
+          "votes_against": 131,
+          "votes_abstain": 260,
+          "approval_pct": 99.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TPBS",
@@ -96,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:21:00.181Z"
+  "updated_at": "2026-07-02T22:12:01.549Z"
 }

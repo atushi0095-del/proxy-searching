@@ -3,6 +3,159 @@
   "company_name": "広島ガス",
   "meetings": [
     {
+      "meeting_date": "2025-06-23",
+      "meeting_year": 2025,
+      "doc_id": "S100W2XJ",
+      "submit_date_time": "2025-06-24 11:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2XJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松藤研介",
+          "votes_for": 516681,
+          "votes_against": 35994,
+          "votes_abstain": 0,
+          "approval_pct": 93.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中川智彦",
+          "votes_for": 518069,
+          "votes_against": 34606,
+          "votes_abstain": 0,
+          "approval_pct": 93.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田村和典",
+          "votes_for": 535055,
+          "votes_against": 17620,
+          "votes_abstain": 0,
+          "approval_pct": 96.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "沖田康孝",
+          "votes_for": 543194,
+          "votes_against": 9481,
+          "votes_abstain": 0,
+          "approval_pct": 98.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉﨑直",
+          "votes_for": 543184,
+          "votes_against": 9491,
+          "votes_abstain": 0,
+          "approval_pct": 98.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "水野直人",
+          "votes_for": 543066,
+          "votes_against": 9609,
+          "votes_abstain": 0,
+          "approval_pct": 98.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "椋田昌夫",
+          "votes_for": 495724,
+          "votes_against": 56951,
+          "votes_abstain": 0,
+          "approval_pct": 89.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "池田晃治",
+          "votes_for": 531760,
+          "votes_against": 20915,
+          "votes_abstain": 0,
+          "approval_pct": 96.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "尾崎裕",
+          "votes_for": 540184,
+          "votes_against": 12491,
+          "votes_abstain": 0,
+          "approval_pct": 97.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "前田香織",
+          "votes_for": 542262,
+          "votes_against": 10413,
+          "votes_abstain": 0,
+          "approval_pct": 98.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "荒田秀和",
+          "votes_for": 543142,
+          "votes_against": 9533,
+          "votes_abstain": 0,
+          "approval_pct": 98.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "梅津貴",
+          "votes_for": 548233,
+          "votes_against": 4596,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-24",
       "meeting_year": 2024,
       "doc_id": "S100TS1Y",
@@ -180,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:08:22.259Z"
+  "updated_at": "2026-07-02T22:07:24.911Z"
 }

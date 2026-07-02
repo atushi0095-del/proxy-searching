@@ -3,6 +3,123 @@
   "company_name": "東テク",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W8AG",
+      "submit_date_time": "2025-06-27 11:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8AG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 345621,
+          "votes_against": 123,
+          "votes_abstain": 0,
+          "approval_pct": 99.964,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "草野和幸",
+          "votes_for": 340385,
+          "votes_against": 1149,
+          "votes_abstain": 4210,
+          "approval_pct": 99.896,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長尾克己",
+          "votes_for": 317212,
+          "votes_against": 28529,
+          "votes_abstain": 0,
+          "approval_pct": 91.748,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小山馨",
+          "votes_for": 320694,
+          "votes_against": 25047,
+          "votes_abstain": 0,
+          "approval_pct": 92.755,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "斎藤政賢",
+          "votes_for": 344816,
+          "votes_against": 928,
+          "votes_abstain": 0,
+          "approval_pct": 99.732,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宇佐美敦子",
+          "votes_for": 344793,
+          "votes_against": 951,
+          "votes_abstain": 0,
+          "approval_pct": 99.725,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中溝敏郎",
+          "votes_for": 338415,
+          "votes_against": 3116,
+          "votes_abstain": 4210,
+          "approval_pct": 97.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荒田和人",
+          "votes_for": 252345,
+          "votes_against": 93399,
+          "votes_abstain": 0,
+          "approval_pct": 72.986,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保田征良",
+          "votes_for": 344880,
+          "votes_against": 864,
+          "votes_abstain": 0,
+          "approval_pct": 99.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TTVO",
@@ -96,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:42:09.991Z"
+  "updated_at": "2026-07-02T21:40:31.428Z"
 }

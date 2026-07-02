@@ -3,6 +3,111 @@
   "company_name": "ﾄﾗﾝｻﾞｸｼｮﾝ･ﾒﾃﾞｨｱ･ﾈｯﾄﾜｰｸｽ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W9HN",
+      "submit_date_time": "2025-06-30 16:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9HN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 268795,
+          "votes_against": 2676,
+          "votes_abstain": null,
+          "approval_pct": 99.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 268063,
+          "votes_against": 3411,
+          "votes_abstain": null,
+          "approval_pct": 98.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大高敦",
+          "votes_for": 266180,
+          "votes_against": 5194,
+          "votes_abstain": null,
+          "approval_pct": 98.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷本健",
+          "votes_for": 266695,
+          "votes_against": 4679,
+          "votes_abstain": null,
+          "approval_pct": 98.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小松原道高",
+          "votes_for": 266723,
+          "votes_against": 4651,
+          "votes_abstain": null,
+          "approval_pct": 98.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山内研司",
+          "votes_for": 266643,
+          "votes_against": 4731,
+          "votes_abstain": null,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯田剛信",
+          "votes_for": 266732,
+          "votes_against": 4642,
+          "votes_abstain": null,
+          "approval_pct": 98.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅野沙織",
+          "votes_for": 266281,
+          "votes_against": 5093,
+          "votes_abstain": null,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TYA0",
@@ -144,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:26:12.292Z"
+  "updated_at": "2026-07-02T21:15:40.364Z"
 }

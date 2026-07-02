@@ -3,6 +3,99 @@
   "company_name": "オリジン",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAS5",
+      "submit_date_time": "2025-07-03 10:42",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAS5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 34672,
+          "votes_against": 843,
+          "votes_abstain": 0,
+          "approval_pct": 97.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "妹尾一宏",
+          "votes_for": 32044,
+          "votes_against": 3470,
+          "votes_abstain": 0,
+          "approval_pct": 90.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "稲葉英樹",
+          "votes_for": 31861,
+          "votes_against": 3654,
+          "votes_abstain": 0,
+          "approval_pct": 89.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤好生",
+          "votes_for": 33261,
+          "votes_against": 2254,
+          "votes_abstain": 0,
+          "approval_pct": 93.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内藤佳彦",
+          "votes_for": 33260,
+          "votes_against": 2255,
+          "votes_abstain": 0,
+          "approval_pct": 93.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池達子",
+          "votes_for": 33268,
+          "votes_against": 2248,
+          "votes_abstain": 0,
+          "approval_pct": 93.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 34750,
+          "votes_against": 766,
+          "votes_abstain": 0,
+          "approval_pct": 97.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZLH",
@@ -132,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:10:35.278Z"
+  "updated_at": "2026-07-02T21:02:42.890Z"
 }

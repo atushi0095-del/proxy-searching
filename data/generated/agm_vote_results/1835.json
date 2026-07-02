@@ -3,6 +3,147 @@
   "company_name": "東鉄工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W8DX",
+      "submit_date_time": "2025-06-27 15:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8DX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 294825,
+          "votes_against": 159,
+          "votes_abstain": 0,
+          "approval_pct": 99.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前川忠生",
+          "votes_for": 290636,
+          "votes_against": 4347,
+          "votes_abstain": 0,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下村光",
+          "votes_for": 291287,
+          "votes_against": 3696,
+          "votes_abstain": 0,
+          "approval_pct": 98.75,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯塚博之",
+          "votes_for": 291551,
+          "votes_against": 3432,
+          "votes_abstain": 0,
+          "approval_pct": 98.84,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊勢勝巳",
+          "votes_for": 291487,
+          "votes_against": 3496,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川永一",
+          "votes_for": 291500,
+          "votes_against": 3483,
+          "votes_abstain": 0,
+          "approval_pct": 98.82,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山洋",
+          "votes_for": 292423,
+          "votes_against": 2560,
+          "votes_abstain": 0,
+          "approval_pct": 99.13,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "深山美弥",
+          "votes_for": 294360,
+          "votes_against": 623,
+          "votes_abstain": 0,
+          "approval_pct": 99.79,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "玉川岳洋",
+          "votes_for": 216526,
+          "votes_against": 78457,
+          "votes_abstain": 0,
+          "approval_pct": 73.4,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋清孝",
+          "votes_for": 292787,
+          "votes_against": 2197,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石川多賀子",
+          "votes_for": 263298,
+          "votes_against": 31686,
+          "votes_abstain": 0,
+          "approval_pct": 89.26,
+          "approval_pct_source": "reported",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TUGA",
@@ -144,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:50:33.101Z"
+  "updated_at": "2026-07-02T21:32:45.873Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "ＮＩＴＴＯＫＵ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W8P7",
+      "submit_date_time": "2025-06-27 15:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8P7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 136207,
+          "votes_against": 246,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "笹澤純人",
+          "votes_for": 134462,
+          "votes_against": 1491,
+          "votes_abstain": 500,
+          "approval_pct": 98.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鹿目守夫",
+          "votes_for": 130310,
+          "votes_against": 5643,
+          "votes_abstain": 500,
+          "approval_pct": 95.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西江佐千由",
+          "votes_for": 135441,
+          "votes_against": 512,
+          "votes_abstain": 500,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "上竹繁幸",
+          "votes_for": 135564,
+          "votes_against": 389,
+          "votes_abstain": 500,
+          "approval_pct": 99.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "伊勢谷早紀",
+          "votes_for": 135515,
+          "votes_against": 438,
+          "votes_abstain": 500,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "岸川義喜",
+          "votes_for": 124062,
+          "votes_against": 11891,
+          "votes_abstain": 500,
+          "approval_pct": 90.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TWZ9",
@@ -120,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:42:46.355Z"
+  "updated_at": "2026-07-02T21:32:33.541Z"
 }

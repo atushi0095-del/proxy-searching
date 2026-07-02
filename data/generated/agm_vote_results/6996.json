@@ -3,6 +3,135 @@
   "company_name": "ニチコン",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9NL",
+      "submit_date_time": "2025-06-30 14:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9NL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 560755,
+          "votes_against": 837,
+          "votes_abstain": 123,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武田一平",
+          "votes_for": 527579,
+          "votes_against": 34003,
+          "votes_abstain": 123,
+          "approval_pct": 93.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森克彦",
+          "votes_for": 527819,
+          "votes_against": 33763,
+          "votes_abstain": 123,
+          "approval_pct": 93.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "矢野明弘",
+          "votes_for": 558831,
+          "votes_against": 2751,
+          "votes_abstain": 123,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松重和美",
+          "votes_for": 449210,
+          "votes_against": 112371,
+          "votes_abstain": 123,
+          "approval_pct": 79.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤治彦",
+          "votes_for": 559407,
+          "votes_against": 2175,
+          "votes_abstain": 123,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "栗本知子",
+          "votes_for": 559678,
+          "votes_against": 1904,
+          "votes_abstain": 123,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷口宗哉",
+          "votes_for": 553196,
+          "votes_against": 8386,
+          "votes_abstain": 123,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池坊専好",
+          "votes_for": 559592,
+          "votes_against": 1990,
+          "votes_abstain": 123,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 559108,
+          "votes_against": 2421,
+          "votes_abstain": 186,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TTNM",
@@ -72,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:24:58.817Z"
+  "updated_at": "2026-07-02T21:19:39.539Z"
 }

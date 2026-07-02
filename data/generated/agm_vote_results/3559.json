@@ -3,6 +3,87 @@
   "company_name": "ピーバンドットコム",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W5VF",
+      "submit_date_time": "2025-06-25 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5VF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1527,
+          "votes_against": 60,
+          "votes_abstain": null,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田坂正樹",
+          "votes_for": 1508,
+          "votes_against": 79,
+          "votes_abstain": null,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤康進",
+          "votes_for": 1514,
+          "votes_against": 73,
+          "votes_abstain": null,
+          "approval_pct": 99.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上田直也",
+          "votes_for": 1510,
+          "votes_against": 77,
+          "votes_abstain": null,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉野功一",
+          "votes_for": 1508,
+          "votes_against": 79,
+          "votes_abstain": null,
+          "approval_pct": 99.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案豊田賢治",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1501,
+          "votes_against": 86,
+          "votes_abstain": null,
+          "approval_pct": 99.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TUSE",
@@ -84,5 +165,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:56:40.073Z"
+  "updated_at": "2026-07-02T21:59:36.002Z"
 }

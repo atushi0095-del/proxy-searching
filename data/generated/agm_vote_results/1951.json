@@ -3,6 +3,75 @@
   "company_name": "エクシオグループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W6GS",
+      "submit_date_time": "2025-06-26 16:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W6GS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1631860,
+          "votes_against": 1115,
+          "votes_abstain": 149,
+          "approval_pct": 95.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案舩橋哲也梶村啓吾渡部則由紀今泉文利林茂樹田中幸治前田幸一小林正樹小原靖史岩﨑尚子望月達史吉田佳司荒牧知子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.514025159910516e+90,
+          "votes_against": 1.1894833868175661e+60,
+          "votes_abstain": 1.4914914914914915e+38,
+          "approval_pct": 88.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案光山由一押味由佳子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 16188001631011,
+          "votes_against": 141751964,
+          "votes_abstain": 149149,
+          "approval_pct": 94.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1617393,
+          "votes_against": 14785,
+          "votes_abstain": 936,
+          "approval_pct": 94.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1623885,
+          "votes_against": 8843,
+          "votes_abstain": 396,
+          "approval_pct": 95.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TVAI",
@@ -48,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:43:54.088Z"
+  "updated_at": "2026-07-02T21:46:01.929Z"
 }

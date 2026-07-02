@@ -3,6 +3,123 @@
   "company_name": "ロック・フィールド",
   "meetings": [
     {
+      "meeting_date": "2025-07-25",
+      "meeting_year": 2025,
+      "doc_id": "S100WF7F",
+      "submit_date_time": "2025-07-29 09:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WF7F",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 197516,
+          "votes_against": 2110,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "古塚孝志",
+          "votes_for": 177527,
+          "votes_against": 22101,
+          "votes_abstain": 0,
+          "approval_pct": 88.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉井康太郎",
+          "votes_for": 193167,
+          "votes_against": 6461,
+          "votes_abstain": 0,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "三好勝寛",
+          "votes_for": 197891,
+          "votes_against": 1737,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "一宮秀夫",
+          "votes_for": 197894,
+          "votes_against": 1734,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "柚木和代",
+          "votes_for": 197723,
+          "votes_against": 1905,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北嶋紀子",
+          "votes_for": 197636,
+          "votes_against": 1992,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 198130,
+          "votes_against": 1498,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役報酬等の額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 197440,
+          "votes_against": 2188,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-07-26",
       "meeting_year": 2024,
       "doc_id": "S100U4IX",
@@ -108,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:00:48.160Z"
+  "updated_at": "2026-07-02T20:52:22.240Z"
 }

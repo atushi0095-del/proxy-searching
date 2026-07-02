@@ -3,6 +3,99 @@
   "company_name": "尾家産業",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WA50",
+      "submit_date_time": "2025-07-01 11:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA50",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾家啓二",
+          "votes_for": 54032,
+          "votes_against": 193,
+          "votes_abstain": null,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾家健太郎",
+          "votes_for": 54084,
+          "votes_against": 141,
+          "votes_abstain": null,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂口泰也",
+          "votes_for": 54087,
+          "votes_against": 138,
+          "votes_abstain": null,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野々村透",
+          "votes_for": 54084,
+          "votes_against": 141,
+          "votes_abstain": null,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田辺彰子",
+          "votes_for": 54062,
+          "votes_against": 163,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩辺裕昭",
+          "votes_for": 54021,
+          "votes_against": 204,
+          "votes_abstain": null,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 54057,
+          "votes_against": 197,
+          "votes_abstain": null,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TYJT",
@@ -168,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:22:45.122Z"
+  "updated_at": "2026-07-02T21:11:18.228Z"
 }

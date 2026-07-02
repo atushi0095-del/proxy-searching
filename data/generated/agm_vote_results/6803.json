@@ -3,6 +3,63 @@
   "company_name": "ティアック",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W98Q",
+      "submit_date_time": "2025-06-30 10:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W98Q",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 121400,
+          "votes_against": 2335,
+          "votes_abstain": 0,
+          "approval_pct": 97.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "英裕治",
+          "votes_for": 118808,
+          "votes_against": 4937,
+          "votes_abstain": 0,
+          "approval_pct": 95.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "倉原良弘",
+          "votes_for": 119249,
+          "votes_against": 4496,
+          "votes_abstain": 0,
+          "approval_pct": 95.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金子靖代",
+          "votes_for": 118253,
+          "votes_against": 5492,
+          "votes_abstain": 0,
+          "approval_pct": 95.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TS7C",
@@ -96,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:06:22.221Z"
+  "updated_at": "2026-07-02T21:26:20.383Z"
 }

@@ -3,6 +3,87 @@
   "company_name": "アイホン",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W95M",
+      "submit_date_time": "2025-06-30 09:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W95M",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 135634,
+          "votes_against": 2004,
+          "votes_abstain": null,
+          "approval_pct": 97.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "市川周作",
+          "votes_for": 134897,
+          "votes_against": 2744,
+          "votes_abstain": null,
+          "approval_pct": 97.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴木富雄",
+          "votes_for": 135844,
+          "votes_against": 1797,
+          "votes_abstain": null,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "入谷正章",
+          "votes_for": 116957,
+          "votes_against": 20684,
+          "votes_abstain": null,
+          "approval_pct": 84.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "繁治義信",
+          "votes_for": 136919,
+          "votes_against": 722,
+          "votes_abstain": null,
+          "approval_pct": 98.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉野彩子",
+          "votes_for": 137138,
+          "votes_against": 503,
+          "votes_abstain": null,
+          "approval_pct": 99.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TUNZ",
@@ -108,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:40:02.906Z"
+  "updated_at": "2026-07-02T21:28:52.296Z"
 }

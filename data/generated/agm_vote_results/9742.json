@@ -3,6 +3,159 @@
   "company_name": "アイネス",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W00C",
+      "submit_date_time": "2025-06-26 14:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W00C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 168901,
+          "votes_against": 263,
+          "votes_abstain": 0,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "1．服部修治",
+          "votes_for": 143141,
+          "votes_against": 26022,
+          "votes_abstain": 0,
+          "approval_pct": 84.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "2．塚原進",
+          "votes_for": 155827,
+          "votes_against": 13336,
+          "votes_abstain": 0,
+          "approval_pct": 91.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "3．鈴木玲子",
+          "votes_for": 163196,
+          "votes_against": 5967,
+          "votes_abstain": 0,
+          "approval_pct": 96.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "4．村上嘉奈子",
+          "votes_for": 163486,
+          "votes_against": 5677,
+          "votes_abstain": 0,
+          "approval_pct": 96.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "5．佐藤信行",
+          "votes_for": 163586,
+          "votes_against": 5577,
+          "votes_abstain": 0,
+          "approval_pct": 96.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "6．森崎孝",
+          "votes_for": 124489,
+          "votes_against": 44674,
+          "votes_abstain": 0,
+          "approval_pct": 73.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "7．尾澤重知",
+          "votes_for": 163896,
+          "votes_against": 5267,
+          "votes_abstain": 0,
+          "approval_pct": 96.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "8．筒井さち子",
+          "votes_for": 163852,
+          "votes_against": 5311,
+          "votes_abstain": 0,
+          "approval_pct": 96.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "1．高田浩二",
+          "votes_for": 150675,
+          "votes_against": 18486,
+          "votes_abstain": 0,
+          "approval_pct": 88.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "2．早船勝利",
+          "votes_for": 163726,
+          "votes_against": 5435,
+          "votes_abstain": 0,
+          "approval_pct": 96.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "3．岩尾健太郎",
+          "votes_for": 164029,
+          "votes_against": 5132,
+          "votes_abstain": 0,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TMRW",
@@ -132,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:03:25.582Z"
+  "updated_at": "2026-07-02T21:49:17.961Z"
 }

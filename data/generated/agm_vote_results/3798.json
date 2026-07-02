@@ -3,6 +3,111 @@
   "company_name": "ＵＬＳグループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W8FC",
+      "submit_date_time": "2025-06-27 14:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8FC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 44977,
+          "votes_against": 83,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 45032,
+          "votes_against": 28,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "漆原茂",
+          "votes_for": 41456,
+          "votes_against": 3604,
+          "votes_abstain": 0,
+          "approval_pct": 91.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋敬一",
+          "votes_for": 44974,
+          "votes_against": 86,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横山芳成",
+          "votes_for": 43556,
+          "votes_against": 1504,
+          "votes_abstain": 0,
+          "approval_pct": 95.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "唐津真美",
+          "votes_for": 42074,
+          "votes_against": 2986,
+          "votes_abstain": 0,
+          "approval_pct": 92.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "増成由佳",
+          "votes_for": 45040,
+          "votes_against": 20,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 44013,
+          "votes_against": 1047,
+          "votes_abstain": 0,
+          "approval_pct": 96.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TZAH",
@@ -72,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:12:22.027Z"
+  "updated_at": "2026-07-02T21:36:21.082Z"
 }

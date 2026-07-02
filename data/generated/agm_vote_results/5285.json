@@ -3,6 +3,63 @@
   "company_name": "企業 5285",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W96B",
+      "submit_date_time": "2025-07-01 10:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W96B",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 67892,
+          "votes_against": 615,
+          "votes_abstain": null,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案茂森潔茂森拓森將彦渡辺宏之浦崎啓介木山伸悟森田芳文津留清",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6.753367571679107e+39,
+          "votes_against": 9.749365975485436e+23,
+          "votes_abstain": null,
+          "approval_pct": 98.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 67826,
+          "votes_against": 681,
+          "votes_abstain": null,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 67932,
+          "votes_against": 575,
+          "votes_abstain": null,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TYJ4",
@@ -72,5 +129,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:23:36.631Z"
+  "updated_at": "2026-07-02T21:11:38.310Z"
 }

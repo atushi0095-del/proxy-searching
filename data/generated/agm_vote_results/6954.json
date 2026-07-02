@@ -3,6 +3,147 @@
   "company_name": "ファナック株式会社",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9YH",
+      "submit_date_time": "2025-07-02 13:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9YH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 7432948,
+          "votes_against": 2339,
+          "votes_abstain": 13861,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山口賢治",
+          "votes_for": 7136211,
+          "votes_against": 268348,
+          "votes_abstain": 44657,
+          "approval_pct": 95.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "流石柳二",
+          "votes_for": 7377495,
+          "votes_against": 55508,
+          "votes_abstain": 16212,
+          "approval_pct": 99.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "マイケルジェイチコ",
+          "votes_for": 7401813,
+          "votes_against": 31192,
+          "votes_abstain": 16212,
+          "approval_pct": 99.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山崎直子",
+          "votes_for": 7412612,
+          "votes_against": 20396,
+          "votes_abstain": 16212,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "魚住弘人",
+          "votes_for": 7413876,
+          "votes_against": 19133,
+          "votes_abstain": 16212,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "武田洋子",
+          "votes_for": 7399074,
+          "votes_against": 33935,
+          "votes_abstain": 16212,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡田俊哉",
+          "votes_for": 6713383,
+          "votes_against": 719610,
+          "votes_abstain": 16212,
+          "approval_pct": 90.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "横井秀俊",
+          "votes_for": 7409632,
+          "votes_against": 23383,
+          "votes_abstain": 16212,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "富田美栄子",
+          "votes_for": 7409431,
+          "votes_against": 23584,
+          "votes_abstain": 16212,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "五十島滋夫",
+          "votes_for": 7411840,
+          "votes_against": 21175,
+          "votes_abstain": 16212,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ4P",
@@ -108,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:14:09.372Z"
+  "updated_at": "2026-07-02T21:04:30.117Z"
 }

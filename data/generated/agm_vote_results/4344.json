@@ -3,6 +3,123 @@
   "company_name": "ソースネクスト",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2D2",
+      "submit_date_time": "2025-06-23 13:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2D2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 875769,
+          "votes_against": 9779,
+          "votes_abstain": 0,
+          "approval_pct": 98.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松田憲幸",
+          "votes_for": 768253,
+          "votes_against": 117307,
+          "votes_abstain": 10,
+          "approval_pct": 86.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小嶋智彰",
+          "votes_for": 768106,
+          "votes_against": 117454,
+          "votes_abstain": 10,
+          "approval_pct": 86.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "青山文彦",
+          "votes_for": 828532,
+          "votes_against": 57028,
+          "votes_abstain": 10,
+          "approval_pct": 93.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安藤国威",
+          "votes_for": 847572,
+          "votes_against": 37988,
+          "votes_abstain": 10,
+          "approval_pct": 95.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中井戸信英",
+          "votes_for": 847579,
+          "votes_against": 37981,
+          "votes_abstain": 10,
+          "approval_pct": 95.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大上有衣子",
+          "votes_for": 850347,
+          "votes_against": 35213,
+          "votes_abstain": 10,
+          "approval_pct": 95.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件杉田健一",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 872095,
+          "votes_against": 13473,
+          "votes_abstain": 0,
+          "approval_pct": 98.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件土田亮",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 873998,
+          "votes_against": 11486,
+          "votes_abstain": 0,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TOM6",
@@ -108,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:23:33.251Z"
+  "updated_at": "2026-07-02T22:12:14.082Z"
 }

@@ -3,6 +3,159 @@
   "company_name": "タチエス",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WAYL",
+      "submit_date_time": "2025-07-03 14:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAYL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本雄一郎",
+          "votes_for": 254584,
+          "votes_against": 6949,
+          "votes_abstain": null,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小松篤司",
+          "votes_for": 254387,
+          "votes_against": 7146,
+          "votes_abstain": null,
+          "approval_pct": 97.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤孝男",
+          "votes_for": 254810,
+          "votes_against": 6723,
+          "votes_abstain": null,
+          "approval_pct": 97.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村上聡謙",
+          "votes_for": 254532,
+          "votes_against": 7001,
+          "votes_abstain": null,
+          "approval_pct": 97.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "比留間雅人",
+          "votes_for": 254803,
+          "votes_against": 6730,
+          "votes_abstain": null,
+          "approval_pct": 97.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木下俊男",
+          "votes_for": 254277,
+          "votes_against": 7257,
+          "votes_abstain": null,
+          "approval_pct": 97.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三原秀哲",
+          "votes_for": 255042,
+          "votes_against": 6492,
+          "votes_abstain": null,
+          "approval_pct": 97.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永尾慶昭",
+          "votes_for": 254888,
+          "votes_against": 6646,
+          "votes_abstain": null,
+          "approval_pct": 97.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "筒井さち子",
+          "votes_for": 255067,
+          "votes_against": 6467,
+          "votes_abstain": null,
+          "approval_pct": 97.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大岩直子",
+          "votes_for": 260261,
+          "votes_against": 1306,
+          "votes_abstain": null,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木下政昭",
+          "votes_for": 203321,
+          "votes_against": 58259,
+          "votes_abstain": null,
+          "approval_pct": 77.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 259321,
+          "votes_against": 2246,
+          "votes_abstain": null,
+          "approval_pct": 99.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TXT4",
@@ -144,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:23:06.391Z"
+  "updated_at": "2026-07-02T21:02:13.879Z"
 }

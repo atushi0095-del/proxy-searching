@@ -3,6 +3,135 @@
   "company_name": "トーモク",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W3T0",
+      "submit_date_time": "2025-06-26 09:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W3T0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中橋光男",
+          "votes_for": 121322,
+          "votes_against": 18147,
+          "votes_abstain": 248,
+          "approval_pct": 86.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣瀬正二",
+          "votes_for": 125533,
+          "votes_against": 13937,
+          "votes_abstain": 248,
+          "approval_pct": 89.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "有賀毅",
+          "votes_for": 127939,
+          "votes_against": 11531,
+          "votes_abstain": 248,
+          "approval_pct": 91.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "深澤輝隆",
+          "votes_for": 125607,
+          "votes_against": 13863,
+          "votes_abstain": 248,
+          "approval_pct": 89.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口禎人",
+          "votes_for": 125667,
+          "votes_against": 13803,
+          "votes_abstain": 248,
+          "approval_pct": 89.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤山一穂",
+          "votes_for": 127901,
+          "votes_against": 11569,
+          "votes_abstain": 248,
+          "approval_pct": 91.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下中美都",
+          "votes_for": 125662,
+          "votes_against": 13808,
+          "votes_abstain": 248,
+          "approval_pct": 89.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林哲也",
+          "votes_for": 125635,
+          "votes_against": 13835,
+          "votes_abstain": 248,
+          "approval_pct": 89.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小柳恒志",
+          "votes_for": 131499,
+          "votes_against": 7971,
+          "votes_abstain": 248,
+          "approval_pct": 94.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金澤利明",
+          "votes_for": 138634,
+          "votes_against": 875,
+          "votes_abstain": 248,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQ0J",
@@ -180,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:09:37.273Z"
+  "updated_at": "2026-07-02T21:55:03.972Z"
 }

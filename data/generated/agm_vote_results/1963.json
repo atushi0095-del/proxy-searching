@@ -3,6 +3,135 @@
   "company_name": "日揮ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WB33",
+      "submit_date_time": "2025-07-04 11:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WB33",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1956818,
+          "votes_against": 21397,
+          "votes_abstain": 0,
+          "approval_pct": 98.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1970818,
+          "votes_against": 7781,
+          "votes_abstain": 0,
+          "approval_pct": 99.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤雅之",
+          "votes_for": 1571159,
+          "votes_against": 407042,
+          "votes_abstain": 0,
+          "approval_pct": 79.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "寺嶋清隆",
+          "votes_for": 1876741,
+          "votes_against": 101466,
+          "votes_abstain": 0,
+          "approval_pct": 94.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石川正樹",
+          "votes_for": 1932064,
+          "votes_against": 46143,
+          "votes_abstain": 0,
+          "approval_pct": 97.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田昇司",
+          "votes_for": 1879294,
+          "votes_against": 98913,
+          "votes_abstain": 0,
+          "approval_pct": 94.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松島正之",
+          "votes_for": 1887842,
+          "votes_against": 90366,
+          "votes_abstain": 0,
+          "approval_pct": 95.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "八尾紀子",
+          "votes_for": 1891724,
+          "votes_against": 86484,
+          "votes_abstain": 0,
+          "approval_pct": 95.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三島愼次郎",
+          "votes_for": 1945210,
+          "votes_against": 32998,
+          "votes_abstain": 0,
+          "approval_pct": 98.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平野未来",
+          "votes_for": 1928760,
+          "votes_against": 49447,
+          "votes_abstain": 0,
+          "approval_pct": 97.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZFJ",
@@ -204,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:10:52.168Z"
+  "updated_at": "2026-07-02T21:00:47.425Z"
 }

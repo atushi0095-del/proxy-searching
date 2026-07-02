@@ -3,6 +3,111 @@
   "company_name": "第一興商",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2LR",
+      "submit_date_time": "2025-06-23 14:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2LR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 887674,
+          "votes_against": 1630,
+          "votes_abstain": 528,
+          "approval_pct": 99.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 887439,
+          "votes_against": 1865,
+          "votes_abstain": 528,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "保志忠郊",
+          "votes_for": 730162,
+          "votes_against": 159133,
+          "votes_abstain": 528,
+          "approval_pct": 82.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大塚賢治",
+          "votes_for": 884413,
+          "votes_against": 4884,
+          "votes_abstain": 528,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "飯島毅",
+          "votes_for": 884431,
+          "votes_against": 4866,
+          "votes_abstain": 528,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "國津洋",
+          "votes_for": 884332,
+          "votes_against": 4965,
+          "votes_abstain": 528,
+          "approval_pct": 99.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "垂石克哉",
+          "votes_for": 878004,
+          "votes_against": 11294,
+          "votes_abstain": 528,
+          "approval_pct": 98.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高橋千恵子",
+          "votes_for": 856872,
+          "votes_against": 32425,
+          "votes_abstain": 528,
+          "approval_pct": 96.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQI5",
@@ -72,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:16:14.181Z"
+  "updated_at": "2026-07-02T22:11:21.378Z"
 }

@@ -3,6 +3,39 @@
   "company_name": "ＫＹＯＲＩＴＳＵ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAHG",
+      "submit_date_time": "2025-07-02 11:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAHG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件景山豊田坂優英藤本三千夫後藤博之",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 2.8661329570929523e+23,
+          "votes_against": 25778166821716718000,
+          "votes_abstain": 7777,
+          "approval_pct": 91.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役1名選任の件北沢豪",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 287025,
+          "votes_against": 25373,
+          "votes_abstain": 0,
+          "approval_pct": 91.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYZX",
@@ -72,5 +105,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:14:24.096Z"
+  "updated_at": "2026-07-02T21:05:24.257Z"
 }

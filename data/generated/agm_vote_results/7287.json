@@ -3,6 +3,147 @@
   "company_name": "日本精機",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA65",
+      "submit_date_time": "2025-07-01 12:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA65",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 446465,
+          "votes_against": 4203,
+          "votes_abstain": 201,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐藤浩一",
+          "votes_for": 358053,
+          "votes_against": 92614,
+          "votes_abstain": 201,
+          "approval_pct": 79.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "永野恵一",
+          "votes_for": 419683,
+          "votes_against": 30984,
+          "votes_abstain": 201,
+          "approval_pct": 93.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉原正博",
+          "votes_for": 428979,
+          "votes_against": 21688,
+          "votes_abstain": 201,
+          "approval_pct": 95.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "東政利",
+          "votes_for": 425887,
+          "votes_against": 24780,
+          "votes_abstain": 201,
+          "approval_pct": 94.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "島田さつき",
+          "votes_for": 446599,
+          "votes_against": 4069,
+          "votes_abstain": 201,
+          "approval_pct": 99.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "平田祐二",
+          "votes_for": 429174,
+          "votes_against": 21494,
+          "votes_abstain": 201,
+          "approval_pct": 95.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "富山栄子",
+          "votes_for": 438044,
+          "votes_against": 12624,
+          "votes_abstain": 201,
+          "approval_pct": 97.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木北吉",
+          "votes_for": 438069,
+          "votes_against": 12599,
+          "votes_abstain": 201,
+          "approval_pct": 97.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "榎本俊彦",
+          "votes_for": 446514,
+          "votes_against": 4154,
+          "votes_abstain": 201,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山田聡之",
+          "votes_for": 446541,
+          "votes_against": 4127,
+          "votes_abstain": 201,
+          "approval_pct": 99.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TZ0V",
@@ -84,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:15:07.633Z"
+  "updated_at": "2026-07-02T21:10:32.918Z"
 }

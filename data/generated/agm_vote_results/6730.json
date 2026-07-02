@@ -3,6 +3,75 @@
   "company_name": "アクセル",
   "meetings": [
     {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100W1LO",
+      "submit_date_time": "2025-06-23 10:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1LO",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松浦一教",
+          "votes_for": 52853,
+          "votes_against": 16721,
+          "votes_abstain": 0,
+          "approval_pct": 73.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "斉藤昭宏",
+          "votes_for": 52240,
+          "votes_against": 17334,
+          "votes_abstain": 0,
+          "approval_pct": 72.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "客野一樹",
+          "votes_for": 68557,
+          "votes_against": 1017,
+          "votes_abstain": 0,
+          "approval_pct": 95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岸本貴臣",
+          "votes_for": 68330,
+          "votes_against": 1244,
+          "votes_abstain": 0,
+          "approval_pct": 94.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊地篤志",
+          "votes_for": 68331,
+          "votes_against": 1243,
+          "votes_abstain": 0,
+          "approval_pct": 94.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TR69",
@@ -120,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:12:20.584Z"
+  "updated_at": "2026-07-02T22:13:36.790Z"
 }

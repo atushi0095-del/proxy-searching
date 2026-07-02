@@ -3,6 +3,147 @@
   "company_name": "ＪＫホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WAKG",
+      "submit_date_time": "2025-07-02 16:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAKG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 251133,
+          "votes_against": 383,
+          "votes_abstain": null,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青木慶一郎",
+          "votes_for": 219241,
+          "votes_against": 32275,
+          "votes_abstain": null,
+          "approval_pct": 87.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田輝",
+          "votes_for": 240024,
+          "votes_against": 11492,
+          "votes_abstain": null,
+          "approval_pct": 95.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川明範",
+          "votes_for": 247022,
+          "votes_against": 4494,
+          "votes_abstain": null,
+          "approval_pct": 98.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小柳龍雄",
+          "votes_for": 247032,
+          "votes_against": 4484,
+          "votes_abstain": null,
+          "approval_pct": 98.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "舘崎和行",
+          "votes_for": 247033,
+          "votes_against": 4483,
+          "votes_abstain": null,
+          "approval_pct": 98.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田隆",
+          "votes_for": 246957,
+          "votes_against": 4559,
+          "votes_abstain": null,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田端裕和",
+          "votes_for": 246851,
+          "votes_against": 4665,
+          "votes_abstain": null,
+          "approval_pct": 98.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "谷内豊（※）",
+          "votes_for": 238927,
+          "votes_against": 12589,
+          "votes_abstain": null,
+          "approval_pct": 94.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松田昭博（※）",
+          "votes_for": 239008,
+          "votes_against": 12508,
+          "votes_abstain": null,
+          "approval_pct": 95.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松谷美和（※）",
+          "votes_for": 247401,
+          "votes_against": 4115,
+          "votes_abstain": null,
+          "approval_pct": 98.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TZ38",
@@ -108,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:13:42.711Z"
+  "updated_at": "2026-07-02T21:03:20.801Z"
 }

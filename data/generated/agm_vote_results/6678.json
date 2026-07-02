@@ -3,6 +3,87 @@
   "company_name": "テクノメディカ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W9RR",
+      "submit_date_time": "2025-06-30 15:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9RR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 51801,
+          "votes_against": 2674,
+          "votes_abstain": null,
+          "approval_pct": 95.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "實吉政知",
+          "votes_for": 51560,
+          "votes_against": 2915,
+          "votes_abstain": null,
+          "approval_pct": 94.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武田真人",
+          "votes_for": 53153,
+          "votes_against": 1322,
+          "votes_abstain": null,
+          "approval_pct": 97.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中野靖",
+          "votes_for": 53144,
+          "votes_against": 1331,
+          "votes_abstain": null,
+          "approval_pct": 97.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中原志郎",
+          "votes_for": 53142,
+          "votes_against": 1333,
+          "votes_abstain": null,
+          "approval_pct": 97.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 53124,
+          "votes_against": 1351,
+          "votes_abstain": null,
+          "approval_pct": 97.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TXPE",
@@ -108,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:36:03.400Z"
+  "updated_at": "2026-07-02T21:18:20.319Z"
 }

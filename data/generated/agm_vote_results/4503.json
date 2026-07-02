@@ -1,0 +1,40 @@
+{
+  "company_code": "4503",
+  "company_name": "アステラス製薬",
+  "meetings": [
+    {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100WAIH",
+      "submit_date_time": "2025-07-02 09:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAIH",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案秋山里絵",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 13341620,
+          "votes_against": 55962,
+          "votes_abstain": 237663,
+          "approval_pct": 97.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 13207038,
+          "votes_against": 183783,
+          "votes_abstain": 244527,
+          "approval_pct": 96.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T21:06:03.087Z"
+}

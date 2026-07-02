@@ -3,6 +3,159 @@
   "company_name": "理研ビタミン",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W6T3",
+      "submit_date_time": "2025-06-26 10:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W6T3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山木一彦",
+          "votes_for": 225363,
+          "votes_against": 15755,
+          "votes_abstain": 78,
+          "approval_pct": 92.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "望月敦",
+          "votes_for": 226232,
+          "votes_against": 14886,
+          "votes_abstain": 78,
+          "approval_pct": 92.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "仲野隆久",
+          "votes_for": 238230,
+          "votes_against": 2888,
+          "votes_abstain": 78,
+          "approval_pct": 97.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "道津信夫",
+          "votes_for": 238875,
+          "votes_against": 2243,
+          "votes_abstain": 62,
+          "approval_pct": 98.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "冨取隆浩",
+          "votes_for": 238865,
+          "votes_against": 2253,
+          "votes_abstain": 78,
+          "approval_pct": 98.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中野正明",
+          "votes_for": 238935,
+          "votes_against": 2183,
+          "votes_abstain": 62,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平野伸一",
+          "votes_for": 239062,
+          "votes_against": 2056,
+          "votes_abstain": 78,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "牧之段武彦",
+          "votes_for": 236854,
+          "votes_against": 4277,
+          "votes_abstain": 64,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤永敏",
+          "votes_for": 238808,
+          "votes_against": 2324,
+          "votes_abstain": 64,
+          "approval_pct": 98.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "末吉永久",
+          "votes_for": 238840,
+          "votes_against": 2292,
+          "votes_abstain": 64,
+          "approval_pct": 98.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "末吉亙",
+          "votes_for": 239052,
+          "votes_against": 2080,
+          "votes_abstain": 64,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "氏原亜由美",
+          "votes_for": 239149,
+          "votes_against": 1983,
+          "votes_abstain": 64,
+          "approval_pct": 98.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TUCT",
@@ -108,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:00:15.293Z"
+  "updated_at": "2026-07-02T21:53:14.926Z"
 }

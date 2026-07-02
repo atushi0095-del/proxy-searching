@@ -1,0 +1,100 @@
+{
+  "company_code": "7794",
+  "company_name": "ｲｰﾃﾞｨｰﾋﾟｰ",
+  "meetings": [
+    {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WAXY",
+      "submit_date_time": "2025-07-03 13:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAXY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤森直治",
+          "votes_for": 70366,
+          "votes_against": 1335,
+          "votes_abstain": null,
+          "approval_pct": 97.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙岸秀滋",
+          "votes_for": 70365,
+          "votes_against": 1336,
+          "votes_abstain": null,
+          "approval_pct": 97.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林雅志",
+          "votes_for": 70500,
+          "votes_against": 1201,
+          "votes_abstain": null,
+          "approval_pct": 97.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "光田好孝",
+          "votes_for": 70520,
+          "votes_against": 1181,
+          "votes_abstain": null,
+          "approval_pct": 97.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "槇徳子",
+          "votes_for": 70496,
+          "votes_against": 1205,
+          "votes_abstain": null,
+          "approval_pct": 97.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡田宗久",
+          "votes_for": 70653,
+          "votes_against": 1064,
+          "votes_abstain": null,
+          "approval_pct": 97.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大塚仁",
+          "votes_for": 70645,
+          "votes_against": 1072,
+          "votes_abstain": null,
+          "approval_pct": 97.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T21:02:25.960Z"
+}

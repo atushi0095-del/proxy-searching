@@ -3,6 +3,135 @@
   "company_name": "住友大阪セメント",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W87O",
+      "submit_date_time": "2025-06-27 15:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W87O",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 281808,
+          "votes_against": 319,
+          "votes_abstain": 82,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "関根福一",
+          "votes_for": 180056,
+          "votes_against": 102188,
+          "votes_abstain": 82,
+          "approval_pct": 63.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "諸橋央典",
+          "votes_for": 180634,
+          "votes_against": 101610,
+          "votes_abstain": 82,
+          "approval_pct": 63.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "土井良治",
+          "votes_for": 208053,
+          "votes_against": 74193,
+          "votes_abstain": 82,
+          "approval_pct": 73.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "関本正毅",
+          "votes_for": 209005,
+          "votes_against": 73241,
+          "votes_abstain": 82,
+          "approval_pct": 74.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野昭彦",
+          "votes_for": 209213,
+          "votes_against": 73033,
+          "votes_abstain": 82,
+          "approval_pct": 74.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福嶋達雄",
+          "votes_for": 209215,
+          "votes_against": 73031,
+          "votes_abstain": 82,
+          "approval_pct": 74.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "牧野光子",
+          "votes_for": 209023,
+          "votes_against": 73223,
+          "votes_abstain": 82,
+          "approval_pct": 74.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "稲川龍也",
+          "votes_for": 209951,
+          "votes_against": 72295,
+          "votes_abstain": 82,
+          "approval_pct": 74.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森戸義美",
+          "votes_for": 209985,
+          "votes_against": 72261,
+          "votes_abstain": 82,
+          "approval_pct": 74.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TRJQ",
@@ -168,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:47:02.178Z"
+  "updated_at": "2026-07-02T21:32:58.053Z"
 }

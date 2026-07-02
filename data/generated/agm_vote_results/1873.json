@@ -3,6 +3,99 @@
   "company_name": "日本ハウスホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-07-25",
+      "meeting_year": 2025,
+      "doc_id": "S100WF02",
+      "submit_date_time": "2025-07-28 13:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WF02",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 234158,
+          "votes_against": 2548,
+          "votes_abstain": null,
+          "approval_pct": 98.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "成田和幸",
+          "votes_for": 182149,
+          "votes_against": 54558,
+          "votes_abstain": null,
+          "approval_pct": 76.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高橋康一",
+          "votes_for": 218892,
+          "votes_against": 17815,
+          "votes_abstain": null,
+          "approval_pct": 92.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "池辺厚幸",
+          "votes_for": 219301,
+          "votes_against": 17406,
+          "votes_abstain": null,
+          "approval_pct": 92.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "柴谷晃",
+          "votes_for": 187270,
+          "votes_against": 49437,
+          "votes_abstain": null,
+          "approval_pct": 79.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "惠島克芳",
+          "votes_for": 204968,
+          "votes_against": 31739,
+          "votes_abstain": null,
+          "approval_pct": 86.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "赤澤由英",
+          "votes_for": 228453,
+          "votes_against": 8254,
+          "votes_abstain": null,
+          "approval_pct": 96.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-07-25",
       "meeting_year": 2024,
       "doc_id": "S100U31C",
@@ -96,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:01:59.810Z"
+  "updated_at": "2026-07-02T20:53:03.108Z"
 }

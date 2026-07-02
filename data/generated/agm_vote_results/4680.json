@@ -3,6 +3,39 @@
   "company_name": "ラウンドワン",
   "meetings": [
     {
+      "meeting_date": "2025-06-28",
+      "meeting_year": 2025,
+      "doc_id": "S100WAEK",
+      "submit_date_time": "2025-07-01 16:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAEK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2159439,
+          "votes_against": 2178,
+          "votes_abstain": 21,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡瀬裕昭久保田有子",
+          "votes_for": 21408732158861,
+          "votes_against": 183822831,
+          "votes_abstain": 245621,
+          "approval_pct": 98.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-22",
       "meeting_year": 2024,
       "doc_id": "S100TT9U",
@@ -36,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:03:11.142Z"
+  "updated_at": "2026-07-02T21:06:37.943Z"
 }

@@ -1,0 +1,52 @@
+{
+  "company_code": "5032",
+  "company_name": "ＡＮＹＣＯＬＯＲ",
+  "meetings": [
+    {
+      "meeting_date": "2025-07-29",
+      "meeting_year": 2025,
+      "doc_id": "S100WFKP",
+      "submit_date_time": "2025-07-30 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WFKP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案田角陸釣井慎也有富丈之",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 497985498911498900,
+          "votes_against": 1507630688,
+          "votes_abstain": 305255255,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案前川俊策山岡佑丸山祐子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 498988498965499300,
+          "votes_against": 554577236,
+          "votes_abstain": 255255255,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 498359,
+          "votes_against": 1183,
+          "votes_abstain": 255,
+          "approval_pct": 99.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T20:51:01.402Z"
+}

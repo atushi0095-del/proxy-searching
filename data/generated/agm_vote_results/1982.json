@@ -3,6 +3,135 @@
   "company_name": "日比谷総合設備",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W5SD",
+      "submit_date_time": "2025-06-25 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5SD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 186690,
+          "votes_against": 37,
+          "votes_abstain": 26,
+          "approval_pct": 99.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中北英孝",
+          "votes_for": 163817,
+          "votes_against": 22933,
+          "votes_abstain": 26,
+          "approval_pct": 87.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芦川隆範",
+          "votes_for": 186649,
+          "votes_against": 102,
+          "votes_abstain": 26,
+          "approval_pct": 99.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "享保裕彦",
+          "votes_for": 186679,
+          "votes_against": 72,
+          "votes_abstain": 26,
+          "approval_pct": 99.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀泰彰",
+          "votes_for": 186684,
+          "votes_against": 67,
+          "votes_abstain": 26,
+          "approval_pct": 99.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荒井泰徳",
+          "votes_for": 186637,
+          "votes_against": 114,
+          "votes_abstain": 26,
+          "approval_pct": 99.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金子昌史",
+          "votes_for": 186706,
+          "votes_against": 45,
+          "votes_abstain": 26,
+          "approval_pct": 99.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本誠一",
+          "votes_for": 186626,
+          "votes_against": 125,
+          "votes_abstain": 26,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大砂雅子",
+          "votes_for": 186671,
+          "votes_against": 80,
+          "votes_abstain": 26,
+          "approval_pct": 99.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大串淳子",
+          "votes_for": 186677,
+          "votes_against": 74,
+          "votes_abstain": 26,
+          "approval_pct": 99.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TUTM",
@@ -156,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:56:25.927Z"
+  "updated_at": "2026-07-02T21:59:33.453Z"
 }

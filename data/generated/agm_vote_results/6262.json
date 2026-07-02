@@ -3,6 +3,147 @@
   "company_name": "ＰＥＧＡＳＵＳ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W5R2",
+      "submit_date_time": "2025-06-25 15:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5R2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 176077,
+          "votes_against": 141,
+          "votes_abstain": 0,
+          "approval_pct": 99.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "美馬成望",
+          "votes_for": 182913,
+          "votes_against": 4807,
+          "votes_abstain": 0,
+          "approval_pct": 97.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡田義秀",
+          "votes_for": 185240,
+          "votes_against": 2480,
+          "votes_abstain": 0,
+          "approval_pct": 98.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "美馬正道",
+          "votes_for": 185311,
+          "votes_against": 2409,
+          "votes_abstain": 0,
+          "approval_pct": 98.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小高得央",
+          "votes_for": 184934,
+          "votes_against": 2786,
+          "votes_abstain": 0,
+          "approval_pct": 98.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中知加",
+          "votes_for": 184877,
+          "votes_against": 2843,
+          "votes_abstain": 0,
+          "approval_pct": 98.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "杉山清和",
+          "votes_for": 184733,
+          "votes_against": 2987,
+          "votes_abstain": 0,
+          "approval_pct": 98.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "吉田泰三",
+          "votes_for": 185930,
+          "votes_against": 1790,
+          "votes_abstain": 0,
+          "approval_pct": 99.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "今中明子",
+          "votes_for": 186240,
+          "votes_against": 1480,
+          "votes_abstain": 0,
+          "approval_pct": 99.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "佐藤文泰",
+          "votes_for": 186030,
+          "votes_against": 1690,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "下元高文",
+          "votes_for": 186159,
+          "votes_against": 1561,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TU3Y",
@@ -96,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:59:01.057Z"
+  "updated_at": "2026-07-02T21:59:18.187Z"
 }

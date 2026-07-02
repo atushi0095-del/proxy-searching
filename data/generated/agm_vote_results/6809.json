@@ -3,6 +3,63 @@
   "company_name": "ＴＯＡ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W6YD",
+      "submit_date_time": "2025-06-26 12:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W6YD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 248042,
+          "votes_against": 266,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "音野徹",
+          "votes_for": 243524,
+          "votes_against": 4790,
+          "votes_abstain": 0,
+          "approval_pct": 97.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "村田雅詩",
+          "votes_for": 235159,
+          "votes_against": 13155,
+          "votes_abstain": 0,
+          "approval_pct": 94.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "福元隆久",
+          "votes_for": 248096,
+          "votes_against": 218,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TW5U",
@@ -96,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:50:37.977Z"
+  "updated_at": "2026-07-02T21:51:28.382Z"
 }

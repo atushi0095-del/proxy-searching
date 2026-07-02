@@ -3,6 +3,123 @@
   "company_name": "ＮＴＴデータグループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-16",
+      "meeting_year": 2025,
+      "doc_id": "S100VZI9",
+      "submit_date_time": "2025-06-20 16:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VZI9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 12660103,
+          "votes_against": 72620,
+          "votes_abstain": 208,
+          "approval_pct": 99.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐々木裕氏",
+          "votes_for": 12352917,
+          "votes_against": 381381,
+          "votes_abstain": 243,
+          "approval_pct": 97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中山和彦氏",
+          "votes_for": 12386777,
+          "votes_against": 347556,
+          "votes_abstain": 208,
+          "approval_pct": 97.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "豊田麻子氏",
+          "votes_for": 12694185,
+          "votes_against": 40148,
+          "votes_abstain": 208,
+          "approval_pct": 99.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "西村忠興氏",
+          "votes_for": 12719677,
+          "votes_against": 14621,
+          "votes_abstain": 243,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤井眞理子氏",
+          "votes_for": 12720760,
+          "votes_against": 13573,
+          "votes_abstain": 208,
+          "approval_pct": 99.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "池史彦氏",
+          "votes_for": 12720609,
+          "votes_against": 13723,
+          "votes_abstain": 208,
+          "approval_pct": 99.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "石黒成直氏",
+          "votes_for": 12721310,
+          "votes_against": 13023,
+          "votes_abstain": 208,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "EricLamarre氏",
+          "votes_for": 12729380,
+          "votes_against": 4953,
+          "votes_abstain": 208,
+          "approval_pct": 99.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-18",
       "meeting_year": 2024,
       "doc_id": "S100TNJ4",
@@ -156,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:22:44.756Z"
+  "updated_at": "2026-07-02T22:14:38.593Z"
 }

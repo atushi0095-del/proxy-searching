@@ -3,6 +3,135 @@
   "company_name": "ＦＵＪＩ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA8L",
+      "submit_date_time": "2025-07-01 13:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA8L",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 740199,
+          "votes_against": 741,
+          "votes_abstain": 0,
+          "approval_pct": 98.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "五十棲丈二",
+          "votes_for": 706698,
+          "votes_against": 34444,
+          "votes_abstain": 0,
+          "approval_pct": 94.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "須原信介",
+          "votes_for": 713351,
+          "votes_against": 27793,
+          "votes_abstain": 0,
+          "approval_pct": 95.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加納淳一",
+          "votes_for": 723647,
+          "votes_against": 17497,
+          "votes_abstain": 0,
+          "approval_pct": 96.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤武",
+          "votes_for": 723742,
+          "votes_against": 17402,
+          "votes_abstain": 0,
+          "approval_pct": 96.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水野象司",
+          "votes_for": 726387,
+          "votes_against": 14758,
+          "votes_abstain": 0,
+          "approval_pct": 97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩崎誠",
+          "votes_for": 728347,
+          "votes_against": 12798,
+          "votes_abstain": 0,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上野千晴",
+          "votes_for": 730057,
+          "votes_against": 11088,
+          "votes_abstain": 0,
+          "approval_pct": 97.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 740208,
+          "votes_against": 937,
+          "votes_abstain": 0,
+          "approval_pct": 98.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 740260,
+          "votes_against": 885,
+          "votes_abstain": 0,
+          "approval_pct": 98.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYNW",
@@ -132,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:19:49.548Z"
+  "updated_at": "2026-07-02T21:09:55.996Z"
 }

@@ -3,6 +3,147 @@
   "company_name": "日東電工",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W3DF",
+      "submit_date_time": "2025-06-25 16:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W3DF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 5842860,
+          "votes_against": 1474,
+          "votes_abstain": 10191,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙﨑秀雄",
+          "votes_for": 5464159,
+          "votes_against": 367557,
+          "votes_abstain": 23073,
+          "approval_pct": 92.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三木陽介",
+          "votes_for": 5719148,
+          "votes_against": 125456,
+          "votes_abstain": 10191,
+          "approval_pct": 96.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊勢山恭弘",
+          "votes_for": 5708512,
+          "votes_against": 136091,
+          "votes_abstain": 10191,
+          "approval_pct": 96.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大脇泰人",
+          "votes_for": 5718812,
+          "votes_against": 125792,
+          "votes_abstain": 10191,
+          "approval_pct": 96.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赤木達哉",
+          "votes_for": 5719198,
+          "votes_against": 125406,
+          "votes_abstain": 10191,
+          "approval_pct": 96.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "古瀬洋一郎",
+          "votes_for": 5714088,
+          "votes_against": 130515,
+          "votes_abstain": 10191,
+          "approval_pct": 96.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ウォンライヨン",
+          "votes_for": 5814398,
+          "votes_against": 28930,
+          "votes_abstain": 11470,
+          "approval_pct": 98.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤田道隆",
+          "votes_for": 5801550,
+          "votes_against": 43057,
+          "votes_abstain": 10191,
+          "approval_pct": 98.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田泰弘",
+          "votes_for": 5729303,
+          "votes_against": 114024,
+          "votes_abstain": 11470,
+          "approval_pct": 97.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "江藤真理子",
+          "votes_for": 5801061,
+          "votes_against": 42267,
+          "votes_abstain": 11470,
+          "approval_pct": 98.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TSA0",
@@ -168,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:57:16.187Z"
+  "updated_at": "2026-07-02T21:56:42.566Z"
 }

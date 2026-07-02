@@ -3,6 +3,147 @@
   "company_name": "京三製作所",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W4RR",
+      "submit_date_time": "2025-06-25 15:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W4RR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 508818,
+          "votes_against": 2125,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "國澤良治",
+          "votes_for": 450362,
+          "votes_against": 60578,
+          "votes_abstain": 0,
+          "approval_pct": 87.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤井達也",
+          "votes_for": 504572,
+          "votes_against": 6368,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小野寺徹",
+          "votes_for": 496572,
+          "votes_against": 14368,
+          "votes_abstain": 0,
+          "approval_pct": 96.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北村美穂子",
+          "votes_for": 504594,
+          "votes_against": 6346,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "笹宏行",
+          "votes_for": 505227,
+          "votes_against": 5713,
+          "votes_abstain": 0,
+          "approval_pct": 98.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "永井朝子",
+          "votes_for": 505428,
+          "votes_against": 5512,
+          "votes_abstain": 0,
+          "approval_pct": 98.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中野哲也",
+          "votes_for": 505333,
+          "votes_against": 5607,
+          "votes_abstain": 0,
+          "approval_pct": 98.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "齋雄一郎",
+          "votes_for": 508471,
+          "votes_against": 2482,
+          "votes_abstain": 0,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役（非業務執行取締役を除く。）に対する業績連動型株式報酬制度の導入の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 414470,
+          "votes_against": 96313,
+          "votes_abstain": 0,
+          "approval_pct": 80.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案当社株式の大量取得行為に関する対応方針（買収への対応方針）の継続の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 403907,
+          "votes_against": 107046,
+          "votes_abstain": 0,
+          "approval_pct": 78.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQQ9",
@@ -108,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:14:53.387Z"
+  "updated_at": "2026-07-02T21:57:33.452Z"
 }

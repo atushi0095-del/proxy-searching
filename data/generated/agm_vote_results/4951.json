@@ -3,6 +3,135 @@
   "company_name": "エステー",
   "meetings": [
     {
+      "meeting_date": "2025-06-17",
+      "meeting_year": 2025,
+      "doc_id": "S100VZGQ",
+      "submit_date_time": "2025-06-18 14:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VZGQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 169858,
+          "votes_against": 633,
+          "votes_abstain": 0,
+          "approval_pct": 99.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上月洋",
+          "votes_for": 161458,
+          "votes_against": 9188,
+          "votes_abstain": 0,
+          "approval_pct": 94.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉澤浩一",
+          "votes_for": 164015,
+          "votes_against": 6631,
+          "votes_abstain": 0,
+          "approval_pct": 96.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本一成",
+          "votes_for": 169936,
+          "votes_against": 711,
+          "votes_abstain": 0,
+          "approval_pct": 99.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本成明",
+          "votes_for": 169922,
+          "votes_against": 725,
+          "votes_abstain": 0,
+          "approval_pct": 99.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前田新造",
+          "votes_for": 169623,
+          "votes_against": 1024,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩田彰一郎",
+          "votes_for": 160014,
+          "votes_against": 10632,
+          "votes_abstain": 0,
+          "approval_pct": 93.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野田弘子",
+          "votes_for": 169809,
+          "votes_against": 838,
+          "votes_abstain": 0,
+          "approval_pct": 99.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和智洋子",
+          "votes_for": 169816,
+          "votes_against": 831,
+          "votes_abstain": 0,
+          "approval_pct": 99.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮永雅好",
+          "votes_for": 169834,
+          "votes_against": 813,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-18",
       "meeting_year": 2024,
       "doc_id": "S100TNCL",
@@ -132,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:26:15.022Z"
+  "updated_at": "2026-07-02T22:20:12.238Z"
 }

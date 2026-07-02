@@ -3,6 +3,231 @@
   "company_name": "日産自動車",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W603",
+      "submit_date_time": "2025-06-25 15:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W603",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 23568291,
+          "votes_against": 2617648,
+          "votes_abstain": 315,
+          "approval_pct": 90,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木村康",
+          "votes_for": 23916919,
+          "votes_against": 2272474,
+          "votes_abstain": 449,
+          "approval_pct": 91.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ベルナールデルマス",
+          "votes_for": 24328262,
+          "votes_against": 1861134,
+          "votes_abstain": 449,
+          "approval_pct": 92.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "井原慶子",
+          "votes_for": 24252874,
+          "votes_against": 1936520,
+          "votes_abstain": 449,
+          "approval_pct": 92.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "永井素夫",
+          "votes_for": 24024954,
+          "votes_against": 2164436,
+          "votes_abstain": 449,
+          "approval_pct": 91.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "アンドリューハウス",
+          "votes_for": 24268913,
+          "votes_against": 1920481,
+          "votes_abstain": 449,
+          "approval_pct": 92.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ブレンダハーヴィー",
+          "votes_for": 24818296,
+          "votes_against": 1370907,
+          "votes_abstain": 643,
+          "approval_pct": 94.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "朝田照男",
+          "votes_for": 23385490,
+          "votes_against": 2803904,
+          "votes_abstain": 449,
+          "approval_pct": 89.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "得能摩利子",
+          "votes_for": 24916014,
+          "votes_against": 1273382,
+          "votes_abstain": 449,
+          "approval_pct": 95.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ヴァレリーランドン",
+          "votes_for": 25285992,
+          "votes_against": 903399,
+          "votes_abstain": 449,
+          "approval_pct": 96.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ティモシーライアン",
+          "votes_for": 25472183,
+          "votes_against": 717212,
+          "votes_abstain": 449,
+          "approval_pct": 97.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "イヴァンエスピノーサ",
+          "votes_for": 25468157,
+          "votes_against": 721044,
+          "votes_abstain": 643,
+          "approval_pct": 97.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "赤石永一",
+          "votes_for": 25536203,
+          "votes_against": 653195,
+          "votes_abstain": 449,
+          "approval_pct": 97.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案定款一部変更の件（上場関係会社の取扱いの検討に関する規定の新設）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 2197243,
+          "votes_against": 17057968,
+          "votes_abstain": 6935850,
+          "approval_pct": 8.39,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案定款一部変更の件（上場廃止のおそれのある上場関係会社への対応方針の決定に関する規定の新設）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 1953889,
+          "votes_against": 17301544,
+          "votes_abstain": 6935823,
+          "approval_pct": 7.46,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案定款一部変更の件（適正な株主総会を実現するために「是正役」を新設）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 1292978,
+          "votes_against": 17962072,
+          "votes_abstain": 6936132,
+          "approval_pct": 4.94,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役報酬の見直しに関する定款変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 1559842,
+          "votes_against": 17695053,
+          "votes_abstain": 6935783,
+          "approval_pct": 5.96,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案期末配当実施に関する件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1430231,
+          "votes_against": 17825197,
+          "votes_abstain": 6935782,
+          "approval_pct": 5.46,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TUQ7",
@@ -168,5 +393,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:57:58.459Z"
+  "updated_at": "2026-07-02T21:57:31.010Z"
 }

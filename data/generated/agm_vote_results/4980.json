@@ -3,6 +3,135 @@
   "company_name": "デクセリアルズ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100WAMV",
+      "submit_date_time": "2025-07-02 15:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAMV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1489395,
+          "votes_against": 1186,
+          "votes_abstain": null,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新家由久",
+          "votes_for": 1423595,
+          "votes_against": 66640,
+          "votes_abstain": 344,
+          "approval_pct": 95.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北所克史",
+          "votes_for": 1469236,
+          "votes_against": 21344,
+          "votes_abstain": null,
+          "approval_pct": 98.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "細谷和男",
+          "votes_for": 1473782,
+          "votes_against": 16799,
+          "votes_abstain": null,
+          "approval_pct": 98.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田口聡",
+          "votes_for": 1472101,
+          "votes_against": 18480,
+          "votes_abstain": null,
+          "approval_pct": 98.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "萩原利仁",
+          "votes_for": 1472549,
+          "votes_against": 18032,
+          "votes_abstain": null,
+          "approval_pct": 98.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加賀谷哲之",
+          "votes_for": 1473105,
+          "votes_against": 17476,
+          "votes_abstain": null,
+          "approval_pct": 98.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷口正人",
+          "votes_for": 1427717,
+          "votes_against": 62862,
+          "votes_abstain": null,
+          "approval_pct": 95.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山代志子",
+          "votes_for": 1485696,
+          "votes_against": 4885,
+          "votes_abstain": null,
+          "approval_pct": 99.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ニコラスＪ．カッソン",
+          "votes_for": 1474352,
+          "votes_against": 16229,
+          "votes_abstain": null,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TZ8B",
@@ -120,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:13:16.287Z"
+  "updated_at": "2026-07-02T21:03:52.983Z"
 }

@@ -3,6 +3,171 @@
   "company_name": "東京窯業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAB8",
+      "submit_date_time": "2025-07-01 14:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAB8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 359938,
+          "votes_against": 3960,
+          "votes_abstain": null,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 358694,
+          "votes_against": 5204,
+          "votes_abstain": null,
+          "approval_pct": 98.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "牛込進",
+          "votes_for": 346110,
+          "votes_against": 17788,
+          "votes_abstain": null,
+          "approval_pct": 95.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "牛込伸隆",
+          "votes_for": 347279,
+          "votes_against": 16619,
+          "votes_abstain": null,
+          "approval_pct": 95.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石黒武",
+          "votes_for": 358976,
+          "votes_against": 4922,
+          "votes_abstain": null,
+          "approval_pct": 98.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "古川元久",
+          "votes_for": 346734,
+          "votes_against": 17164,
+          "votes_abstain": null,
+          "approval_pct": 95.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "曾我貴志",
+          "votes_for": 359899,
+          "votes_against": 3999,
+          "votes_abstain": null,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤久樹",
+          "votes_for": 362588,
+          "votes_against": 1310,
+          "votes_abstain": null,
+          "approval_pct": 99.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池康太",
+          "votes_for": 362874,
+          "votes_against": 1024,
+          "votes_abstain": null,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩本隆志",
+          "votes_for": 359851,
+          "votes_against": 4047,
+          "votes_abstain": null,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "越前徹",
+          "votes_for": 347998,
+          "votes_against": 15900,
+          "votes_abstain": null,
+          "approval_pct": 95.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鹿嶋忠幸",
+          "votes_for": 346870,
+          "votes_against": 17028,
+          "votes_abstain": null,
+          "approval_pct": 95.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 346091,
+          "votes_against": 17807,
+          "votes_abstain": null,
+          "approval_pct": 95.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYCO",
@@ -60,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:25:08.214Z"
+  "updated_at": "2026-07-02T21:08:23.481Z"
 }

@@ -3,6 +3,87 @@
   "company_name": "巴川コーポレーション",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WAC6",
+      "submit_date_time": "2025-07-01 15:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAC6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上善雄",
+          "votes_for": 77519,
+          "votes_against": 3529,
+          "votes_abstain": 0,
+          "approval_pct": 92.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口正明",
+          "votes_for": 80565,
+          "votes_against": 483,
+          "votes_abstain": 0,
+          "approval_pct": 95.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上雄介",
+          "votes_for": 80541,
+          "votes_against": 507,
+          "votes_abstain": 0,
+          "approval_pct": 95.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林隆一",
+          "votes_for": 80574,
+          "votes_against": 474,
+          "votes_abstain": 0,
+          "approval_pct": 95.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "遠藤仁",
+          "votes_for": 77970,
+          "votes_against": 3078,
+          "votes_abstain": 0,
+          "approval_pct": 92.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 75971,
+          "votes_against": 5094,
+          "votes_abstain": 0,
+          "approval_pct": 90.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TYPW",
@@ -156,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:19:36.112Z"
+  "updated_at": "2026-07-02T21:07:55.803Z"
 }

@@ -3,6 +3,63 @@
   "company_name": "東映アニメーション",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W8L3",
+      "submit_date_time": "2025-06-27 13:57",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8L3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1907332,
+          "votes_against": 35074,
+          "votes_abstain": 0,
+          "approval_pct": 98.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山正久",
+          "votes_for": 1899733,
+          "votes_against": 42565,
+          "votes_abstain": 0,
+          "approval_pct": 97.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1933937,
+          "votes_against": 8437,
+          "votes_abstain": 34,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1933956,
+          "votes_against": 8362,
+          "votes_abstain": 90,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TXJ5",
@@ -180,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:38:30.050Z"
+  "updated_at": "2026-07-02T21:36:35.493Z"
 }

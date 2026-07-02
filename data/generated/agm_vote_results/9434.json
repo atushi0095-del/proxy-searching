@@ -3,6 +3,51 @@
   "company_name": "ソフトバンク",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W9T7",
+      "submit_date_time": "2025-06-30 15:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9T7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役11名選任の件今井康之宮川潤一榛葉淳藤原和彦孫正義堀場厚越直美坂本真樹佐々木裕子唐木秀明仲條亮子",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 3.7188035537111723e+98,
+          "votes_against": 2.418459318158813e+72,
+          "votes_abstain": 2.4887248872488725e+54,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件中嶋康博",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 373899532,
+          "votes_against": 410865,
+          "votes_abstain": 24717,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役に対する報酬等の決定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 347387155,
+          "votes_against": 26525994,
+          "votes_abstain": 422800,
+          "approval_pct": 92.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TR06",
@@ -48,5 +93,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:13:12.317Z"
+  "updated_at": "2026-07-02T21:17:18.586Z"
 }

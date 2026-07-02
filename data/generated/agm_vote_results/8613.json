@@ -3,6 +3,147 @@
   "company_name": "丸三証券",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W642",
+      "submit_date_time": "2025-06-25 16:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W642",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 453519,
+          "votes_against": 2630,
+          "votes_abstain": 0,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 453587,
+          "votes_against": 2566,
+          "votes_abstain": 0,
+          "approval_pct": 99.38,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊地稔",
+          "votes_for": 450282,
+          "votes_against": 5870,
+          "votes_abstain": 0,
+          "approval_pct": 98.66,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "服部誠",
+          "votes_for": 451582,
+          "votes_against": 4571,
+          "votes_abstain": 0,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "植原惠子",
+          "votes_for": 438667,
+          "votes_against": 17486,
+          "votes_abstain": 0,
+          "approval_pct": 96.11,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濵田豊作",
+          "votes_for": 450114,
+          "votes_against": 6039,
+          "votes_abstain": 0,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青木真嗣",
+          "votes_for": 451892,
+          "votes_against": 4261,
+          "votes_abstain": 0,
+          "approval_pct": 99.01,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "齋藤和弘",
+          "votes_for": 450675,
+          "votes_against": 5478,
+          "votes_abstain": 0,
+          "approval_pct": 98.74,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾関春子",
+          "votes_for": 450898,
+          "votes_against": 5255,
+          "votes_abstain": 0,
+          "approval_pct": 98.79,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森勇",
+          "votes_for": 375228,
+          "votes_against": 80924,
+          "votes_abstain": 0,
+          "approval_pct": 82.21,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 446472,
+          "votes_against": 9682,
+          "votes_abstain": 0,
+          "approval_pct": 97.82,
+          "approval_pct_source": "reported",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TUJ3",
@@ -132,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:59:17.857Z"
+  "updated_at": "2026-07-02T21:56:45.089Z"
 }

@@ -3,6 +3,123 @@
   "company_name": "東邦ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA4A",
+      "submit_date_time": "2025-07-01 10:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA4A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 508723,
+          "votes_against": 513,
+          "votes_abstain": 322,
+          "approval_pct": 99.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "枝廣弘巳",
+          "votes_for": 356938,
+          "votes_against": 152297,
+          "votes_abstain": 322,
+          "approval_pct": 70.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "馬田明",
+          "votes_for": 371493,
+          "votes_against": 137743,
+          "votes_abstain": 322,
+          "approval_pct": 72.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松谷竹生",
+          "votes_for": 371537,
+          "votes_against": 137699,
+          "votes_abstain": 322,
+          "approval_pct": 72.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河野修蔵",
+          "votes_for": 507368,
+          "votes_against": 1868,
+          "votes_abstain": 322,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芳賀真名子",
+          "votes_for": 508581,
+          "votes_against": 655,
+          "votes_abstain": 322,
+          "approval_pct": 99.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 508648,
+          "votes_against": 589,
+          "votes_abstain": 322,
+          "approval_pct": 99.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 508587,
+          "votes_against": 570,
+          "votes_abstain": 402,
+          "approval_pct": 99.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 508512,
+          "votes_against": 645,
+          "votes_abstain": 402,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYL4",
@@ -132,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:22:04.001Z"
+  "updated_at": "2026-07-02T21:11:53.292Z"
 }

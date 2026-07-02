@@ -3,6 +3,75 @@
   "company_name": "ＳＡＮＫＹＯ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W99K",
+      "submit_date_time": "2025-07-01 11:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W99K",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1788707,
+          "votes_against": 2880,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "毒島秀行",
+          "votes_for": 1538705,
+          "votes_against": 93869,
+          "votes_abstain": 159341,
+          "approval_pct": 85.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小倉敏男",
+          "votes_for": 1709806,
+          "votes_against": 82113,
+          "votes_abstain": 0,
+          "approval_pct": 95.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋博史",
+          "votes_for": 1730277,
+          "votes_against": 61616,
+          "votes_abstain": 29,
+          "approval_pct": 96.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鶴岡淳子",
+          "votes_for": 1736804,
+          "votes_against": 55090,
+          "votes_abstain": 29,
+          "approval_pct": 96.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY45",
@@ -180,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:22:11.176Z"
+  "updated_at": "2026-07-02T21:10:55.248Z"
 }

@@ -3,6 +3,123 @@
   "company_name": "三谷セキサン",
   "meetings": [
     {
+      "meeting_date": "2025-06-18",
+      "meeting_year": 2025,
+      "doc_id": "S100W0C7",
+      "submit_date_time": "2025-06-19 14:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0C7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 161390,
+          "votes_against": 1472,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "三谷進治",
+          "votes_for": 130491,
+          "votes_against": 32371,
+          "votes_abstain": 0,
+          "approval_pct": 80.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中昌郁",
+          "votes_for": 158558,
+          "votes_against": 4304,
+          "votes_abstain": 0,
+          "approval_pct": 97.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "三谷聡",
+          "votes_for": 158754,
+          "votes_against": 4108,
+          "votes_abstain": 0,
+          "approval_pct": 97.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渡辺崇嗣",
+          "votes_for": 158984,
+          "votes_against": 3878,
+          "votes_abstain": 0,
+          "approval_pct": 97.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山口浩二",
+          "votes_for": 150556,
+          "votes_against": 12305,
+          "votes_abstain": 0,
+          "approval_pct": 92.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "阿部亨",
+          "votes_for": 158985,
+          "votes_against": 3877,
+          "votes_abstain": 0,
+          "approval_pct": 97.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 131767,
+          "votes_against": 31095,
+          "votes_abstain": 0,
+          "approval_pct": 80.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案退任監査役に対する退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 131932,
+          "votes_against": 30930,
+          "votes_abstain": 0,
+          "approval_pct": 81.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TWJE",
@@ -108,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:44:10.764Z"
+  "updated_at": "2026-07-02T22:18:40.810Z"
 }

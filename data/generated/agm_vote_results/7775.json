@@ -3,6 +3,87 @@
   "company_name": "大研医器",
   "meetings": [
     {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100W62C",
+      "submit_date_time": "2025-06-25 15:57",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W62C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 199718,
+          "votes_against": 3683,
+          "votes_abstain": 9,
+          "approval_pct": 97.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田圭一",
+          "votes_for": 154612,
+          "votes_against": 48818,
+          "votes_abstain": 9,
+          "approval_pct": 75.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田雅之",
+          "votes_for": 199707,
+          "votes_against": 3723,
+          "votes_abstain": 9,
+          "approval_pct": 97.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大工舎宏",
+          "votes_for": 159930,
+          "votes_against": 43500,
+          "votes_abstain": 9,
+          "approval_pct": 77.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "稲垣喜三",
+          "votes_for": 199845,
+          "votes_against": 3585,
+          "votes_abstain": 9,
+          "approval_pct": 97.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役及び監査役の報酬等の額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 199022,
+          "votes_against": 4239,
+          "votes_abstain": 178,
+          "approval_pct": 97.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TPNA",
@@ -36,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:19:43.148Z"
+  "updated_at": "2026-07-02T21:57:18.820Z"
 }

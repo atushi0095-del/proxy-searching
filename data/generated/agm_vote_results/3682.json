@@ -3,6 +3,135 @@
   "company_name": "エンカレッジ・テクノロジ",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W1IL",
+      "submit_date_time": "2025-06-20 15:51",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1IL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 51906,
+          "votes_against": 494,
+          "votes_abstain": null,
+          "approval_pct": 97.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井進也",
+          "votes_for": 51248,
+          "votes_against": 1142,
+          "votes_abstain": null,
+          "approval_pct": 96.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "日置喜晴",
+          "votes_for": 51388,
+          "votes_against": 1002,
+          "votes_abstain": null,
+          "approval_pct": 96.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯塚伸",
+          "votes_for": 51417,
+          "votes_against": 973,
+          "votes_abstain": null,
+          "approval_pct": 96.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上田浩",
+          "votes_for": 51394,
+          "votes_against": 996,
+          "votes_abstain": null,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡部信之",
+          "votes_for": 51421,
+          "votes_against": 969,
+          "votes_abstain": null,
+          "approval_pct": 97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "梶亨",
+          "votes_for": 51438,
+          "votes_against": 962,
+          "votes_abstain": null,
+          "approval_pct": 97.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "工藤克彦",
+          "votes_for": 51412,
+          "votes_against": 988,
+          "votes_abstain": null,
+          "approval_pct": 96.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "板垣浩二",
+          "votes_for": 51444,
+          "votes_against": 956,
+          "votes_abstain": null,
+          "approval_pct": 97.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 51800,
+          "votes_against": 600,
+          "votes_abstain": null,
+          "approval_pct": 97.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TRUP",
@@ -84,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:09:34.803Z"
+  "updated_at": "2026-07-02T22:14:55.958Z"
 }

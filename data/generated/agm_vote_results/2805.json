@@ -3,6 +3,123 @@
   "company_name": "ヱスビー食品",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA99",
+      "submit_date_time": "2025-07-01 13:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA99",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池村和也",
+          "votes_for": 84814,
+          "votes_against": 4063,
+          "votes_abstain": 135,
+          "approval_pct": 86.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田口裕司",
+          "votes_for": 85073,
+          "votes_against": 3804,
+          "votes_abstain": 135,
+          "approval_pct": 86.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小島和彦",
+          "votes_for": 85071,
+          "votes_against": 3806,
+          "votes_abstain": 135,
+          "approval_pct": 86.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加治正人",
+          "votes_for": 85081,
+          "votes_against": 3796,
+          "votes_abstain": 135,
+          "approval_pct": 86.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横井実",
+          "votes_for": 85082,
+          "votes_against": 3795,
+          "votes_abstain": 135,
+          "approval_pct": 86.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山﨑崇弘",
+          "votes_for": 85078,
+          "votes_against": 3799,
+          "votes_abstain": 135,
+          "approval_pct": 86.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大嶽佐由美",
+          "votes_for": 85080,
+          "votes_against": 3797,
+          "votes_abstain": 135,
+          "approval_pct": 86.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "瀧野敏子",
+          "votes_for": 85039,
+          "votes_against": 3838,
+          "votes_abstain": 135,
+          "approval_pct": 86.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 88436,
+          "votes_against": 531,
+          "votes_abstain": 135,
+          "approval_pct": 89.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TU6G",
@@ -192,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:22:18.593Z"
+  "updated_at": "2026-07-02T21:09:28.868Z"
 }

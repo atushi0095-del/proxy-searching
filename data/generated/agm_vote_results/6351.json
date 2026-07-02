@@ -3,6 +3,111 @@
   "company_name": "鶴見製作所",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA2O",
+      "submit_date_time": "2025-07-01 09:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA2O",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "辻本治",
+          "votes_for": 212815,
+          "votes_against": 863,
+          "votes_abstain": 61,
+          "approval_pct": 99.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西村武幸",
+          "votes_for": 213369,
+          "votes_against": 370,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上田孝徳",
+          "votes_for": 213365,
+          "votes_against": 374,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "敦賀啓一郎",
+          "votes_for": 213369,
+          "votes_against": 370,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "辻本晃利",
+          "votes_for": 213369,
+          "votes_against": 370,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "園田隆人",
+          "votes_for": 213401,
+          "votes_against": 338,
+          "votes_abstain": 0,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上麗",
+          "votes_for": 213447,
+          "votes_against": 292,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "自己株式取得の件",
+          "votes_for": 47713,
+          "votes_against": 166024,
+          "votes_abstain": 0,
+          "approval_pct": 22.32,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TWRQ",
@@ -144,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:39:43.734Z"
+  "updated_at": "2026-07-02T21:12:40.487Z"
 }

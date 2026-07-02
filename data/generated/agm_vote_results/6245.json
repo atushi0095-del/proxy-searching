@@ -3,6 +3,111 @@
   "company_name": "ヒラノテクシード",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W8ZJ",
+      "submit_date_time": "2025-06-27 16:56",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8ZJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 112845,
+          "votes_against": 267,
+          "votes_abstain": 49,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡田薫",
+          "votes_for": 109266,
+          "votes_against": 3895,
+          "votes_abstain": null,
+          "approval_pct": 96.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安居宗則",
+          "votes_for": 109305,
+          "votes_against": 3856,
+          "votes_abstain": null,
+          "approval_pct": 96.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原昌史",
+          "votes_for": 109270,
+          "votes_against": 3891,
+          "votes_abstain": null,
+          "approval_pct": 96.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大森克洋",
+          "votes_for": 109346,
+          "votes_against": 3815,
+          "votes_abstain": null,
+          "approval_pct": 96.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鶴谷信佳",
+          "votes_for": 109267,
+          "votes_against": 3894,
+          "votes_abstain": null,
+          "approval_pct": 96.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤本万太郎",
+          "votes_for": 109111,
+          "votes_against": 4050,
+          "votes_abstain": null,
+          "approval_pct": 96.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小西隆志",
+          "votes_for": 109210,
+          "votes_against": 3951,
+          "votes_abstain": null,
+          "approval_pct": 96.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TX3J",
@@ -144,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:41:46.114Z"
+  "updated_at": "2026-07-02T21:29:28.898Z"
 }

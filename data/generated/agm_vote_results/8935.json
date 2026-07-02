@@ -3,6 +3,123 @@
   "company_name": "ＦＪネクストホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W5WZ",
+      "submit_date_time": "2025-06-25 15:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5WZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 272154,
+          "votes_against": 3918,
+          "votes_abstain": null,
+          "approval_pct": 98.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "肥田幸春",
+          "votes_for": 212864,
+          "votes_against": 63209,
+          "votes_abstain": null,
+          "approval_pct": 76.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "肥田恵輔",
+          "votes_for": 232048,
+          "votes_against": 44025,
+          "votes_abstain": null,
+          "approval_pct": 83.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "益子重男",
+          "votes_for": 267473,
+          "votes_against": 8600,
+          "votes_abstain": null,
+          "approval_pct": 96.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木憲一",
+          "votes_for": 265370,
+          "votes_against": 10703,
+          "votes_abstain": null,
+          "approval_pct": 95.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木清",
+          "votes_for": 246732,
+          "votes_against": 29341,
+          "votes_abstain": null,
+          "approval_pct": 89.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高場大介",
+          "votes_for": 246684,
+          "votes_against": 29389,
+          "votes_abstain": null,
+          "approval_pct": 89.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野澤俊則",
+          "votes_for": 274980,
+          "votes_against": 1092,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大城季絵",
+          "votes_for": 275234,
+          "votes_against": 838,
+          "votes_abstain": null,
+          "approval_pct": 99.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTN1",
@@ -84,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:00:03.475Z"
+  "updated_at": "2026-07-02T21:58:43.309Z"
 }

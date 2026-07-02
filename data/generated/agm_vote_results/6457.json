@@ -3,6 +3,135 @@
   "company_name": "グローリー",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2L9",
+      "submit_date_time": "2025-06-24 09:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2L9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 461183,
+          "votes_against": 403,
+          "votes_abstain": 2,
+          "approval_pct": 99.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三和元純",
+          "votes_for": 454692,
+          "votes_against": 6894,
+          "votes_abstain": 2,
+          "approval_pct": 98.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田明浩",
+          "votes_for": 452595,
+          "votes_against": 8991,
+          "votes_abstain": 2,
+          "approval_pct": 98.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾上英雄",
+          "votes_for": 453795,
+          "votes_against": 7790,
+          "votes_abstain": 2,
+          "approval_pct": 98.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤田知子",
+          "votes_for": 454688,
+          "votes_against": 6898,
+          "votes_abstain": 2,
+          "approval_pct": 98.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "イアン・ジョーダン",
+          "votes_for": 458209,
+          "votes_against": 3377,
+          "votes_abstain": 2,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田育嗣",
+          "votes_for": 458302,
+          "votes_against": 3284,
+          "votes_abstain": 2,
+          "approval_pct": 99.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内藤宏治",
+          "votes_for": 460186,
+          "votes_against": 1400,
+          "votes_abstain": 2,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大森信洋",
+          "votes_for": 454061,
+          "votes_against": 7522,
+          "votes_abstain": 2,
+          "approval_pct": 98.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今戸智恵",
+          "votes_for": 460644,
+          "votes_against": 942,
+          "votes_abstain": 2,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TRU4",
@@ -180,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:02:42.039Z"
+  "updated_at": "2026-07-02T22:09:02.385Z"
 }

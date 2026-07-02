@@ -3,6 +3,147 @@
   "company_name": "木曽路",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W98V",
+      "submit_date_time": "2025-06-30 12:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W98V",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 165321,
+          "votes_against": 714,
+          "votes_abstain": null,
+          "approval_pct": 97.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉江源之",
+          "votes_for": 143236,
+          "votes_against": 22826,
+          "votes_abstain": null,
+          "approval_pct": 84.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松岡利朗",
+          "votes_for": 158965,
+          "votes_against": 7097,
+          "votes_abstain": null,
+          "approval_pct": 94.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大橋浩",
+          "votes_for": 158979,
+          "votes_against": 7083,
+          "votes_abstain": null,
+          "approval_pct": 94.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中根昌秋",
+          "votes_for": 164902,
+          "votes_against": 1160,
+          "votes_abstain": null,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川晃成",
+          "votes_for": 164677,
+          "votes_against": 1385,
+          "votes_abstain": null,
+          "approval_pct": 97.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松井常芳",
+          "votes_for": 158456,
+          "votes_against": 7606,
+          "votes_abstain": null,
+          "approval_pct": 93.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤邦昭",
+          "votes_for": 158396,
+          "votes_against": 7666,
+          "votes_abstain": null,
+          "approval_pct": 93.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新實曜子",
+          "votes_for": 164780,
+          "votes_against": 1256,
+          "votes_abstain": null,
+          "approval_pct": 97.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "熊田登与子",
+          "votes_for": 133215,
+          "votes_against": 32821,
+          "votes_abstain": null,
+          "approval_pct": 78.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平野善得",
+          "votes_for": 157324,
+          "votes_against": 8712,
+          "votes_abstain": null,
+          "approval_pct": 93.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY9M",
@@ -120,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:24:43.927Z"
+  "updated_at": "2026-07-02T21:23:17.921Z"
 }

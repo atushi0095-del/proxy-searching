@@ -3,6 +3,51 @@
   "company_name": "紀陽銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA73",
+      "submit_date_time": "2025-07-04 09:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA73",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 487163,
+          "votes_against": 407,
+          "votes_abstain": 21,
+          "approval_pct": 99.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案松岡靖之原口裕之丸岡範夫溝渕栄向井守寿山東弘之",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 4.803134842104853e+35,
+          "votes_against": 7.265336923324214e+23,
+          "votes_abstain": 111111111111,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案倉橋啓之前田竜佐西田恵堀智子足立基浩藤原敏正",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 4.771354770634865e+35,
+          "votes_against": 1.0441105131104117e+24,
+          "votes_abstain": 111111111111,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYZ5",
@@ -48,5 +93,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:12:07.632Z"
+  "updated_at": "2026-07-02T21:01:12.886Z"
 }

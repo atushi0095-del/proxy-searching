@@ -3,6 +3,135 @@
   "company_name": "コロナ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WAA1",
+      "submit_date_time": "2025-07-01 14:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAA1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 258330,
+          "votes_against": 950,
+          "votes_abstain": 0,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大桃満",
+          "votes_for": 230457,
+          "votes_against": 28823,
+          "votes_abstain": 0,
+          "approval_pct": 88.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "杵渕学",
+          "votes_for": 236904,
+          "votes_against": 22376,
+          "votes_abstain": 0,
+          "approval_pct": 91.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "西山昭彦",
+          "votes_for": 245493,
+          "votes_against": 13787,
+          "votes_abstain": 0,
+          "approval_pct": 94.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "稲田昭弘",
+          "votes_for": 245539,
+          "votes_against": 13741,
+          "votes_abstain": 0,
+          "approval_pct": 94.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "内田高志",
+          "votes_for": 245441,
+          "votes_against": 13839,
+          "votes_abstain": 0,
+          "approval_pct": 94.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙木修哉",
+          "votes_for": 245517,
+          "votes_against": 13763,
+          "votes_abstain": 0,
+          "approval_pct": 94.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "西村常男",
+          "votes_for": 245518,
+          "votes_against": 13762,
+          "votes_abstain": 0,
+          "approval_pct": 94.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "坂上芳仁",
+          "votes_for": 245534,
+          "votes_against": 13746,
+          "votes_abstain": 0,
+          "approval_pct": 94.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "本間貴昭",
+          "votes_for": 251619,
+          "votes_against": 7661,
+          "votes_abstain": 0,
+          "approval_pct": 97.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TXXJ",
@@ -168,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:32:18.773Z"
+  "updated_at": "2026-07-02T21:08:38.528Z"
 }

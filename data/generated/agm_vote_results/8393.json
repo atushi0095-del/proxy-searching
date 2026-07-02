@@ -3,6 +3,111 @@
   "company_name": "宮崎銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WA2F",
+      "submit_date_time": "2025-07-01 09:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA2F",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 125909,
+          "votes_against": 768,
+          "votes_abstain": 0,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉田浩二",
+          "votes_for": 119625,
+          "votes_against": 7037,
+          "votes_abstain": 15,
+          "approval_pct": 94.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西川義久",
+          "votes_for": 122872,
+          "votes_against": 3790,
+          "votes_abstain": 15,
+          "approval_pct": 97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邊友樹",
+          "votes_for": 125186,
+          "votes_against": 1476,
+          "votes_abstain": 15,
+          "approval_pct": 98.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "琴寄攝也",
+          "votes_for": 125090,
+          "votes_against": 1572,
+          "votes_abstain": 15,
+          "approval_pct": 98.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長友正人",
+          "votes_for": 125189,
+          "votes_against": 1473,
+          "votes_abstain": 15,
+          "approval_pct": 98.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河内克典",
+          "votes_for": 124640,
+          "votes_against": 2002,
+          "votes_abstain": 33,
+          "approval_pct": 98.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柏田芳徳",
+          "votes_for": 125133,
+          "votes_against": 1510,
+          "votes_abstain": 33,
+          "approval_pct": 98.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TWSI",
@@ -120,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:44:29.985Z"
+  "updated_at": "2026-07-02T21:12:50.376Z"
 }

@@ -3,6 +3,243 @@
   "company_name": "ＴＡＣ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W678",
+      "submit_date_time": "2025-06-26 09:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W678",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 111819,
+          "votes_against": 384,
+          "votes_abstain": 1,
+          "approval_pct": 99.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "多田敏男",
+          "votes_for": 111406,
+          "votes_against": 800,
+          "votes_abstain": 1,
+          "approval_pct": 99.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "近藤敦",
+          "votes_for": 111491,
+          "votes_against": 715,
+          "votes_abstain": 1,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "猪野樹",
+          "votes_for": 111423,
+          "votes_against": 783,
+          "votes_abstain": 1,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "干潟康夫",
+          "votes_for": 111415,
+          "votes_against": 791,
+          "votes_abstain": 1,
+          "approval_pct": 99.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "齋藤智記",
+          "votes_for": 111520,
+          "votes_against": 686,
+          "votes_abstain": 1,
+          "approval_pct": 99.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "高橋裕",
+          "votes_for": 111528,
+          "votes_against": 678,
+          "votes_abstain": 1,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川野貴未",
+          "votes_for": 111528,
+          "votes_against": 678,
+          "votes_abstain": 1,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "野中将二",
+          "votes_for": 111430,
+          "votes_against": 776,
+          "votes_abstain": 1,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "阿部茂雄",
+          "votes_for": 111263,
+          "votes_against": 943,
+          "votes_abstain": 1,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "池上玄",
+          "votes_for": 111470,
+          "votes_against": 736,
+          "votes_abstain": 1,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "原口健",
+          "votes_for": 109515,
+          "votes_against": 2692,
+          "votes_abstain": 1,
+          "approval_pct": 97.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "丹羽厚太郎",
+          "votes_for": 111483,
+          "votes_against": 724,
+          "votes_abstain": 1,
+          "approval_pct": 99.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "町田弘香",
+          "votes_for": 109518,
+          "votes_against": 2689,
+          "votes_abstain": 1,
+          "approval_pct": 97.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役の任期について",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 5769,
+          "votes_against": 106417,
+          "votes_abstain": 0,
+          "approval_pct": 94.84,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案優待券の金額化",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 5919,
+          "votes_against": 106276,
+          "votes_abstain": 0,
+          "approval_pct": 94.71,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役の選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 5086,
+          "votes_against": 107105,
+          "votes_abstain": 6,
+          "approval_pct": 95.45,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案配当性向",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 5851,
+          "votes_against": 106339,
+          "votes_abstain": 6,
+          "approval_pct": 94.77,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案役員選任の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 5452,
+          "votes_against": 106735,
+          "votes_abstain": 6,
+          "approval_pct": 95.12,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TUQ6",
@@ -264,5 +501,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:53:57.038Z"
+  "updated_at": "2026-07-02T21:54:44.169Z"
 }

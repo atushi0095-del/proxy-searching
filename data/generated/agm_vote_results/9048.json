@@ -3,6 +3,159 @@
   "company_name": "名古屋鉄道",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W8T9",
+      "submit_date_time": "2025-06-30 10:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8T9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1133739,
+          "votes_against": 93050,
+          "votes_abstain": 0,
+          "approval_pct": 92.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安藤隆司",
+          "votes_for": 1132742,
+          "votes_against": 94068,
+          "votes_abstain": 0,
+          "approval_pct": 92.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙﨑裕樹",
+          "votes_for": 1149999,
+          "votes_against": 76811,
+          "votes_abstain": 0,
+          "approval_pct": 93.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木清美",
+          "votes_for": 1157354,
+          "votes_against": 69457,
+          "votes_abstain": 0,
+          "approval_pct": 94.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂野公治",
+          "votes_for": 1197378,
+          "votes_against": 29433,
+          "votes_abstain": 0,
+          "approval_pct": 97.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤悟司",
+          "votes_for": 1199213,
+          "votes_against": 27598,
+          "votes_abstain": 0,
+          "approval_pct": 97.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内藤弘康",
+          "votes_for": 1169784,
+          "votes_against": 57026,
+          "votes_abstain": 0,
+          "approval_pct": 95.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村上晃彦",
+          "votes_for": 1211235,
+          "votes_against": 15575,
+          "votes_abstain": 0,
+          "approval_pct": 98.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高村江津子",
+          "votes_for": 1210523,
+          "votes_against": 16287,
+          "votes_abstain": 0,
+          "approval_pct": 98.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松下明",
+          "votes_for": 1199132,
+          "votes_against": 27679,
+          "votes_abstain": 0,
+          "approval_pct": 97.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥村浩子",
+          "votes_for": 1213581,
+          "votes_against": 13230,
+          "votes_abstain": 0,
+          "approval_pct": 98.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安達宗德",
+          "votes_for": 1111351,
+          "votes_against": 115613,
+          "votes_abstain": 0,
+          "approval_pct": 90.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TWQ4",
@@ -192,5 +345,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:39:53.104Z"
+  "updated_at": "2026-07-02T21:25:26.876Z"
 }

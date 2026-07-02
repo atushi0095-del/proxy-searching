@@ -3,6 +3,99 @@
   "company_name": "住石ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9ED",
+      "submit_date_time": "2025-06-30 12:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9ED",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森省輔",
+          "votes_for": 445500,
+          "votes_against": 35402,
+          "votes_abstain": 0,
+          "approval_pct": 92.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "磯渕一成",
+          "votes_for": 463065,
+          "votes_against": 17837,
+          "votes_abstain": 0,
+          "approval_pct": 95.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮澤義典",
+          "votes_for": 463225,
+          "votes_against": 17677,
+          "votes_abstain": 0,
+          "approval_pct": 95.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "麻生巌",
+          "votes_for": 462947,
+          "votes_against": 17955,
+          "votes_abstain": 0,
+          "approval_pct": 95.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大濵理",
+          "votes_for": 463021,
+          "votes_against": 17881,
+          "votes_abstain": 0,
+          "approval_pct": 95.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村幸雄",
+          "votes_for": 462840,
+          "votes_against": 18062,
+          "votes_abstain": 0,
+          "approval_pct": 95.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村幸雄",
+          "votes_for": 471313,
+          "votes_against": 9989,
+          "votes_abstain": 0,
+          "approval_pct": 97.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY8V",
@@ -144,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:27:05.133Z"
+  "updated_at": "2026-07-02T21:23:38.787Z"
 }

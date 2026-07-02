@@ -3,6 +3,75 @@
   "company_name": "神島化学工業",
   "meetings": [
     {
+      "meeting_date": "2025-07-18",
+      "meeting_year": 2025,
+      "doc_id": "S100WE5Z",
+      "submit_date_time": "2025-07-22 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WE5Z",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 52349,
+          "votes_against": 3339,
+          "votes_abstain": 0,
+          "approval_pct": 94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 50809,
+          "votes_against": 4879,
+          "votes_abstain": 0,
+          "approval_pct": 91.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 53179,
+          "votes_against": 2509,
+          "votes_abstain": 0,
+          "approval_pct": 95.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 53040,
+          "votes_against": 1314,
+          "votes_abstain": 1334,
+          "approval_pct": 95.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 52802,
+          "votes_against": 2886,
+          "votes_abstain": 0,
+          "approval_pct": 94.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-07-19",
       "meeting_year": 2024,
       "doc_id": "S100U33A",
@@ -36,5 +105,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:03:26.441Z"
+  "updated_at": "2026-07-02T20:55:14.997Z"
 }

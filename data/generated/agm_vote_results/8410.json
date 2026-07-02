@@ -3,6 +3,147 @@
   "company_name": "セブン銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-23",
+      "meeting_year": 2025,
+      "doc_id": "S100W86I",
+      "submit_date_time": "2025-06-27 10:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W86I",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "舟竹泰昭",
+          "votes_for": 9469772,
+          "votes_against": 98876,
+          "votes_abstain": 102700,
+          "approval_pct": 97.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松橋正明",
+          "votes_for": 9496076,
+          "votes_against": 72572,
+          "votes_abstain": 102700,
+          "approval_pct": 98.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小林強",
+          "votes_for": 9498620,
+          "votes_against": 70028,
+          "votes_abstain": 102700,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高藤悦弘",
+          "votes_for": 9503184,
+          "votes_against": 65464,
+          "votes_abstain": 102700,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "平子裕志",
+          "votes_for": 9503802,
+          "votes_against": 64846,
+          "votes_abstain": 102700,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木原民",
+          "votes_for": 9502952,
+          "votes_against": 65696,
+          "votes_abstain": 102700,
+          "approval_pct": 98.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渋澤健",
+          "votes_for": 9514414,
+          "votes_against": 54234,
+          "votes_abstain": 102700,
+          "approval_pct": 98.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松尾美香",
+          "votes_for": 9512227,
+          "votes_against": 56421,
+          "votes_abstain": 102700,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "青山圭介",
+          "votes_for": 9216852,
+          "votes_against": 351759,
+          "votes_abstain": 102700,
+          "approval_pct": 95.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "芦原一郎",
+          "votes_for": 9524783,
+          "votes_against": 43830,
+          "votes_abstain": 102700,
+          "approval_pct": 98.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "三谷香",
+          "votes_for": 9524623,
+          "votes_against": 44010,
+          "votes_abstain": 102700,
+          "approval_pct": 98.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-17",
       "meeting_year": 2024,
       "doc_id": "S100TPBK",
@@ -132,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:20:52.917Z"
+  "updated_at": "2026-07-02T21:41:43.082Z"
 }

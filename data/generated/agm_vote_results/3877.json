@@ -3,6 +3,111 @@
   "company_name": "中越パルプ工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W5ZA",
+      "submit_date_time": "2025-06-26 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5ZA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 87181,
+          "votes_against": 378,
+          "votes_abstain": 0,
+          "approval_pct": 99.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 87154,
+          "votes_against": 405,
+          "votes_abstain": 0,
+          "approval_pct": 99.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "①植松久",
+          "votes_for": 84569,
+          "votes_against": 2990,
+          "votes_abstain": 0,
+          "approval_pct": 96.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "②福本亮治",
+          "votes_for": 84602,
+          "votes_against": 2957,
+          "votes_abstain": 0,
+          "approval_pct": 96.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "③磯部勉",
+          "votes_for": 86858,
+          "votes_against": 701,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "④下川靖博",
+          "votes_for": 86913,
+          "votes_against": 646,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "⑤東勝次",
+          "votes_for": 86736,
+          "votes_against": 823,
+          "votes_abstain": 0,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役(監査等委員である取締役および社外取締役を除く。)に対する譲渡制限付株式の割当てのための報酬支給の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 86565,
+          "votes_against": 994,
+          "votes_abstain": 0,
+          "approval_pct": 98.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TUNT",
@@ -132,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:55:13.329Z"
+  "updated_at": "2026-07-02T21:55:18.817Z"
 }

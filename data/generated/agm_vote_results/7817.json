@@ -3,6 +3,99 @@
   "company_name": "パラマウントベッドホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W0S5",
+      "submit_date_time": "2025-06-30 16:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0S5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 479923,
+          "votes_against": 9934,
+          "votes_abstain": 0,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村友彦",
+          "votes_for": 462844,
+          "votes_against": 27012,
+          "votes_abstain": 0,
+          "approval_pct": 94.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村陽祐",
+          "votes_for": 478320,
+          "votes_against": 11536,
+          "votes_abstain": 0,
+          "approval_pct": 97.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "八田俊之",
+          "votes_for": 478491,
+          "votes_against": 11365,
+          "votes_abstain": 0,
+          "approval_pct": 97.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林正樹",
+          "votes_for": 478509,
+          "votes_against": 11347,
+          "votes_abstain": 0,
+          "approval_pct": 97.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白井あれい",
+          "votes_for": 480267,
+          "votes_against": 9592,
+          "votes_abstain": 0,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "播磨奈央子",
+          "votes_for": 480274,
+          "votes_against": 9585,
+          "votes_abstain": 0,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TU1M",
@@ -120,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:17:41.454Z"
+  "updated_at": "2026-07-02T21:14:26.541Z"
 }

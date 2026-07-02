@@ -3,6 +3,63 @@
   "company_name": "ジオマテック",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAIF",
+      "submit_date_time": "2025-07-03 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAIF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松﨑建太郎",
+          "votes_for": 45576,
+          "votes_against": 1371,
+          "votes_abstain": null,
+          "approval_pct": 97.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河野淳",
+          "votes_for": 45530,
+          "votes_against": 1417,
+          "votes_abstain": null,
+          "approval_pct": 96.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋一晃",
+          "votes_for": 45555,
+          "votes_against": 1392,
+          "votes_abstain": null,
+          "approval_pct": 97.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤浩二",
+          "votes_for": 45560,
+          "votes_against": 1436,
+          "votes_abstain": null,
+          "approval_pct": 96.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ2D",
@@ -108,5 +165,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:12:00.337Z"
+  "updated_at": "2026-07-02T21:03:13.540Z"
 }

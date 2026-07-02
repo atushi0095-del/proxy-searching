@@ -3,6 +3,135 @@
   "company_name": "ケイアイスター不動産",
   "meetings": [
     {
+      "meeting_date": "2025-06-23",
+      "meeting_year": 2025,
+      "doc_id": "S100W72J",
+      "submit_date_time": "2025-06-26 12:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W72J",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 119648,
+          "votes_against": 234,
+          "votes_abstain": null,
+          "approval_pct": 94.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塙圭二",
+          "votes_for": 112556,
+          "votes_against": 7327,
+          "votes_abstain": null,
+          "approval_pct": 88.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅見匡紀",
+          "votes_for": 119631,
+          "votes_against": 252,
+          "votes_abstain": null,
+          "approval_pct": 94.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松倉誠",
+          "votes_for": 119624,
+          "votes_against": 259,
+          "votes_abstain": null,
+          "approval_pct": 94.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "真杉恵美",
+          "votes_for": 119622,
+          "votes_against": 261,
+          "votes_abstain": null,
+          "approval_pct": 94.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部和彦",
+          "votes_for": 119607,
+          "votes_against": 276,
+          "votes_abstain": null,
+          "approval_pct": 94.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田賢",
+          "votes_for": 119626,
+          "votes_against": 257,
+          "votes_abstain": null,
+          "approval_pct": 94.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "花井健",
+          "votes_for": 119519,
+          "votes_against": 364,
+          "votes_abstain": null,
+          "approval_pct": 94.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "酒井弘行",
+          "votes_for": 119565,
+          "votes_against": 318,
+          "votes_abstain": null,
+          "approval_pct": 94.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金子恵美",
+          "votes_for": 119498,
+          "votes_against": 385,
+          "votes_abstain": null,
+          "approval_pct": 94.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-24",
       "meeting_year": 2024,
       "doc_id": "S100TU7F",
@@ -156,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:56:11.214Z"
+  "updated_at": "2026-07-02T21:51:48.862Z"
 }

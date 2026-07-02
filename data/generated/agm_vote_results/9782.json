@@ -3,6 +3,135 @@
   "company_name": "ディーエムエス",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W986",
+      "submit_date_time": "2025-06-30 09:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W986",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 40602,
+          "votes_against": 393,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本克彦",
+          "votes_for": 40389,
+          "votes_against": 606,
+          "votes_abstain": 0,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上林晋",
+          "votes_for": 40448,
+          "votes_against": 547,
+          "votes_abstain": 0,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金沢潤",
+          "votes_for": 40448,
+          "votes_against": 547,
+          "votes_abstain": 0,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森健",
+          "votes_for": 40597,
+          "votes_against": 398,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松原利光",
+          "votes_for": 40597,
+          "votes_against": 398,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中島信子",
+          "votes_for": 40409,
+          "votes_against": 586,
+          "votes_abstain": 0,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "丹野浩二",
+          "votes_for": 40421,
+          "votes_against": 574,
+          "votes_abstain": 0,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "梶谷篤",
+          "votes_for": 40595,
+          "votes_against": 400,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柿尾正之",
+          "votes_for": 40445,
+          "votes_against": 550,
+          "votes_abstain": 0,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQOD",
@@ -84,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:15:10.007Z"
+  "updated_at": "2026-07-02T21:27:13.000Z"
 }

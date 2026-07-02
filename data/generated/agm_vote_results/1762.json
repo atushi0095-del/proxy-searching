@@ -3,6 +3,159 @@
   "company_name": "高松コンストラクショングループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-18",
+      "meeting_year": 2025,
+      "doc_id": "S100W0JA",
+      "submit_date_time": "2025-06-19 16:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0JA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙松孝之",
+          "votes_for": 271688,
+          "votes_against": 1236,
+          "votes_abstain": 0,
+          "approval_pct": 99.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙松孝嘉",
+          "votes_for": 271597,
+          "votes_against": 1327,
+          "votes_abstain": 0,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙松浩孝",
+          "votes_for": 266685,
+          "votes_against": 6239,
+          "votes_abstain": 0,
+          "approval_pct": 97.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙松孝年",
+          "votes_for": 268361,
+          "votes_against": 4563,
+          "votes_abstain": 0,
+          "approval_pct": 98.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅井哲",
+          "votes_for": 272053,
+          "votes_against": 871,
+          "votes_abstain": 0,
+          "approval_pct": 99.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙松英之",
+          "votes_for": 272056,
+          "votes_against": 868,
+          "votes_abstain": 0,
+          "approval_pct": 99.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青山繁弘",
+          "votes_for": 272225,
+          "votes_against": 699,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中原秀人",
+          "votes_for": 272261,
+          "votes_against": 663,
+          "votes_abstain": 0,
+          "approval_pct": 99.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石橋伸子",
+          "votes_for": 272363,
+          "votes_against": 561,
+          "votes_abstain": 0,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濱島健爾",
+          "votes_for": 272336,
+          "votes_against": 588,
+          "votes_abstain": 0,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "望月尚幸",
+          "votes_for": 272045,
+          "votes_against": 879,
+          "votes_abstain": 0,
+          "approval_pct": 99.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 266430,
+          "votes_against": 6665,
+          "votes_abstain": 0,
+          "approval_pct": 97.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TOR9",
@@ -204,5 +357,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:21:47.857Z"
+  "updated_at": "2026-07-02T22:17:52.127Z"
 }

@@ -3,6 +3,63 @@
   "company_name": "昭文社ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAZA",
+      "submit_date_time": "2025-07-03 14:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAZA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 150805,
+          "votes_against": 531,
+          "votes_abstain": null,
+          "approval_pct": 99.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒田茂夫",
+          "votes_for": 148905,
+          "votes_against": 2545,
+          "votes_abstain": null,
+          "approval_pct": 97.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤弘之",
+          "votes_for": 150519,
+          "votes_against": 931,
+          "votes_abstain": null,
+          "approval_pct": 98.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上原嗣則",
+          "votes_for": 150442,
+          "votes_against": 1008,
+          "votes_abstain": null,
+          "approval_pct": 98.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZJI",
@@ -108,5 +165,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:10:59.445Z"
+  "updated_at": "2026-07-02T21:02:03.671Z"
 }

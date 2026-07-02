@@ -3,6 +3,147 @@
   "company_name": "中央倉庫",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W5QK",
+      "submit_date_time": "2025-06-25 14:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5QK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 154755,
+          "votes_against": 559,
+          "votes_abstain": 3,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村正和",
+          "votes_for": 142865,
+          "votes_against": 12449,
+          "votes_abstain": 3,
+          "approval_pct": 91.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷奥秀実",
+          "votes_for": 143148,
+          "votes_against": 12166,
+          "votes_abstain": 3,
+          "approval_pct": 92.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田口忠夫",
+          "votes_for": 150750,
+          "votes_against": 4564,
+          "votes_abstain": 3,
+          "approval_pct": 97.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田宏二",
+          "votes_for": 154328,
+          "votes_against": 986,
+          "votes_abstain": 3,
+          "approval_pct": 99.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉松裕子",
+          "votes_for": 151198,
+          "votes_against": 4116,
+          "votes_abstain": 3,
+          "approval_pct": 97.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村本真甲夫",
+          "votes_for": 154296,
+          "votes_against": 1018,
+          "votes_abstain": 3,
+          "approval_pct": 99.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤田広輔",
+          "votes_for": 154311,
+          "votes_against": 1003,
+          "votes_abstain": 3,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡一之",
+          "votes_for": 154147,
+          "votes_against": 1167,
+          "votes_abstain": 3,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤本眞人",
+          "votes_for": 141878,
+          "votes_against": 13436,
+          "votes_abstain": 3,
+          "approval_pct": 91.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤一成",
+          "votes_for": 153093,
+          "votes_against": 2221,
+          "votes_abstain": 3,
+          "approval_pct": 98.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTLF",
@@ -120,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:00:40.176Z"
+  "updated_at": "2026-07-02T22:00:15.002Z"
 }

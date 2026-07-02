@@ -3,6 +3,159 @@
   "company_name": "伊藤忠商事株式会社",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W1ME",
+      "submit_date_time": "2025-06-23 11:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1ME",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 11275493,
+          "votes_against": 5109,
+          "votes_abstain": 9365,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡藤正広",
+          "votes_for": 10691133,
+          "votes_against": 587077,
+          "votes_abstain": 11865,
+          "approval_pct": 93.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井敬太",
+          "votes_for": 10800438,
+          "votes_against": 477775,
+          "votes_abstain": 11865,
+          "approval_pct": 94.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林文彦",
+          "votes_for": 11041933,
+          "votes_against": 195853,
+          "votes_abstain": 52296,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鉢村剛",
+          "votes_for": 11041326,
+          "votes_against": 196460,
+          "votes_abstain": 52296,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "都梅博之",
+          "votes_for": 11049790,
+          "votes_against": 187996,
+          "votes_abstain": 52296,
+          "approval_pct": 97.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中宏之",
+          "votes_for": 11050270,
+          "votes_against": 187516,
+          "votes_abstain": 52296,
+          "approval_pct": 97.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川名正敏",
+          "votes_for": 11182343,
+          "votes_against": 98367,
+          "votes_abstain": 9375,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中森真紀子",
+          "votes_for": 11209600,
+          "votes_against": 71094,
+          "votes_abstain": 9391,
+          "approval_pct": 98.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石塚邦雄",
+          "votes_for": 11193540,
+          "votes_against": 87154,
+          "votes_abstain": 9391,
+          "approval_pct": 98.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤明子",
+          "votes_for": 11206743,
+          "votes_against": 73967,
+          "votes_abstain": 9375,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 11142523,
+          "votes_against": 138199,
+          "votes_abstain": 9381,
+          "approval_pct": 97.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQEW",
@@ -180,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:15:33.259Z"
+  "updated_at": "2026-07-02T22:13:07.994Z"
 }

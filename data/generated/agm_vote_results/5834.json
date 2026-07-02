@@ -3,6 +3,63 @@
   "company_name": "SBIﾘｰｼﾝｸﾞｻｰﾋﾞｽ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W9O4",
+      "submit_date_time": "2025-06-30 15:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9O4",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件佐藤公平階戸雅博吉原寛鈴木治真鍋修平粟野公一郎西堀耕二",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 5.716357296572946e+34,
+          "votes_against": 466333335341345340000,
+          "votes_abstain": 201201201201201220000,
+          "approval_pct": 98.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 57224,
+          "votes_against": 405,
+          "votes_abstain": 201,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 57195,
+          "votes_against": 434,
+          "votes_abstain": 201,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役の報酬額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 55511,
+          "votes_against": 2118,
+          "votes_abstain": 201,
+          "approval_pct": 95.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TWY2",
@@ -84,5 +141,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:43:10.747Z"
+  "updated_at": "2026-07-02T21:18:03.588Z"
 }

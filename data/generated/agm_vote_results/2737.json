@@ -3,6 +3,147 @@
   "company_name": "トーメンデバイス",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W8SB",
+      "submit_date_time": "2025-06-27 16:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8SB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 56512,
+          "votes_against": 107,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中尾清隆",
+          "votes_for": 50726,
+          "votes_against": 5893,
+          "votes_abstain": 0,
+          "approval_pct": 88.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "益山順光",
+          "votes_for": 55063,
+          "votes_against": 1556,
+          "votes_abstain": 0,
+          "approval_pct": 96.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西本博",
+          "votes_for": 55702,
+          "votes_against": 917,
+          "votes_abstain": 0,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田強",
+          "votes_for": 55700,
+          "votes_against": 919,
+          "votes_abstain": 0,
+          "approval_pct": 97.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "世古昌平",
+          "votes_for": 55704,
+          "votes_against": 915,
+          "votes_abstain": 0,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本田敦子",
+          "votes_for": 55041,
+          "votes_against": 1578,
+          "votes_abstain": 0,
+          "approval_pct": 96.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前田辰巳",
+          "votes_for": 54328,
+          "votes_against": 2291,
+          "votes_abstain": 0,
+          "approval_pct": 95.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅井敏保",
+          "votes_for": 55026,
+          "votes_against": 1593,
+          "votes_abstain": 0,
+          "approval_pct": 96.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黄泰成",
+          "votes_for": 55037,
+          "votes_against": 1582,
+          "votes_abstain": 0,
+          "approval_pct": 96.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡本正",
+          "votes_for": 56402,
+          "votes_against": 217,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTTQ",
@@ -144,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:02:39.547Z"
+  "updated_at": "2026-07-02T21:30:47.529Z"
 }

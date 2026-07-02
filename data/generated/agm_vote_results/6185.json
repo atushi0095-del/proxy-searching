@@ -3,6 +3,75 @@
   "company_name": "ＳＭＮ",
   "meetings": [
     {
+      "meeting_date": "2025-06-23",
+      "meeting_year": 2025,
+      "doc_id": "S100W3Q2",
+      "submit_date_time": "2025-06-24 17:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W3Q2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "原山直樹",
+          "votes_for": 100086,
+          "votes_against": 3500,
+          "votes_abstain": null,
+          "approval_pct": 96.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安田崇浩",
+          "votes_for": 103243,
+          "votes_against": 343,
+          "votes_abstain": null,
+          "approval_pct": 99.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小笠原康貴",
+          "votes_for": 103221,
+          "votes_against": 365,
+          "votes_abstain": null,
+          "approval_pct": 99.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）に対する報酬枠決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 102473,
+          "votes_against": 1113,
+          "votes_abstain": null,
+          "approval_pct": 98.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（非業務執行取締役及び監査等委員である取締役を除く。）に対する譲渡制限付株式報酬制度の改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 102563,
+          "votes_against": 1023,
+          "votes_abstain": null,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TYD3",
@@ -84,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:25:01.107Z"
+  "updated_at": "2026-07-02T22:04:07.121Z"
 }

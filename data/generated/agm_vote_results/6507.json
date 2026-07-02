@@ -3,6 +3,159 @@
   "company_name": "シンフォニアテクノロジー",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9A2",
+      "submit_date_time": "2025-06-30 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9A2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 228900,
+          "votes_against": 2498,
+          "votes_abstain": 74,
+          "approval_pct": 97.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武藤昌三",
+          "votes_for": 200472,
+          "votes_against": 30925,
+          "votes_abstain": 74,
+          "approval_pct": 85.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平野新一",
+          "votes_for": 195531,
+          "votes_against": 35865,
+          "votes_abstain": 74,
+          "approval_pct": 83.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山国稔",
+          "votes_for": 229520,
+          "votes_against": 1878,
+          "votes_abstain": 74,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千手裕治",
+          "votes_for": 229502,
+          "votes_against": 1896,
+          "votes_abstain": 74,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "幡野隆一",
+          "votes_for": 229518,
+          "votes_against": 1880,
+          "votes_abstain": 74,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐古達信",
+          "votes_for": 226541,
+          "votes_against": 4857,
+          "votes_abstain": 74,
+          "approval_pct": 96.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤岡純",
+          "votes_for": 226924,
+          "votes_against": 4474,
+          "votes_abstain": 74,
+          "approval_pct": 97.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤岡章子",
+          "votes_for": 230472,
+          "votes_against": 926,
+          "votes_abstain": 74,
+          "approval_pct": 98.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "稲垣努",
+          "votes_for": 229489,
+          "votes_against": 1909,
+          "votes_abstain": 74,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "笹川浩史",
+          "votes_for": 208293,
+          "votes_against": 22788,
+          "votes_abstain": 389,
+          "approval_pct": 89.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 222530,
+          "votes_against": 8051,
+          "votes_abstain": 891,
+          "approval_pct": 95.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXN4",
@@ -192,5 +345,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:29:29.702Z"
+  "updated_at": "2026-07-02T21:18:54.505Z"
 }

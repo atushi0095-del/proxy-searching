@@ -3,6 +3,135 @@
   "company_name": "小池酸素工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W8UG",
+      "submit_date_time": "2025-06-27 15:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8UG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 34445,
+          "votes_against": 35,
+          "votes_abstain": 132,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池英夫",
+          "votes_for": 32175,
+          "votes_against": 2305,
+          "votes_abstain": 132,
+          "approval_pct": 92.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "冨岡恭三",
+          "votes_for": 33935,
+          "votes_against": 545,
+          "votes_abstain": 132,
+          "approval_pct": 97.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横野健一",
+          "votes_for": 34404,
+          "votes_against": 76,
+          "votes_abstain": 132,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横田健二",
+          "votes_for": 34402,
+          "votes_against": 78,
+          "votes_abstain": 132,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "賢持善英",
+          "votes_for": 34397,
+          "votes_against": 83,
+          "votes_abstain": 132,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木和美",
+          "votes_for": 34338,
+          "votes_against": 142,
+          "votes_abstain": 132,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "冨本音丸",
+          "votes_for": 33467,
+          "votes_against": 1013,
+          "votes_abstain": 132,
+          "approval_pct": 96.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯塚学",
+          "votes_for": 34401,
+          "votes_against": 79,
+          "votes_abstain": 132,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣野安生",
+          "votes_for": 33468,
+          "votes_against": 1012,
+          "votes_abstain": 132,
+          "approval_pct": 96.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TY5A",
@@ -84,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:29:48.870Z"
+  "updated_at": "2026-07-02T21:31:52.009Z"
 }

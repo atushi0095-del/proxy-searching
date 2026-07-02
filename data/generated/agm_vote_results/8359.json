@@ -3,6 +3,171 @@
   "company_name": "八十二銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W519",
+      "submit_date_time": "2025-06-25 09:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W519",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 3773034,
+          "votes_against": 14421,
+          "votes_abstain": 734,
+          "approval_pct": 99.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松下正樹",
+          "votes_for": 3088379,
+          "votes_against": 699052,
+          "votes_abstain": 734,
+          "approval_pct": 81.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "樋代章平",
+          "votes_for": 3470757,
+          "votes_against": 316678,
+          "votes_abstain": 734,
+          "approval_pct": 91.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村誠",
+          "votes_for": 3696046,
+          "votes_against": 91389,
+          "votes_abstain": 734,
+          "approval_pct": 97.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西澤仁志",
+          "votes_for": 3702440,
+          "votes_against": 84995,
+          "votes_abstain": 734,
+          "approval_pct": 97.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "濱野京",
+          "votes_for": 3613198,
+          "votes_against": 174237,
+          "votes_abstain": 734,
+          "approval_pct": 95.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "神澤鋭二",
+          "votes_for": 3599944,
+          "votes_against": 187491,
+          "votes_abstain": 734,
+          "approval_pct": 95.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小野田麻衣子",
+          "votes_for": 3723614,
+          "votes_against": 63821,
+          "votes_abstain": 734,
+          "approval_pct": 98.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案定款一部変更(株主が運営するファンドへの投資の開示)の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 137958,
+          "votes_against": 3645708,
+          "votes_abstain": 4276,
+          "approval_pct": 3.64,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案定款一部変更(政策保有株式の目的の検証と結果及び純投資目的変更に関する開示)の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 420727,
+          "votes_against": 3366557,
+          "votes_abstain": 734,
+          "approval_pct": 11.11,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案定款一部変更(取締役報酬の個別開示)の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 1174371,
+          "votes_against": 2612899,
+          "votes_abstain": 734,
+          "approval_pct": 31,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 184879,
+          "votes_against": 3602507,
+          "votes_abstain": 734,
+          "approval_pct": 4.88,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案自己株式の取得の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 319206,
+          "votes_against": 3467173,
+          "votes_abstain": 1766,
+          "approval_pct": 8.43,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TTXJ",
@@ -180,5 +345,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:01:40.268Z"
+  "updated_at": "2026-07-02T22:03:47.371Z"
 }

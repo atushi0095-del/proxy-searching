@@ -3,6 +3,123 @@
   "company_name": "ＭＩＲＡＲＴＨホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W7CU",
+      "submit_date_time": "2025-06-26 14:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7CU",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 883959,
+          "votes_against": 14199,
+          "votes_abstain": 29,
+          "approval_pct": 98.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "島田和一",
+          "votes_for": 875017,
+          "votes_against": 23161,
+          "votes_abstain": 27,
+          "approval_pct": 97.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村大助",
+          "votes_for": 875553,
+          "votes_against": 22622,
+          "votes_abstain": 30,
+          "approval_pct": 97.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "秋澤昭一",
+          "votes_for": 875520,
+          "votes_against": 22660,
+          "votes_abstain": 25,
+          "approval_pct": 97.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山岸直人",
+          "votes_for": 875013,
+          "votes_against": 23164,
+          "votes_abstain": 28,
+          "approval_pct": 97.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内田要",
+          "votes_for": 873755,
+          "votes_against": 24420,
+          "votes_abstain": 30,
+          "approval_pct": 97.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金丸祐子",
+          "votes_for": 875208,
+          "votes_against": 22969,
+          "votes_abstain": 28,
+          "approval_pct": 97.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野保子",
+          "votes_for": 866330,
+          "votes_against": 31845,
+          "votes_abstain": 30,
+          "approval_pct": 96.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 830315,
+          "votes_against": 67736,
+          "votes_abstain": 132,
+          "approval_pct": 92.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TVW8",
@@ -156,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:52:11.123Z"
+  "updated_at": "2026-07-02T21:49:08.101Z"
 }

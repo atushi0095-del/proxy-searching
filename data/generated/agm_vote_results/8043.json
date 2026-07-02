@@ -3,6 +3,147 @@
   "company_name": "スターゼン",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WANC",
+      "submit_date_time": "2025-07-02 14:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WANC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 159672,
+          "votes_against": 431,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "横田和彦",
+          "votes_for": 144645,
+          "votes_against": 15458,
+          "votes_abstain": 0,
+          "approval_pct": 90.34,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鶉橋正雄",
+          "votes_for": 159349,
+          "votes_against": 754,
+          "votes_abstain": 0,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "髙橋正道",
+          "votes_for": 159376,
+          "votes_against": 727,
+          "votes_abstain": 0,
+          "approval_pct": 99.55,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐奈常裕",
+          "votes_for": 159307,
+          "votes_against": 796,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "髙濵良一",
+          "votes_for": 159359,
+          "votes_against": 744,
+          "votes_abstain": 0,
+          "approval_pct": 99.54,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大原亘",
+          "votes_for": 158824,
+          "votes_against": 1279,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉里格",
+          "votes_for": 137104,
+          "votes_against": 22999,
+          "votes_abstain": 0,
+          "approval_pct": 85.63,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "江藤真理子",
+          "votes_for": 158992,
+          "votes_against": 1111,
+          "votes_abstain": 0,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小越信吾",
+          "votes_for": 156685,
+          "votes_against": 3418,
+          "votes_abstain": 0,
+          "approval_pct": 97.87,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案当社株式の大規模買付行為に関する対応策（買収への対応方針）継続の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 122714,
+          "votes_against": 37383,
+          "votes_abstain": 0,
+          "approval_pct": 76.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZYX",
@@ -192,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:09:44.715Z"
+  "updated_at": "2026-07-02T21:04:17.866Z"
 }

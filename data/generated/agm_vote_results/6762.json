@@ -3,6 +3,111 @@
   "company_name": "ＴＤＫ",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2R2",
+      "submit_date_time": "2025-06-24 10:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2R2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 14941512,
+          "votes_against": 989479,
+          "votes_abstain": 171,
+          "approval_pct": 93.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "齋藤昇",
+          "votes_for": 14638335,
+          "votes_against": 1249617,
+          "votes_abstain": 47221,
+          "approval_pct": 91.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山西哲司",
+          "votes_for": 15712928,
+          "votes_against": 216387,
+          "votes_abstain": 5871,
+          "approval_pct": 98.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋山秀一",
+          "votes_for": 15791285,
+          "votes_against": 138020,
+          "votes_abstain": 5880,
+          "approval_pct": 99.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山こずゑ",
+          "votes_for": 14903833,
+          "votes_against": 1031203,
+          "votes_abstain": 149,
+          "approval_pct": 93.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩井睦雄",
+          "votes_for": 15712535,
+          "votes_against": 221710,
+          "votes_abstain": 941,
+          "approval_pct": 98.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山名昌衛",
+          "votes_for": 15841946,
+          "votes_against": 92299,
+          "votes_abstain": 941,
+          "approval_pct": 99.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "勝本徹",
+          "votes_for": 15853648,
+          "votes_against": 80598,
+          "votes_abstain": 941,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TRL3",
@@ -120,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:05:43.107Z"
+  "updated_at": "2026-07-02T22:08:01.342Z"
 }

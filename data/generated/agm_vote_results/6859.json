@@ -3,6 +3,111 @@
   "company_name": "エスペック",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W1YG",
+      "submit_date_time": "2025-06-23 09:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1YG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 162027,
+          "votes_against": 116,
+          "votes_abstain": 0,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荒田知",
+          "votes_for": 161479,
+          "votes_against": 853,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "末久和広",
+          "votes_for": 161480,
+          "votes_against": 852,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西谷淳子",
+          "votes_for": 161468,
+          "votes_against": 864,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小田秀征",
+          "votes_for": 161477,
+          "votes_against": 855,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉野俊彦",
+          "votes_for": 161474,
+          "votes_against": 858,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柳谷彰彦",
+          "votes_for": 162137,
+          "votes_against": 195,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平田一雄",
+          "votes_for": 162071,
+          "votes_against": 261,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQ8F",
@@ -156,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:15:30.827Z"
+  "updated_at": "2026-07-02T22:13:58.751Z"
 }

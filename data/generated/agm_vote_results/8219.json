@@ -3,6 +3,111 @@
   "company_name": "青山商事",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W9FK",
+      "submit_date_time": "2025-07-01 10:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9FK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 364986,
+          "votes_against": 381,
+          "votes_abstain": 49,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "青山理",
+          "votes_for": 328226,
+          "votes_against": 37144,
+          "votes_abstain": 49,
+          "approval_pct": 89.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "遠藤泰三",
+          "votes_for": 362228,
+          "votes_against": 3142,
+          "votes_abstain": 49,
+          "approval_pct": 99.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小川誠",
+          "votes_for": 362314,
+          "votes_against": 3057,
+          "votes_abstain": 49,
+          "approval_pct": 99.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小林宏明",
+          "votes_for": 349476,
+          "votes_against": 15894,
+          "votes_abstain": 49,
+          "approval_pct": 95.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加賀美由加里",
+          "votes_for": 279216,
+          "votes_against": 86155,
+          "votes_abstain": 49,
+          "approval_pct": 76.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "野上昌樹",
+          "votes_for": 363044,
+          "votes_against": 2327,
+          "votes_abstain": 49,
+          "approval_pct": 99.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 364295,
+          "votes_against": 1077,
+          "votes_abstain": 49,
+          "approval_pct": 99.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYJV",
@@ -48,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:19:21.566Z"
+  "updated_at": "2026-07-02T21:12:15.475Z"
 }

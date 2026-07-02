@@ -3,6 +3,63 @@
   "company_name": "ベルテクスコーポレーション",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W96I",
+      "submit_date_time": "2025-06-30 10:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W96I",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 195687,
+          "votes_against": 71,
+          "votes_abstain": 47,
+          "approval_pct": 99.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田中義人",
+          "votes_for": 195711,
+          "votes_against": 160,
+          "votes_abstain": 47,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "土屋明秀",
+          "votes_for": 195770,
+          "votes_against": 101,
+          "votes_abstain": 47,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山本譲",
+          "votes_for": 195769,
+          "votes_against": 102,
+          "votes_abstain": 47,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TX69",
@@ -120,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:35:29.140Z"
+  "updated_at": "2026-07-02T21:25:34.230Z"
 }

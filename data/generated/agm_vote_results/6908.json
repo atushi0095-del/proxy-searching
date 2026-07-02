@@ -3,6 +3,87 @@
   "company_name": "イリソ電子工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W56U",
+      "submit_date_time": "2025-06-25 10:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W56U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 151916,
+          "votes_against": 290,
+          "votes_abstain": 7,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木仁",
+          "votes_for": 140795,
+          "votes_against": 11418,
+          "votes_abstain": null,
+          "approval_pct": 92.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "武田佳司",
+          "votes_for": 145826,
+          "votes_against": 6387,
+          "votes_abstain": null,
+          "approval_pct": 95.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大平明彦",
+          "votes_for": 150359,
+          "votes_against": 1854,
+          "votes_abstain": null,
+          "approval_pct": 98.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "柴田雅久",
+          "votes_for": 149400,
+          "votes_against": 2813,
+          "votes_abstain": null,
+          "approval_pct": 98.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大浦信一郎",
+          "votes_for": 150389,
+          "votes_against": 1824,
+          "votes_abstain": null,
+          "approval_pct": 98.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TSNY",
@@ -48,5 +129,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:06:05.335Z"
+  "updated_at": "2026-07-02T22:02:23.948Z"
 }

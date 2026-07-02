@@ -3,6 +3,111 @@
   "company_name": "東洋紡",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W7KY",
+      "submit_date_time": "2025-06-27 13:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7KY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 606385,
+          "votes_against": 8125,
+          "votes_abstain": 10,
+          "approval_pct": 98.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 609212,
+          "votes_against": 5269,
+          "votes_abstain": 39,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案楢原誠慈竹内郁夫酒井太市相良誉仁播磨政明福士博司髙瀬正子神崎夕紀",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 5.159354667806031e+47,
+          "votes_against": 9.8571147726114e+37,
+          "votes_abstain": 1313131313131313,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案田保高幸入江昭彦新免和久",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 604650609778609700,
+          "votes_against": 985547304822,
+          "votes_abstain": 131313,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 579659,
+          "votes_against": 34850,
+          "votes_abstain": 13,
+          "approval_pct": 94.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 595609,
+          "votes_against": 18743,
+          "votes_abstain": 169,
+          "approval_pct": 96.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 608730,
+          "votes_against": 5622,
+          "votes_abstain": 169,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 606729,
+          "votes_against": 7730,
+          "votes_abstain": 13,
+          "approval_pct": 98.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TUXN",
@@ -48,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:55:44.560Z"
+  "updated_at": "2026-07-02T21:38:30.679Z"
 }

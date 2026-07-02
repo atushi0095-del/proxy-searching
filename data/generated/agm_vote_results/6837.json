@@ -3,6 +3,27 @@
   "company_name": "京写",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W92C",
+      "submit_date_time": "2025-06-30 10:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W92C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 101858,
+          "votes_against": 4566,
+          "votes_abstain": 0,
+          "approval_pct": 95.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TSI1",
@@ -96,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:06:10.175Z"
+  "updated_at": "2026-07-02T21:26:28.606Z"
 }

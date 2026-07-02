@@ -3,6 +3,135 @@
   "company_name": "ダスキン",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W1N2",
+      "submit_date_time": "2025-06-23 15:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1N2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 384493,
+          "votes_against": 666,
+          "votes_abstain": null,
+          "approval_pct": 99.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大久保裕行",
+          "votes_for": 341442,
+          "votes_against": 44426,
+          "votes_abstain": null,
+          "approval_pct": 88.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和田哲也",
+          "votes_for": 364595,
+          "votes_against": 21274,
+          "votes_abstain": null,
+          "approval_pct": 94.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上野進一郎",
+          "votes_for": 364571,
+          "votes_against": 21298,
+          "votes_abstain": null,
+          "approval_pct": 94.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "江村敬一",
+          "votes_for": 382571,
+          "votes_against": 3298,
+          "votes_abstain": null,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯田健司",
+          "votes_for": 382614,
+          "votes_against": 3255,
+          "votes_abstain": null,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "根本誠之",
+          "votes_for": 382803,
+          "votes_against": 3066,
+          "votes_abstain": null,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武藏扶実",
+          "votes_for": 372789,
+          "votes_against": 13080,
+          "votes_abstain": null,
+          "approval_pct": 96.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川理惠",
+          "votes_for": 384110,
+          "votes_against": 1759,
+          "votes_abstain": null,
+          "approval_pct": 99.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "関口暢子",
+          "votes_for": 384493,
+          "votes_against": 1377,
+          "votes_abstain": null,
+          "approval_pct": 99.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TVRB",
@@ -180,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:50:51.555Z"
+  "updated_at": "2026-07-02T22:10:46.946Z"
 }

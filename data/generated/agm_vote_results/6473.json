@@ -3,6 +3,99 @@
   "company_name": "ジェイテクト",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W4RK",
+      "submit_date_time": "2025-06-25 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W4RK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "近藤禎人",
+          "votes_for": 2327990,
+          "votes_against": 438696,
+          "votes_abstain": 4,
+          "approval_pct": 84.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山中浩一",
+          "votes_for": 2475790,
+          "votes_against": 290899,
+          "votes_abstain": 4,
+          "approval_pct": 89.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田育嗣",
+          "votes_for": 2745004,
+          "votes_against": 21684,
+          "votes_abstain": 4,
+          "approval_pct": 99.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "櫻井由美子",
+          "votes_for": 2756198,
+          "votes_against": 10491,
+          "votes_abstain": 4,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新家俊明",
+          "votes_for": 2696563,
+          "votes_against": 70125,
+          "votes_abstain": 4,
+          "approval_pct": 97.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中西勇太",
+          "votes_for": 2698401,
+          "votes_against": 68287,
+          "votes_abstain": 4,
+          "approval_pct": 97.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2764500,
+          "votes_against": 3524,
+          "votes_abstain": null,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TR8K",
@@ -108,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:05:28.570Z"
+  "updated_at": "2026-07-02T21:57:11.515Z"
 }

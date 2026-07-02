@@ -3,6 +3,147 @@
   "company_name": "ナイス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W8KW",
+      "submit_date_time": "2025-06-30 16:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8KW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 101236,
+          "votes_against": 137,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "杉田理之",
+          "votes_for": 80731,
+          "votes_against": 248,
+          "votes_abstain": 20400,
+          "approval_pct": 79.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "津戸裕徳",
+          "votes_for": 80740,
+          "votes_against": 239,
+          "votes_abstain": 20400,
+          "approval_pct": 79.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "原口洋一",
+          "votes_for": 80745,
+          "votes_against": 234,
+          "votes_abstain": 20400,
+          "approval_pct": 79.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "清水利浩",
+          "votes_for": 80752,
+          "votes_against": 227,
+          "votes_abstain": 20400,
+          "approval_pct": 79.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田部博",
+          "votes_for": 80720,
+          "votes_against": 259,
+          "votes_abstain": 20400,
+          "approval_pct": 79.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴木信哉",
+          "votes_for": 80734,
+          "votes_against": 245,
+          "votes_abstain": 20400,
+          "approval_pct": 79.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小久保崇",
+          "votes_for": 80760,
+          "votes_against": 219,
+          "votes_abstain": 20400,
+          "approval_pct": 79.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "濱田清仁",
+          "votes_for": 80757,
+          "votes_against": 222,
+          "votes_abstain": 20400,
+          "approval_pct": 79.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田村潤",
+          "votes_for": 80728,
+          "votes_against": 251,
+          "votes_abstain": 20400,
+          "approval_pct": 79.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "筧悦子",
+          "votes_for": 80751,
+          "votes_against": 228,
+          "votes_abstain": 20400,
+          "approval_pct": 79.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TW8C",
@@ -168,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:32:45.478Z"
+  "updated_at": "2026-07-02T21:15:45.325Z"
 }

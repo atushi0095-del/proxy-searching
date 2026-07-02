@@ -3,6 +3,123 @@
   "company_name": "タクマ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W5MJ",
+      "submit_date_time": "2025-06-25 16:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5MJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 680820,
+          "votes_against": 167,
+          "votes_abstain": 0,
+          "approval_pct": 99.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "濵田州朗",
+          "votes_for": 599609,
+          "votes_against": 81375,
+          "votes_abstain": 0,
+          "approval_pct": 88.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "南條博昭",
+          "votes_for": 640887,
+          "votes_against": 40098,
+          "votes_abstain": 0,
+          "approval_pct": 94.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西山剛史",
+          "votes_for": 674054,
+          "votes_against": 6932,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "竹口英樹",
+          "votes_for": 674064,
+          "votes_against": 6922,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中康二",
+          "votes_for": 674040,
+          "votes_against": 6946,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大石裕",
+          "votes_for": 674062,
+          "votes_against": 6924,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "真杉敬蔵",
+          "votes_for": 670496,
+          "votes_against": 10488,
+          "votes_abstain": 0,
+          "approval_pct": 98.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤田知美",
+          "votes_for": 679931,
+          "votes_against": 1055,
+          "votes_abstain": 0,
+          "approval_pct": 99.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TSC1",
@@ -132,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:05:23.119Z"
+  "updated_at": "2026-07-02T21:56:57.664Z"
 }

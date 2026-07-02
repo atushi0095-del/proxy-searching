@@ -3,6 +3,63 @@
   "company_name": "デリカフーズホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W8D8",
+      "submit_date_time": "2025-06-30 11:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8D8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 110453,
+          "votes_against": 536,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役1名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高力美由紀",
+          "votes_for": 110084,
+          "votes_against": 905,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "三島宏太",
+          "votes_for": 110013,
+          "votes_against": 976,
+          "votes_abstain": 0,
+          "approval_pct": 99.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "田中清隆",
+          "votes_for": 109703,
+          "votes_against": 1286,
+          "votes_abstain": 0,
+          "approval_pct": 98.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TYZB",
@@ -144,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:14:40.785Z"
+  "updated_at": "2026-07-02T21:24:44.809Z"
 }

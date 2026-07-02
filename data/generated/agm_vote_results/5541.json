@@ -3,6 +3,99 @@
   "company_name": "大平洋金属",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W5HU",
+      "submit_date_time": "2025-06-25 13:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5HU",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岩舘一夫",
+          "votes_for": 101879,
+          "votes_against": 28823,
+          "votes_abstain": 0,
+          "approval_pct": 77.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "猪股吉晴",
+          "votes_for": 112642,
+          "votes_against": 18062,
+          "votes_abstain": 0,
+          "approval_pct": 86.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "原賢一",
+          "votes_for": 112799,
+          "votes_against": 17905,
+          "votes_abstain": 0,
+          "approval_pct": 86.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松山輝信",
+          "votes_for": 112785,
+          "votes_against": 17919,
+          "votes_abstain": 0,
+          "approval_pct": 86.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "酒井由香里",
+          "votes_for": 118436,
+          "votes_against": 12268,
+          "votes_abstain": 0,
+          "approval_pct": 90.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "天野正人",
+          "votes_for": 122820,
+          "votes_against": 7884,
+          "votes_abstain": 0,
+          "approval_pct": 93.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（社外取締役を除く。）に対する譲渡制限付株式の付与のための報酬決定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 125348,
+          "votes_against": 6219,
+          "votes_abstain": 0,
+          "approval_pct": 95.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TPOL",
@@ -144,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:19:22.138Z"
+  "updated_at": "2026-07-02T22:01:18.919Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "共栄タンカー",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W5B0",
+      "submit_date_time": "2025-06-30 16:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5B0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 58853,
+          "votes_against": 279,
+          "votes_abstain": null,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "近藤耕司",
+          "votes_for": 58053,
+          "votes_against": 1079,
+          "votes_abstain": null,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新村正晴",
+          "votes_for": 58079,
+          "votes_against": 1053,
+          "votes_abstain": null,
+          "approval_pct": 98.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "太田晶宏",
+          "votes_for": 57946,
+          "votes_against": 1186,
+          "votes_abstain": null,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "稲葉泰規",
+          "votes_for": 57949,
+          "votes_against": 1183,
+          "votes_abstain": null,
+          "approval_pct": 98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新保二郎",
+          "votes_for": 58088,
+          "votes_against": 1044,
+          "votes_abstain": null,
+          "approval_pct": 98.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "稲見俊文",
+          "votes_for": 58063,
+          "votes_against": 1070,
+          "votes_abstain": null,
+          "approval_pct": 98.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TWQ9",
@@ -156,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:31:22.848Z"
+  "updated_at": "2026-07-02T21:15:52.542Z"
 }

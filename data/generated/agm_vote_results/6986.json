@@ -3,6 +3,135 @@
   "company_name": "双葉電子工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAIB",
+      "submit_date_time": "2025-07-03 09:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAIB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 327874,
+          "votes_against": 12054,
+          "votes_abstain": 0,
+          "approval_pct": 96.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "有馬資明",
+          "votes_for": 228406,
+          "votes_against": 111522,
+          "votes_abstain": 0,
+          "approval_pct": 67.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "君塚俊秀",
+          "votes_for": 270017,
+          "votes_against": 69911,
+          "votes_abstain": 0,
+          "approval_pct": 79.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "冨田正晴",
+          "votes_for": 302464,
+          "votes_against": 37464,
+          "votes_abstain": 0,
+          "approval_pct": 88.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "國尾武光",
+          "votes_for": 282591,
+          "votes_against": 57337,
+          "votes_abstain": 0,
+          "approval_pct": 83.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中雅子",
+          "votes_for": 286677,
+          "votes_against": 53251,
+          "votes_abstain": 0,
+          "approval_pct": 84.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大村直司",
+          "votes_for": 290663,
+          "votes_against": 49265,
+          "votes_abstain": 0,
+          "approval_pct": 85.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田達也",
+          "votes_for": 283505,
+          "votes_against": 56423,
+          "votes_abstain": 0,
+          "approval_pct": 83.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石原昭広",
+          "votes_for": 291148,
+          "votes_against": 48780,
+          "votes_abstain": 0,
+          "approval_pct": 85.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中雅子",
+          "votes_for": 334751,
+          "votes_against": 5177,
+          "votes_abstain": 0,
+          "approval_pct": 98.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ77",
@@ -84,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:11:40.554Z"
+  "updated_at": "2026-07-02T21:03:08.604Z"
 }

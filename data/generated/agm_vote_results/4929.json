@@ -3,6 +3,147 @@
   "company_name": "アジュバンホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-12",
+      "meeting_year": 2025,
+      "doc_id": "S100VXO8",
+      "submit_date_time": "2025-06-13 10:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VXO8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 57408,
+          "votes_against": 532,
+          "votes_abstain": null,
+          "approval_pct": 99.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村豊",
+          "votes_for": 57044,
+          "votes_against": 896,
+          "votes_abstain": null,
+          "approval_pct": 98.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中順子",
+          "votes_for": 57067,
+          "votes_against": 873,
+          "votes_abstain": null,
+          "approval_pct": 98.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤原武",
+          "votes_for": 57109,
+          "votes_against": 831,
+          "votes_abstain": null,
+          "approval_pct": 98.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大嶋宏和",
+          "votes_for": 57106,
+          "votes_against": 834,
+          "votes_abstain": null,
+          "approval_pct": 98.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中昌樹",
+          "votes_for": 57099,
+          "votes_against": 841,
+          "votes_abstain": null,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村卓哉",
+          "votes_for": 57084,
+          "votes_against": 856,
+          "votes_abstain": null,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木田臣哉",
+          "votes_for": 57161,
+          "votes_against": 779,
+          "votes_abstain": null,
+          "approval_pct": 98.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三村淳司",
+          "votes_for": 57158,
+          "votes_against": 782,
+          "votes_abstain": null,
+          "approval_pct": 98.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村小裕",
+          "votes_for": 57159,
+          "votes_against": 781,
+          "votes_abstain": null,
+          "approval_pct": 98.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐々木義明",
+          "votes_for": 57184,
+          "votes_against": 756,
+          "votes_abstain": null,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-13",
       "meeting_year": 2024,
       "doc_id": "S100TMGS",
@@ -96,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:28:09.984Z"
+  "updated_at": "2026-07-02T22:22:34.753Z"
 }

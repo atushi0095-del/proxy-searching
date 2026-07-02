@@ -3,6 +3,135 @@
   "company_name": "電算",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WA6C",
+      "submit_date_time": "2025-07-02 09:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA6C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "轟一太",
+          "votes_for": 46331,
+          "votes_against": 1584,
+          "votes_abstain": null,
+          "approval_pct": 94.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村松文男",
+          "votes_for": 47670,
+          "votes_against": 245,
+          "votes_abstain": null,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "依田頼和",
+          "votes_for": 47671,
+          "votes_against": 244,
+          "votes_abstain": null,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉川満則",
+          "votes_for": 47687,
+          "votes_against": 228,
+          "votes_abstain": null,
+          "approval_pct": 96.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "穂川尚実",
+          "votes_for": 47678,
+          "votes_against": 237,
+          "votes_abstain": null,
+          "approval_pct": 96.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "増田久",
+          "votes_for": 47716,
+          "votes_against": 199,
+          "votes_abstain": null,
+          "approval_pct": 97.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林秀明",
+          "votes_for": 47495,
+          "votes_against": 420,
+          "votes_abstain": null,
+          "approval_pct": 96.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺雅義",
+          "votes_for": 47561,
+          "votes_against": 354,
+          "votes_abstain": null,
+          "approval_pct": 96.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中良平",
+          "votes_for": 47674,
+          "votes_against": 241,
+          "votes_abstain": null,
+          "approval_pct": 96.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "広瀬敏男",
+          "votes_for": 47739,
+          "votes_against": 237,
+          "votes_abstain": null,
+          "approval_pct": 96.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ21",
@@ -204,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:12:10.068Z"
+  "updated_at": "2026-07-02T21:06:10.547Z"
 }

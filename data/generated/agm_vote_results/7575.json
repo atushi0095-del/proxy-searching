@@ -3,6 +3,183 @@
   "company_name": "日本ライフライン",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W99I",
+      "submit_date_time": "2025-06-30 14:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W99I",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 549097,
+          "votes_against": 1327,
+          "votes_abstain": 501,
+          "approval_pct": 98.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木啓介",
+          "votes_for": 494134,
+          "votes_against": 56289,
+          "votes_abstain": 501,
+          "approval_pct": 88.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "村瀬達也",
+          "votes_for": 544283,
+          "votes_against": 6141,
+          "votes_abstain": 501,
+          "approval_pct": 97.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "江川毅芳",
+          "votes_for": 544312,
+          "votes_against": 6112,
+          "votes_abstain": 501,
+          "approval_pct": 97.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山田健二",
+          "votes_for": 543912,
+          "votes_against": 6512,
+          "votes_abstain": 501,
+          "approval_pct": 97.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙宮徹",
+          "votes_for": 543470,
+          "votes_against": 6954,
+          "votes_abstain": 501,
+          "approval_pct": 97.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "干場由美子",
+          "votes_for": 543357,
+          "votes_against": 7067,
+          "votes_abstain": 501,
+          "approval_pct": 97.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊藤孝志",
+          "votes_for": 544394,
+          "votes_against": 6030,
+          "votes_abstain": 501,
+          "approval_pct": 97.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "池井良彰",
+          "votes_for": 546384,
+          "votes_against": 4040,
+          "votes_abstain": 501,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川原奈緒子",
+          "votes_for": 547068,
+          "votes_against": 3356,
+          "votes_abstain": 501,
+          "approval_pct": 98.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中川理恵",
+          "votes_for": 544004,
+          "votes_against": 6420,
+          "votes_abstain": 501,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙橋省悟",
+          "votes_for": 513310,
+          "votes_against": 37111,
+          "votes_abstain": 501,
+          "approval_pct": 92.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "苅米裕",
+          "votes_for": 448468,
+          "votes_against": 101956,
+          "votes_abstain": 501,
+          "approval_pct": 80.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "太田知成",
+          "votes_for": 497868,
+          "votes_against": 52555,
+          "votes_abstain": 501,
+          "approval_pct": 89.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TVSD",
@@ -168,5 +345,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:31:01.570Z"
+  "updated_at": "2026-07-02T21:19:47.020Z"
 }

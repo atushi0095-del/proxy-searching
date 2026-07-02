@@ -3,6 +3,75 @@
   "company_name": "豊田自動織機",
   "meetings": [
     {
+      "meeting_date": "2025-06-10",
+      "meeting_year": 2025,
+      "doc_id": "S100VU8M",
+      "submit_date_time": "2025-06-11 13:59",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VU8M",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2585772,
+          "votes_against": 143702,
+          "votes_abstain": 13384,
+          "approval_pct": 94.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2718269,
+          "votes_against": 11764,
+          "votes_abstain": 13384,
+          "approval_pct": 99.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 386061,
+          "votes_against": 2357325,
+          "votes_abstain": 39,
+          "approval_pct": 14.07,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 396481,
+          "votes_against": 2346954,
+          "votes_abstain": 0,
+          "approval_pct": 14.45,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 287391,
+          "votes_against": 2456011,
+          "votes_abstain": 23,
+          "approval_pct": 10.48,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-11",
       "meeting_year": 2024,
       "doc_id": "S100TL5B",
@@ -36,5 +105,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:28:38.395Z"
+  "updated_at": "2026-07-02T22:23:36.947Z"
 }

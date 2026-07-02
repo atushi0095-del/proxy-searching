@@ -3,6 +3,123 @@
   "company_name": "ペルセウスプロテオミクス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W5WK",
+      "submit_date_time": "2025-06-27 16:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5WK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横川拓哉",
+          "votes_for": 52428,
+          "votes_against": 8444,
+          "votes_abstain": null,
+          "approval_pct": 84.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴川信一",
+          "votes_for": 53066,
+          "votes_against": 7806,
+          "votes_abstain": null,
+          "approval_pct": 85.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "萩原真二",
+          "votes_for": 53820,
+          "votes_against": 7052,
+          "votes_abstain": null,
+          "approval_pct": 87.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小南欽一郎",
+          "votes_for": 54572,
+          "votes_against": 6300,
+          "votes_abstain": null,
+          "approval_pct": 88.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "花井陳雄",
+          "votes_for": 52390,
+          "votes_against": 8482,
+          "votes_abstain": null,
+          "approval_pct": 84.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大野貴史",
+          "votes_for": 56710,
+          "votes_against": 4145,
+          "votes_abstain": null,
+          "approval_pct": 91.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "島戸圭輔",
+          "votes_for": 56386,
+          "votes_against": 4469,
+          "votes_abstain": null,
+          "approval_pct": 91.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "史彩監査法人",
+          "votes_for": 57691,
+          "votes_against": 3137,
+          "votes_abstain": null,
+          "approval_pct": 93.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 57222,
+          "votes_against": 3633,
+          "votes_abstain": null,
+          "approval_pct": 92.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TOR6",
@@ -108,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:23:11.503Z"
+  "updated_at": "2026-07-02T21:30:12.873Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "河合楽器製作所",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W9TP",
+      "submit_date_time": "2025-06-30 16:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9TP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 70095,
+          "votes_against": 551,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河合健太郎",
+          "votes_for": 67568,
+          "votes_against": 2148,
+          "votes_abstain": 949,
+          "approval_pct": 95.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "牛尾浩",
+          "votes_for": 68076,
+          "votes_against": 1640,
+          "votes_abstain": 949,
+          "approval_pct": 96.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "箕輪匡文",
+          "votes_for": 68090,
+          "votes_against": 1626,
+          "votes_abstain": 949,
+          "approval_pct": 96.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森直樹",
+          "votes_for": 68064,
+          "votes_against": 1652,
+          "votes_abstain": 949,
+          "approval_pct": 96.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤康雄",
+          "votes_for": 69205,
+          "votes_against": 511,
+          "votes_abstain": 949,
+          "approval_pct": 97.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村松奈緒美",
+          "votes_for": 69539,
+          "votes_against": 177,
+          "votes_abstain": 949,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZ0H",
@@ -156,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:15:19.747Z"
+  "updated_at": "2026-07-02T21:15:54.999Z"
 }

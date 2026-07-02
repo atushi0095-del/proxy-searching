@@ -3,6 +3,63 @@
   "company_name": "フジオーゼックス",
   "meetings": [
     {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100W0BV",
+      "submit_date_time": "2025-06-19 14:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0BV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 81878,
+          "votes_against": 476,
+          "votes_abstain": 1,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役7名選任の件杉江郁夫浜田章宏海野信一岩本順司茨木徹山下敏明飯塚嘉津美",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 8.098081756816598e+34,
+          "votes_against": 1.3816057027117048e+21,
+          "votes_abstain": 1111111,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件福岡聡",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 81802,
+          "votes_against": 562,
+          "votes_abstain": 1,
+          "approval_pct": 99.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件加藤政人",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 81727,
+          "votes_against": 634,
+          "votes_abstain": 1,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TPTR",
@@ -84,5 +141,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:18:24.364Z"
+  "updated_at": "2026-07-02T22:18:38.324Z"
 }

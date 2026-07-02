@@ -3,6 +3,147 @@
   "company_name": "日本触媒",
   "meetings": [
     {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100W0OP",
+      "submit_date_time": "2025-06-20 15:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0OP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1246067,
+          "votes_against": 5405,
+          "votes_abstain": 124,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "野田和宏",
+          "votes_for": 1012216,
+          "votes_against": 239247,
+          "votes_abstain": 124,
+          "approval_pct": 80.87,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高木邦明",
+          "votes_for": 1133929,
+          "votes_against": 117537,
+          "votes_abstain": 124,
+          "approval_pct": 90.6,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "住田康隆",
+          "votes_for": 1134289,
+          "votes_against": 117177,
+          "votes_abstain": 124,
+          "approval_pct": 90.63,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松本行弘",
+          "votes_for": 1171326,
+          "votes_against": 80140,
+          "votes_abstain": 124,
+          "approval_pct": 93.59,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "薦田健二郎",
+          "votes_for": 1166734,
+          "votes_against": 84732,
+          "votes_abstain": 124,
+          "approval_pct": 93.22,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "瀨戸口哲夫",
+          "votes_for": 1125015,
+          "votes_against": 126451,
+          "votes_abstain": 124,
+          "approval_pct": 89.89,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "櫻井美幸",
+          "votes_for": 1139245,
+          "votes_against": 112223,
+          "votes_abstain": 124,
+          "approval_pct": 91.02,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "池田安希子",
+          "votes_for": 1175649,
+          "votes_against": 75819,
+          "votes_abstain": 124,
+          "approval_pct": 93.93,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "田畑敦士",
+          "votes_for": 1113789,
+          "votes_against": 137684,
+          "votes_abstain": 124,
+          "approval_pct": 88.99,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役に対する業績連動型株式報酬等の額および内容の一部改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 1247123,
+          "votes_against": 4354,
+          "votes_abstain": 124,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TOW3",
@@ -144,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:17:37.975Z"
+  "updated_at": "2026-07-02T22:15:22.939Z"
 }

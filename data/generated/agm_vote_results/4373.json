@@ -3,6 +3,39 @@
   "company_name": "シンプレクス・ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-14",
+      "meeting_year": 2025,
+      "doc_id": "S100VY5H",
+      "submit_date_time": "2025-06-16 12:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VY5H",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案金子英樹助間孝三早田政孝江野澤慶亮",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 4.52891470952471e+23,
+          "votes_against": 28757108631077710000,
+          "votes_abstain": 179121212,
+          "approval_pct": 93.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案廣田直人高橋麻理杉田庸子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 417943481173481500,
+          "votes_against": 63883654375,
+          "votes_abstain": 121212,
+          "approval_pct": 86.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-16",
       "meeting_year": 2024,
       "doc_id": "S100TMSU",
@@ -36,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:27:09.885Z"
+  "updated_at": "2026-07-02T22:21:40.339Z"
 }

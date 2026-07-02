@@ -3,6 +3,63 @@
   "company_name": "ＬＩＴＡＬＩＣＯ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W9QP",
+      "submit_date_time": "2025-06-30 15:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9QP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長谷川敦弥",
+          "votes_for": 227963,
+          "votes_against": 16206,
+          "votes_abstain": 0,
+          "approval_pct": 93.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "辻高宏",
+          "votes_for": 242686,
+          "votes_against": 1483,
+          "votes_abstain": 0,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 243934,
+          "votes_against": 235,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 243922,
+          "votes_against": 249,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYEW",
@@ -48,5 +105,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:24:12.903Z"
+  "updated_at": "2026-07-02T21:18:42.156Z"
 }

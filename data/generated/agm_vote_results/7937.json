@@ -3,6 +3,135 @@
   "company_name": "ツツミ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W8W4",
+      "submit_date_time": "2025-07-01 11:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8W4",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 143604,
+          "votes_against": 702,
+          "votes_abstain": 0,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "互智司",
+          "votes_for": 125720,
+          "votes_against": 18585,
+          "votes_abstain": 0,
+          "approval_pct": 87.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡野勝美",
+          "votes_for": 136664,
+          "votes_against": 7641,
+          "votes_abstain": 0,
+          "approval_pct": 94.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉新一郎",
+          "votes_for": 136876,
+          "votes_against": 7430,
+          "votes_abstain": 0,
+          "approval_pct": 94.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柿沼佑一",
+          "votes_for": 132036,
+          "votes_against": 12270,
+          "votes_abstain": 0,
+          "approval_pct": 91.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上村敦",
+          "votes_for": 130348,
+          "votes_against": 13958,
+          "votes_abstain": 0,
+          "approval_pct": 90.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木剛",
+          "votes_for": 142078,
+          "votes_against": 2228,
+          "votes_abstain": 0,
+          "approval_pct": 98.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 12667,
+          "votes_against": 131639,
+          "votes_abstain": 0,
+          "approval_pct": 8.78,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 13236,
+          "votes_against": 131070,
+          "votes_abstain": 0,
+          "approval_pct": 9.17,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 5724,
+          "votes_against": 138582,
+          "votes_abstain": 0,
+          "approval_pct": 3.97,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TWFV",
@@ -60,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:22:08.693Z"
+  "updated_at": "2026-07-02T21:11:28.270Z"
 }

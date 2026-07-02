@@ -3,6 +3,135 @@
   "company_name": "スクウェア・エニックス・ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W7XA",
+      "submit_date_time": "2025-06-27 09:51",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7XA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "桐生隆司",
+          "votes_for": 862398,
+          "votes_against": 53691,
+          "votes_abstain": 2019,
+          "approval_pct": 93.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北瀬佳範",
+          "votes_for": 869634,
+          "votes_against": 48475,
+          "votes_abstain": 0,
+          "approval_pct": 94.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三宅有",
+          "votes_for": 869647,
+          "votes_against": 48462,
+          "votes_abstain": 0,
+          "approval_pct": 94.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川正人",
+          "votes_for": 874620,
+          "votes_against": 43489,
+          "votes_abstain": 0,
+          "approval_pct": 95.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡本美津子",
+          "votes_for": 874799,
+          "votes_against": 43310,
+          "votes_abstain": 0,
+          "approval_pct": 95.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "AbdullahAldawood",
+          "votes_for": 847257,
+          "votes_against": 70851,
+          "votes_abstain": 0,
+          "approval_pct": 92.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙野直人",
+          "votes_for": 871050,
+          "votes_against": 47059,
+          "votes_abstain": 0,
+          "approval_pct": 94.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "我妻三佳",
+          "votes_for": 874434,
+          "votes_against": 43675,
+          "votes_abstain": 0,
+          "approval_pct": 95.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "TracyFullerton",
+          "votes_for": 874823,
+          "votes_against": 43286,
+          "votes_abstain": 0,
+          "approval_pct": 95.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 109072,
+          "votes_against": 809038,
+          "votes_abstain": 22,
+          "approval_pct": 11.87,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TRFB",
@@ -168,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:09:22.313Z"
+  "updated_at": "2026-07-02T21:42:50.811Z"
 }

@@ -3,6 +3,147 @@
   "company_name": "タイガースポリマー",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W507",
+      "submit_date_time": "2025-06-25 09:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W507",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 160241,
+          "votes_against": 1521,
+          "votes_abstain": 0,
+          "approval_pct": 98.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "澤田宏治",
+          "votes_for": 148292,
+          "votes_against": 13511,
+          "votes_abstain": 0,
+          "approval_pct": 91.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渡辺健太郎",
+          "votes_for": 148690,
+          "votes_against": 13113,
+          "votes_abstain": 0,
+          "approval_pct": 91.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "植田英司",
+          "votes_for": 156398,
+          "votes_against": 5405,
+          "votes_abstain": 0,
+          "approval_pct": 96.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "豊田裕之",
+          "votes_for": 156453,
+          "votes_against": 5350,
+          "votes_abstain": 0,
+          "approval_pct": 96.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "井上宏章",
+          "votes_for": 156437,
+          "votes_against": 5366,
+          "votes_abstain": 0,
+          "approval_pct": 96.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "冨田保彦",
+          "votes_for": 156415,
+          "votes_against": 5388,
+          "votes_abstain": 0,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "後藤秀彦",
+          "votes_for": 156408,
+          "votes_against": 5395,
+          "votes_abstain": 0,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小西華子",
+          "votes_for": 156443,
+          "votes_against": 5360,
+          "votes_abstain": 0,
+          "approval_pct": 96.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "細見拓人",
+          "votes_for": 156413,
+          "votes_against": 5390,
+          "votes_abstain": 0,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案剰余金の処分の件（特別配当）",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 19154,
+          "votes_against": 142569,
+          "votes_abstain": 0,
+          "approval_pct": 11.8,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TKQM",
@@ -84,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:40:17.389Z"
+  "updated_at": "2026-07-02T22:03:54.763Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "スズケン",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W5T3",
+      "submit_date_time": "2025-06-26 09:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5T3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅野茂",
+          "votes_for": 549313,
+          "votes_against": 31568,
+          "votes_abstain": 39384,
+          "approval_pct": 88.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮田浩美",
+          "votes_for": 551777,
+          "votes_against": 29104,
+          "votes_abstain": 39384,
+          "approval_pct": 88.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中博文",
+          "votes_for": 555476,
+          "votes_against": 25407,
+          "votes_abstain": 39384,
+          "approval_pct": 89.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋智恵",
+          "votes_for": 555485,
+          "votes_against": 25398,
+          "votes_abstain": 39384,
+          "approval_pct": 89.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "茶村俊一",
+          "votes_for": 558576,
+          "votes_against": 22307,
+          "votes_abstain": 39384,
+          "approval_pct": 90.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中垣英明",
+          "votes_for": 558681,
+          "votes_against": 22202,
+          "votes_abstain": 39384,
+          "approval_pct": 90.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小笠原剛",
+          "votes_for": 499481,
+          "votes_against": 120855,
+          "votes_abstain": null,
+          "approval_pct": 80.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "近藤敏通",
+          "votes_for": 558801,
+          "votes_against": 22154,
+          "votes_abstain": 39384,
+          "approval_pct": 90.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水綾子",
+          "votes_for": 558900,
+          "votes_against": 22055,
+          "votes_abstain": 39384,
+          "approval_pct": 90.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "富田麻子",
+          "votes_for": 600098,
+          "votes_against": 20239,
+          "votes_abstain": null,
+          "approval_pct": 96.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TSDP",
@@ -96,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:04:19.184Z"
+  "updated_at": "2026-07-02T21:55:08.953Z"
 }

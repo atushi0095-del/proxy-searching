@@ -3,6 +3,147 @@
   "company_name": "住友倉庫",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W5PB",
+      "submit_date_time": "2025-06-30 14:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5PB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 666670,
+          "votes_against": 249,
+          "votes_abstain": 10,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野孝則",
+          "votes_for": 532512,
+          "votes_against": 134406,
+          "votes_abstain": 10,
+          "approval_pct": 79.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永田昭仁",
+          "votes_for": 541533,
+          "votes_against": 125385,
+          "votes_abstain": 10,
+          "approval_pct": 80.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宗克典",
+          "votes_for": 664490,
+          "votes_against": 2431,
+          "votes_abstain": 10,
+          "approval_pct": 98.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "星野公彦",
+          "votes_for": 664568,
+          "votes_against": 2353,
+          "votes_abstain": 10,
+          "approval_pct": 98.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒木郁雄",
+          "votes_for": 664591,
+          "votes_against": 2330,
+          "votes_abstain": 10,
+          "approval_pct": 98.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口修司",
+          "votes_for": 659594,
+          "votes_against": 7326,
+          "votes_abstain": 10,
+          "approval_pct": 98.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河井英明",
+          "votes_for": 665072,
+          "votes_against": 1849,
+          "votes_abstain": 10,
+          "approval_pct": 99.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊賀真理",
+          "votes_for": 665452,
+          "votes_against": 1469,
+          "votes_abstain": 10,
+          "approval_pct": 99.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂口晃",
+          "votes_for": 664845,
+          "votes_against": 2076,
+          "votes_abstain": 10,
+          "approval_pct": 99.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西橋久仁子",
+          "votes_for": 666354,
+          "votes_against": 567,
+          "votes_abstain": 10,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXN6",
@@ -132,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:19:01.736Z"
+  "updated_at": "2026-07-02T21:20:11.802Z"
 }

@@ -3,6 +3,39 @@
   "company_name": "キング",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W96T",
+      "submit_date_time": "2025-06-30 09:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W96T",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件山田幸雄木原伸一長島希吉澤田眞治郎藤井卓也",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 1.3334713939814067e+29,
+          "votes_against": 80792028762866930,
+          "votes_abstain": null,
+          "approval_pct": 94.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案当社株式の大量取得行為に関する対応策（買収への対応方針）の継続の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 124738,
+          "votes_against": 16688,
+          "votes_abstain": null,
+          "approval_pct": 88.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY20",
@@ -48,5 +81,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:30:59.113Z"
+  "updated_at": "2026-07-02T21:28:07.246Z"
 }

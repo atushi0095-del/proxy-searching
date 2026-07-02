@@ -3,6 +3,123 @@
   "company_name": "立花エレテック",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WA96",
+      "submit_date_time": "2025-07-01 13:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA96",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "布山尚伸",
+          "votes_for": 146275,
+          "votes_against": 31571,
+          "votes_abstain": 0,
+          "approval_pct": 82.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙見貞行",
+          "votes_for": 170134,
+          "votes_against": 7712,
+          "votes_abstain": 0,
+          "approval_pct": 95.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "南本隆吏",
+          "votes_for": 173312,
+          "votes_against": 4534,
+          "votes_abstain": 0,
+          "approval_pct": 97.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松浦良典",
+          "votes_for": 170370,
+          "votes_against": 7476,
+          "votes_abstain": 0,
+          "approval_pct": 95.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "辻川正人",
+          "votes_for": 153421,
+          "votes_against": 24425,
+          "votes_abstain": 0,
+          "approval_pct": 86.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "辻孝夫",
+          "votes_for": 170285,
+          "votes_against": 7561,
+          "votes_abstain": 0,
+          "approval_pct": 95.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "権藤義一",
+          "votes_for": 154667,
+          "votes_against": 23179,
+          "votes_abstain": 0,
+          "approval_pct": 86.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "木田稔",
+          "votes_for": 158525,
+          "votes_against": 19321,
+          "votes_abstain": 0,
+          "approval_pct": 89.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案当社株式の大規模買付行為に関する対応策（買収防衛策）継続の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 139754,
+          "votes_against": 38092,
+          "votes_abstain": 0,
+          "approval_pct": 78.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TYGN",
@@ -144,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:19:11.433Z"
+  "updated_at": "2026-07-02T21:09:31.400Z"
 }

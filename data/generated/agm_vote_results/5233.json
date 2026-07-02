@@ -3,6 +3,51 @@
   "company_name": "太平洋セメント",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W6S0",
+      "submit_date_time": "2025-06-30 11:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W6S0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 902657,
+          "votes_against": 4808,
+          "votes_abstain": 205,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "根本裕介三谷和歌子",
+          "votes_for": 819510905112,
+          "votes_against": 879422344,
+          "votes_abstain": 215215,
+          "approval_pct": 99.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 906053,
+          "votes_against": 1414,
+          "votes_abstain": 205,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY12",
@@ -36,5 +81,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:23:13.571Z"
+  "updated_at": "2026-07-02T21:24:39.894Z"
 }

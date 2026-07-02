@@ -3,6 +3,87 @@
   "company_name": "ｵﾌﾟﾃｨﾏｽｸﾞﾙｰﾌﾟ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W7PB",
+      "submit_date_time": "2025-06-27 13:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7PB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山中信哉",
+          "votes_for": 458897,
+          "votes_against": 3674,
+          "votes_abstain": null,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ロバート・アンドリュー・ヤング",
+          "votes_for": 458901,
+          "votes_against": 3670,
+          "votes_abstain": null,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "マーティン・フレイザー・マッカラック",
+          "votes_for": 458872,
+          "votes_against": 3699,
+          "votes_abstain": null,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ジョン・スタターリ",
+          "votes_for": 458981,
+          "votes_against": 3590,
+          "votes_abstain": null,
+          "approval_pct": 98.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩岡廣明",
+          "votes_for": 458431,
+          "votes_against": 4140,
+          "votes_abstain": null,
+          "approval_pct": 97.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横瀬勉",
+          "votes_for": 458892,
+          "votes_against": 4164,
+          "votes_abstain": null,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TT4I",
@@ -36,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:02:37.064Z"
+  "updated_at": "2026-07-02T21:37:24.641Z"
 }

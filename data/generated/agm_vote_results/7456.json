@@ -3,6 +3,135 @@
   "company_name": "松田産業",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100WAKW",
+      "submit_date_time": "2025-07-02 11:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAKW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 223643,
+          "votes_against": 337,
+          "votes_abstain": 15,
+          "approval_pct": 99.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。)7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松田芳明",
+          "votes_for": 206565,
+          "votes_against": 17413,
+          "votes_abstain": 15,
+          "approval_pct": 92.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。)7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "對馬浩二",
+          "votes_for": 219673,
+          "votes_against": 4306,
+          "votes_abstain": 15,
+          "approval_pct": 98.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。)7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山﨑隆一",
+          "votes_for": 219645,
+          "votes_against": 4334,
+          "votes_abstain": 15,
+          "approval_pct": 98.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。)7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "石禾健二",
+          "votes_for": 219674,
+          "votes_against": 4305,
+          "votes_abstain": 15,
+          "approval_pct": 98.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。)7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "上田雄大",
+          "votes_for": 219721,
+          "votes_against": 4258,
+          "votes_abstain": 15,
+          "approval_pct": 98.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。)7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "今井英人",
+          "votes_for": 219726,
+          "votes_against": 4253,
+          "votes_abstain": 15,
+          "approval_pct": 98.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。)7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中善則",
+          "votes_for": 219650,
+          "votes_against": 4329,
+          "votes_abstain": 15,
+          "approval_pct": 98.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役（監査等委員であるものを除く。）に対する退職慰労金制度廃止に伴う打ち切り支給の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 185733,
+          "votes_against": 38247,
+          "votes_abstain": 15,
+          "approval_pct": 82.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役等に対する株式報酬制度の導入の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 219636,
+          "votes_against": 4344,
+          "votes_abstain": 15,
+          "approval_pct": 98.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TZ7U",
@@ -132,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:11:06.634Z"
+  "updated_at": "2026-07-02T21:05:12.092Z"
 }

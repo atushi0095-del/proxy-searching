@@ -3,6 +3,135 @@
   "company_name": "ダイダン",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W8VW",
+      "submit_date_time": "2025-06-30 13:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8VW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 334446,
+          "votes_against": 202,
+          "votes_abstain": 628,
+          "approval_pct": 99.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤澤一郎",
+          "votes_for": 299279,
+          "votes_against": 35287,
+          "votes_abstain": 709,
+          "approval_pct": 89.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山中康宏",
+          "votes_for": 299502,
+          "votes_against": 35064,
+          "votes_abstain": 709,
+          "approval_pct": 89.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "笹木寿男",
+          "votes_for": 329839,
+          "votes_against": 4809,
+          "votes_abstain": 628,
+          "approval_pct": 98.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐々木洋二",
+          "votes_for": 329578,
+          "votes_against": 5070,
+          "votes_abstain": 628,
+          "approval_pct": 98.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松原文雄",
+          "votes_for": 330127,
+          "votes_against": 4521,
+          "votes_abstain": 628,
+          "approval_pct": 98.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤郁美",
+          "votes_for": 333966,
+          "votes_against": 682,
+          "votes_abstain": 628,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小酒井健吉",
+          "votes_for": 330286,
+          "votes_against": 4362,
+          "votes_abstain": 628,
+          "approval_pct": 98.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久德博文",
+          "votes_for": 329658,
+          "votes_against": 4990,
+          "votes_abstain": 628,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "礒川剛志",
+          "votes_for": 334218,
+          "votes_against": 430,
+          "votes_abstain": 628,
+          "approval_pct": 99.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY0D",
@@ -192,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:30:49.447Z"
+  "updated_at": "2026-07-02T21:22:21.474Z"
 }

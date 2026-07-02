@@ -3,6 +3,123 @@
   "company_name": "日工",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W8TB",
+      "submit_date_time": "2025-06-27 15:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8TB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 271620,
+          "votes_against": 9444,
+          "votes_abstain": 0,
+          "approval_pct": 96.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "辻勝",
+          "votes_for": 257400,
+          "votes_against": 23746,
+          "votes_abstain": 0,
+          "approval_pct": 91.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山知巳",
+          "votes_for": 257879,
+          "votes_against": 23267,
+          "votes_abstain": 0,
+          "approval_pct": 91.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "曾根武志",
+          "votes_for": 270952,
+          "votes_against": 10194,
+          "votes_abstain": 0,
+          "approval_pct": 96.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川上晃一",
+          "votes_for": 270927,
+          "votes_against": 10219,
+          "votes_abstain": 0,
+          "approval_pct": 96.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田和寛",
+          "votes_for": 271042,
+          "votes_against": 10104,
+          "votes_abstain": 0,
+          "approval_pct": 96.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井正文",
+          "votes_for": 264527,
+          "votes_against": 16619,
+          "votes_abstain": 0,
+          "approval_pct": 94.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐伯里香",
+          "votes_for": 264678,
+          "votes_against": 16468,
+          "votes_abstain": 0,
+          "approval_pct": 94.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "貞苅茂",
+          "votes_for": 264384,
+          "votes_against": 16762,
+          "votes_abstain": 0,
+          "approval_pct": 94.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TR96",
@@ -180,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:11:05.404Z"
+  "updated_at": "2026-07-02T21:32:36.011Z"
 }

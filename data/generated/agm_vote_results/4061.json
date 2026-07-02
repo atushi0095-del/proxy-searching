@@ -3,6 +3,135 @@
   "company_name": "デンカ",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W53D",
+      "submit_date_time": "2025-06-25 11:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W53D",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 658689,
+          "votes_against": 2050,
+          "votes_abstain": 18,
+          "approval_pct": 99.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今井俊夫",
+          "votes_for": 481333,
+          "votes_against": 179410,
+          "votes_abstain": 20,
+          "approval_pct": 72.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石田郁雄",
+          "votes_for": 603470,
+          "votes_against": 57273,
+          "votes_abstain": 20,
+          "approval_pct": 90.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林田りみる",
+          "votes_for": 652043,
+          "votes_against": 8705,
+          "votes_abstain": 20,
+          "approval_pct": 98.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "香坂昌信",
+          "votes_for": 653867,
+          "votes_against": 6881,
+          "votes_abstain": 20,
+          "approval_pct": 98.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中田るみ子",
+          "votes_for": 655454,
+          "votes_against": 5294,
+          "votes_abstain": 20,
+          "approval_pct": 98.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内田瑞宏",
+          "votes_for": 607251,
+          "votes_against": 53452,
+          "votes_abstain": 20,
+          "approval_pct": 91.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木下俊男",
+          "votes_for": 644803,
+          "votes_against": 15903,
+          "votes_abstain": 20,
+          "approval_pct": 96.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本明夫",
+          "votes_for": 541621,
+          "votes_against": 119084,
+          "votes_abstain": 20,
+          "approval_pct": 81.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "的場美友紀",
+          "votes_for": 646224,
+          "votes_against": 14483,
+          "votes_abstain": 20,
+          "approval_pct": 97.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TRSM",
@@ -84,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:10:02.329Z"
+  "updated_at": "2026-07-02T22:02:16.467Z"
 }

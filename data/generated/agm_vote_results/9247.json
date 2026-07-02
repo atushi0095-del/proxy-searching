@@ -3,6 +3,111 @@
   "company_name": "ＴＲＥホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W5PX",
+      "submit_date_time": "2025-06-25 15:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5PX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 349254,
+          "votes_against": 6487,
+          "votes_abstain": null,
+          "approval_pct": 97.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松岡直人",
+          "votes_for": 343402,
+          "votes_against": 12344,
+          "votes_abstain": null,
+          "approval_pct": 95.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部光男",
+          "votes_for": 347787,
+          "votes_against": 7959,
+          "votes_abstain": null,
+          "approval_pct": 96.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青山美和",
+          "votes_for": 348109,
+          "votes_against": 7637,
+          "votes_abstain": null,
+          "approval_pct": 96.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上川毅",
+          "votes_for": 345248,
+          "votes_against": 10494,
+          "votes_abstain": null,
+          "approval_pct": 95.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大村扶美枝",
+          "votes_for": 348671,
+          "votes_against": 7075,
+          "votes_abstain": null,
+          "approval_pct": 96.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "末末広行",
+          "votes_for": 348419,
+          "votes_against": 7327,
+          "votes_abstain": null,
+          "approval_pct": 96.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荒牧知子",
+          "votes_for": 348742,
+          "votes_against": 7004,
+          "votes_abstain": null,
+          "approval_pct": 96.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TUXS",
@@ -96,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:56:18.867Z"
+  "updated_at": "2026-07-02T21:59:10.999Z"
 }

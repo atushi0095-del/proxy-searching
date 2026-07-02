@@ -3,6 +3,39 @@
   "company_name": "ＳＣＳＫ",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W53G",
+      "submit_date_time": "2025-06-25 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W53G",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2852375,
+          "votes_against": 762,
+          "votes_abstain": 7862,
+          "approval_pct": 99.665,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2830447,
+          "votes_against": 20695,
+          "votes_abstain": 9861,
+          "approval_pct": 98.898,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TP3Q",
@@ -36,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:18:38.965Z"
+  "updated_at": "2026-07-02T21:58:28.987Z"
 }

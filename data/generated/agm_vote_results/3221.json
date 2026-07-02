@@ -3,6 +3,123 @@
   "company_name": "ヨシックスホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W55L",
+      "submit_date_time": "2025-06-25 10:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W55L",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 81166,
+          "votes_against": 1397,
+          "votes_abstain": null,
+          "approval_pct": 98.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉岡昌成",
+          "votes_for": 70589,
+          "votes_against": 11975,
+          "votes_abstain": null,
+          "approval_pct": 85.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "瀬川雅人",
+          "votes_for": 70793,
+          "votes_against": 11771,
+          "votes_abstain": null,
+          "approval_pct": 85.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉岡裕太郎",
+          "votes_for": 81010,
+          "votes_against": 1554,
+          "votes_abstain": null,
+          "approval_pct": 98.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊達富夫",
+          "votes_for": 78565,
+          "votes_against": 3999,
+          "votes_abstain": null,
+          "approval_pct": 95.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鳥居達也",
+          "votes_for": 81016,
+          "votes_against": 1547,
+          "votes_abstain": null,
+          "approval_pct": 98.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "植村亮仁",
+          "votes_for": 77524,
+          "votes_against": 5039,
+          "votes_abstain": null,
+          "approval_pct": 93.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "堀雄治",
+          "votes_for": 81001,
+          "votes_against": 1562,
+          "votes_abstain": null,
+          "approval_pct": 98.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木隆臣",
+          "votes_for": 82085,
+          "votes_against": 479,
+          "votes_abstain": null,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTI4",
@@ -72,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:03:35.233Z"
+  "updated_at": "2026-07-02T22:02:48.084Z"
 }

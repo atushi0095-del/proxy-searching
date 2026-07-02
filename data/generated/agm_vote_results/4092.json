@@ -3,6 +3,99 @@
   "company_name": "日本化学工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W7XR",
+      "submit_date_time": "2025-06-27 10:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7XR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 54464,
+          "votes_against": 606,
+          "votes_abstain": 0,
+          "approval_pct": 98.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "棚橋洋太",
+          "votes_for": 50568,
+          "votes_against": 4505,
+          "votes_abstain": 0,
+          "approval_pct": 91.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "愛川浩功",
+          "votes_for": 52029,
+          "votes_against": 3044,
+          "votes_abstain": 0,
+          "approval_pct": 94.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤学",
+          "votes_for": 53752,
+          "votes_against": 1321,
+          "votes_abstain": 0,
+          "approval_pct": 97.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "多田智子",
+          "votes_for": 54004,
+          "votes_against": 1069,
+          "votes_abstain": 0,
+          "approval_pct": 97.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "剱持健",
+          "votes_for": 54523,
+          "votes_against": 550,
+          "votes_abstain": 0,
+          "approval_pct": 98.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "戸木眞吾",
+          "votes_for": 54562,
+          "votes_against": 511,
+          "votes_abstain": 0,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TV4V",
@@ -48,5 +141,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:48:41.721Z"
+  "updated_at": "2026-07-02T21:41:25.695Z"
 }

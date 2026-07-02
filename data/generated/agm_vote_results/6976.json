@@ -3,6 +3,123 @@
   "company_name": "太陽誘電",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAKV",
+      "submit_date_time": "2025-07-02 11:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAKV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 905456,
+          "votes_against": 61280,
+          "votes_abstain": 0,
+          "approval_pct": 93.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐瀬克也",
+          "votes_for": 898277,
+          "votes_against": 68504,
+          "votes_abstain": 0,
+          "approval_pct": 92.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福田智光",
+          "votes_for": 922943,
+          "votes_against": 43838,
+          "votes_abstain": 0,
+          "approval_pct": 95.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邊敏幸",
+          "votes_for": 962848,
+          "votes_against": 3933,
+          "votes_abstain": 0,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平岩正史",
+          "votes_for": 923802,
+          "votes_against": 42978,
+          "votes_abstain": 0,
+          "approval_pct": 95.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池精一",
+          "votes_for": 924255,
+          "votes_against": 42526,
+          "votes_abstain": 0,
+          "approval_pct": 95.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浜田恵美子",
+          "votes_for": 852214,
+          "votes_against": 114563,
+          "votes_abstain": 0,
+          "approval_pct": 88.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野口五丈",
+          "votes_for": 964694,
+          "votes_against": 2066,
+          "votes_abstain": 0,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 958620,
+          "votes_against": 8143,
+          "votes_abstain": 18,
+          "approval_pct": 99.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZF9",
@@ -204,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:11:35.811Z"
+  "updated_at": "2026-07-02T21:05:21.972Z"
 }

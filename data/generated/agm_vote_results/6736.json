@@ -3,6 +3,135 @@
   "company_name": "サン電子",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W4BW",
+      "submit_date_time": "2025-06-25 16:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W4BW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 193349,
+          "votes_against": 3077,
+          "votes_abstain": null,
+          "approval_pct": 98.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "内海龍輔",
+          "votes_for": 183240,
+          "votes_against": 12806,
+          "votes_abstain": null,
+          "approval_pct": 93.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "木村好己",
+          "votes_for": 188737,
+          "votes_against": 7309,
+          "votes_abstain": null,
+          "approval_pct": 96.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "ヨナタン・ドミニツ",
+          "votes_for": 191586,
+          "votes_against": 4460,
+          "votes_abstain": null,
+          "approval_pct": 97.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "ヤコブ・ズリッカ",
+          "votes_for": 191586,
+          "votes_against": 4460,
+          "votes_abstain": null,
+          "approval_pct": 97.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岩田彰",
+          "votes_for": 189122,
+          "votes_against": 6924,
+          "votes_abstain": null,
+          "approval_pct": 96.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "リサ・ハミット",
+          "votes_for": 178522,
+          "votes_against": 17524,
+          "votes_abstain": null,
+          "approval_pct": 91.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）に対する株式報酬制度導入の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 177758,
+          "votes_against": 18288,
+          "votes_abstain": null,
+          "approval_pct": 90.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役（監査等委員である取締役を除く。）の報酬額設定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 184626,
+          "votes_against": 11413,
+          "votes_abstain": 7,
+          "approval_pct": 94.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査等委員である取締役の報酬額設定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 187389,
+          "votes_against": 8650,
+          "votes_abstain": 7,
+          "approval_pct": 95.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTNN",
@@ -132,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:57:36.350Z"
+  "updated_at": "2026-07-02T21:56:49.994Z"
 }

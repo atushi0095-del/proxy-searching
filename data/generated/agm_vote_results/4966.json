@@ -3,6 +3,27 @@
   "company_name": "上村工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W50J",
+      "submit_date_time": "2025-06-30 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W50J",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 145362,
+          "votes_against": 338,
+          "votes_abstain": 129,
+          "approval_pct": 99.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TUC2",
@@ -48,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:36:51.071Z"
+  "updated_at": "2026-07-02T21:16:02.305Z"
 }

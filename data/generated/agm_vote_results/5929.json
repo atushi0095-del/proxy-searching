@@ -3,6 +3,123 @@
   "company_name": "三和ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W7CY",
+      "submit_date_time": "2025-06-26 14:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7CY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1884649,
+          "votes_against": 112,
+          "votes_abstain": 0,
+          "approval_pct": 99.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙山靖司",
+          "votes_for": 1710785,
+          "votes_against": 168747,
+          "votes_abstain": 5223,
+          "approval_pct": 90.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山崎弘之",
+          "votes_for": 1866663,
+          "votes_against": 18096,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "道場敏明",
+          "votes_for": 1866665,
+          "votes_against": 18094,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙山盟司",
+          "votes_for": 1863973,
+          "votes_against": 20786,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "横田正仲",
+          "votes_for": 1872638,
+          "votes_against": 12121,
+          "votes_abstain": 0,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "石村弘子",
+          "votes_for": 1879677,
+          "votes_against": 5082,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山岡直人",
+          "votes_for": 1782888,
+          "votes_against": 101866,
+          "votes_abstain": 0,
+          "approval_pct": 94.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役の報酬改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 1882046,
+          "votes_against": 1369,
+          "votes_abstain": 1346,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TWIL",
@@ -132,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:47:59.473Z"
+  "updated_at": "2026-07-02T21:49:20.462Z"
 }

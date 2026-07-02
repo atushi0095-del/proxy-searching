@@ -3,6 +3,183 @@
   "company_name": "名港海運",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA94",
+      "submit_date_time": "2025-07-01 13:43",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA94",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 251152,
+          "votes_against": 1224,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 252049,
+          "votes_against": 327,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "髙橋広",
+          "votes_for": 231177,
+          "votes_against": 21199,
+          "votes_abstain": 0,
+          "approval_pct": 91.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "平松保長",
+          "votes_for": 232355,
+          "votes_against": 20021,
+          "votes_abstain": 0,
+          "approval_pct": 92.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山口淳",
+          "votes_for": 232358,
+          "votes_against": 20018,
+          "votes_abstain": 0,
+          "approval_pct": 92.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "三谷正芳",
+          "votes_for": 232197,
+          "votes_against": 20179,
+          "votes_abstain": 0,
+          "approval_pct": 92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加留部淳",
+          "votes_for": 248512,
+          "votes_against": 3864,
+          "votes_abstain": 0,
+          "approval_pct": 98.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小倉忠",
+          "votes_for": 249360,
+          "votes_against": 3016,
+          "votes_abstain": 0,
+          "approval_pct": 98.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "水野智之",
+          "votes_for": 251871,
+          "votes_against": 505,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "時々輪彰久",
+          "votes_for": 234593,
+          "votes_against": 17783,
+          "votes_abstain": 0,
+          "approval_pct": 92.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役の報酬額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 249375,
+          "votes_against": 3001,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案自己株式取得の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 22578,
+          "votes_against": 229798,
+          "votes_abstain": 0,
+          "approval_pct": 8.95,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案取締役および社外取締役の員数に関する定款変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 22061,
+          "votes_against": 230315,
+          "votes_abstain": 0,
+          "approval_pct": 8.74,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案譲渡制限付株式報酬制度に関する報酬額承認の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 22027,
+          "votes_against": 230349,
+          "votes_abstain": 0,
+          "approval_pct": 8.73,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TWSS",
@@ -108,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:44:27.588Z"
+  "updated_at": "2026-07-02T21:09:41.046Z"
 }

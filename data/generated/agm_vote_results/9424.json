@@ -3,6 +3,111 @@
   "company_name": "日本通信",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W4WT",
+      "submit_date_time": "2025-06-25 17:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W4WT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 812350,
+          "votes_against": 23047,
+          "votes_abstain": null,
+          "approval_pct": 97.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "三田聖二",
+          "votes_for": 671468,
+          "votes_against": 163960,
+          "votes_abstain": null,
+          "approval_pct": 80.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加藤明美",
+          "votes_for": 793640,
+          "votes_against": 41788,
+          "votes_abstain": null,
+          "approval_pct": 94.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "寺本振透",
+          "votes_for": 728962,
+          "votes_against": 106466,
+          "votes_abstain": null,
+          "approval_pct": 87.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森葉子",
+          "votes_for": 728551,
+          "votes_against": 106877,
+          "votes_abstain": null,
+          "approval_pct": 87.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中仁",
+          "votes_for": 740187,
+          "votes_against": 95241,
+          "votes_abstain": null,
+          "approval_pct": 88.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "團宏明",
+          "votes_for": 803680,
+          "votes_against": 31748,
+          "votes_abstain": null,
+          "approval_pct": 96.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "諌山親",
+          "votes_for": 800956,
+          "votes_against": 34434,
+          "votes_abstain": null,
+          "approval_pct": 95.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TQSS",
@@ -72,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:57:53.597Z"
+  "updated_at": "2026-07-02T21:55:23.648Z"
 }

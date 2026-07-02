@@ -3,6 +3,135 @@
   "company_name": "神戸製鋼所",
   "meetings": [
     {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100W1SC",
+      "submit_date_time": "2025-06-23 12:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1SC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "勝川四志彦",
+          "votes_for": 2591511,
+          "votes_against": 60852,
+          "votes_abstain": 5,
+          "approval_pct": 96.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永良哉",
+          "votes_for": 2614463,
+          "votes_against": 37901,
+          "votes_abstain": 5,
+          "approval_pct": 97.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂本浩一",
+          "votes_for": 2615829,
+          "votes_against": 36535,
+          "votes_abstain": 5,
+          "approval_pct": 97.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮岡伸司",
+          "votes_for": 2615614,
+          "votes_against": 36750,
+          "votes_abstain": 5,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木本和彦",
+          "votes_for": 2616207,
+          "votes_against": 36157,
+          "votes_abstain": 5,
+          "approval_pct": 97.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤ゆみ子",
+          "votes_for": 2636149,
+          "votes_against": 16215,
+          "votes_abstain": 5,
+          "approval_pct": 98.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北川慎介",
+          "votes_for": 2633087,
+          "votes_against": 19277,
+          "votes_abstain": 5,
+          "approval_pct": 98.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塚本良江",
+          "votes_for": 2636638,
+          "votes_against": 15726,
+          "votes_abstain": 5,
+          "approval_pct": 98.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2421948,
+          "votes_against": 230644,
+          "votes_abstain": 5,
+          "approval_pct": 90.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2640006,
+          "votes_against": 12618,
+          "votes_abstain": 5,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TOQ4",
@@ -192,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:20:19.507Z"
+  "updated_at": "2026-07-02T22:12:33.474Z"
 }

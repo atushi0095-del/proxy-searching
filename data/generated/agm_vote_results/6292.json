@@ -3,6 +3,63 @@
   "company_name": "カワタ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WAM1",
+      "submit_date_time": "2025-07-02 12:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAM1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 41269,
+          "votes_against": 529,
+          "votes_abstain": null,
+          "approval_pct": 98.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "白石亙白井英徳橋本敏郎",
+          "votes_for": 398144108241073,
+          "votes_against": 1991723732,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田端久和",
+          "votes_for": 40750,
+          "votes_against": 1055,
+          "votes_abstain": null,
+          "approval_pct": 97.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案当社株式の大量取得行為に関する対応策（買収への対応方針）の継続の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 39842,
+          "votes_against": 1963,
+          "votes_abstain": null,
+          "approval_pct": 95.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TZ9G",
@@ -60,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:13:04.013Z"
+  "updated_at": "2026-07-02T21:04:47.403Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "リケンテクノス",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2IT",
+      "submit_date_time": "2025-06-23 14:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2IT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 427739,
+          "votes_against": 133,
+          "votes_abstain": 0,
+          "approval_pct": 97.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "常盤和明",
+          "votes_for": 390919,
+          "votes_against": 36953,
+          "votes_abstain": 0,
+          "approval_pct": 89.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "入江淳二",
+          "votes_for": 408560,
+          "votes_against": 19313,
+          "votes_abstain": 0,
+          "approval_pct": 93.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "梶山学之",
+          "votes_for": 423885,
+          "votes_against": 3988,
+          "votes_abstain": 0,
+          "approval_pct": 96.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川智三",
+          "votes_for": 423300,
+          "votes_against": 4573,
+          "votes_abstain": 0,
+          "approval_pct": 96.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "絹川幸恵",
+          "votes_for": 352169,
+          "votes_against": 75704,
+          "votes_abstain": 0,
+          "approval_pct": 80.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 357155,
+          "votes_against": 70718,
+          "votes_abstain": 0,
+          "approval_pct": 81.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TR9L",
@@ -108,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:11:00.491Z"
+  "updated_at": "2026-07-02T22:11:39.493Z"
 }

@@ -3,6 +3,159 @@
   "company_name": "ミネベアミツミ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9M5",
+      "submit_date_time": "2025-06-30 16:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9M5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3569472,
+          "votes_against": 1413,
+          "votes_abstain": 0,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "貝沼由久",
+          "votes_for": 3408605,
+          "votes_against": 152484,
+          "votes_abstain": 10607,
+          "approval_pct": 95.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森部茂",
+          "votes_for": 3447759,
+          "votes_against": 123936,
+          "votes_abstain": 0,
+          "approval_pct": 96.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田勝彦",
+          "votes_for": 3433979,
+          "votes_against": 127109,
+          "votes_abstain": 10607,
+          "approval_pct": 96.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩屋良造",
+          "votes_for": 3447757,
+          "votes_against": 123938,
+          "votes_abstain": 0,
+          "approval_pct": 96.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水間聡",
+          "votes_for": 3447901,
+          "votes_against": 123794,
+          "votes_abstain": 0,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木克敏",
+          "votes_for": 3447917,
+          "votes_against": 123778,
+          "votes_abstain": 0,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松岡卓",
+          "votes_for": 3444339,
+          "votes_against": 127356,
+          "votes_abstain": 0,
+          "approval_pct": 96.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮崎裕子",
+          "votes_for": 3539877,
+          "votes_against": 31821,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松村敦子",
+          "votes_for": 3540126,
+          "votes_against": 31572,
+          "votes_abstain": 0,
+          "approval_pct": 99.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芳賀裕子",
+          "votes_for": 3540114,
+          "votes_against": 31584,
+          "votes_abstain": 0,
+          "approval_pct": 99.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "片瀬裕文",
+          "votes_for": 3539815,
+          "votes_against": 31883,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY97",
@@ -192,5 +345,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:19:28.916Z"
+  "updated_at": "2026-07-02T21:15:20.772Z"
 }

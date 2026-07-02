@@ -3,6 +3,39 @@
   "company_name": "北野建設",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W5QY",
+      "submit_date_time": "2025-06-25 15:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5QY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 49212,
+          "votes_against": 97,
+          "votes_abstain": null,
+          "approval_pct": 97.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役に対する譲渡制限付株式報酬制度導入の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 49197,
+          "votes_against": 125,
+          "votes_abstain": null,
+          "approval_pct": 97.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TYBB",
@@ -120,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:25:55.641Z"
+  "updated_at": "2026-07-02T21:58:02.195Z"
 }

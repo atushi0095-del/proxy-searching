@@ -3,6 +3,75 @@
   "company_name": "ミツバ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100VZWP",
+      "submit_date_time": "2025-06-27 17:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VZWP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 334449,
+          "votes_against": 1123,
+          "votes_abstain": 313,
+          "approval_pct": 99.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "日野貞実武信幸山崎武志杉山雅彦",
+          "votes_for": 3.337643335673339e+23,
+          "votes_against": 1805200316691712,
+          "votes_abstain": 313313313313,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "段谷繁樹",
+          "votes_for": 333969,
+          "votes_against": 1603,
+          "votes_abstain": 313,
+          "approval_pct": 99.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役に対する譲渡制限付株式の割当てのための報酬決定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 333398,
+          "votes_against": 2174,
+          "votes_abstain": 313,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 55046,
+          "votes_against": 280517,
+          "votes_abstain": 316,
+          "approval_pct": 16.39,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TNI5",
@@ -60,5 +129,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:17:06.447Z"
+  "updated_at": "2026-07-02T21:29:09.342Z"
 }

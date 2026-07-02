@@ -3,6 +3,39 @@
   "company_name": "三菱倉庫",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9X1",
+      "submit_date_time": "2025-07-01 09:23",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9X1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 3090289,
+          "votes_against": 819,
+          "votes_abstain": 0,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 3090521,
+          "votes_against": 587,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYJG",
@@ -36,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:20:51.444Z"
+  "updated_at": "2026-07-02T21:13:19.651Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "小田急電鉄",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WAC3",
+      "submit_date_time": "2025-07-01 15:29",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAC3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2550385,
+          "votes_against": 5866,
+          "votes_abstain": 0,
+          "approval_pct": 99.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "星野晃司",
+          "votes_for": 2474809,
+          "votes_against": 86569,
+          "votes_abstain": 0,
+          "approval_pct": 96.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木滋",
+          "votes_for": 2423683,
+          "votes_against": 130087,
+          "votes_abstain": 7610,
+          "approval_pct": 94.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "立山昭憲",
+          "votes_for": 2519834,
+          "votes_against": 41551,
+          "votes_abstain": 0,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "沓澤孝一",
+          "votes_for": 2519657,
+          "votes_against": 41728,
+          "votes_abstain": 0,
+          "approval_pct": 98.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水吉英雄",
+          "votes_for": 2519838,
+          "votes_against": 41547,
+          "votes_abstain": 0,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "露木香織",
+          "votes_for": 2519906,
+          "votes_against": 41479,
+          "votes_abstain": 0,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大原透",
+          "votes_for": 2543116,
+          "votes_against": 18271,
+          "votes_abstain": 0,
+          "approval_pct": 99.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "糸長丈秀",
+          "votes_for": 2512290,
+          "votes_against": 49092,
+          "votes_abstain": 0,
+          "approval_pct": 97.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "近藤史朗",
+          "votes_for": 2541833,
+          "votes_against": 19554,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYTT",
@@ -228,5 +357,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:17:12.155Z"
+  "updated_at": "2026-07-02T21:07:53.257Z"
 }

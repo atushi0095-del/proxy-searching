@@ -1,0 +1,88 @@
+{
+  "company_code": "6335",
+  "company_name": "東京機械製作所",
+  "meetings": [
+    {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W7EP",
+      "submit_date_time": "2025-06-26 15:23",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7EP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 52321,
+          "votes_against": 583,
+          "votes_abstain": 0,
+          "approval_pct": 98.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "都並清史中野実米本裕至竹田いさか",
+          "votes_for": 52270523285234050000,
+          "votes_against": 634576564466,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "神崎幸雄戸山幹夫大山敬三",
+          "votes_for": 523495228852320,
+          "votes_against": 554615583,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "竹田いさか",
+          "votes_for": 52423,
+          "votes_against": 481,
+          "votes_abstain": 0,
+          "approval_pct": 99.09,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役（監査等委員である取締役を除く。）の報酬等の額決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 52135,
+          "votes_against": 769,
+          "votes_abstain": 0,
+          "approval_pct": 98.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案監査等委員である取締役の報酬等の額決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 52133,
+          "votes_against": 771,
+          "votes_abstain": 0,
+          "approval_pct": 98.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T21:47:50.543Z"
+}

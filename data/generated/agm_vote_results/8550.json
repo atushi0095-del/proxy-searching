@@ -3,6 +3,159 @@
   "company_name": "栃木銀行",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100WAII",
+      "submit_date_time": "2025-07-02 09:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WAII",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 801514,
+          "votes_against": 32557,
+          "votes_abstain": 0,
+          "approval_pct": 96.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 800326,
+          "votes_against": 33743,
+          "votes_abstain": 0,
+          "approval_pct": 95.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "仲田裕之",
+          "votes_for": 637419,
+          "votes_against": 196649,
+          "votes_abstain": 0,
+          "approval_pct": 76.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "富川善守",
+          "votes_for": 742521,
+          "votes_against": 91549,
+          "votes_abstain": 0,
+          "approval_pct": 89.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荻原孝志",
+          "votes_for": 742785,
+          "votes_against": 91285,
+          "votes_abstain": 0,
+          "approval_pct": 89.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大橋重信",
+          "votes_for": 795605,
+          "votes_against": 38465,
+          "votes_abstain": 0,
+          "approval_pct": 95.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "須藤幸昌",
+          "votes_for": 795866,
+          "votes_against": 38204,
+          "votes_abstain": 0,
+          "approval_pct": 95.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "亀岡晶子",
+          "votes_for": 743613,
+          "votes_against": 90457,
+          "votes_abstain": 0,
+          "approval_pct": 89.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大谷恭久",
+          "votes_for": 766213,
+          "votes_against": 67858,
+          "votes_abstain": 0,
+          "approval_pct": 91.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荒川政利",
+          "votes_for": 758248,
+          "votes_against": 75823,
+          "votes_abstain": 0,
+          "approval_pct": 90.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉澤一子",
+          "votes_for": 793704,
+          "votes_against": 40367,
+          "votes_abstain": 0,
+          "approval_pct": 95.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹澤秀樹",
+          "votes_for": 798099,
+          "votes_against": 35972,
+          "votes_abstain": 0,
+          "approval_pct": 95.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TZL7",
@@ -84,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:10:10.965Z"
+  "updated_at": "2026-07-02T21:06:05.567Z"
 }

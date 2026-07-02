@@ -3,6 +3,123 @@
   "company_name": "マンダム",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W6RM",
+      "submit_date_time": "2025-06-27 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W6RM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 324586,
+          "votes_against": 1566,
+          "votes_abstain": null,
+          "approval_pct": 98.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西村元延",
+          "votes_for": 235226,
+          "votes_against": 90926,
+          "votes_abstain": null,
+          "approval_pct": 71.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西村健",
+          "votes_for": 235443,
+          "votes_against": 90709,
+          "votes_abstain": null,
+          "approval_pct": 71.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小芝信一郎",
+          "votes_for": 305684,
+          "votes_against": 20468,
+          "votes_abstain": null,
+          "approval_pct": 92.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺浩一",
+          "votes_for": 321888,
+          "votes_against": 4264,
+          "votes_abstain": null,
+          "approval_pct": 97.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷井等",
+          "votes_for": 311726,
+          "votes_against": 14426,
+          "votes_abstain": null,
+          "approval_pct": 94.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤麻美",
+          "votes_for": 321988,
+          "votes_against": 4164,
+          "votes_abstain": null,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田哲郎",
+          "votes_for": 322394,
+          "votes_against": 3758,
+          "votes_abstain": null,
+          "approval_pct": 98.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森幹晴",
+          "votes_for": 315655,
+          "votes_against": 10496,
+          "votes_abstain": null,
+          "approval_pct": 95.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TSCI",
@@ -144,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:04:21.592Z"
+  "updated_at": "2026-07-02T21:44:42.933Z"
 }

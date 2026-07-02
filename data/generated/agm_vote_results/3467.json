@@ -3,6 +3,39 @@
   "company_name": "アグレ都市デザイン",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W8FX",
+      "submit_date_time": "2025-06-27 12:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8FX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 42692,
+          "votes_against": 115,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大林竜一柿原宏之原由香",
+          "votes_for": 426654266942346,
+          "votes_against": 159156175,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TY2U",
@@ -48,5 +81,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:27:41.837Z"
+  "updated_at": "2026-07-02T21:38:45.065Z"
 }

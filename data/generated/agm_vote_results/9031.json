@@ -3,6 +3,123 @@
   "company_name": "西日本鉄道",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9FE",
+      "submit_date_time": "2025-06-30 13:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9FE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 518221,
+          "votes_against": 19239,
+          "votes_abstain": 322,
+          "approval_pct": 96.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "倉富純男",
+          "votes_for": 507850,
+          "votes_against": 29635,
+          "votes_abstain": 322,
+          "approval_pct": 94.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林田浩一",
+          "votes_for": 508859,
+          "votes_against": 28626,
+          "votes_abstain": 322,
+          "approval_pct": 94.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本義人",
+          "votes_for": 527996,
+          "votes_against": 9489,
+          "votes_abstain": 322,
+          "approval_pct": 98.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大格淳",
+          "votes_for": 527908,
+          "votes_against": 9577,
+          "votes_abstain": 322,
+          "approval_pct": 98.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松藤悟",
+          "votes_for": 517735,
+          "votes_against": 19750,
+          "votes_abstain": 322,
+          "approval_pct": 96.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "津野喜久代",
+          "votes_for": 527968,
+          "votes_against": 9516,
+          "votes_abstain": 322,
+          "approval_pct": 98.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松尾美枝",
+          "votes_for": 530830,
+          "votes_against": 6656,
+          "votes_abstain": 322,
+          "approval_pct": 98.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永田理",
+          "votes_for": 531242,
+          "votes_against": 6244,
+          "votes_abstain": 322,
+          "approval_pct": 98.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYBE",
@@ -156,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:25:13.065Z"
+  "updated_at": "2026-07-02T21:22:06.698Z"
 }

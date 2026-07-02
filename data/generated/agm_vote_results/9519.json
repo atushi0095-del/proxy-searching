@@ -3,6 +3,135 @@
   "company_name": "レノバ",
   "meetings": [
     {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100W0YG",
+      "submit_date_time": "2025-06-20 10:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0YG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川名浩一",
+          "votes_for": 673937,
+          "votes_against": 34424,
+          "votes_abstain": 30,
+          "approval_pct": 94.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木南陽介",
+          "votes_for": 618679,
+          "votes_against": 89630,
+          "votes_abstain": 82,
+          "approval_pct": 87.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山口和志",
+          "votes_for": 622703,
+          "votes_against": 85659,
+          "votes_abstain": 30,
+          "approval_pct": 87.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "島田直樹",
+          "votes_for": 688419,
+          "votes_against": 19943,
+          "votes_abstain": 30,
+          "approval_pct": 96.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山崎繭加",
+          "votes_for": 694776,
+          "votes_against": 13586,
+          "votes_abstain": 30,
+          "approval_pct": 97.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高山健",
+          "votes_for": 688332,
+          "votes_against": 20030,
+          "votes_abstain": 30,
+          "approval_pct": 96.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "RajitNanda",
+          "votes_for": 696925,
+          "votes_against": 11467,
+          "votes_abstain": 0,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "若松弘之",
+          "votes_for": 705222,
+          "votes_against": 3180,
+          "votes_abstain": 30,
+          "approval_pct": 99.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "結城大輔",
+          "votes_for": 705165,
+          "votes_against": 3237,
+          "votes_abstain": 30,
+          "approval_pct": 99.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 705237,
+          "votes_against": 3159,
+          "votes_abstain": 30,
+          "approval_pct": 99.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TPJB",
@@ -144,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:19:38.465Z"
+  "updated_at": "2026-07-02T22:17:22.464Z"
 }

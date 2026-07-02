@@ -3,6 +3,99 @@
   "company_name": "帝国電機製作所",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W82N",
+      "submit_date_time": "2025-06-27 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W82N",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 129194,
+          "votes_against": 183,
+          "votes_abstain": null,
+          "approval_pct": 95.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 128131,
+          "votes_against": 1246,
+          "votes_abstain": null,
+          "approval_pct": 94.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村田潔",
+          "votes_for": 128839,
+          "votes_against": 538,
+          "votes_abstain": null,
+          "approval_pct": 95.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤哲造",
+          "votes_for": 128930,
+          "votes_against": 447,
+          "votes_abstain": null,
+          "approval_pct": 95.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部孝司",
+          "votes_for": 128915,
+          "votes_against": 462,
+          "votes_abstain": null,
+          "approval_pct": 95.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡真利千恵",
+          "votes_for": 128705,
+          "votes_against": 672,
+          "votes_abstain": null,
+          "approval_pct": 95.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 128997,
+          "votes_against": 380,
+          "votes_abstain": null,
+          "approval_pct": 95.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TVP0",
@@ -120,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:54:44.029Z"
+  "updated_at": "2026-07-02T21:44:40.464Z"
 }

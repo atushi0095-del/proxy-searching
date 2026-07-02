@@ -3,6 +3,159 @@
   "company_name": "ふくおかフィナンシャルグループ",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9SW",
+      "submit_date_time": "2025-06-30 15:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9SW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1570076,
+          "votes_against": 753,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柴戸隆成",
+          "votes_for": 1455541,
+          "votes_against": 107324,
+          "votes_abstain": 7956,
+          "approval_pct": 91.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "五島久",
+          "votes_for": 1483161,
+          "votes_against": 79707,
+          "votes_abstain": 7956,
+          "approval_pct": 93.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三好啓司",
+          "votes_for": 1494600,
+          "votes_against": 76226,
+          "votes_abstain": 0,
+          "approval_pct": 94.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "成瀬岳人",
+          "votes_for": 1498453,
+          "votes_against": 72372,
+          "votes_abstain": 0,
+          "approval_pct": 94.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋爪政博",
+          "votes_for": 1498503,
+          "votes_against": 72322,
+          "votes_abstain": 0,
+          "approval_pct": 94.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂本俊宏",
+          "votes_for": 1501720,
+          "votes_against": 69106,
+          "votes_abstain": 0,
+          "approval_pct": 94.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山川信彦",
+          "votes_for": 1501744,
+          "votes_against": 69082,
+          "votes_abstain": 0,
+          "approval_pct": 94.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "深沢政彦",
+          "votes_for": 1547886,
+          "votes_against": 22940,
+          "votes_abstain": 0,
+          "approval_pct": 97.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "花岡久美",
+          "votes_for": 1557973,
+          "votes_against": 12856,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福永隆一",
+          "votes_for": 1544157,
+          "votes_against": 26671,
+          "votes_abstain": 0,
+          "approval_pct": 97.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "波止佳子",
+          "votes_for": 1568831,
+          "votes_against": 2002,
+          "votes_abstain": 0,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYKO",
@@ -180,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:20:58.775Z"
+  "updated_at": "2026-07-02T21:18:22.803Z"
 }

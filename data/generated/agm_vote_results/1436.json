@@ -3,6 +3,51 @@
   "company_name": "グリーンエナジー＆カンパニー",
   "meetings": [
     {
+      "meeting_date": "2025-07-24",
+      "meeting_year": 2025,
+      "doc_id": "S100WEK2",
+      "submit_date_time": "2025-07-24 16:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WEK2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 34183,
+          "votes_against": 133,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 34177,
+          "votes_against": 139,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴江崇文山中哲男",
+          "votes_for": 3414534125,
+          "votes_against": 171191,
+          "votes_abstain": 0,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-07-25",
       "meeting_year": 2024,
       "doc_id": "S100U45Q",
@@ -72,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:01:35.718Z"
+  "updated_at": "2026-07-02T20:54:12.597Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "きもと",
   "meetings": [
     {
+      "meeting_date": "2025-05-30",
+      "meeting_year": 2025,
+      "doc_id": "S100VV2K",
+      "submit_date_time": "2025-06-02 10:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VV2K",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 264501,
+          "votes_against": 26013,
+          "votes_abstain": 0,
+          "approval_pct": 91.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小林正一",
+          "votes_for": 255969,
+          "votes_against": 34539,
+          "votes_abstain": 0,
+          "approval_pct": 88.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "引場孝",
+          "votes_for": 263247,
+          "votes_against": 27261,
+          "votes_abstain": 0,
+          "approval_pct": 90.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田資子",
+          "votes_for": 263261,
+          "votes_against": 27247,
+          "votes_abstain": 0,
+          "approval_pct": 90.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木本和伸",
+          "votes_for": 255435,
+          "votes_against": 35073,
+          "votes_abstain": 0,
+          "approval_pct": 87.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "きしゃおとん紀暁東",
+          "votes_for": 263091,
+          "votes_against": 27417,
+          "votes_abstain": 0,
+          "approval_pct": 90.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "首藤宣幸",
+          "votes_for": 263252,
+          "votes_against": 27256,
+          "votes_abstain": 0,
+          "approval_pct": 90.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "根來恒男",
+          "votes_for": 262446,
+          "votes_against": 28062,
+          "votes_abstain": 0,
+          "approval_pct": 90.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小野寺洋子",
+          "votes_for": 263135,
+          "votes_against": 27373,
+          "votes_abstain": 0,
+          "approval_pct": 90.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案役員賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 261649,
+          "votes_against": 28870,
+          "votes_abstain": 0,
+          "approval_pct": 90.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-30",
       "meeting_year": 2024,
       "doc_id": "S100TJHS",
@@ -132,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:31:34.666Z"
+  "updated_at": "2026-07-02T22:26:51.482Z"
 }

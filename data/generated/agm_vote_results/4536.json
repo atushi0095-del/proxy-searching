@@ -3,6 +3,123 @@
   "company_name": "参天製薬",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W59X",
+      "submit_date_time": "2025-06-25 11:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W59X",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2850636,
+          "votes_against": 1183,
+          "votes_abstain": 1208,
+          "approval_pct": 99.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤毅",
+          "votes_for": 2548709,
+          "votes_against": 59313,
+          "votes_abstain": 245014,
+          "approval_pct": 89.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中島理恵",
+          "votes_for": 2568349,
+          "votes_against": 39673,
+          "votes_abstain": 245014,
+          "approval_pct": 89.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "栗原逸平",
+          "votes_for": 2565640,
+          "votes_against": 42382,
+          "votes_abstain": 245014,
+          "approval_pct": 89.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊香賀正彦",
+          "votes_for": 2592393,
+          "votes_against": 15629,
+          "votes_abstain": 245014,
+          "approval_pct": 90.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊岡稔",
+          "votes_for": 2594804,
+          "votes_against": 13218,
+          "votes_abstain": 245014,
+          "approval_pct": 90.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒田由貴子",
+          "votes_for": 2597785,
+          "votes_against": 10238,
+          "votes_abstain": 245014,
+          "approval_pct": 90.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2836322,
+          "votes_against": 6856,
+          "votes_abstain": 9849,
+          "approval_pct": 99.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2811805,
+          "votes_against": 40019,
+          "votes_abstain": 1208,
+          "approval_pct": 98.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTKO",
@@ -156,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:03:54.652Z"
+  "updated_at": "2026-07-02T22:02:11.550Z"
 }

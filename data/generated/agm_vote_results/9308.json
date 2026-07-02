@@ -3,6 +3,111 @@
   "company_name": "乾汽船",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W46I",
+      "submit_date_time": "2025-06-24 15:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W46I",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 177766,
+          "votes_against": 2157,
+          "votes_abstain": 0,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "乾康之",
+          "votes_for": 161155,
+          "votes_against": 9284,
+          "votes_abstain": 9487,
+          "approval_pct": 89.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "乾隆志",
+          "votes_for": 161227,
+          "votes_against": 9212,
+          "votes_abstain": 9487,
+          "approval_pct": 89.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神林伸光",
+          "votes_for": 167883,
+          "votes_against": 2556,
+          "votes_abstain": 9487,
+          "approval_pct": 93.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村上章二",
+          "votes_for": 168017,
+          "votes_against": 2422,
+          "votes_abstain": 9487,
+          "approval_pct": 93.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩田研一",
+          "votes_for": 167996,
+          "votes_against": 2443,
+          "votes_abstain": 9487,
+          "approval_pct": 93.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "幸村潮菜",
+          "votes_for": 167974,
+          "votes_against": 2465,
+          "votes_abstain": 9487,
+          "approval_pct": 93.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田由子",
+          "votes_for": 177737,
+          "votes_against": 2190,
+          "votes_abstain": 0,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TRSI",
@@ -84,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:07:01.075Z"
+  "updated_at": "2026-07-02T22:06:00.385Z"
 }

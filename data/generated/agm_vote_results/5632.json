@@ -3,6 +3,111 @@
   "company_name": "三菱製鋼",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W4GU",
+      "submit_date_time": "2025-06-24 16:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W4GU",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 95992,
+          "votes_against": 512,
+          "votes_abstain": 0,
+          "approval_pct": 98.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤基行",
+          "votes_for": 87637,
+          "votes_against": 8867,
+          "votes_abstain": 0,
+          "approval_pct": 89.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山口淳",
+          "votes_for": 87996,
+          "votes_against": 8508,
+          "votes_abstain": 0,
+          "approval_pct": 89.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "青池慶介",
+          "votes_for": 95171,
+          "votes_against": 1333,
+          "votes_abstain": 0,
+          "approval_pct": 97.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山尾明",
+          "votes_for": 95774,
+          "votes_against": 730,
+          "votes_abstain": 0,
+          "approval_pct": 97.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "竹内美奈子",
+          "votes_for": 92208,
+          "votes_against": 4296,
+          "votes_abstain": 0,
+          "approval_pct": 94.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "萩田敦司",
+          "votes_for": 91938,
+          "votes_against": 4566,
+          "votes_abstain": 0,
+          "approval_pct": 93.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "三尾良孝",
+          "votes_for": 88602,
+          "votes_against": 7902,
+          "votes_abstain": 0,
+          "approval_pct": 90.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TRUI",
@@ -108,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:08:27.060Z"
+  "updated_at": "2026-07-02T22:04:21.828Z"
 }

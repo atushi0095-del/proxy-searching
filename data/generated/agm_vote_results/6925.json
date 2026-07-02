@@ -3,6 +3,123 @@
   "company_name": "ウシオ電機",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9P6",
+      "submit_date_time": "2025-06-30 14:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9P6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 775427,
+          "votes_against": 273,
+          "votes_abstain": 0,
+          "approval_pct": 99.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 775452,
+          "votes_against": 252,
+          "votes_abstain": 0,
+          "approval_pct": 99.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "朝日崇文",
+          "votes_for": 727682,
+          "votes_against": 48013,
+          "votes_abstain": 0,
+          "approval_pct": 93.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中野哲男",
+          "votes_for": 772552,
+          "votes_against": 3151,
+          "votes_abstain": 0,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神山和久",
+          "votes_for": 751388,
+          "votes_against": 24315,
+          "votes_abstain": 0,
+          "approval_pct": 96.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐々木豊成",
+          "votes_for": 751965,
+          "votes_against": 23739,
+          "votes_abstain": 0,
+          "approval_pct": 96.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松﨑正年",
+          "votes_for": 751565,
+          "votes_against": 24139,
+          "votes_abstain": 0,
+          "approval_pct": 96.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "間下直晃",
+          "votes_for": 748771,
+          "votes_against": 26928,
+          "votes_abstain": 0,
+          "approval_pct": 96.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "増山美佳",
+          "votes_for": 773156,
+          "votes_against": 2548,
+          "votes_abstain": 0,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXQI",
@@ -168,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:28:46.764Z"
+  "updated_at": "2026-07-02T21:19:17.352Z"
 }

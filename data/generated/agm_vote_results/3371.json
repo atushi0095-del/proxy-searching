@@ -3,6 +3,111 @@
   "company_name": "ソフトクリエイトホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-19",
+      "meeting_year": 2025,
+      "doc_id": "S100W0FC",
+      "submit_date_time": "2025-06-19 15:29",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0FC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林勝",
+          "votes_for": 122192,
+          "votes_against": 46822,
+          "votes_abstain": null,
+          "approval_pct": 72.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林宗治",
+          "votes_for": 128948,
+          "votes_against": 40067,
+          "votes_abstain": null,
+          "approval_pct": 76.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林雅也",
+          "votes_for": 149983,
+          "votes_against": 19032,
+          "votes_abstain": null,
+          "approval_pct": 88.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中桐雅宏",
+          "votes_for": 163182,
+          "votes_against": 5833,
+          "votes_abstain": null,
+          "approval_pct": 96.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤淳",
+          "votes_for": 163156,
+          "votes_against": 5859,
+          "votes_abstain": null,
+          "approval_pct": 96.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安田洋史",
+          "votes_for": 163030,
+          "votes_against": 5985,
+          "votes_abstain": null,
+          "approval_pct": 96.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橘大樹",
+          "votes_for": 163075,
+          "votes_against": 5940,
+          "votes_abstain": null,
+          "approval_pct": 96.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鑓田憲男",
+          "votes_for": 140153,
+          "votes_against": 24124,
+          "votes_abstain": null,
+          "approval_pct": 82.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TNUY",
@@ -120,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:25:17.886Z"
+  "updated_at": "2026-07-02T22:18:21.596Z"
 }

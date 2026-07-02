@@ -3,6 +3,51 @@
   "company_name": "神東塗料",
   "meetings": [
     {
+      "meeting_date": "2025-06-30",
+      "meeting_year": 2025,
+      "doc_id": "S100WA4G",
+      "submit_date_time": "2025-07-01 10:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA4G",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案小坂伊知郎上鶴茂喜遠藤聡永野達彦樫尾昭彦矢倉昌子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2.3683423924623863e+35,
+          "votes_against": 2.2921205092111522e+29,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案三浦史朗",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 243214,
+          "votes_against": 16521,
+          "votes_abstain": 0,
+          "approval_pct": 93.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案前野高久",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 243223,
+          "votes_against": 16532,
+          "votes_abstain": 0,
+          "approval_pct": 93.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TYML",
@@ -72,5 +117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:21:20.362Z"
+  "updated_at": "2026-07-02T21:11:43.306Z"
 }

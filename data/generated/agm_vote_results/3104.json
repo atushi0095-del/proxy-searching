@@ -3,6 +3,135 @@
   "company_name": "富士紡ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W8ZF",
+      "submit_date_time": "2025-07-01 13:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W8ZF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 92924,
+          "votes_against": 239,
+          "votes_abstain": 117,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上雅偉",
+          "votes_for": 78572,
+          "votes_against": 14593,
+          "votes_abstain": 117,
+          "approval_pct": 84.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平野治",
+          "votes_for": 78570,
+          "votes_against": 14595,
+          "votes_abstain": 117,
+          "approval_pct": 84.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐々木辰也",
+          "votes_for": 78566,
+          "votes_against": 14599,
+          "votes_abstain": 117,
+          "approval_pct": 84.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "望月吉見",
+          "votes_for": 78564,
+          "votes_against": 14601,
+          "votes_abstain": 117,
+          "approval_pct": 84.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "戸坂浩二",
+          "votes_for": 78561,
+          "votes_against": 14604,
+          "votes_abstain": 117,
+          "approval_pct": 84.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ルース・マリー・ジャーマン",
+          "votes_for": 78564,
+          "votes_against": 14601,
+          "votes_abstain": 117,
+          "approval_pct": 84.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林久志",
+          "votes_for": 78542,
+          "votes_against": 14623,
+          "votes_abstain": 117,
+          "approval_pct": 84.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤梨江子",
+          "votes_for": 78559,
+          "votes_against": 14606,
+          "votes_abstain": 117,
+          "approval_pct": 84.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "壷田貴弘",
+          "votes_for": 78563,
+          "votes_against": 14602,
+          "votes_abstain": 117,
+          "approval_pct": 84.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYDZ",
@@ -132,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:22:38.029Z"
+  "updated_at": "2026-07-02T21:10:18.291Z"
 }

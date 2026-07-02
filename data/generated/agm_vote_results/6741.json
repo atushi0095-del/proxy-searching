@@ -3,6 +3,135 @@
   "company_name": "日本信号",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W03Z",
+      "submit_date_time": "2025-06-20 16:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W03Z",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 508326,
+          "votes_against": 1098,
+          "votes_abstain": 144,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塚本英彦",
+          "votes_for": 414928,
+          "votes_against": 94493,
+          "votes_abstain": 144,
+          "approval_pct": 80.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤隆一",
+          "votes_for": 508378,
+          "votes_against": 1043,
+          "votes_abstain": 144,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀江徹",
+          "votes_for": 508207,
+          "votes_against": 1214,
+          "votes_abstain": 144,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上由里子",
+          "votes_for": 508174,
+          "votes_against": 1247,
+          "votes_abstain": 144,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村田誉之",
+          "votes_for": 507972,
+          "votes_against": 1449,
+          "votes_abstain": 144,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "徳渕良孝",
+          "votes_for": 497565,
+          "votes_against": 11843,
+          "votes_abstain": 144,
+          "approval_pct": 97.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "徳永崇",
+          "votes_for": 508197,
+          "votes_against": 1211,
+          "votes_abstain": 144,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木雅子",
+          "votes_for": 508190,
+          "votes_against": 1218,
+          "votes_abstain": 144,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "相澤利彦",
+          "votes_for": 508228,
+          "votes_against": 1180,
+          "votes_abstain": 144,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQH4",
@@ -120,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:15:57.428Z"
+  "updated_at": "2026-07-02T22:14:30.884Z"
 }

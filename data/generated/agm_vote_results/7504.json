@@ -3,6 +3,123 @@
   "company_name": "高速",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W4FD",
+      "submit_date_time": "2025-06-25 15:26",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W4FD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赫高規",
+          "votes_for": 159850,
+          "votes_against": 7904,
+          "votes_abstain": null,
+          "approval_pct": 95.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赫裕規",
+          "votes_for": 159878,
+          "votes_against": 7876,
+          "votes_abstain": null,
+          "approval_pct": 95.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "我妻英樹",
+          "votes_for": 167577,
+          "votes_against": 177,
+          "votes_abstain": null,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小原純一",
+          "votes_for": 167575,
+          "votes_against": 179,
+          "votes_abstain": null,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林弘美",
+          "votes_for": 167571,
+          "votes_against": 183,
+          "votes_abstain": null,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩澤みゆき",
+          "votes_for": 167573,
+          "votes_against": 181,
+          "votes_abstain": null,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三田村崇",
+          "votes_for": 167570,
+          "votes_against": 184,
+          "votes_abstain": null,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "沼倉雅枝",
+          "votes_for": 143943,
+          "votes_against": 23811,
+          "votes_abstain": null,
+          "approval_pct": 85.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 167196,
+          "votes_against": 558,
+          "votes_abstain": null,
+          "approval_pct": 99.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TN8I",
@@ -156,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:23:13.917Z"
+  "updated_at": "2026-07-02T21:58:48.210Z"
 }

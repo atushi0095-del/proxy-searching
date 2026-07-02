@@ -3,6 +3,123 @@
   "company_name": "ダイヤモンドエレクトリックホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100W9O9",
+      "submit_date_time": "2025-06-30 14:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9O9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案資本準備金の額の減少及び剰余金の処分の件件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 47452,
+          "votes_against": 833,
+          "votes_abstain": 0,
+          "approval_pct": 98.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 47625,
+          "votes_against": 660,
+          "votes_abstain": 0,
+          "approval_pct": 98.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小野有理",
+          "votes_for": 38588,
+          "votes_against": 9697,
+          "votes_abstain": 0,
+          "approval_pct": 79.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田夛佳志",
+          "votes_for": 44744,
+          "votes_against": 3541,
+          "votes_abstain": 0,
+          "approval_pct": 92.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡本岳",
+          "votes_for": 44776,
+          "votes_against": 3509,
+          "votes_abstain": 0,
+          "approval_pct": 92.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小谷カオル",
+          "votes_for": 47356,
+          "votes_against": 929,
+          "votes_abstain": 0,
+          "approval_pct": 98.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "奥下英己",
+          "votes_for": 47292,
+          "votes_against": 993,
+          "votes_abstain": 0,
+          "approval_pct": 97.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "入江正孝",
+          "votes_for": 46518,
+          "votes_against": 1767,
+          "votes_abstain": 0,
+          "approval_pct": 96.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案会計監査人の選任の件",
+          "proposal_category": "会計監査人選任",
+          "candidate_name": null,
+          "votes_for": 47451,
+          "votes_against": 834,
+          "votes_abstain": 0,
+          "approval_pct": 98.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXRK",
@@ -84,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:29:39.126Z"
+  "updated_at": "2026-07-02T21:19:14.884Z"
 }

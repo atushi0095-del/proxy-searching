@@ -3,6 +3,111 @@
   "company_name": "ＭＩＸＩ",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W38A",
+      "submit_date_time": "2025-06-27 11:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W38A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木村弘毅",
+          "votes_for": 539133,
+          "votes_against": 43064,
+          "votes_abstain": 143,
+          "approval_pct": 92.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "島村恒平",
+          "votes_for": 567817,
+          "votes_against": 14383,
+          "votes_abstain": 143,
+          "approval_pct": 97.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "村瀬龍馬",
+          "votes_for": 568428,
+          "votes_against": 13772,
+          "votes_abstain": 143,
+          "approval_pct": 97.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "笠原健治",
+          "votes_for": 568468,
+          "votes_against": 13732,
+          "votes_abstain": 143,
+          "approval_pct": 97.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤田明久",
+          "votes_for": 578101,
+          "votes_against": 4101,
+          "votes_abstain": 143,
+          "approval_pct": 99.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渡瀬ひろみ",
+          "votes_for": 569172,
+          "votes_against": 13030,
+          "votes_abstain": 143,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "河合俊明",
+          "votes_for": 576517,
+          "votes_against": 5684,
+          "votes_abstain": 143,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "神原あゆみ",
+          "votes_for": 581749,
+          "votes_against": 551,
+          "votes_abstain": 138,
+          "approval_pct": 99.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TVU6",
@@ -132,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:53:08.492Z"
+  "updated_at": "2026-07-02T21:40:26.606Z"
 }

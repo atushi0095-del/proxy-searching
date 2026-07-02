@@ -3,6 +3,87 @@
   "company_name": "サンウェルズ",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W73M",
+      "submit_date_time": "2025-06-26 15:56",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W73M",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "苗代亮達",
+          "votes_for": 192222,
+          "votes_against": 15957,
+          "votes_abstain": 0,
+          "approval_pct": 92.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上野英一",
+          "votes_for": 201080,
+          "votes_against": 7099,
+          "votes_abstain": 0,
+          "approval_pct": 96.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本英一",
+          "votes_for": 196217,
+          "votes_against": 11952,
+          "votes_abstain": 0,
+          "approval_pct": 94.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "畠善昭",
+          "votes_for": 204553,
+          "votes_against": 3616,
+          "votes_abstain": 0,
+          "approval_pct": 98.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中西祐一",
+          "votes_for": 204648,
+          "votes_against": 3521,
+          "votes_abstain": 0,
+          "approval_pct": 98.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中島恵子",
+          "votes_for": 204774,
+          "votes_against": 3395,
+          "votes_abstain": 0,
+          "approval_pct": 98.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXDJ",
@@ -72,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:41:57.975Z"
+  "updated_at": "2026-07-02T21:46:42.197Z"
 }

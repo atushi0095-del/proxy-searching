@@ -1,0 +1,52 @@
+{
+  "company_code": "3328",
+  "company_name": "ＢＥＥＮＯＳ",
+  "meetings": [
+    {
+      "meeting_date": "2025-07-28",
+      "meeting_year": 2025,
+      "doc_id": "S100WF1P",
+      "submit_date_time": "2025-07-28 14:56",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WF1P",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案株式併合の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 124901,
+          "votes_against": 11,
+          "votes_abstain": null,
+          "approval_pct": 99.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 124901,
+          "votes_against": 11,
+          "votes_abstain": null,
+          "approval_pct": 99.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案資本金の額の減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 124901,
+          "votes_against": 11,
+          "votes_abstain": null,
+          "approval_pct": 99.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T20:52:56.081Z"
+}

@@ -3,6 +3,135 @@
   "company_name": "倉敷紡績",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W9UE",
+      "submit_date_time": "2025-07-01 10:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9UE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 139887,
+          "votes_against": 1923,
+          "votes_abstain": 36,
+          "approval_pct": 98.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤田晴哉",
+          "votes_for": 105652,
+          "votes_against": 36158,
+          "votes_abstain": 36,
+          "approval_pct": 74.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西垣伸二",
+          "votes_for": 107330,
+          "votes_against": 34481,
+          "votes_abstain": 36,
+          "approval_pct": 75.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "馬場紀生",
+          "votes_for": 135809,
+          "votes_against": 6002,
+          "votes_abstain": 36,
+          "approval_pct": 95.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川野憲志",
+          "votes_for": 135800,
+          "votes_against": 6011,
+          "votes_abstain": 36,
+          "approval_pct": 95.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川眞豪",
+          "votes_for": 135834,
+          "votes_against": 5977,
+          "votes_abstain": 36,
+          "approval_pct": 95.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤井裕詞",
+          "votes_for": 134606,
+          "votes_against": 7205,
+          "votes_abstain": 36,
+          "approval_pct": 94.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松井一雄",
+          "votes_for": 135905,
+          "votes_against": 5906,
+          "votes_abstain": 36,
+          "approval_pct": 95.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷澤実佐子",
+          "votes_for": 135914,
+          "votes_against": 5896,
+          "votes_abstain": 36,
+          "approval_pct": 95.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 89320,
+          "votes_against": 52491,
+          "votes_abstain": 36,
+          "approval_pct": 62.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TY14",
@@ -156,5 +285,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:22:13.649Z"
+  "updated_at": "2026-07-02T21:12:35.508Z"
 }

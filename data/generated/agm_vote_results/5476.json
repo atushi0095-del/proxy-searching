@@ -3,6 +3,123 @@
   "company_name": "日本高周波鋼業",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W554",
+      "submit_date_time": "2025-06-25 10:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W554",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 94315,
+          "votes_against": 6997,
+          "votes_abstain": 0,
+          "approval_pct": 91.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小椋大輔",
+          "votes_for": 95275,
+          "votes_against": 2810,
+          "votes_abstain": 0,
+          "approval_pct": 92.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下野茂治",
+          "votes_for": 95306,
+          "votes_against": 2779,
+          "votes_abstain": 0,
+          "approval_pct": 92.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野寺謙司",
+          "votes_for": 95315,
+          "votes_against": 2770,
+          "votes_abstain": 0,
+          "approval_pct": 92.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小谷清久",
+          "votes_for": 95291,
+          "votes_against": 2794,
+          "votes_abstain": 0,
+          "approval_pct": 92.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "生治理仁",
+          "votes_for": 95279,
+          "votes_against": 2806,
+          "votes_abstain": 0,
+          "approval_pct": 92.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮島哲也",
+          "votes_for": 95407,
+          "votes_against": 2678,
+          "votes_abstain": 0,
+          "approval_pct": 92.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長野寛之",
+          "votes_for": 95385,
+          "votes_against": 2700,
+          "votes_abstain": 0,
+          "approval_pct": 92.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "春山直輝",
+          "votes_for": 95599,
+          "votes_against": 2485,
+          "votes_abstain": 0,
+          "approval_pct": 92.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQGZ",
@@ -144,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:14:20.018Z"
+  "updated_at": "2026-07-02T22:02:50.552Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "福山通運",
   "meetings": [
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W51L",
+      "submit_date_time": "2025-06-25 09:23",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W51L",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小丸成洋",
+          "votes_for": 330106,
+          "votes_against": 44357,
+          "votes_abstain": 0,
+          "approval_pct": 88.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "熊野弘幸",
+          "votes_for": 333481,
+          "votes_against": 40983,
+          "votes_abstain": 0,
+          "approval_pct": 89.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前田美穂",
+          "votes_for": 366021,
+          "votes_against": 8447,
+          "votes_abstain": 0,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野中智子",
+          "votes_for": 366052,
+          "votes_against": 8416,
+          "votes_abstain": 0,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "冨村和光",
+          "votes_for": 366028,
+          "votes_against": 8440,
+          "votes_abstain": 0,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "重枝豊英",
+          "votes_for": 366031,
+          "votes_against": 8437,
+          "votes_abstain": 0,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大本卓志",
+          "votes_for": 366031,
+          "votes_against": 8437,
+          "votes_abstain": 0,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青木光男",
+          "votes_for": 373666,
+          "votes_against": 802,
+          "votes_abstain": 0,
+          "approval_pct": 99.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森下裕子",
+          "votes_for": 374020,
+          "votes_against": 448,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮澤扶水子",
+          "votes_for": 373397,
+          "votes_against": 1071,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQK4",
@@ -120,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:15:47.701Z"
+  "updated_at": "2026-07-02T22:03:41.202Z"
 }

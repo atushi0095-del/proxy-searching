@@ -3,6 +3,99 @@
   "company_name": "北川鉄工所",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W1ZL",
+      "submit_date_time": "2025-06-23 10:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1ZL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 61300,
+          "votes_against": 1897,
+          "votes_abstain": 0,
+          "approval_pct": 97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北川祐治",
+          "votes_for": 46011,
+          "votes_against": 17187,
+          "votes_abstain": 0,
+          "approval_pct": 72.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北川宏",
+          "votes_for": 52781,
+          "votes_against": 10417,
+          "votes_abstain": 0,
+          "approval_pct": 83.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡野帝男",
+          "votes_for": 56288,
+          "votes_against": 6910,
+          "votes_abstain": 0,
+          "approval_pct": 89.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西川三佐子",
+          "votes_for": 59502,
+          "votes_against": 3696,
+          "votes_abstain": 0,
+          "approval_pct": 94.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉口安弘",
+          "votes_for": 62670,
+          "votes_against": 528,
+          "votes_abstain": 0,
+          "approval_pct": 99.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 62711,
+          "votes_against": 488,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TQSB",
@@ -120,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:14:05.571Z"
+  "updated_at": "2026-07-02T22:13:39.272Z"
 }

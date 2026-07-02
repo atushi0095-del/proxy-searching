@@ -3,6 +3,123 @@
   "company_name": "三菱ロジスネクスト",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W84Q",
+      "submit_date_time": "2025-06-27 13:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W84Q",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 967542,
+          "votes_against": 409,
+          "votes_abstain": 207,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "間野裕一",
+          "votes_for": 897013,
+          "votes_against": 70933,
+          "votes_abstain": 212,
+          "approval_pct": 92.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宇野隆俊",
+          "votes_for": 956640,
+          "votes_against": 11310,
+          "votes_abstain": 207,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉浦広之",
+          "votes_for": 961984,
+          "votes_against": 5966,
+          "votes_abstain": 207,
+          "approval_pct": 99.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "末松正之",
+          "votes_for": 956563,
+          "votes_against": 11387,
+          "votes_abstain": 207,
+          "approval_pct": 98.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安藤修",
+          "votes_for": 955522,
+          "votes_against": 12428,
+          "votes_abstain": 207,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林京子",
+          "votes_for": 946196,
+          "votes_against": 21755,
+          "votes_abstain": 207,
+          "approval_pct": 97.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林史男",
+          "votes_for": 955943,
+          "votes_against": 12008,
+          "votes_abstain": 207,
+          "approval_pct": 98.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩淵貴史",
+          "votes_for": 915613,
+          "votes_against": 34801,
+          "votes_abstain": 224,
+          "approval_pct": 94.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TY3X",
@@ -144,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:27:19.545Z"
+  "updated_at": "2026-07-02T21:37:16.743Z"
 }

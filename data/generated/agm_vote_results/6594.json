@@ -3,6 +3,111 @@
   "company_name": "ニデック",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2VM",
+      "submit_date_time": "2025-06-24 15:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2VM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 8969166,
+          "votes_against": 372907,
+          "votes_abstain": 3110,
+          "approval_pct": 95.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岸田光哉",
+          "votes_for": 9213660,
+          "votes_against": 128415,
+          "votes_abstain": 3110,
+          "approval_pct": 98.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小部博志",
+          "votes_for": 9259428,
+          "votes_against": 82647,
+          "votes_abstain": 3110,
+          "approval_pct": 99.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤慎一",
+          "votes_for": 9270524,
+          "votes_against": 71551,
+          "votes_abstain": 3110,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小松弥生",
+          "votes_for": 9271971,
+          "votes_against": 70103,
+          "votes_abstain": 3110,
+          "approval_pct": 99.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "酒井貴子",
+          "votes_for": 9274017,
+          "votes_against": 68057,
+          "votes_abstain": 3110,
+          "approval_pct": 99.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 9328747,
+          "votes_against": 17601,
+          "votes_abstain": 3110,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "豊島ひろ江",
+          "votes_for": 9277912,
+          "votes_against": 68436,
+          "votes_abstain": 3110,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-18",
       "meeting_year": 2024,
       "doc_id": "S100TOI7",
@@ -156,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:22:37.525Z"
+  "updated_at": "2026-07-02T22:05:15.892Z"
 }

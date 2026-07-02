@@ -3,6 +3,99 @@
   "company_name": "アイ・アールジャパンホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-17",
+      "meeting_year": 2025,
+      "doc_id": "S100VYQE",
+      "submit_date_time": "2025-06-18 13:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VYQE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 129074,
+          "votes_against": 2177,
+          "votes_abstain": 272,
+          "approval_pct": 98.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "寺下史郎",
+          "votes_for": 111232,
+          "votes_against": 19956,
+          "votes_abstain": 335,
+          "approval_pct": 84.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤原豊",
+          "votes_for": 121002,
+          "votes_against": 10249,
+          "votes_abstain": 272,
+          "approval_pct": 92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "木村晃",
+          "votes_for": 125332,
+          "votes_against": 5919,
+          "votes_abstain": 272,
+          "approval_pct": 95.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "能見公一",
+          "votes_for": 125161,
+          "votes_against": 6090,
+          "votes_abstain": 272,
+          "approval_pct": 95.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "市江正彦",
+          "votes_for": 127690,
+          "votes_against": 3561,
+          "votes_abstain": 272,
+          "approval_pct": 97.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "児玉康平",
+          "votes_for": 127940,
+          "votes_against": 3311,
+          "votes_abstain": 272,
+          "approval_pct": 97.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-18",
       "meeting_year": 2024,
       "doc_id": "S100TNT8",
@@ -48,5 +141,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:25:15.472Z"
+  "updated_at": "2026-07-02T22:20:20.516Z"
 }

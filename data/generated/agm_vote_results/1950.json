@@ -3,6 +3,99 @@
   "company_name": "日本電設工業",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W7FE",
+      "submit_date_time": "2025-06-27 13:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7FE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 551264,
+          "votes_against": 43,
+          "votes_abstain": 153,
+          "approval_pct": 99.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安田一成",
+          "votes_for": 480195,
+          "votes_against": 71209,
+          "votes_abstain": 153,
+          "approval_pct": 87.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷山雅昭",
+          "votes_for": 519155,
+          "votes_against": 32251,
+          "votes_abstain": 153,
+          "approval_pct": 94.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "外川友司",
+          "votes_for": 521971,
+          "votes_against": 29435,
+          "votes_abstain": 153,
+          "approval_pct": 94.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松井克彦",
+          "votes_for": 522055,
+          "votes_against": 29351,
+          "votes_abstain": 153,
+          "approval_pct": 94.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "倉元政道",
+          "votes_for": 509051,
+          "votes_against": 42355,
+          "votes_abstain": 153,
+          "approval_pct": 92.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤修",
+          "votes_for": 440596,
+          "votes_against": 110810,
+          "votes_abstain": 153,
+          "approval_pct": 79.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TX03",
@@ -156,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:33:58.237Z"
+  "updated_at": "2026-07-02T21:37:37.126Z"
 }

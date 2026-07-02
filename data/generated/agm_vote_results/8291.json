@@ -3,6 +3,147 @@
   "company_name": "日産東京販売ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W943",
+      "submit_date_time": "2025-06-30 09:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W943",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 433894,
+          "votes_against": 3868,
+          "votes_abstain": 4,
+          "approval_pct": 99.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "竹林彰",
+          "votes_for": 432113,
+          "votes_against": 10165,
+          "votes_abstain": 0,
+          "approval_pct": 97.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "菊池毅彦",
+          "votes_for": 399028,
+          "votes_against": 43250,
+          "votes_abstain": 0,
+          "approval_pct": 90.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "米澤領一",
+          "votes_for": 433681,
+          "votes_against": 8597,
+          "votes_abstain": 0,
+          "approval_pct": 98.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "髙濵圭裕",
+          "votes_for": 398889,
+          "votes_against": 43389,
+          "votes_abstain": 0,
+          "approval_pct": 90.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "遠藤健",
+          "votes_for": 434030,
+          "votes_against": 8248,
+          "votes_abstain": 0,
+          "approval_pct": 98.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長谷川直哉",
+          "votes_for": 434185,
+          "votes_against": 8093,
+          "votes_abstain": 0,
+          "approval_pct": 98.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小暮恵理子",
+          "votes_for": 434246,
+          "votes_against": 8032,
+          "votes_abstain": 0,
+          "approval_pct": 98.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 70397,
+          "votes_against": 371915,
+          "votes_abstain": 0,
+          "approval_pct": 15.92,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案資本コストの開示及び資本コストを踏まえた関連当事者取引の情報開示に関する定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 70864,
+          "votes_against": 371423,
+          "votes_abstain": 0,
+          "approval_pct": 16.02,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案自己株式の消却に関する定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 94988,
+          "votes_against": 347329,
+          "votes_abstain": 0,
+          "approval_pct": 21.48,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TWAP",
@@ -168,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:37:22.552Z"
+  "updated_at": "2026-07-02T21:27:28.045Z"
 }

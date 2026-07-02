@@ -3,6 +3,75 @@
   "company_name": "東京會舘",
   "meetings": [
     {
+      "meeting_date": "2025-06-30",
+      "meeting_year": 2025,
+      "doc_id": "S100W99J",
+      "submit_date_time": "2025-06-30 10:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W99J",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 26138,
+          "votes_against": 82,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田寛",
+          "votes_for": 26093,
+          "votes_against": 127,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "島谷能成",
+          "votes_for": 26047,
+          "votes_against": 173,
+          "votes_abstain": 0,
+          "approval_pct": 99.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "田中寿雄",
+          "votes_for": 26094,
+          "votes_against": 126,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "谷口明史",
+          "votes_for": 26095,
+          "votes_against": 125,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TY77",
@@ -168,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:27:36.377Z"
+  "updated_at": "2026-07-02T21:26:10.701Z"
 }

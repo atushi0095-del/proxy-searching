@@ -3,6 +3,159 @@
   "company_name": "積水樹脂",
   "meetings": [
     {
+      "meeting_date": "2025-06-25",
+      "meeting_year": 2025,
+      "doc_id": "S100W70C",
+      "submit_date_time": "2025-06-26 15:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W70C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "馬場浩志",
+          "votes_for": 259420,
+          "votes_against": 9937,
+          "votes_abstain": 0,
+          "approval_pct": 96.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "宮田年耕",
+          "votes_for": 267344,
+          "votes_against": 2013,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "高野博",
+          "votes_for": 267263,
+          "votes_against": 2094,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤聡子",
+          "votes_for": 267221,
+          "votes_against": 2136,
+          "votes_abstain": 0,
+          "approval_pct": 99.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "赤穂啓子",
+          "votes_for": 267548,
+          "votes_against": 1809,
+          "votes_abstain": 0,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "菊池友幸",
+          "votes_for": 266830,
+          "votes_against": 2527,
+          "votes_abstain": 0,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "三好永晃",
+          "votes_for": 266814,
+          "votes_against": 2543,
+          "votes_abstain": 0,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "高林周一郎",
+          "votes_for": 266830,
+          "votes_against": 2527,
+          "votes_abstain": 0,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "多田章人",
+          "votes_for": 232087,
+          "votes_against": 37270,
+          "votes_abstain": 0,
+          "approval_pct": 86.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案（株主提案）",
+          "proposal_category": "株主提案",
+          "candidate_name": null,
+          "votes_for": 77350,
+          "votes_against": 191987,
+          "votes_abstain": 20,
+          "approval_pct": 28.72,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案（株主提案）",
+          "proposal_category": "株主提案",
+          "candidate_name": null,
+          "votes_for": 54940,
+          "votes_against": 214397,
+          "votes_abstain": 20,
+          "approval_pct": 20.4,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案（株主提案）",
+          "proposal_category": "株主提案",
+          "candidate_name": null,
+          "votes_for": 73941,
+          "votes_against": 195396,
+          "votes_abstain": 20,
+          "approval_pct": 27.45,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TTMY",
@@ -180,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:01:32.990Z"
+  "updated_at": "2026-07-02T21:48:07.950Z"
 }

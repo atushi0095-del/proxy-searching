@@ -1,0 +1,100 @@
+{
+  "company_code": "4169",
+  "company_name": "ENECHANGE",
+  "meetings": [
+    {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100W4QC",
+      "submit_date_time": "2025-06-25 15:57",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W4QC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "定款一部変更の件",
+          "votes_for": 244284,
+          "votes_against": 1291,
+          "votes_abstain": null,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "丸岡智也",
+          "votes_for": 243881,
+          "votes_against": 1739,
+          "votes_abstain": null,
+          "approval_pct": 98.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "平田政善",
+          "votes_for": 243883,
+          "votes_against": 1737,
+          "votes_abstain": null,
+          "approval_pct": 98.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安達健祐",
+          "votes_for": 243858,
+          "votes_against": 1762,
+          "votes_abstain": null,
+          "approval_pct": 98.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤田研一",
+          "votes_for": 243901,
+          "votes_against": 1719,
+          "votes_abstain": null,
+          "approval_pct": 98.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "取締役の報酬額改定の件",
+          "votes_for": 241802,
+          "votes_against": 3773,
+          "votes_abstain": null,
+          "approval_pct": 97.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "資本金及び資本準備金の額の減少の件",
+          "votes_for": 243620,
+          "votes_against": 2000,
+          "votes_abstain": null,
+          "approval_pct": 98.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-02T21:57:21.301Z"
+}

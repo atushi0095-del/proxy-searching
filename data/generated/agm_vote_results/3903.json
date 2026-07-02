@@ -3,6 +3,51 @@
   "company_name": "ｇｕｍｉ",
   "meetings": [
     {
+      "meeting_date": "2025-07-30",
+      "meeting_year": 2025,
+      "doc_id": "S100WFGI",
+      "submit_date_time": "2025-07-30 15:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WFGI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川本寛之",
+          "votes_for": 318787,
+          "votes_against": 3958,
+          "votes_abstain": null,
+          "approval_pct": 98.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "本吉誠",
+          "votes_for": 319131,
+          "votes_against": 3614,
+          "votes_abstain": null,
+          "approval_pct": 98.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "新井雄一郎",
+          "votes_for": 277196,
+          "votes_against": 45730,
+          "votes_abstain": null,
+          "approval_pct": 85.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-07-26",
       "meeting_year": 2024,
       "doc_id": "S100U43Z",
@@ -96,5 +141,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:01:52.598Z"
+  "updated_at": "2026-07-02T20:50:51.932Z"
 }

@@ -3,6 +3,147 @@
   "company_name": "ハーモニック・ドライブ・システムズ",
   "meetings": [
     {
+      "meeting_date": "2025-06-20",
+      "meeting_year": 2025,
+      "doc_id": "S100W2MC",
+      "submit_date_time": "2025-06-23 15:57",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W2MC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 719124,
+          "votes_against": 289,
+          "votes_abstain": 277,
+          "approval_pct": 99.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長井啓",
+          "votes_for": 583842,
+          "votes_against": 135957,
+          "votes_abstain": 277,
+          "approval_pct": 81.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "丸山顕",
+          "votes_for": 611379,
+          "votes_against": 108420,
+          "votes_abstain": 277,
+          "approval_pct": 84.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "上條和俊",
+          "votes_for": 705966,
+          "votes_against": 13837,
+          "votes_abstain": 277,
+          "approval_pct": 98.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "谷岡良弘",
+          "votes_for": 707319,
+          "votes_against": 12484,
+          "votes_abstain": 277,
+          "approval_pct": 98.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "白澤直巳",
+          "votes_for": 674579,
+          "votes_against": 45224,
+          "votes_abstain": 277,
+          "approval_pct": 93.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田治彦",
+          "votes_for": 553939,
+          "votes_against": 165863,
+          "votes_abstain": 277,
+          "approval_pct": 76.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村雅信",
+          "votes_for": 578248,
+          "votes_against": 141554,
+          "votes_abstain": 277,
+          "approval_pct": 80.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福田善夫",
+          "votes_for": 679689,
+          "votes_against": 40114,
+          "votes_abstain": 277,
+          "approval_pct": 94.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "林和彦",
+          "votes_for": 679715,
+          "votes_against": 40087,
+          "votes_abstain": 277,
+          "approval_pct": 94.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北本佳永子",
+          "votes_for": 682530,
+          "votes_against": 37273,
+          "votes_abstain": 277,
+          "approval_pct": 94.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TR1O",
@@ -192,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:10:48.522Z"
+  "updated_at": "2026-07-02T22:10:01.475Z"
 }

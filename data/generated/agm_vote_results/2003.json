@@ -3,6 +3,39 @@
   "company_name": "日東富士製粉",
   "meetings": [
     {
+      "meeting_date": "2025-06-27",
+      "meeting_year": 2025,
+      "doc_id": "S100WA15",
+      "submit_date_time": "2025-07-01 14:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WA15",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮原朋宏中田昭久太田大志堤隆敏長﨑剛",
+          "votes_for": 7.266276186761758e+24,
+          "votes_against": 50861562157315670000,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小倉朋子",
+          "votes_for": 76931,
+          "votes_against": 858,
+          "votes_abstain": null,
+          "approval_pct": 98.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYF1",
@@ -48,5 +81,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:23:39.029Z"
+  "updated_at": "2026-07-02T21:08:28.365Z"
 }

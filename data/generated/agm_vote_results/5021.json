@@ -3,6 +3,147 @@
   "company_name": "コスモエネルギーホールディングス",
   "meetings": [
     {
+      "meeting_date": "2025-06-26",
+      "meeting_year": 2025,
+      "doc_id": "S100W9XP",
+      "submit_date_time": "2025-06-30 16:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9XP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 663662,
+          "votes_against": 366,
+          "votes_abstain": 779,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "桐山浩",
+          "votes_for": 661119,
+          "votes_against": 2909,
+          "votes_abstain": 780,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田茂",
+          "votes_for": 659921,
+          "votes_against": 4106,
+          "votes_abstain": 780,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹田純子",
+          "votes_for": 661173,
+          "votes_against": 2855,
+          "votes_abstain": 780,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松岡泰助",
+          "votes_for": 661292,
+          "votes_against": 2736,
+          "votes_abstain": 780,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩根茂樹",
+          "votes_for": 639226,
+          "votes_against": 24802,
+          "votes_abstain": 780,
+          "approval_pct": 96.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上龍子",
+          "votes_for": 662309,
+          "votes_against": 1719,
+          "votes_abstain": 780,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "栗田卓也",
+          "votes_for": 662362,
+          "votes_against": 1666,
+          "votes_abstain": 780,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木貴子",
+          "votes_for": 642837,
+          "votes_against": 21190,
+          "votes_abstain": 780,
+          "approval_pct": 96.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高山靖子",
+          "votes_for": 660813,
+          "votes_against": 3215,
+          "votes_abstain": 780,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅井恵一",
+          "votes_for": 660956,
+          "votes_against": 3072,
+          "votes_abstain": 780,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TPWB",
@@ -204,5 +345,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:17:30.182Z"
+  "updated_at": "2026-07-02T21:14:50.081Z"
 }
