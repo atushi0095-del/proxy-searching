@@ -3,6 +3,39 @@
   "company_name": "ジーダット",
   "meetings": [
     {
+      "meeting_date": "2026-06-17",
+      "meeting_year": 2026,
+      "doc_id": "S100YDSO",
+      "submit_date_time": "2026-06-18 09:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YDSO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 30827,
+          "votes_against": 157,
+          "votes_abstain": null,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 30778,
+          "votes_against": 206,
+          "votes_abstain": null,
+          "approval_pct": 99.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100W03R",
@@ -81,5 +114,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:19:13.604Z"
+  "updated_at": "2026-07-04T02:00:59.224Z"
 }

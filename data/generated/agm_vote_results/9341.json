@@ -3,6 +3,159 @@
   "company_name": "ＧＥＮＯＶＡ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJMO",
+      "submit_date_time": "2026-06-24 15:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJMO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 119352,
+          "votes_against": 552,
+          "votes_abstain": 0,
+          "approval_pct": 99.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 119133,
+          "votes_against": 771,
+          "votes_abstain": 0,
+          "approval_pct": 99.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "平瀬智樹",
+          "votes_for": 116307,
+          "votes_against": 3597,
+          "votes_abstain": 0,
+          "approval_pct": 97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "武田幸治",
+          "votes_for": 118613,
+          "votes_against": 1291,
+          "votes_abstain": 0,
+          "approval_pct": 98.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "井上祥",
+          "votes_for": 118736,
+          "votes_against": 1168,
+          "votes_abstain": 0,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "提橋由幾",
+          "votes_for": 118775,
+          "votes_against": 1129,
+          "votes_abstain": 0,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤有紀",
+          "votes_for": 118841,
+          "votes_against": 1063,
+          "votes_abstain": 0,
+          "approval_pct": 99.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐野哲哉",
+          "votes_for": 118820,
+          "votes_against": 1084,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "佐々木強",
+          "votes_for": 118976,
+          "votes_against": 928,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "古原暁",
+          "votes_for": 106873,
+          "votes_against": 13031,
+          "votes_abstain": 0,
+          "approval_pct": 89.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "毛利篤雄",
+          "votes_for": 118974,
+          "votes_against": 930,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "金山卓晴",
+          "votes_for": 118995,
+          "votes_against": 909,
+          "votes_abstain": 0,
+          "approval_pct": 99.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7A1",
@@ -120,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:46:39.909Z"
+  "updated_at": "2026-07-04T01:46:32.616Z"
 }

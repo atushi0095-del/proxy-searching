@@ -3,6 +3,63 @@
   "company_name": "ぴあ",
   "meetings": [
     {
+      "meeting_date": "2026-06-20",
+      "meeting_year": 2026,
+      "doc_id": "S100YJ38",
+      "submit_date_time": "2026-06-24 10:59",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJ38",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案矢内廣木本敬巳吉澤保幸村上元春小林覚東出隆幸川端俊宏宮本暢子一條和生村井満山森郷司岡嶋則幸",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.230891209911209e+71,
+          "votes_against": 3.2584695604564526e+37,
+          "votes_abstain": 4.887488748874887e+43,
+          "approval_pct": 96.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 108976,
+          "votes_against": 12489,
+          "votes_abstain": 4887,
+          "approval_pct": 85.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 114840,
+          "votes_against": 6624,
+          "votes_abstain": 4887,
+          "approval_pct": 90.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 119938,
+          "votes_against": 6413,
+          "votes_abstain": 0,
+          "approval_pct": 94.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-21",
       "meeting_year": 2025,
       "doc_id": "S100W5Y3",
@@ -381,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:58:45.766Z"
+  "updated_at": "2026-07-04T01:49:25.660Z"
 }

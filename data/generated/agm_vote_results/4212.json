@@ -3,6 +3,195 @@
   "company_name": "積水樹脂",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLQX",
+      "submit_date_time": "2026-06-26 13:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLQX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": "馬場浩志",
+          "votes_for": 225613,
+          "votes_against": 26853,
+          "votes_abstain": 0,
+          "approval_pct": 89.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": "宮田年耕",
+          "votes_for": 243422,
+          "votes_against": 9044,
+          "votes_abstain": 0,
+          "approval_pct": 96.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤聡子",
+          "votes_for": 243306,
+          "votes_against": 9160,
+          "votes_abstain": 0,
+          "approval_pct": 96.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": "赤穂啓子",
+          "votes_for": 252088,
+          "votes_against": 378,
+          "votes_abstain": 0,
+          "approval_pct": 99.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": "田中勤",
+          "votes_for": 252280,
+          "votes_against": 187,
+          "votes_abstain": 0,
+          "approval_pct": 99.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": "菊池友幸",
+          "votes_for": 243236,
+          "votes_against": 9230,
+          "votes_abstain": 0,
+          "approval_pct": 96.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": "三好永晃",
+          "votes_for": 243230,
+          "votes_against": 9236,
+          "votes_abstain": 0,
+          "approval_pct": 96.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": "東仲雅行",
+          "votes_for": 251878,
+          "votes_against": 588,
+          "votes_abstain": 0,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": "土井敏秀",
+          "votes_for": 251284,
+          "votes_against": 1183,
+          "votes_abstain": 0,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 167549,
+          "votes_against": 45125,
+          "votes_abstain": 39788,
+          "approval_pct": 66.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案(会社提案)",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 251117,
+          "votes_against": 1350,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案(株主提案)",
+          "proposal_category": "株主提案",
+          "candidate_name": null,
+          "votes_for": 65423,
+          "votes_against": 186991,
+          "votes_abstain": 48,
+          "approval_pct": 25.91,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案(株主提案)",
+          "proposal_category": "株主提案",
+          "candidate_name": null,
+          "votes_for": 62219,
+          "votes_against": 190198,
+          "votes_abstain": 48,
+          "approval_pct": 24.64,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案(株主提案)",
+          "proposal_category": "株主提案",
+          "candidate_name": null,
+          "votes_for": 20170,
+          "votes_against": 192458,
+          "votes_abstain": 39834,
+          "approval_pct": 7.99,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案(株主提案)",
+          "proposal_category": "株主提案",
+          "candidate_name": null,
+          "votes_for": 25275,
+          "votes_against": 226588,
+          "votes_abstain": 604,
+          "approval_pct": 10.01,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W70C",
@@ -333,5 +522,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:48:07.950Z"
+  "updated_at": "2026-07-04T01:26:21.888Z"
 }

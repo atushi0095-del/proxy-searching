@@ -3,6 +3,87 @@
   "company_name": "2763",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YMAE",
+      "submit_date_time": "2026-06-29 09:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMAE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案株式交換契約承認の件",
+          "proposal_category": "組織再編",
+          "candidate_name": null,
+          "votes_for": 233014,
+          "votes_against": 12166,
+          "votes_abstain": 127,
+          "approval_pct": 94.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小林亮二",
+          "votes_for": 232816,
+          "votes_against": 12364,
+          "votes_abstain": 127,
+          "approval_pct": 94.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鮑俊",
+          "votes_for": 236102,
+          "votes_against": 9078,
+          "votes_abstain": 127,
+          "approval_pct": 96.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大嶋敏也",
+          "votes_for": 235839,
+          "votes_against": 9341,
+          "votes_abstain": 127,
+          "approval_pct": 96.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小形聰",
+          "votes_for": 236209,
+          "votes_against": 8971,
+          "votes_abstain": 127,
+          "approval_pct": 96.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山下幸一郎",
+          "votes_for": 266203,
+          "votes_against": 8977,
+          "votes_abstain": 127,
+          "approval_pct": 96.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TXEM",
@@ -84,5 +165,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:40:41.517Z"
+  "updated_at": "2026-07-04T01:17:18.600Z"
 }

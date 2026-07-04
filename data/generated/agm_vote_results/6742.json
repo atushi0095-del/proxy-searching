@@ -3,6 +3,123 @@
   "company_name": "京三製作所",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJNM",
+      "submit_date_time": "2026-06-24 15:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJNM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 509807,
+          "votes_against": 1424,
+          "votes_abstain": 1022,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "國澤良治",
+          "votes_for": 487187,
+          "votes_against": 24074,
+          "votes_abstain": 1022,
+          "approval_pct": 94.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤井達也",
+          "votes_for": 503194,
+          "votes_against": 8067,
+          "votes_abstain": 1022,
+          "approval_pct": 97.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北村美穂子",
+          "votes_for": 508321,
+          "votes_against": 2940,
+          "votes_abstain": 1022,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "笹宏行",
+          "votes_for": 505948,
+          "votes_against": 5313,
+          "votes_abstain": 1022,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "永井朝子",
+          "votes_for": 508106,
+          "votes_against": 3155,
+          "votes_abstain": 1022,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中野哲也",
+          "votes_for": 508063,
+          "votes_against": 3198,
+          "votes_abstain": 1022,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 483590,
+          "votes_against": 27641,
+          "votes_abstain": 1022,
+          "approval_pct": 94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 508972,
+          "votes_against": 2289,
+          "votes_abstain": 1022,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W4RR",
@@ -249,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:57:33.452Z"
+  "updated_at": "2026-07-04T01:45:22.515Z"
 }

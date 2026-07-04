@@ -3,6 +3,39 @@
   "company_name": "日東工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMMF",
+      "submit_date_time": "2026-06-29 10:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMMF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 330094,
+          "votes_against": 219,
+          "votes_abstain": 368,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "浅野幹雄久保雅子小山秀市",
+          "votes_for": 329152329371329200,
+          "votes_against": 11599401094,
+          "votes_abstain": 368368368,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W98L",
@@ -69,5 +102,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:26:38.371Z"
+  "updated_at": "2026-07-04T01:15:04.885Z"
 }

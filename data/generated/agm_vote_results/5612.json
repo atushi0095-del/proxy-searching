@@ -3,6 +3,87 @@
   "company_name": "日本鋳鉄管",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMXZ",
+      "submit_date_time": "2026-06-29 14:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMXZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 20308,
+          "votes_against": 869,
+          "votes_abstain": null,
+          "approval_pct": 95.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "奥村一郎",
+          "votes_for": 19897,
+          "votes_against": 1280,
+          "votes_abstain": null,
+          "approval_pct": 93.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小堀修司",
+          "votes_for": 19920,
+          "votes_against": 1257,
+          "votes_abstain": null,
+          "approval_pct": 94.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "髙舘健二",
+          "votes_for": 19924,
+          "votes_against": 1257,
+          "votes_abstain": null,
+          "approval_pct": 94.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "上田英樹",
+          "votes_for": 19917,
+          "votes_against": 1264,
+          "votes_abstain": null,
+          "approval_pct": 94.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "中西弘太",
+          "votes_for": 19922,
+          "votes_against": 1259,
+          "votes_abstain": null,
+          "approval_pct": 94.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8VC",
@@ -153,5 +234,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:30:32.992Z"
+  "updated_at": "2026-07-04T01:09:41.710Z"
 }

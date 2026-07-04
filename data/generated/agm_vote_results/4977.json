@@ -3,6 +3,123 @@
   "company_name": "新田ゼラチン",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YO2U",
+      "submit_date_time": "2026-07-01 14:40",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO2U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 131068,
+          "votes_against": 431,
+          "votes_abstain": null,
+          "approval_pct": 97.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹宮秀典",
+          "votes_for": 127091,
+          "votes_against": 4420,
+          "votes_abstain": null,
+          "approval_pct": 94.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉本芳久",
+          "votes_for": 127722,
+          "votes_against": 3789,
+          "votes_abstain": null,
+          "approval_pct": 95.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林和也",
+          "votes_for": 127726,
+          "votes_against": 3785,
+          "votes_abstain": null,
+          "approval_pct": 95.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安藤啓",
+          "votes_for": 127704,
+          "votes_against": 3807,
+          "votes_abstain": null,
+          "approval_pct": 95.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木博正",
+          "votes_for": 127340,
+          "votes_against": 4171,
+          "votes_abstain": null,
+          "approval_pct": 95.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋尚男",
+          "votes_for": 127594,
+          "votes_against": 3917,
+          "votes_abstain": null,
+          "approval_pct": 95.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "種田ゆみこ",
+          "votes_for": 127604,
+          "votes_against": 3907,
+          "votes_abstain": null,
+          "approval_pct": 95.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田隆司",
+          "votes_for": 127691,
+          "votes_against": 3820,
+          "votes_abstain": null,
+          "approval_pct": 95.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9WZ",
@@ -237,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:14:54.891Z"
+  "updated_at": "2026-07-04T00:51:00.255Z"
 }

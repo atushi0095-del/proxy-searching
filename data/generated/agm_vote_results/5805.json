@@ -3,6 +3,123 @@
   "company_name": "ＳＷＣＣ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM2A",
+      "submit_date_time": "2026-06-26 14:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM2A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 250918,
+          "votes_against": 180,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 251629,
+          "votes_against": 338,
+          "votes_abstain": 0,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長谷川隆代",
+          "votes_for": 249624,
+          "votes_against": 2339,
+          "votes_abstain": 2,
+          "approval_pct": 98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小又哲夫",
+          "votes_for": 251161,
+          "votes_against": 803,
+          "votes_abstain": 2,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂倉裕司",
+          "votes_for": 251376,
+          "votes_against": 589,
+          "votes_abstain": 2,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内藤宏治",
+          "votes_for": 251489,
+          "votes_against": 476,
+          "votes_abstain": 2,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西村美奈子",
+          "votes_for": 250671,
+          "votes_against": 1294,
+          "votes_abstain": 2,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口太",
+          "votes_for": 238948,
+          "votes_against": 13013,
+          "votes_abstain": 2,
+          "approval_pct": 93.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 251513,
+          "votes_against": 456,
+          "votes_abstain": 0,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7EH",
@@ -165,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:49:03.285Z"
+  "updated_at": "2026-07-04T01:24:37.375Z"
 }

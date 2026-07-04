@@ -3,6 +3,123 @@
   "company_name": "ハピネット",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YEIG",
+      "submit_date_time": "2026-06-18 16:42",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YEIG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 359400,
+          "votes_against": 996,
+          "votes_abstain": 50,
+          "approval_pct": 99.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "苗手一彦",
+          "votes_for": 355016,
+          "votes_against": 5496,
+          "votes_abstain": 50,
+          "approval_pct": 98.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "榎本誠一",
+          "votes_for": 358224,
+          "votes_against": 2289,
+          "votes_abstain": 50,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "水谷敏之",
+          "votes_for": 357912,
+          "votes_against": 2600,
+          "votes_abstain": 50,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "津田克也",
+          "votes_for": 358280,
+          "votes_against": 2233,
+          "votes_abstain": 50,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "石丸裕之",
+          "votes_for": 358286,
+          "votes_against": 2227,
+          "votes_abstain": 50,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡俊子",
+          "votes_for": 357618,
+          "votes_against": 2895,
+          "votes_abstain": 50,
+          "approval_pct": 99.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "水野道訓",
+          "votes_for": 358200,
+          "votes_against": 2314,
+          "votes_abstain": 50,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤智恵",
+          "votes_for": 358136,
+          "votes_against": 2378,
+          "votes_abstain": 50,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W0QJ",
@@ -285,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:17:27.451Z"
+  "updated_at": "2026-07-04T01:59:43.047Z"
 }

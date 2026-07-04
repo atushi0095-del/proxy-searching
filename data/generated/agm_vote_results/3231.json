@@ -3,6 +3,135 @@
   "company_name": "野村不動産ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YMEZ",
+      "submit_date_time": "2026-06-29 15:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMEZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "沓掛英二",
+          "votes_for": 6674800,
+          "votes_against": 441449,
+          "votes_abstain": 21004,
+          "approval_pct": 93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新井聡",
+          "votes_for": 6711881,
+          "votes_against": 404367,
+          "votes_abstain": 21004,
+          "approval_pct": 93.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松尾大作",
+          "votes_for": 6842454,
+          "votes_against": 294169,
+          "votes_abstain": 630,
+          "approval_pct": 95.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芳賀真",
+          "votes_for": 6842656,
+          "votes_against": 293967,
+          "votes_abstain": 630,
+          "approval_pct": 95.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塚崎敏英",
+          "votes_for": 6941210,
+          "votes_against": 195416,
+          "votes_abstain": 630,
+          "approval_pct": 96.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙倉千春",
+          "votes_for": 7118232,
+          "votes_against": 18397,
+          "votes_abstain": 630,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山下良則",
+          "votes_for": 7103009,
+          "votes_against": 33619,
+          "votes_abstain": 630,
+          "approval_pct": 98.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林雅人",
+          "votes_for": 7122067,
+          "votes_against": 14564,
+          "votes_abstain": 630,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮原さつき",
+          "votes_for": 7128861,
+          "votes_against": 7770,
+          "votes_abstain": 630,
+          "approval_pct": 99.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案高橋鉄",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7121382,
+          "votes_against": 15249,
+          "votes_abstain": 630,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9BU",
@@ -285,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:17:08.700Z"
+  "updated_at": "2026-07-04T01:06:05.737Z"
 }

@@ -3,6 +3,111 @@
   "company_name": "グラファイトデザイン",
   "meetings": [
     {
+      "meeting_date": "2026-05-29",
+      "meeting_year": 2026,
+      "doc_id": "S100Y8DT",
+      "submit_date_time": "2026-06-04 11:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y8DT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 45580,
+          "votes_against": 1562,
+          "votes_abstain": null,
+          "approval_pct": 96.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田拓郎",
+          "votes_for": 44999,
+          "votes_against": 2143,
+          "votes_abstain": null,
+          "approval_pct": 95.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木本裕二",
+          "votes_for": 45467,
+          "votes_against": 1675,
+          "votes_abstain": null,
+          "approval_pct": 96.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松田喜良",
+          "votes_for": 45476,
+          "votes_against": 1666,
+          "votes_abstain": null,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本敬三",
+          "votes_for": 45476,
+          "votes_against": 1666,
+          "votes_abstain": null,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和田壮司",
+          "votes_for": 45481,
+          "votes_against": 1661,
+          "votes_abstain": null,
+          "approval_pct": 96.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "徳山秀明",
+          "votes_for": 45488,
+          "votes_against": 1654,
+          "votes_abstain": null,
+          "approval_pct": 96.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 46147,
+          "votes_against": 995,
+          "votes_abstain": null,
+          "approval_pct": 97.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-30",
       "meeting_year": 2024,
       "doc_id": "S100TK7H",
@@ -108,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:30:07.446Z"
+  "updated_at": "2026-07-04T02:04:59.635Z"
 }

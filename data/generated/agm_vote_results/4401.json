@@ -3,6 +3,111 @@
   "company_name": "ＡＤＥＫＡ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YGBJ",
+      "submit_date_time": "2026-06-22 11:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGBJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 859636,
+          "votes_against": 157,
+          "votes_abstain": 99,
+          "approval_pct": 99.97,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "城詰秀尊",
+          "votes_for": 842993,
+          "votes_against": 17893,
+          "votes_abstain": 99,
+          "approval_pct": 97.91,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林義昭",
+          "votes_for": 855536,
+          "votes_against": 5352,
+          "votes_abstain": 99,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "志賀洋二",
+          "votes_for": 855557,
+          "votes_against": 5331,
+          "votes_abstain": 99,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "正宗潔",
+          "votes_for": 855563,
+          "votes_against": 5325,
+          "votes_abstain": 99,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "遠藤茂",
+          "votes_for": 839273,
+          "votes_against": 21616,
+          "votes_abstain": 99,
+          "approval_pct": 97.48,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀口誠",
+          "votes_for": 858471,
+          "votes_against": 2419,
+          "votes_abstain": 99,
+          "approval_pct": 99.71,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋直也",
+          "votes_for": 858368,
+          "votes_against": 2522,
+          "votes_abstain": 99,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2N5",
@@ -273,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:11:16.370Z"
+  "updated_at": "2026-07-04T01:56:09.305Z"
 }

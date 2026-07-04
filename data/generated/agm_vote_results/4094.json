@@ -3,6 +3,123 @@
   "company_name": "日本化学産業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNMC",
+      "submit_date_time": "2026-06-30 14:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNMC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "角谷博樹",
+          "votes_for": 151007,
+          "votes_against": 1477,
+          "votes_abstain": 16739,
+          "approval_pct": 89.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柳澤英二",
+          "votes_for": 151642,
+          "votes_against": 843,
+          "votes_abstain": 16739,
+          "approval_pct": 89.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "太田武之",
+          "votes_for": 151615,
+          "votes_against": 870,
+          "votes_abstain": 16739,
+          "approval_pct": 89.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本晃",
+          "votes_for": 151652,
+          "votes_against": 833,
+          "votes_abstain": 16739,
+          "approval_pct": 89.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松尾理",
+          "votes_for": 151794,
+          "votes_against": 691,
+          "votes_abstain": 16739,
+          "approval_pct": 89.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鉢村健",
+          "votes_for": 151618,
+          "votes_against": 867,
+          "votes_abstain": 16739,
+          "approval_pct": 89.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "滝順子",
+          "votes_for": 151732,
+          "votes_against": 753,
+          "votes_abstain": 16739,
+          "approval_pct": 89.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神田安積",
+          "votes_for": 151716,
+          "votes_against": 769,
+          "votes_abstain": 16739,
+          "approval_pct": 89.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "役員賞与支給の件",
+          "votes_for": 151908,
+          "votes_against": 1184,
+          "votes_abstain": 16742,
+          "approval_pct": 89.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WA2V",
@@ -321,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:12:37.975Z"
+  "updated_at": "2026-07-04T00:57:34.539Z"
 }

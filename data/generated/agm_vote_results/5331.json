@@ -3,6 +3,135 @@
   "company_name": "ノリタケ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YMA8",
+      "submit_date_time": "2026-06-26 16:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMA8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤博",
+          "votes_for": 199738,
+          "votes_against": 35257,
+          "votes_abstain": 259,
+          "approval_pct": 84.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "東山明",
+          "votes_for": 199760,
+          "votes_against": 35235,
+          "votes_abstain": 259,
+          "approval_pct": 84.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡部信",
+          "votes_for": 208651,
+          "votes_against": 26555,
+          "votes_abstain": 49,
+          "approval_pct": 88.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤岡高広",
+          "votes_for": 209661,
+          "votes_against": 25547,
+          "votes_abstain": 49,
+          "approval_pct": 88.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "船引英子",
+          "votes_for": 209185,
+          "votes_against": 26023,
+          "votes_abstain": 49,
+          "approval_pct": 88.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "唯美津木",
+          "votes_for": 209658,
+          "votes_against": 25550,
+          "votes_abstain": 49,
+          "approval_pct": 88.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 100943,
+          "votes_against": 134217,
+          "votes_abstain": 87,
+          "approval_pct": 42.57,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 39132,
+          "votes_against": 170211,
+          "votes_abstain": 87,
+          "approval_pct": 16.5,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 34145,
+          "votes_against": 175198,
+          "votes_abstain": 87,
+          "approval_pct": 14.4,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 33797,
+          "votes_against": 175545,
+          "votes_abstain": 87,
+          "approval_pct": 14.25,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8DR",
@@ -249,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:37:54.489Z"
+  "updated_at": "2026-07-04T01:19:35.542Z"
 }

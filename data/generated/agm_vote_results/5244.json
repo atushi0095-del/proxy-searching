@@ -3,6 +3,135 @@
   "company_name": "jig.jp",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJ8E",
+      "submit_date_time": "2026-06-24 12:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJ8E",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 266248,
+          "votes_against": 1315,
+          "votes_abstain": null,
+          "approval_pct": 97.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川股将",
+          "votes_for": 265314,
+          "votes_against": 2248,
+          "votes_abstain": null,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中雄一郎",
+          "votes_for": 266015,
+          "votes_against": 1547,
+          "votes_abstain": null,
+          "approval_pct": 97.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福野泰介",
+          "votes_for": 266096,
+          "votes_against": 1466,
+          "votes_abstain": null,
+          "approval_pct": 97.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岸周平",
+          "votes_for": 266150,
+          "votes_against": 1412,
+          "votes_abstain": null,
+          "approval_pct": 97.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "赤浦徹",
+          "votes_for": 266146,
+          "votes_against": 1416,
+          "votes_abstain": null,
+          "approval_pct": 97.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "菅沼匠",
+          "votes_for": 266182,
+          "votes_against": 1380,
+          "votes_abstain": null,
+          "approval_pct": 97.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "矢島里佳",
+          "votes_for": 265767,
+          "votes_against": 1795,
+          "votes_abstain": null,
+          "approval_pct": 97.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "豊島絵",
+          "votes_for": 255244,
+          "votes_against": 12318,
+          "votes_abstain": null,
+          "approval_pct": 93.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "上杉昌隆",
+          "votes_for": 255224,
+          "votes_against": 12338,
+          "votes_abstain": null,
+          "approval_pct": 93.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7T3",
@@ -165,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:44:47.702Z"
+  "updated_at": "2026-07-04T01:49:09.299Z"
 }

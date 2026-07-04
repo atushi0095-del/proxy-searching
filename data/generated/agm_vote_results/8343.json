@@ -3,6 +3,171 @@
   "company_name": "秋田銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YO25",
+      "submit_date_time": "2026-07-02 09:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO25",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 121626,
+          "votes_against": 1961,
+          "votes_abstain": null,
+          "approval_pct": 97.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "芦田晃輔",
+          "votes_for": 105320,
+          "votes_against": 18267,
+          "votes_abstain": null,
+          "approval_pct": 84.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "皆川剛",
+          "votes_for": 114090,
+          "votes_against": 9497,
+          "votes_abstain": null,
+          "approval_pct": 91.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三浦力",
+          "votes_for": 114792,
+          "votes_against": 8795,
+          "votes_abstain": null,
+          "approval_pct": 92.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "保坂英明",
+          "votes_for": 120845,
+          "votes_against": 2742,
+          "votes_abstain": null,
+          "approval_pct": 96.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "柿﨑環",
+          "votes_for": 115306,
+          "votes_against": 8281,
+          "votes_abstain": null,
+          "approval_pct": 92.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊東裕",
+          "votes_for": 116705,
+          "votes_against": 6882,
+          "votes_abstain": null,
+          "approval_pct": 93.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "江畑佳明",
+          "votes_for": 120840,
+          "votes_against": 2747,
+          "votes_abstain": null,
+          "approval_pct": 96.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田中里沙",
+          "votes_for": 118424,
+          "votes_against": 5163,
+          "votes_abstain": null,
+          "approval_pct": 94.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大沢朋幸",
+          "votes_for": 119911,
+          "votes_against": 3676,
+          "votes_abstain": null,
+          "approval_pct": 96.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "面山恭子",
+          "votes_for": 118784,
+          "votes_against": 4803,
+          "votes_abstain": null,
+          "approval_pct": 95.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "太田良治",
+          "votes_for": 120819,
+          "votes_against": 2768,
+          "votes_abstain": null,
+          "approval_pct": 96.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松井秀樹",
+          "votes_for": 113326,
+          "votes_against": 10260,
+          "votes_abstain": null,
+          "approval_pct": 90.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100WABC",
@@ -345,5 +510,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:05:58.172Z"
+  "updated_at": "2026-07-04T00:49:14.152Z"
 }

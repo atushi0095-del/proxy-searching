@@ -3,6 +3,135 @@
   "company_name": "芝浦機械",
   "meetings": [
     {
+      "meeting_date": "2026-06-30",
+      "meeting_year": 2026,
+      "doc_id": "S100YO0R",
+      "submit_date_time": "2026-07-01 14:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO0R",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂元繁友",
+          "votes_for": 168028,
+          "votes_against": 22307,
+          "votes_abstain": 15,
+          "approval_pct": 88.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大田浩昭",
+          "votes_for": 169500,
+          "votes_against": 20851,
+          "votes_abstain": 0,
+          "approval_pct": 89.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池純",
+          "votes_for": 187402,
+          "votes_against": 2953,
+          "votes_abstain": 0,
+          "approval_pct": 98.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "甲斐義章",
+          "votes_for": 187397,
+          "votes_against": 2958,
+          "votes_abstain": 0,
+          "approval_pct": 98.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤潔",
+          "votes_for": 176444,
+          "votes_against": 13910,
+          "votes_abstain": 0,
+          "approval_pct": 92.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩崎清悟",
+          "votes_for": 176401,
+          "votes_against": 13953,
+          "votes_abstain": 0,
+          "approval_pct": 92.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "寺脇一峰",
+          "votes_for": 176414,
+          "votes_against": 13940,
+          "votes_abstain": 0,
+          "approval_pct": 92.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "早川知佐",
+          "votes_for": 176630,
+          "votes_against": 13725,
+          "votes_abstain": 0,
+          "approval_pct": 92.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "板垣絵里",
+          "votes_for": 189609,
+          "votes_against": 746,
+          "votes_abstain": 0,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 190178,
+          "votes_against": 274,
+          "votes_abstain": 0,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W3LF",
@@ -333,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:07:56.590Z"
+  "updated_at": "2026-07-04T00:51:05.000Z"
 }

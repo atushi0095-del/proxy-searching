@@ -3,6 +3,159 @@
   "company_name": "セキ",
   "meetings": [
     {
+      "meeting_date": "2026-06-11",
+      "meeting_year": 2026,
+      "doc_id": "S100YD16",
+      "submit_date_time": "2026-06-17 11:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YD16",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当（第77期期末配当）の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 38046,
+          "votes_against": 13,
+          "votes_abstain": 38059,
+          "approval_pct": 49.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "関啓三",
+          "votes_for": 37229,
+          "votes_against": 830,
+          "votes_abstain": 38059,
+          "approval_pct": 48.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "関宏孝",
+          "votes_for": 37238,
+          "votes_against": 821,
+          "votes_abstain": 38059,
+          "approval_pct": 48.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "関宏晃",
+          "votes_for": 37233,
+          "votes_against": 826,
+          "votes_abstain": 38059,
+          "approval_pct": 48.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松友孝之",
+          "votes_for": 37234,
+          "votes_against": 825,
+          "votes_abstain": 38059,
+          "approval_pct": 48.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡田克志",
+          "votes_for": 37235,
+          "votes_against": 824,
+          "votes_abstain": 38059,
+          "approval_pct": 48.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "宮部高至",
+          "votes_for": 37234,
+          "votes_against": 825,
+          "votes_abstain": 38059,
+          "approval_pct": 48.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "髙田健司",
+          "votes_for": 38007,
+          "votes_against": 52,
+          "votes_abstain": 38059,
+          "approval_pct": 49.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案会計監査人選任の件",
+          "proposal_category": "会計監査人選任",
+          "candidate_name": null,
+          "votes_for": 38022,
+          "votes_against": 37,
+          "votes_abstain": 38059,
+          "approval_pct": 49.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案社外取締役解任1名の件（株主提案）",
+          "proposal_category": "株主提案",
+          "candidate_name": null,
+          "votes_for": 3899,
+          "votes_against": 34160,
+          "votes_abstain": 38059,
+          "approval_pct": 5.12,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案親子間取引の調査・報告の件（株主提案）",
+          "proposal_category": "株主提案",
+          "candidate_name": null,
+          "votes_for": 3901,
+          "votes_against": 34158,
+          "votes_abstain": 38059,
+          "approval_pct": 5.12,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案定款一部変更の件（株主提案）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 3923,
+          "votes_against": 34136,
+          "votes_abstain": 38059,
+          "approval_pct": 5.15,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-11",
       "meeting_year": 2025,
       "doc_id": "S100VZ1O",
@@ -165,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:20:45.373Z"
+  "updated_at": "2026-07-04T02:01:40.945Z"
 }

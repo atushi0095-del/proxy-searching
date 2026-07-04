@@ -3,6 +3,135 @@
   "company_name": "ＷＯＷＯＷ",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YEJE",
+      "submit_date_time": "2026-06-18 16:51",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YEJE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本均",
+          "votes_for": 207916,
+          "votes_against": 33715,
+          "votes_abstain": 0,
+          "approval_pct": 86.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾上純一",
+          "votes_for": 236027,
+          "votes_against": 5604,
+          "votes_abstain": 0,
+          "approval_pct": 97.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大友淳",
+          "votes_for": 227711,
+          "votes_against": 13920,
+          "votes_abstain": 0,
+          "approval_pct": 94.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水賢治",
+          "votes_for": 227502,
+          "votes_against": 14129,
+          "votes_abstain": 0,
+          "approval_pct": 94.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永井聖士",
+          "votes_for": 234026,
+          "votes_against": 7605,
+          "votes_abstain": 0,
+          "approval_pct": 96.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本達夫",
+          "votes_for": 235999,
+          "votes_against": 5632,
+          "votes_abstain": 0,
+          "approval_pct": 97.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大熊和彦",
+          "votes_for": 239364,
+          "votes_against": 2279,
+          "votes_abstain": 0,
+          "approval_pct": 99.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村井満",
+          "votes_for": 238924,
+          "votes_against": 2719,
+          "votes_abstain": 0,
+          "approval_pct": 98.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡山誠",
+          "votes_for": 240256,
+          "votes_against": 1387,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤﨑忍",
+          "votes_for": 240239,
+          "votes_against": 1404,
+          "votes_abstain": 0,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W100",
@@ -273,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:17:12.456Z"
+  "updated_at": "2026-07-04T01:59:40.688Z"
 }

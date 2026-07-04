@@ -3,6 +3,135 @@
   "company_name": "東邦亜鉛",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YO4M",
+      "submit_date_time": "2026-07-01 15:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO4M",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 233121,
+          "votes_against": 1234,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤義和",
+          "votes_for": 232222,
+          "votes_against": 2139,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鷲巣寛",
+          "votes_for": 232373,
+          "votes_against": 1988,
+          "votes_abstain": 0,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "印東徹",
+          "votes_for": 226108,
+          "votes_against": 8253,
+          "votes_abstain": 0,
+          "approval_pct": 96.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中耕路",
+          "votes_for": 226242,
+          "votes_against": 8119,
+          "votes_abstain": 0,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮本洋之",
+          "votes_for": 226285,
+          "votes_against": 8076,
+          "votes_abstain": 0,
+          "approval_pct": 96.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坪井寛行",
+          "votes_for": 226249,
+          "votes_against": 8112,
+          "votes_abstain": 0,
+          "approval_pct": 96.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青野豪",
+          "votes_for": 221967,
+          "votes_against": 12395,
+          "votes_abstain": 0,
+          "approval_pct": 94.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯塚茂",
+          "votes_for": 232664,
+          "votes_against": 1698,
+          "votes_abstain": 0,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 227183,
+          "votes_against": 7179,
+          "votes_abstain": 0,
+          "approval_pct": 96.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WACU",
@@ -213,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:07:21.161Z"
+  "updated_at": "2026-07-04T00:50:22.815Z"
 }

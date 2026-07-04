@@ -3,6 +3,171 @@
   "company_name": "日本新薬",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNDY",
+      "submit_date_time": "2026-06-30 10:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNDY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 565761,
+          "votes_against": 9802,
+          "votes_abstain": 37,
+          "approval_pct": 98.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前川重信",
+          "votes_for": 543797,
+          "votes_against": 31782,
+          "votes_abstain": 37,
+          "approval_pct": 94.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中井亨",
+          "votes_for": 546111,
+          "votes_against": 29467,
+          "votes_abstain": 37,
+          "approval_pct": 94.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "枝光平憲",
+          "votes_for": 564018,
+          "votes_against": 11567,
+          "votes_abstain": 37,
+          "approval_pct": 97.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石沢整",
+          "votes_for": 564101,
+          "votes_against": 11484,
+          "votes_abstain": 37,
+          "approval_pct": 98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村ひとみ",
+          "votes_for": 564155,
+          "votes_against": 11430,
+          "votes_abstain": 37,
+          "approval_pct": 98.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩田和行",
+          "votes_for": 564222,
+          "votes_against": 11363,
+          "votes_abstain": 37,
+          "approval_pct": 98.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "桑野敬市",
+          "votes_for": 564209,
+          "votes_against": 11376,
+          "votes_abstain": 37,
+          "approval_pct": 98.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小泉光治",
+          "votes_for": 564124,
+          "votes_against": 11461,
+          "votes_abstain": 37,
+          "approval_pct": 98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和田芳直",
+          "votes_for": 570010,
+          "votes_against": 4978,
+          "votes_abstain": 636,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林柚香里",
+          "votes_for": 570732,
+          "votes_against": 4855,
+          "votes_abstain": 37,
+          "approval_pct": 99.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西真弓",
+          "votes_for": 570771,
+          "votes_against": 4816,
+          "votes_abstain": 37,
+          "approval_pct": 99.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本郷陽太郎",
+          "votes_for": 570802,
+          "votes_against": 4785,
+          "votes_abstain": 37,
+          "approval_pct": 99.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WB9L",
@@ -369,5 +534,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:00:42.370Z"
+  "updated_at": "2026-07-04T01:01:00.281Z"
 }

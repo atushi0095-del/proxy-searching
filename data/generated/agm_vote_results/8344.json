@@ -3,6 +3,27 @@
   "company_name": "山形銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YNWQ",
+      "submit_date_time": "2026-07-02 09:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNWQ",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤山豊岡本明子髙嶋清彦",
+          "votes_for": 199583206988192580,
+          "votes_against": 14574716921580,
+          "votes_abstain": 0,
+          "approval_pct": 99.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W95C",
@@ -57,5 +78,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:28:14.762Z"
+  "updated_at": "2026-07-04T00:48:48.013Z"
 }

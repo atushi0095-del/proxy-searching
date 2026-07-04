@@ -3,6 +3,63 @@
   "company_name": "エン・ジャパン",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJDY",
+      "submit_date_time": "2026-06-24 15:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJDY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 322620,
+          "votes_against": 901,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "越智通勝中島純林有里大西利佳子",
+          "votes_for": 2.428493001583069e+23,
+          "votes_against": 8067123362166071000,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井垣太介石川俊彦西川岳志",
+          "votes_for": 280281307160307170,
+          "votes_against": 432401636116367,
+          "votes_abstain": 0,
+          "approval_pct": 99.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大槻智之",
+          "votes_for": 304334,
+          "votes_against": 19187,
+          "votes_abstain": 0,
+          "approval_pct": 94.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W5J1",
@@ -225,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:01:08.937Z"
+  "updated_at": "2026-07-04T01:45:35.677Z"
 }

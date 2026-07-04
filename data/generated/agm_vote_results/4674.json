@@ -3,6 +3,123 @@
   "company_name": "クレスコ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YIFM",
+      "submit_date_time": "2026-06-23 16:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIFM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 322777,
+          "votes_against": 186,
+          "votes_abstain": 0,
+          "approval_pct": 96.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "根元浩幸",
+          "votes_for": 315477,
+          "votes_against": 7495,
+          "votes_abstain": 0,
+          "approval_pct": 94.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "冨永宏",
+          "votes_for": 318851,
+          "votes_against": 4121,
+          "votes_abstain": 0,
+          "approval_pct": 95.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "寺村孝幸",
+          "votes_for": 319125,
+          "votes_against": 3847,
+          "votes_abstain": 0,
+          "approval_pct": 95.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮本大地",
+          "votes_for": 319125,
+          "votes_against": 3847,
+          "votes_abstain": 0,
+          "approval_pct": 95.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "福井順一",
+          "votes_for": 319554,
+          "votes_against": 3418,
+          "votes_abstain": 0,
+          "approval_pct": 95.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐藤幸恵",
+          "votes_for": 310929,
+          "votes_against": 12043,
+          "votes_abstain": 0,
+          "approval_pct": 92.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐野みゆき",
+          "votes_for": 319605,
+          "votes_against": 3367,
+          "votes_abstain": 0,
+          "approval_pct": 95.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "舘充保",
+          "votes_for": 321534,
+          "votes_against": 1387,
+          "votes_abstain": 0,
+          "approval_pct": 95.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W3XR",
@@ -144,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:04:29.181Z"
+  "updated_at": "2026-07-04T01:50:39.000Z"
 }

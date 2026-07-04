@@ -3,6 +3,87 @@
   "company_name": "アイティフォー",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YGOM",
+      "submit_date_time": "2026-06-22 13:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGOM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 194818,
+          "votes_against": 3391,
+          "votes_abstain": 0,
+          "approval_pct": 98.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である者を除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤恒徳",
+          "votes_for": 161221,
+          "votes_against": 37332,
+          "votes_abstain": 0,
+          "approval_pct": 81.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である者を除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "坂田幸司",
+          "votes_for": 168287,
+          "votes_against": 30265,
+          "votes_abstain": 0,
+          "approval_pct": 84.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である者を除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大枝博隆",
+          "votes_for": 194805,
+          "votes_against": 3747,
+          "votes_abstain": 0,
+          "approval_pct": 98.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である者を除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "河野一典",
+          "votes_for": 194839,
+          "votes_against": 3713,
+          "votes_abstain": 0,
+          "approval_pct": 98.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である者を除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "阿部和香",
+          "votes_for": 194976,
+          "votes_against": 3577,
+          "votes_abstain": 0,
+          "approval_pct": 98.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W1MV",
@@ -120,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:12:06.529Z"
+  "updated_at": "2026-07-04T01:55:36.551Z"
 }

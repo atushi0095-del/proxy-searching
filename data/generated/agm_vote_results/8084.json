@@ -3,6 +3,135 @@
   "company_name": "ＲＹＯＤＥＮ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YIVM",
+      "submit_date_time": "2026-06-29 09:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIVM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "富澤克行",
+          "votes_for": 164469,
+          "votes_against": 4689,
+          "votes_abstain": 0,
+          "approval_pct": 95.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "與五澤一元",
+          "votes_for": 167852,
+          "votes_against": 1306,
+          "votes_abstain": 0,
+          "approval_pct": 97.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "柴田恭宏",
+          "votes_for": 167833,
+          "votes_against": 1325,
+          "votes_abstain": 0,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松尾英喜",
+          "votes_for": 166906,
+          "votes_against": 2252,
+          "votes_abstain": 0,
+          "approval_pct": 97.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小笠原由佳",
+          "votes_for": 167765,
+          "votes_against": 1393,
+          "votes_abstain": 0,
+          "approval_pct": 97.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "蔭山裕司",
+          "votes_for": 149796,
+          "votes_against": 19362,
+          "votes_abstain": 0,
+          "approval_pct": 87.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "常盤泰丸",
+          "votes_for": 167489,
+          "votes_against": 1667,
+          "votes_abstain": 0,
+          "approval_pct": 97.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "関口典子",
+          "votes_for": 167781,
+          "votes_against": 1376,
+          "votes_abstain": 0,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "トーマス・ヴィッティ",
+          "votes_for": 166857,
+          "votes_against": 2300,
+          "votes_abstain": 0,
+          "approval_pct": 97.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "出縄正人",
+          "votes_for": 168522,
+          "votes_against": 636,
+          "votes_abstain": 0,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W7UF",
@@ -213,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:42:02.698Z"
+  "updated_at": "2026-07-04T01:17:23.302Z"
 }

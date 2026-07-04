@@ -3,6 +3,123 @@
   "company_name": "santec Holdings",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YL10",
+      "submit_date_time": "2026-06-25 17:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL10",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 91201,
+          "votes_against": 84,
+          "votes_abstain": null,
+          "approval_pct": 99.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鄭元鎬",
+          "votes_for": 89707,
+          "votes_against": 1578,
+          "votes_abstain": null,
+          "approval_pct": 98.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鄭昌鎬",
+          "votes_for": 89740,
+          "votes_against": 1546,
+          "votes_abstain": null,
+          "approval_pct": 98.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鄭台鎬",
+          "votes_for": 89757,
+          "votes_against": 1529,
+          "votes_abstain": null,
+          "approval_pct": 98.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "諫本圭史",
+          "votes_for": 89743,
+          "votes_against": 1543,
+          "votes_abstain": null,
+          "approval_pct": 98.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀江容子",
+          "votes_for": 85595,
+          "votes_against": 5690,
+          "votes_abstain": null,
+          "approval_pct": 93.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松川知弘",
+          "votes_for": 83856,
+          "votes_against": 7429,
+          "votes_abstain": null,
+          "approval_pct": 91.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤吉弘亘",
+          "votes_for": 91068,
+          "votes_against": 217,
+          "votes_abstain": null,
+          "approval_pct": 99.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 82370,
+          "votes_against": 8916,
+          "votes_abstain": null,
+          "approval_pct": 90.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100VXG7",
@@ -213,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:18:16.923Z"
+  "updated_at": "2026-07-04T01:33:02.011Z"
 }

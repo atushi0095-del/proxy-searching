@@ -3,6 +3,159 @@
   "company_name": "住友金属鉱山",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YNY4",
+      "submit_date_time": "2026-07-01 11:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNY4",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2196535,
+          "votes_against": 29067,
+          "votes_abstain": 1324,
+          "approval_pct": 98.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野崎明",
+          "votes_for": 2131019,
+          "votes_against": 93462,
+          "votes_abstain": 2432,
+          "approval_pct": 95.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本伸弘",
+          "votes_for": 2175830,
+          "votes_against": 49918,
+          "votes_abstain": 1167,
+          "approval_pct": 97.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹林優",
+          "votes_for": 2201556,
+          "votes_against": 24041,
+          "votes_abstain": 1324,
+          "approval_pct": 98.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三宅泰弘",
+          "votes_for": 2200986,
+          "votes_against": 24610,
+          "votes_abstain": 1324,
+          "approval_pct": 98.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井妙子",
+          "votes_for": 2189083,
+          "votes_against": 36517,
+          "votes_abstain": 1324,
+          "approval_pct": 98.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木下学",
+          "votes_for": 2202442,
+          "votes_against": 23157,
+          "votes_abstain": 1324,
+          "approval_pct": 98.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹内光二",
+          "votes_for": 2201878,
+          "votes_against": 23721,
+          "votes_abstain": 1324,
+          "approval_pct": 98.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "サワキニコラミシェール",
+          "votes_for": 2203788,
+          "votes_against": 21812,
+          "votes_abstain": 1324,
+          "approval_pct": 98.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐々木和仁",
+          "votes_for": 1912354,
+          "votes_against": 313211,
+          "votes_abstain": 1324,
+          "approval_pct": 85.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三品和広",
+          "votes_for": 2206173,
+          "votes_against": 19410,
+          "votes_abstain": 1324,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2179583,
+          "votes_against": 42609,
+          "votes_abstain": 4707,
+          "approval_pct": 97.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WA9V",
@@ -321,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:09:03.788Z"
+  "updated_at": "2026-07-04T00:52:13.143Z"
 }

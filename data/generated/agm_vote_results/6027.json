@@ -1,0 +1,52 @@
+{
+  "company_code": "6027",
+  "company_name": "弁護士ドットコム",
+  "meetings": [
+    {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YHXR",
+      "submit_date_time": "2026-06-23 16:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHXR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 201631,
+          "votes_against": 575,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "中西悟司須田仁之大庭崇彦",
+          "votes_for": 201407179551191650,
+          "votes_against": 7992265510569,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役の報酬等の額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 200639,
+          "votes_against": 1567,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-04T01:50:41.325Z"
+}

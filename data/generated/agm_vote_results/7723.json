@@ -3,6 +3,123 @@
   "company_name": "愛知時計電機",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YM3S",
+      "submit_date_time": "2026-06-26 14:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM3S",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 108651,
+          "votes_against": 553,
+          "votes_abstain": 0,
+          "approval_pct": 97.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "星加俊之",
+          "votes_for": 104467,
+          "votes_against": 4736,
+          "votes_abstain": 0,
+          "approval_pct": 94.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "國島賢治",
+          "votes_for": 105503,
+          "votes_against": 3700,
+          "votes_abstain": 0,
+          "approval_pct": 95.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田豊",
+          "votes_for": 108974,
+          "votes_against": 229,
+          "votes_abstain": 0,
+          "approval_pct": 98.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森和久",
+          "votes_for": 108968,
+          "votes_against": 235,
+          "votes_abstain": 0,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡田千絵",
+          "votes_for": 108979,
+          "votes_against": 225,
+          "votes_abstain": 0,
+          "approval_pct": 98.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "笠野雅嗣",
+          "votes_for": 108961,
+          "votes_against": 242,
+          "votes_abstain": 0,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "板倉麻子",
+          "votes_for": 108956,
+          "votes_against": 248,
+          "votes_abstain": 0,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役賞与の支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 108392,
+          "votes_against": 812,
+          "votes_abstain": 0,
+          "approval_pct": 97.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W83F",
@@ -345,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:33:51.701Z"
+  "updated_at": "2026-07-04T01:23:51.864Z"
 }

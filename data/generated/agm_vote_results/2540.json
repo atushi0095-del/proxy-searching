@@ -3,6 +3,156 @@
   "company_name": "養命酒製造",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YI44",
+      "submit_date_time": "2026-06-23 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YI44",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田中英雄",
+          "votes_for": 5,
+          "votes_against": 0,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "神林敬",
+          "votes_for": 5,
+          "votes_against": 0,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "斉藤隆",
+          "votes_for": 5,
+          "votes_against": 0,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮下克彦",
+          "votes_for": 5,
+          "votes_against": 0,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "清水政明",
+          "votes_for": 5,
+          "votes_against": 0,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井川明",
+          "votes_for": 5,
+          "votes_against": 0,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田中昌之",
+          "votes_for": 5,
+          "votes_against": 0,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "須永明美",
+          "votes_for": 5,
+          "votes_against": 0,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐藤敦子",
+          "votes_for": 5,
+          "votes_against": 0,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
+      "meeting_date": "2026-06-01",
+      "meeting_year": 2026,
+      "doc_id": "S100Y83A",
+      "submit_date_time": "2026-06-02 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y83A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 124255,
+          "votes_against": 840,
+          "votes_abstain": 291,
+          "approval_pct": 99.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 124266,
+          "votes_against": 827,
+          "votes_abstain": 291,
+          "approval_pct": 99.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W421",
@@ -189,5 +339,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:07:36.110Z"
+  "updated_at": "2026-07-04T02:05:43.413Z"
 }

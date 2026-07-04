@@ -3,6 +3,99 @@
   "company_name": "ヤマシンフィルタ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YNP8",
+      "submit_date_time": "2026-07-01 14:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNP8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山崎敦彦",
+          "votes_for": 564319,
+          "votes_against": 5879,
+          "votes_abstain": 0,
+          "approval_pct": 98.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山崎裕明",
+          "votes_for": 567004,
+          "votes_against": 3194,
+          "votes_abstain": 0,
+          "approval_pct": 99.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井岡周久",
+          "votes_for": 566812,
+          "votes_against": 3386,
+          "votes_abstain": 0,
+          "approval_pct": 99.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山崎敬明",
+          "votes_for": 567123,
+          "votes_against": 3075,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森田秀朗",
+          "votes_for": 567514,
+          "votes_against": 3193,
+          "votes_abstain": 0,
+          "approval_pct": 99.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "板野泰之",
+          "votes_for": 567765,
+          "votes_against": 2942,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上平洋輔",
+          "votes_for": 568043,
+          "votes_against": 2664,
+          "votes_abstain": 0,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7JS",
@@ -225,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:10:45.291Z"
+  "updated_at": "2026-07-04T00:51:09.748Z"
 }

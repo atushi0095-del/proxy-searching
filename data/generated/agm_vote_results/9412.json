@@ -3,6 +3,27 @@
   "company_name": "スカパーＪＳＡＴホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YITD",
+      "submit_date_time": "2026-06-24 13:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YITD",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役の報酬等の額（譲渡制限付株式の付与のための報酬額を含む）改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 2477451,
+          "votes_against": 42172,
+          "votes_abstain": 23,
+          "approval_pct": 97.5,
+          "approval_pct_source": "reported",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W5XK",
@@ -24,5 +45,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:58:50.675Z"
+  "updated_at": "2026-07-04T01:48:45.814Z"
 }

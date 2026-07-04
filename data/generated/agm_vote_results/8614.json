@@ -3,6 +3,147 @@
   "company_name": "東洋証券",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YMKH",
+      "submit_date_time": "2026-06-29 10:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMKH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川憲洋",
+          "votes_for": 431405,
+          "votes_against": 12122,
+          "votes_abstain": 0,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "圓城寺貢",
+          "votes_for": 440263,
+          "votes_against": 3264,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本誠",
+          "votes_for": 440351,
+          "votes_against": 3176,
+          "votes_abstain": 0,
+          "approval_pct": 99.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平田聡",
+          "votes_for": 440471,
+          "votes_against": 3056,
+          "votes_abstain": 0,
+          "approval_pct": 99.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤義雄",
+          "votes_for": 432828,
+          "votes_against": 10699,
+          "votes_abstain": 0,
+          "approval_pct": 97.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石田惠美",
+          "votes_for": 439916,
+          "votes_against": 3611,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉原和仁",
+          "votes_for": 439325,
+          "votes_against": 4202,
+          "votes_abstain": 0,
+          "approval_pct": 99.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白井真",
+          "votes_for": 439820,
+          "votes_against": 3707,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村山敏康",
+          "votes_for": 430086,
+          "votes_against": 13441,
+          "votes_abstain": 0,
+          "approval_pct": 96.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石崎雅文",
+          "votes_for": 428916,
+          "votes_against": 14611,
+          "votes_abstain": 0,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村祭氏",
+          "votes_for": 426662,
+          "votes_against": 16865,
+          "votes_abstain": 0,
+          "approval_pct": 96.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7PQ",
@@ -309,5 +450,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:42:00.219Z"
+  "updated_at": "2026-07-04T01:16:11.102Z"
 }

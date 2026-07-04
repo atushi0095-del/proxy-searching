@@ -3,6 +3,39 @@
   "company_name": "ハマキョウレックス",
   "meetings": [
     {
+      "meeting_date": "2026-06-17",
+      "meeting_year": 2026,
+      "doc_id": "S100YH4J",
+      "submit_date_time": "2026-06-22 16:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YH4J",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案大須賀正孝大須賀秀徳奥津靖雄山岡毅那須田貴市大津善敬森猛片田須美子影山剛士",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6.174885896356559e+53,
+          "votes_against": 4.222670041382438e+37,
+          "votes_abstain": 1.842211841841842e+26,
+          "approval_pct": 93.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案森下常則円谷和正",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 657741657786,
+          "votes_against": 20371992,
+          "votes_abstain": 184184,
+          "approval_pct": 99.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100W7S0",
@@ -177,5 +210,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:45:04.566Z"
+  "updated_at": "2026-07-04T01:54:00.174Z"
 }

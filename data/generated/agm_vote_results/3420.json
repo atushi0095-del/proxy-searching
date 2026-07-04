@@ -3,6 +3,123 @@
   "company_name": "ケー・エフ・シー",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YGNK",
+      "submit_date_time": "2026-06-22 13:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGNK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 62056,
+          "votes_against": 211,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田村知幸",
+          "votes_for": 59368,
+          "votes_against": 2899,
+          "votes_abstain": null,
+          "approval_pct": 95.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石田裕宗",
+          "votes_for": 61914,
+          "votes_against": 353,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "稲葉朗",
+          "votes_for": 61914,
+          "votes_against": 353,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石原淳",
+          "votes_for": 61915,
+          "votes_against": 352,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐竹辰州",
+          "votes_for": 61922,
+          "votes_against": 345,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中桐万里子",
+          "votes_for": 61896,
+          "votes_against": 371,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "榎本麗美",
+          "votes_for": 61895,
+          "votes_against": 372,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "嶋孝浩",
+          "votes_for": 61918,
+          "votes_against": 349,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W1ZW",
@@ -261,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:11:51.800Z"
+  "updated_at": "2026-07-04T01:55:41.257Z"
 }

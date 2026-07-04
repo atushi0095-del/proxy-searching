@@ -3,6 +3,147 @@
   "company_name": "ラサ工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YIIZ",
+      "submit_date_time": "2026-06-26 11:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIIZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 50295,
+          "votes_against": 101,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "坂尾耕作",
+          "votes_for": 46097,
+          "votes_against": 4299,
+          "votes_abstain": 0,
+          "approval_pct": 91.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "北田勝誠",
+          "votes_for": 46904,
+          "votes_against": 3492,
+          "votes_abstain": 0,
+          "approval_pct": 93.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮野隆徳",
+          "votes_for": 46939,
+          "votes_against": 3457,
+          "votes_abstain": 0,
+          "approval_pct": 93.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "羽部吉弘",
+          "votes_for": 46932,
+          "votes_against": 3464,
+          "votes_abstain": 0,
+          "approval_pct": 93.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "林敦",
+          "votes_for": 46896,
+          "votes_against": 3500,
+          "votes_abstain": 0,
+          "approval_pct": 93.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山本卓司",
+          "votes_for": 43111,
+          "votes_against": 7285,
+          "votes_abstain": 0,
+          "approval_pct": 85.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "原田大輔",
+          "votes_for": 43001,
+          "votes_against": 7395,
+          "votes_abstain": 0,
+          "approval_pct": 85.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤井美穂",
+          "votes_for": 49931,
+          "votes_against": 465,
+          "votes_abstain": 0,
+          "approval_pct": 99.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役（監査等委員である取締役を除く。）の報酬等の額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 50123,
+          "votes_against": 273,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査等委員である取締役の報酬等の額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 50122,
+          "votes_against": 274,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W8LX",
@@ -189,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:24:12.981Z"
+  "updated_at": "2026-07-04T01:28:23.048Z"
 }

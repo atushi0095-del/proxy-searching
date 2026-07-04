@@ -3,6 +3,75 @@
   "company_name": "センコーグループホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YILB",
+      "submit_date_time": "2026-06-26 16:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YILB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1341286,
+          "votes_against": 1463,
+          "votes_abstain": 4660,
+          "approval_pct": 99.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1341120,
+          "votes_against": 1629,
+          "votes_abstain": 4660,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "細溝清史",
+          "votes_for": 1087843,
+          "votes_against": 168601,
+          "votes_abstain": 90960,
+          "approval_pct": 80.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡村宏太郎",
+          "votes_for": 347987,
+          "votes_against": 994388,
+          "votes_abstain": 4963,
+          "approval_pct": 25.83,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 334220,
+          "votes_against": 1007872,
+          "votes_abstain": 4963,
+          "approval_pct": 24.8,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8LP",
@@ -225,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:36:28.463Z"
+  "updated_at": "2026-07-04T01:19:44.784Z"
 }

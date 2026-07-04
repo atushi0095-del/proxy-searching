@@ -3,6 +3,123 @@
   "company_name": "日本トムソン",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN7K",
+      "submit_date_time": "2026-06-30 13:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN7K",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 578547,
+          "votes_against": 704,
+          "votes_abstain": 0,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 578483,
+          "votes_against": 768,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮地茂樹",
+          "votes_for": 515092,
+          "votes_against": 64158,
+          "votes_abstain": 0,
+          "approval_pct": 88.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "秀島信也",
+          "votes_for": 535591,
+          "votes_against": 43659,
+          "votes_abstain": 0,
+          "approval_pct": 92.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "細野幹人",
+          "votes_for": 529992,
+          "votes_against": 49258,
+          "votes_abstain": 0,
+          "approval_pct": 91.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西村修",
+          "votes_for": 574029,
+          "votes_against": 5221,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武井洋一",
+          "votes_for": 476351,
+          "votes_against": 102899,
+          "votes_abstain": 0,
+          "approval_pct": 82.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "齊藤聡",
+          "votes_for": 460888,
+          "votes_against": 118362,
+          "votes_abstain": 0,
+          "approval_pct": 79.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野田篤子",
+          "votes_for": 544284,
+          "votes_against": 34966,
+          "votes_abstain": 0,
+          "approval_pct": 93.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100VXNE",
@@ -333,5 +450,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:10:35.374Z"
+  "updated_at": "2026-07-04T00:59:15.386Z"
 }

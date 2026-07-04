@@ -3,6 +3,111 @@
   "company_name": "早稲田アカデミー",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YMBK",
+      "submit_date_time": "2026-06-26 17:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMBK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 152294,
+          "votes_against": 418,
+          "votes_abstain": 0,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本豊",
+          "votes_for": 149355,
+          "votes_against": 3359,
+          "votes_abstain": 0,
+          "approval_pct": 97.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤誠",
+          "votes_for": 152059,
+          "votes_against": 655,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "相澤好寬",
+          "votes_for": 152064,
+          "votes_against": 650,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千葉崇博",
+          "votes_for": 152051,
+          "votes_against": 663,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三谷和歌子",
+          "votes_for": 151943,
+          "votes_against": 771,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小倉泰彦",
+          "votes_for": 151999,
+          "votes_against": 715,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 151759,
+          "votes_against": 955,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WA7H",
@@ -261,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:10:11.024Z"
+  "updated_at": "2026-07-04T01:18:43.206Z"
 }

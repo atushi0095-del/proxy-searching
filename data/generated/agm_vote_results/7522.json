@@ -3,6 +3,111 @@
   "company_name": "ワタミ",
   "meetings": [
     {
+      "meeting_date": "2026-06-27",
+      "meeting_year": 2026,
+      "doc_id": "S100YMVP",
+      "submit_date_time": "2026-06-29 14:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMVP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 303286,
+          "votes_against": 1454,
+          "votes_abstain": 94,
+          "approval_pct": 93.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉美樹",
+          "votes_for": 293682,
+          "votes_against": 11067,
+          "votes_abstain": 94,
+          "approval_pct": 90.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水邦晃",
+          "votes_for": 303035,
+          "votes_against": 1715,
+          "votes_abstain": 94,
+          "approval_pct": 93.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉将也",
+          "votes_for": 302741,
+          "votes_against": 2009,
+          "votes_abstain": 94,
+          "approval_pct": 93.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "肥塚俊成",
+          "votes_for": 263961,
+          "votes_against": 40778,
+          "votes_abstain": 94,
+          "approval_pct": 81.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大石美奈子",
+          "votes_for": 302850,
+          "votes_against": 1890,
+          "votes_abstain": 94,
+          "approval_pct": 93.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊東利哉",
+          "votes_for": 303006,
+          "votes_against": 1734,
+          "votes_abstain": 94,
+          "approval_pct": 93.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 276578,
+          "votes_against": 28172,
+          "votes_abstain": 94,
+          "approval_pct": 85.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-29",
       "meeting_year": 2025,
       "doc_id": "S100W9S0",
@@ -189,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:14:16.892Z"
+  "updated_at": "2026-07-04T01:08:48.172Z"
 }

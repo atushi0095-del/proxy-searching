@@ -3,6 +3,51 @@
   "company_name": "東光高岳",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YM2K",
+      "submit_date_time": "2026-06-26 14:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM2K",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 127342,
+          "votes_against": 155,
+          "votes_abstain": 110,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件磯守一ノ瀬貴士植村明魚住吉博金子禎則水本州彦",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 1.2268311642712712e+34,
+          "votes_against": 4.817110723732823e+23,
+          "votes_abstain": 110110110110110110,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件小久保祥孝小塚文晴若山達也和田希志子",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 7.908410404511793e+22,
+          "votes_against": 48416234549574290,
+          "votes_abstain": 110110110110,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W8LT",
@@ -57,5 +102,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:35:44.708Z"
+  "updated_at": "2026-07-04T01:23:54.213Z"
 }

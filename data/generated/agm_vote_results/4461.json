@@ -3,6 +3,135 @@
   "company_name": "第一工業製薬",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKVN",
+      "submit_date_time": "2026-06-25 15:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKVN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 72077,
+          "votes_against": 930,
+          "votes_abstain": 958,
+          "approval_pct": 96.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山路直貴",
+          "votes_for": 69084,
+          "votes_against": 3923,
+          "votes_abstain": 958,
+          "approval_pct": 92.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水伸二",
+          "votes_for": 69356,
+          "votes_against": 3651,
+          "votes_abstain": 958,
+          "approval_pct": 92.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂本真美",
+          "votes_for": 70155,
+          "votes_against": 2852,
+          "votes_abstain": 958,
+          "approval_pct": 93.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北尾真大",
+          "votes_for": 70182,
+          "votes_against": 2825,
+          "votes_abstain": 958,
+          "approval_pct": 93.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥山喜久夫",
+          "votes_for": 72584,
+          "votes_against": 423,
+          "votes_abstain": 958,
+          "approval_pct": 97.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本克己",
+          "votes_for": 67634,
+          "votes_against": 5373,
+          "votes_abstain": 958,
+          "approval_pct": 90.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中野秀代",
+          "votes_for": 72453,
+          "votes_against": 554,
+          "votes_abstain": 958,
+          "approval_pct": 96.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "櫻井繁樹",
+          "votes_for": 67856,
+          "votes_against": 5151,
+          "votes_abstain": 958,
+          "approval_pct": 90.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塚本英伸",
+          "votes_for": 72925,
+          "votes_against": 82,
+          "votes_abstain": null,
+          "approval_pct": 97.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8HD",
@@ -285,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:35:02.870Z"
+  "updated_at": "2026-07-04T01:37:02.171Z"
 }

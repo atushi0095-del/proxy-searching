@@ -3,6 +3,135 @@
   "company_name": "東京エレクトロン　デバイス",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YHHB",
+      "submit_date_time": "2026-06-23 09:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHHB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "徳重敦之",
+          "votes_for": 228507,
+          "votes_against": 2294,
+          "votes_abstain": 0,
+          "approval_pct": 99.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "宮本隆義",
+          "votes_for": 228724,
+          "votes_against": 2077,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長谷川雅巳",
+          "votes_for": 228905,
+          "votes_against": 1897,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "常石哲男",
+          "votes_for": 228473,
+          "votes_against": 2329,
+          "votes_abstain": 0,
+          "approval_pct": 98.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鬼塚ひろみ",
+          "votes_for": 228629,
+          "votes_against": 2174,
+          "votes_abstain": 0,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西田啓",
+          "votes_for": 228876,
+          "votes_against": 1927,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "逢坂清治",
+          "votes_for": 229104,
+          "votes_against": 1699,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "浜辺真紀子",
+          "votes_for": 229249,
+          "votes_against": 1555,
+          "votes_abstain": 0,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "桑原清幸",
+          "votes_for": 229545,
+          "votes_against": 1269,
+          "votes_abstain": 0,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 228579,
+          "votes_against": 2236,
+          "votes_abstain": 0,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W3HI",
@@ -309,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:08:03.851Z"
+  "updated_at": "2026-07-04T01:53:27.451Z"
 }

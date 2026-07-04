@@ -3,6 +3,111 @@
   "company_name": "東京産業",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKTX",
+      "submit_date_time": "2026-06-25 13:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKTX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 211094,
+          "votes_against": 955,
+          "votes_abstain": 0,
+          "approval_pct": 99.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "蒲原稔",
+          "votes_for": 181714,
+          "votes_against": 30335,
+          "votes_abstain": 0,
+          "approval_pct": 85.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "浅田泰生",
+          "votes_for": 200930,
+          "votes_against": 11119,
+          "votes_abstain": 0,
+          "approval_pct": 94.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田沢健次",
+          "votes_for": 209159,
+          "votes_against": 2890,
+          "votes_abstain": 0,
+          "approval_pct": 98.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "目時英一",
+          "votes_for": 209121,
+          "votes_against": 2928,
+          "votes_abstain": 0,
+          "approval_pct": 98.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村直",
+          "votes_for": 208577,
+          "votes_against": 3472,
+          "votes_abstain": 0,
+          "approval_pct": 98.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田中直之",
+          "votes_for": 209163,
+          "votes_against": 2886,
+          "votes_abstain": 0,
+          "approval_pct": 98.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "金子正志",
+          "votes_for": 169117,
+          "votes_against": 42932,
+          "votes_abstain": 0,
+          "approval_pct": 79.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8C0",
@@ -249,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:40:01.204Z"
+  "updated_at": "2026-07-04T01:39:03.911Z"
 }

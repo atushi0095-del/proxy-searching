@@ -3,6 +3,111 @@
   "company_name": "東陽倉庫",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YK26",
+      "submit_date_time": "2026-06-26 15:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YK26",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武藤正春",
+          "votes_for": 53379,
+          "votes_against": 547,
+          "votes_abstain": 21,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒田城児",
+          "votes_for": 53581,
+          "votes_against": 395,
+          "votes_abstain": 21,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉誠",
+          "votes_for": 53622,
+          "votes_against": 304,
+          "votes_abstain": 21,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青山章",
+          "votes_for": 53622,
+          "votes_against": 304,
+          "votes_abstain": 21,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小鹿誓子",
+          "votes_for": 53578,
+          "votes_against": 348,
+          "votes_abstain": 21,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大嶋主税",
+          "votes_for": 53473,
+          "votes_against": 453,
+          "votes_abstain": 21,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅井利昭",
+          "votes_for": 53639,
+          "votes_against": 308,
+          "votes_abstain": null,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "早川惠久",
+          "votes_for": 53450,
+          "votes_against": 497,
+          "votes_abstain": null,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W7XC",
@@ -213,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:35:49.526Z"
+  "updated_at": "2026-07-04T01:23:02.565Z"
 }

@@ -3,6 +3,87 @@
   "company_name": "光通信",
   "meetings": [
     {
+      "meeting_date": "2026-06-27",
+      "meeting_year": 2026,
+      "doc_id": "S100YMJE",
+      "submit_date_time": "2026-06-29 14:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMJE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "重田康光",
+          "votes_for": 330336,
+          "votes_against": 64000,
+          "votes_abstain": 76,
+          "approval_pct": 83.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和田英明",
+          "votes_for": 345128,
+          "votes_against": 48771,
+          "votes_abstain": 509,
+          "approval_pct": 87.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋正人",
+          "votes_for": 384124,
+          "votes_against": 10294,
+          "votes_abstain": 2,
+          "approval_pct": 96.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "矢田尚子",
+          "votes_for": 383965,
+          "votes_against": 10453,
+          "votes_abstain": 2,
+          "approval_pct": 96.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柳下裕紀",
+          "votes_for": 388531,
+          "votes_against": 5892,
+          "votes_abstain": 2,
+          "approval_pct": 98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 393484,
+          "votes_against": 893,
+          "votes_abstain": 69,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-28",
       "meeting_year": 2025,
       "doc_id": "S100W9H2",
@@ -108,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:23:10.704Z"
+  "updated_at": "2026-07-04T01:09:32.235Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "プレミアグループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKWJ",
+      "submit_date_time": "2026-06-25 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKWJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柴田洋一",
+          "votes_for": 281282,
+          "votes_against": 942,
+          "votes_abstain": 693,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "土屋佳之",
+          "votes_for": 281199,
+          "votes_against": 1025,
+          "votes_abstain": 693,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金澤友洋",
+          "votes_for": 281169,
+          "votes_against": 1055,
+          "votes_abstain": 693,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川二博",
+          "votes_for": 273972,
+          "votes_against": 8252,
+          "votes_abstain": 693,
+          "approval_pct": 96.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀越友香",
+          "votes_for": 281158,
+          "votes_against": 1066,
+          "votes_abstain": 693,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大嶋裕美",
+          "votes_for": 281159,
+          "votes_against": 1065,
+          "votes_abstain": 693,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 280140,
+          "votes_against": 2121,
+          "votes_abstain": 693,
+          "approval_pct": 98.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7JL",
@@ -132,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:47:35.639Z"
+  "updated_at": "2026-07-04T01:36:07.037Z"
 }

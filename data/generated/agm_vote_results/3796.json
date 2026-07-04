@@ -3,6 +3,111 @@
   "company_name": "いい生活",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YN9K",
+      "submit_date_time": "2026-06-30 15:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN9K",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 56257,
+          "votes_against": 1254,
+          "votes_abstain": 0,
+          "approval_pct": 97.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村清高",
+          "votes_for": 56854,
+          "votes_against": 657,
+          "votes_abstain": 0,
+          "approval_pct": 98.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前野善一",
+          "votes_for": 56726,
+          "votes_against": 785,
+          "votes_abstain": 0,
+          "approval_pct": 97.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塩川拓行",
+          "votes_for": 56917,
+          "votes_against": 594,
+          "votes_abstain": 0,
+          "approval_pct": 98.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北澤弘貴",
+          "votes_for": 56917,
+          "votes_against": 594,
+          "votes_abstain": 0,
+          "approval_pct": 98.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松崎明",
+          "votes_for": 56931,
+          "votes_against": 580,
+          "votes_abstain": 0,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤耕一郎",
+          "votes_for": 56929,
+          "votes_against": 582,
+          "votes_abstain": 0,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池澤正光",
+          "votes_for": 56927,
+          "votes_against": 584,
+          "votes_abstain": 0,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W8LS",
@@ -201,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:17:40.516Z"
+  "updated_at": "2026-07-04T00:55:39.401Z"
 }

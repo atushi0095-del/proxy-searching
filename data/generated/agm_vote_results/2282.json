@@ -3,6 +3,135 @@
   "company_name": "日本ハム",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLYQ",
+      "submit_date_time": "2026-06-26 13:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLYQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "井川伸久",
+          "votes_for": 719010,
+          "votes_against": 18942,
+          "votes_abstain": 0,
+          "approval_pct": 97.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "前田文男",
+          "votes_for": 723604,
+          "votes_against": 14345,
+          "votes_abstain": 0,
+          "approval_pct": 98.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "秋山光平",
+          "votes_for": 721598,
+          "votes_against": 16355,
+          "votes_abstain": 0,
+          "approval_pct": 97.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山崎徳司",
+          "votes_for": 708525,
+          "votes_against": 29430,
+          "votes_abstain": 0,
+          "approval_pct": 96.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "宮崎裕子",
+          "votes_for": 734549,
+          "votes_against": 3406,
+          "votes_abstain": 0,
+          "approval_pct": 99.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小山正彦",
+          "votes_for": 714840,
+          "votes_against": 23115,
+          "votes_abstain": 0,
+          "approval_pct": 96.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "朝山晃行",
+          "votes_for": 727556,
+          "votes_against": 10396,
+          "votes_abstain": 0,
+          "approval_pct": 98.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大谷弘子",
+          "votes_for": 721527,
+          "votes_against": 16430,
+          "votes_abstain": 0,
+          "approval_pct": 97.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "西山茂",
+          "votes_for": 729337,
+          "votes_against": 8671,
+          "votes_abstain": 0,
+          "approval_pct": 98.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "長谷川佳孝",
+          "votes_for": 724677,
+          "votes_against": 13330,
+          "votes_abstain": 0,
+          "approval_pct": 98.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W86J",
@@ -249,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:41:55.324Z"
+  "updated_at": "2026-07-04T01:25:51.343Z"
 }

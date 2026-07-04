@@ -3,6 +3,135 @@
   "company_name": "メニコン",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMF4",
+      "submit_date_time": "2026-06-29 16:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMF4",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川浦康嗣",
+          "votes_for": 559611,
+          "votes_against": 73997,
+          "votes_abstain": 0,
+          "approval_pct": 88.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "滝野喜之",
+          "votes_for": 567975,
+          "votes_against": 65633,
+          "votes_abstain": 0,
+          "approval_pct": 89.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "篠田浩樹",
+          "votes_for": 581640,
+          "votes_against": 51969,
+          "votes_abstain": 0,
+          "approval_pct": 91.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渡辺眞吾",
+          "votes_for": 532433,
+          "votes_against": 101176,
+          "votes_abstain": 0,
+          "approval_pct": 84.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "柳川勝彦",
+          "votes_for": 583605,
+          "votes_against": 50004,
+          "votes_abstain": 0,
+          "approval_pct": 92.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "寺﨑浩子",
+          "votes_for": 597796,
+          "votes_against": 35816,
+          "votes_abstain": 0,
+          "approval_pct": 94.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "竹内裕美",
+          "votes_for": 598343,
+          "votes_against": 35269,
+          "votes_abstain": 0,
+          "approval_pct": 94.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "増本勝彦",
+          "votes_for": 598310,
+          "votes_against": 35302,
+          "votes_abstain": 0,
+          "approval_pct": 94.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案当社子会社取締役（国内居住者）に対するストック・オプション付与の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 625743,
+          "votes_against": 7884,
+          "votes_abstain": 0,
+          "approval_pct": 98.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案当社子会社取締役及び当社子会社従業員（国内非居住者）に対するストック・オプション付与の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 625672,
+          "votes_against": 7955,
+          "votes_abstain": 0,
+          "approval_pct": 98.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8EB",
@@ -273,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:36:11.450Z"
+  "updated_at": "2026-07-04T01:04:24.890Z"
 }

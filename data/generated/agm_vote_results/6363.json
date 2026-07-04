@@ -132,6 +132,99 @@
       ]
     },
     {
+      "meeting_date": "2025-06-24",
+      "meeting_year": 2025,
+      "doc_id": "S100YKAT",
+      "submit_date_time": "2026-06-25 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKAT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田耕太郎",
+          "votes_for": 193258,
+          "votes_against": 7430,
+          "votes_abstain": 10,
+          "approval_pct": 96.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ジェラルド・アッシュ",
+          "votes_for": 196047,
+          "votes_against": 4641,
+          "votes_abstain": 10,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "アリスター・フレット",
+          "votes_for": 196079,
+          "votes_against": 4609,
+          "votes_abstain": 10,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "昼沢義則",
+          "votes_for": 196124,
+          "votes_against": 4564,
+          "votes_abstain": 10,
+          "approval_pct": 97.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井植敏雅",
+          "votes_for": 199066,
+          "votes_against": 1622,
+          "votes_abstain": 10,
+          "approval_pct": 99.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上田理恵子",
+          "votes_for": 188494,
+          "votes_against": 12194,
+          "votes_abstain": 10,
+          "approval_pct": 93.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "植村淳子",
+          "votes_for": 199787,
+          "votes_against": 901,
+          "votes_abstain": 10,
+          "approval_pct": 99.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TS8K",
@@ -237,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:51:23.370Z"
+  "updated_at": "2026-07-04T01:43:24.310Z"
 }

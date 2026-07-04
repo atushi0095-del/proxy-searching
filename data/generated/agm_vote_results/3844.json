@@ -3,6 +3,75 @@
   "company_name": "コムチュア",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMUG",
+      "submit_date_time": "2026-06-29 13:29",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMUG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 218194,
+          "votes_against": 723,
+          "votes_abstain": 0,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "亀井貴裕",
+          "votes_for": 214716,
+          "votes_against": 4201,
+          "votes_abstain": 0,
+          "approval_pct": 98.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中谷隆太",
+          "votes_for": 214818,
+          "votes_against": 4099,
+          "votes_abstain": 0,
+          "approval_pct": 98.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "福本俊一",
+          "votes_for": 214878,
+          "votes_against": 4039,
+          "votes_abstain": 0,
+          "approval_pct": 98.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "原田豊",
+          "votes_for": 215456,
+          "votes_against": 3461,
+          "votes_abstain": 0,
+          "approval_pct": 98.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9I4",
@@ -177,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:22:28.791Z"
+  "updated_at": "2026-07-04T01:11:44.276Z"
 }

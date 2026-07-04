@@ -3,6 +3,147 @@
   "company_name": "三菱化工機",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YND7",
+      "submit_date_time": "2026-06-30 10:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YND7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 139667,
+          "votes_against": 199,
+          "votes_abstain": 268,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中利一",
+          "votes_for": 133868,
+          "votes_against": 6004,
+          "votes_abstain": 268,
+          "approval_pct": 95.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "矢島史朗",
+          "votes_for": 139167,
+          "votes_against": 705,
+          "votes_abstain": 268,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上隆",
+          "votes_for": 139174,
+          "votes_against": 698,
+          "votes_abstain": 268,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮本智成",
+          "votes_for": 139145,
+          "votes_against": 727,
+          "votes_abstain": 268,
+          "approval_pct": 99.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "楠正顕",
+          "votes_for": 133096,
+          "votes_against": 6776,
+          "votes_abstain": 268,
+          "approval_pct": 94.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山美加",
+          "votes_for": 136417,
+          "votes_against": 3455,
+          "votes_abstain": 268,
+          "approval_pct": 97.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河口眞理子",
+          "votes_for": 139291,
+          "votes_against": 581,
+          "votes_abstain": 268,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "酒見伸一",
+          "votes_for": 136881,
+          "votes_against": 2988,
+          "votes_abstain": 268,
+          "approval_pct": 97.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "仁田裕也",
+          "votes_for": 139405,
+          "votes_against": 464,
+          "votes_abstain": 268,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小出恵美子",
+          "votes_for": 139455,
+          "votes_against": 414,
+          "votes_abstain": 268,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WA3U",
@@ -297,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:11:50.806Z"
+  "updated_at": "2026-07-04T01:01:42.596Z"
 }

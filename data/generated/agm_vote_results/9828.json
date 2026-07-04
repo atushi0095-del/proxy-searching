@@ -3,6 +3,135 @@
   "company_name": "Ｇｅｎｋｉ　Ｇｌｏｂａｌ　Ｄｉｎｉｎｇ　Ｃｏｎｃｅｐｔｓ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YHGZ",
+      "submit_date_time": "2026-06-23 09:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHGZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 128731,
+          "votes_against": 610,
+          "votes_abstain": 25,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 128540,
+          "votes_against": 803,
+          "votes_abstain": 25,
+          "approval_pct": 99.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤尾益雄",
+          "votes_for": 118598,
+          "votes_against": 10742,
+          "votes_abstain": 25,
+          "approval_pct": 91.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤尾益造",
+          "votes_for": 115008,
+          "votes_against": 14332,
+          "votes_abstain": 25,
+          "approval_pct": 88.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西谷賢亮",
+          "votes_for": 124355,
+          "votes_against": 4986,
+          "votes_abstain": 25,
+          "approval_pct": 96.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "櫻井宏樹",
+          "votes_for": 124319,
+          "votes_against": 5022,
+          "votes_abstain": 25,
+          "approval_pct": 96.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岩谷博紀",
+          "votes_for": 124405,
+          "votes_against": 4936,
+          "votes_abstain": 25,
+          "approval_pct": 96.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "柄澤彰",
+          "votes_for": 124194,
+          "votes_against": 5147,
+          "votes_abstain": 25,
+          "approval_pct": 96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小高真智子",
+          "votes_for": 124414,
+          "votes_against": 4927,
+          "votes_abstain": 25,
+          "approval_pct": 96.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "栗原誠二",
+          "votes_for": 128168,
+          "votes_against": 1174,
+          "votes_abstain": 25,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2WC",
@@ -249,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:09:32.167Z"
+  "updated_at": "2026-07-04T01:53:34.463Z"
 }

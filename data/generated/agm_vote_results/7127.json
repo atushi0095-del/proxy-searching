@@ -3,6 +3,39 @@
   "company_name": "一家ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YKQ7",
+      "submit_date_time": "2026-06-25 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKQ7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件武長太郎秋山淳野瀬健髙橋広宜岩田明清水将登渡邉桂一赤塚元気",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 4.6155461654616244e+39,
+          "votes_against": 7.387287317277308e+23,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案会計監査人選任の件",
+          "proposal_category": "会計監査人選任",
+          "candidate_name": null,
+          "votes_for": 46260,
+          "votes_against": 684,
+          "votes_abstain": 0,
+          "approval_pct": 98.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W4A8",
@@ -57,5 +90,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:05:25.629Z"
+  "updated_at": "2026-07-04T01:35:57.841Z"
 }

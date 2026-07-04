@@ -3,6 +3,111 @@
   "company_name": "フジ・メディア・ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLPQ",
+      "submit_date_time": "2026-06-26 11:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLPQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1227618,
+          "votes_against": 2934,
+          "votes_abstain": 1076,
+          "approval_pct": 99.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "1清水賢治",
+          "votes_for": 1178946,
+          "votes_against": 51865,
+          "votes_abstain": 1076,
+          "approval_pct": 95.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "2柳敦史",
+          "votes_for": 1223457,
+          "votes_against": 7359,
+          "votes_abstain": 1076,
+          "approval_pct": 98.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "3稲田雅彦",
+          "votes_for": 1223796,
+          "votes_against": 7021,
+          "votes_abstain": 1076,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "4檜原麻希",
+          "votes_for": 1223614,
+          "votes_against": 7202,
+          "votes_abstain": 1076,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "5武内賢",
+          "votes_for": 1223609,
+          "votes_against": 7207,
+          "votes_abstain": 1076,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "6菅野嘉則",
+          "votes_for": 1224508,
+          "votes_against": 6309,
+          "votes_abstain": 1076,
+          "approval_pct": 98.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "7齊藤三希子",
+          "votes_for": 1224128,
+          "votes_against": 6688,
+          "votes_abstain": 1076,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6QE",
@@ -525,5 +630,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:52:06.078Z"
+  "updated_at": "2026-07-04T01:29:02.693Z"
 }

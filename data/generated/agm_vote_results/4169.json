@@ -3,6 +3,75 @@
   "company_name": "ENECHANGE",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YIWU",
+      "submit_date_time": "2026-06-24 13:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIWU",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 222035,
+          "votes_against": 2326,
+          "votes_abstain": null,
+          "approval_pct": 98.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "丸岡智也",
+          "votes_for": 219873,
+          "votes_against": 4673,
+          "votes_abstain": null,
+          "approval_pct": 97.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "平田政善",
+          "votes_for": 208670,
+          "votes_against": 15876,
+          "votes_abstain": null,
+          "approval_pct": 92.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安達健祐",
+          "votes_for": 208798,
+          "votes_against": 15748,
+          "votes_abstain": null,
+          "approval_pct": 92.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤田研一",
+          "votes_for": 208847,
+          "votes_against": 15699,
+          "votes_abstain": null,
+          "approval_pct": 93.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W4QC",
@@ -96,5 +165,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:57:21.301Z"
+  "updated_at": "2026-07-04T01:48:31.907Z"
 }

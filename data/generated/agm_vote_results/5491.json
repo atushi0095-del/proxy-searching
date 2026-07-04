@@ -3,6 +3,135 @@
   "company_name": "日本金属",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YO4Y",
+      "submit_date_time": "2026-07-02 09:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO4Y",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下川康志",
+          "votes_for": 33660,
+          "votes_against": 5239,
+          "votes_abstain": 0,
+          "approval_pct": 86.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田喜弘",
+          "votes_for": 34811,
+          "votes_against": 4088,
+          "votes_abstain": 0,
+          "approval_pct": 89.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山﨑修",
+          "votes_for": 34864,
+          "votes_against": 4035,
+          "votes_abstain": 0,
+          "approval_pct": 89.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小梛健史",
+          "votes_for": 34786,
+          "votes_against": 4113,
+          "votes_abstain": 0,
+          "approval_pct": 89.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川和洋",
+          "votes_for": 34770,
+          "votes_against": 4129,
+          "votes_abstain": 0,
+          "approval_pct": 89.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永塚良知",
+          "votes_for": 34799,
+          "votes_against": 4100,
+          "votes_abstain": 0,
+          "approval_pct": 89.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "假屋ゆう子",
+          "votes_for": 34788,
+          "votes_against": 4111,
+          "votes_abstain": 0,
+          "approval_pct": 89.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部裕",
+          "votes_for": 33664,
+          "votes_against": 5235,
+          "votes_abstain": 0,
+          "approval_pct": 86.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤寛",
+          "votes_for": 34897,
+          "votes_against": 4002,
+          "votes_abstain": 0,
+          "approval_pct": 89.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "豊島絵",
+          "votes_for": 34822,
+          "votes_against": 4077,
+          "votes_abstain": 0,
+          "approval_pct": 89.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WARL",
@@ -273,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:03:16.025Z"
+  "updated_at": "2026-07-04T00:48:50.343Z"
 }

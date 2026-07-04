@@ -3,6 +3,159 @@
   "company_name": "日本ライフライン",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNEA",
+      "submit_date_time": "2026-06-30 10:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNEA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 546970,
+          "votes_against": 1989,
+          "votes_abstain": 290,
+          "approval_pct": 97.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 547560,
+          "votes_against": 1399,
+          "votes_abstain": 290,
+          "approval_pct": 97.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木啓介",
+          "votes_for": 487082,
+          "votes_against": 61871,
+          "votes_abstain": 290,
+          "approval_pct": 86.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "村瀬達也",
+          "votes_for": 503572,
+          "votes_against": 45384,
+          "votes_abstain": 290,
+          "approval_pct": 89.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙宮徹",
+          "votes_for": 531144,
+          "votes_against": 17813,
+          "votes_abstain": 290,
+          "approval_pct": 94.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "江川毅芳",
+          "votes_for": 531295,
+          "votes_against": 17662,
+          "votes_abstain": 290,
+          "approval_pct": 94.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山田健二",
+          "votes_for": 530847,
+          "votes_against": 18110,
+          "votes_abstain": 290,
+          "approval_pct": 94.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊藤孝志",
+          "votes_for": 515163,
+          "votes_against": 33792,
+          "votes_abstain": 290,
+          "approval_pct": 91.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "干場由美子",
+          "votes_for": 531279,
+          "votes_against": 17678,
+          "votes_abstain": 290,
+          "approval_pct": 94.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "池井良彰",
+          "votes_for": 540908,
+          "votes_against": 8050,
+          "votes_abstain": 290,
+          "approval_pct": 96.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川原奈緒子",
+          "votes_for": 541324,
+          "votes_against": 7634,
+          "votes_abstain": 290,
+          "approval_pct": 96.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中川理惠",
+          "votes_for": 541040,
+          "votes_against": 7918,
+          "votes_abstain": 290,
+          "approval_pct": 96.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W99I",
@@ -345,5 +498,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:19:47.020Z"
+  "updated_at": "2026-07-04T01:00:43.966Z"
 }

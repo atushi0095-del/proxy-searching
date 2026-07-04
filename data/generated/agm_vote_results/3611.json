@@ -3,6 +3,135 @@
   "company_name": "マツオカコーポレーション",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMIV",
+      "submit_date_time": "2026-06-29 15:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMIV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 66359,
+          "votes_against": 173,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松岡典之",
+          "votes_for": 60027,
+          "votes_against": 6508,
+          "votes_abstain": 0,
+          "approval_pct": 90.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渡邉篤史",
+          "votes_for": 66079,
+          "votes_against": 456,
+          "votes_abstain": 0,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "馬場誠",
+          "votes_for": 66037,
+          "votes_against": 498,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "金子浩幸",
+          "votes_for": 66067,
+          "votes_against": 468,
+          "votes_abstain": 0,
+          "approval_pct": 99.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松岡辰徳",
+          "votes_for": 66055,
+          "votes_against": 480,
+          "votes_abstain": 0,
+          "approval_pct": 99.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松岡哲博",
+          "votes_for": 66050,
+          "votes_against": 485,
+          "votes_abstain": 0,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "江島貴志",
+          "votes_for": 65474,
+          "votes_against": 1061,
+          "votes_abstain": 0,
+          "approval_pct": 98.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ニクライペーテル",
+          "votes_for": 66055,
+          "votes_against": 480,
+          "votes_abstain": 0,
+          "approval_pct": 99.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤井昭光",
+          "votes_for": 66193,
+          "votes_against": 342,
+          "votes_abstain": 0,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9HR",
@@ -321,5 +450,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:18:59.501Z"
+  "updated_at": "2026-07-04T01:08:17.668Z"
 }

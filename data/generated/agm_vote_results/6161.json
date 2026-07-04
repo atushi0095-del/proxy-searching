@@ -3,6 +3,51 @@
   "company_name": "ｴｽﾃｨｯｸ",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YFB1",
+      "submit_date_time": "2026-06-19 13:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFB1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 75963,
+          "votes_against": 1989,
+          "votes_abstain": 8,
+          "approval_pct": 97.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木弘英",
+          "votes_for": 73152,
+          "votes_against": 4800,
+          "votes_abstain": 8,
+          "approval_pct": 93.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊勢嶋勇",
+          "votes_for": 73162,
+          "votes_against": 4790,
+          "votes_abstain": 8,
+          "approval_pct": 93.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W0MT",
@@ -129,5 +174,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:17:24.953Z"
+  "updated_at": "2026-07-04T01:58:55.590Z"
 }

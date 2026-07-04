@@ -3,6 +3,123 @@
   "company_name": "竹内製作所",
   "meetings": [
     {
+      "meeting_date": "2026-05-28",
+      "meeting_year": 2026,
+      "doc_id": "S100Y7X2",
+      "submit_date_time": "2026-06-01 15:42",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y7X2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "剰余金処分の件",
+          "votes_for": 374434,
+          "votes_against": 243,
+          "votes_abstain": 0,
+          "approval_pct": 99.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹内明雄",
+          "votes_for": 368886,
+          "votes_against": 5764,
+          "votes_abstain": 23,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹内敏也",
+          "votes_for": 371979,
+          "votes_against": 2672,
+          "votes_abstain": 23,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横山浩",
+          "votes_for": 372880,
+          "votes_against": 1795,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ClayEubanks",
+          "votes_for": 372873,
+          "votes_against": 1802,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "草間稔",
+          "votes_for": 361584,
+          "votes_against": 13090,
+          "votes_abstain": 0,
+          "approval_pct": 96.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩渕道男",
+          "votes_for": 373865,
+          "votes_against": 811,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "織英子",
+          "votes_for": 373891,
+          "votes_against": 785,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内山義隆",
+          "votes_for": 373864,
+          "votes_against": 811,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-29",
       "meeting_year": 2024,
       "doc_id": "S100TJK0",
@@ -156,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:31:51.542Z"
+  "updated_at": "2026-07-04T02:06:06.851Z"
 }

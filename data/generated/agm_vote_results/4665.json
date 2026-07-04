@@ -3,6 +3,159 @@
   "company_name": "ダスキン",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YGJG",
+      "submit_date_time": "2026-06-22 12:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGJG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 392068,
+          "votes_against": 736,
+          "votes_abstain": null,
+          "approval_pct": 99.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 391972,
+          "votes_against": 838,
+          "votes_abstain": null,
+          "approval_pct": 99.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大久保裕行",
+          "votes_for": 350195,
+          "votes_against": 42582,
+          "votes_abstain": 26,
+          "approval_pct": 89.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和田哲也",
+          "votes_for": 374055,
+          "votes_against": 18749,
+          "votes_abstain": null,
+          "approval_pct": 95.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上野進一郎",
+          "votes_for": 374030,
+          "votes_against": 18774,
+          "votes_abstain": null,
+          "approval_pct": 95.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "江村敬一",
+          "votes_for": 389421,
+          "votes_against": 3383,
+          "votes_abstain": null,
+          "approval_pct": 99.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯田健司",
+          "votes_for": 389325,
+          "votes_against": 3479,
+          "votes_abstain": null,
+          "approval_pct": 99.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "根本誠之",
+          "votes_for": 389371,
+          "votes_against": 3433,
+          "votes_abstain": null,
+          "approval_pct": 99.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武藏扶実",
+          "votes_for": 381254,
+          "votes_against": 11553,
+          "votes_abstain": null,
+          "approval_pct": 97.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川理惠",
+          "votes_for": 390568,
+          "votes_against": 2239,
+          "votes_abstain": null,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "関口暢子",
+          "votes_for": 390924,
+          "votes_against": 1883,
+          "votes_abstain": null,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 391517,
+          "votes_against": 1293,
+          "votes_abstain": null,
+          "approval_pct": 99.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W1N2",
@@ -309,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:10:46.946Z"
+  "updated_at": "2026-07-04T01:55:55.351Z"
 }

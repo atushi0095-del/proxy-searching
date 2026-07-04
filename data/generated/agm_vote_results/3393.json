@@ -3,6 +3,99 @@
   "company_name": "スターティアホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YFIZ",
+      "submit_date_time": "2026-06-19 15:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFIZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 68042,
+          "votes_against": 155,
+          "votes_abstain": 410,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "本郷秀之",
+          "votes_for": 67740,
+          "votes_against": 457,
+          "votes_abstain": 410,
+          "approval_pct": 98.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "北村健一",
+          "votes_for": 67899,
+          "votes_against": 298,
+          "votes_abstain": 410,
+          "approval_pct": 98.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "栗原博",
+          "votes_for": 67753,
+          "votes_against": 444,
+          "votes_abstain": 410,
+          "approval_pct": 98.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "下垣典弘",
+          "votes_for": 67978,
+          "votes_against": 219,
+          "votes_abstain": 410,
+          "approval_pct": 99.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中本哲宏",
+          "votes_for": 61884,
+          "votes_against": 6314,
+          "votes_abstain": 410,
+          "approval_pct": 90.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "太田幹彦",
+          "votes_for": 67933,
+          "votes_against": 265,
+          "votes_abstain": 410,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W02H",
@@ -297,5 +390,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:14:06.423Z"
+  "updated_at": "2026-07-04T01:58:08.269Z"
 }

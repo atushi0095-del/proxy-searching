@@ -3,6 +3,87 @@
   "company_name": "遠州トラック",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLBW",
+      "submit_date_time": "2026-06-26 10:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLBW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤田邦彦",
+          "votes_for": 63815,
+          "votes_against": 540,
+          "votes_abstain": 0,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金原秀樹",
+          "votes_for": 63825,
+          "votes_against": 530,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保田健",
+          "votes_for": 63845,
+          "votes_against": 510,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "斉藤薫",
+          "votes_for": 63832,
+          "votes_against": 523,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本正幸",
+          "votes_for": 63921,
+          "votes_against": 434,
+          "votes_abstain": 0,
+          "approval_pct": 99.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案荒川昌也",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 63983,
+          "votes_against": 393,
+          "votes_abstain": 0,
+          "approval_pct": 99.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W177",
@@ -165,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:14:08.744Z"
+  "updated_at": "2026-07-04T01:30:56.101Z"
 }

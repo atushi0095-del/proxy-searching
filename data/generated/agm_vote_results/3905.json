@@ -3,6 +3,123 @@
   "company_name": "データセクション",
   "meetings": [
     {
+      "meeting_date": "2026-06-30",
+      "meeting_year": 2026,
+      "doc_id": "S100YO00",
+      "submit_date_time": "2026-07-01 12:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO00",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "PabloCasadoBlanco",
+          "votes_for": 172195,
+          "votes_against": 953,
+          "votes_abstain": null,
+          "approval_pct": 98.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石原紀彦",
+          "votes_for": 172168,
+          "votes_against": 980,
+          "votes_abstain": null,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "JohnEllisBushJr.",
+          "votes_for": 172695,
+          "votes_against": 453,
+          "votes_abstain": null,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "土田誠行",
+          "votes_for": 172704,
+          "votes_against": 444,
+          "votes_abstain": null,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平山剛",
+          "votes_for": 172162,
+          "votes_against": 986,
+          "votes_abstain": null,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "GermanAlcayde",
+          "votes_for": 172153,
+          "votes_against": 995,
+          "votes_abstain": null,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 172060,
+          "votes_against": 1088,
+          "votes_abstain": null,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 172037,
+          "votes_against": 1111,
+          "votes_abstain": null,
+          "approval_pct": 98.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 171545,
+          "votes_against": 1603,
+          "votes_abstain": null,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TX0E",
@@ -132,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:42:29.169Z"
+  "updated_at": "2026-07-04T00:51:40.575Z"
 }

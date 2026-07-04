@@ -3,6 +3,147 @@
   "company_name": "積水化学工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YF8A",
+      "submit_date_time": "2026-06-19 14:42",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YF8A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3311149,
+          "votes_against": 2701,
+          "votes_abstain": null,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤敬太",
+          "votes_for": 3282790,
+          "votes_against": 31060,
+          "votes_abstain": null,
+          "approval_pct": 98.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水郁輔",
+          "votes_for": 3300251,
+          "votes_against": 13600,
+          "votes_abstain": null,
+          "approval_pct": 99.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西田達矢",
+          "votes_for": 3301809,
+          "votes_against": 12045,
+          "votes_abstain": null,
+          "approval_pct": 99.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村上和也",
+          "votes_for": 3302125,
+          "votes_against": 11729,
+          "votes_abstain": null,
+          "approval_pct": 99.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大枝宏之",
+          "votes_for": 3303007,
+          "votes_against": 10847,
+          "votes_abstain": null,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野崎治子",
+          "votes_for": 3303684,
+          "votes_against": 10172,
+          "votes_abstain": null,
+          "approval_pct": 99.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "肥塚見春",
+          "votes_for": 3304213,
+          "votes_against": 9643,
+          "votes_abstain": null,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮井真千子",
+          "votes_for": 3304177,
+          "votes_against": 9679,
+          "votes_abstain": null,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "畑中好彦",
+          "votes_for": 3304359,
+          "votes_against": 9497,
+          "votes_abstain": null,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "蓑毛良和",
+          "votes_for": 3310402,
+          "votes_against": 3560,
+          "votes_abstain": null,
+          "approval_pct": 99.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100VZMH",
@@ -357,5 +498,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:16:16.157Z"
+  "updated_at": "2026-07-04T01:58:41.491Z"
 }

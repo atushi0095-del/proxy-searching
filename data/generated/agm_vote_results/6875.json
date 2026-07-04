@@ -3,6 +3,99 @@
   "company_name": "メガチップス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YM3D",
+      "submit_date_time": "2026-06-26 15:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM3D",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "肥川哲士",
+          "votes_for": 103682,
+          "votes_against": 22588,
+          "votes_abstain": null,
+          "approval_pct": 82.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林能昌",
+          "votes_for": 121839,
+          "votes_against": 4434,
+          "votes_abstain": null,
+          "approval_pct": 96.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩井正明",
+          "votes_for": 121858,
+          "votes_against": 4415,
+          "votes_abstain": null,
+          "approval_pct": 96.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永田潤子",
+          "votes_for": 122253,
+          "votes_against": 4021,
+          "votes_abstain": null,
+          "approval_pct": 96.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長井完文",
+          "votes_for": 122262,
+          "votes_against": 4012,
+          "votes_abstain": null,
+          "approval_pct": 96.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本平八",
+          "votes_for": 122221,
+          "votes_against": 4053,
+          "votes_abstain": null,
+          "approval_pct": 96.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下前泰人",
+          "votes_for": 118103,
+          "votes_against": 8171,
+          "votes_abstain": null,
+          "approval_pct": 93.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W1M7",
@@ -120,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:14:24.517Z"
+  "updated_at": "2026-07-04T01:20:34.326Z"
 }

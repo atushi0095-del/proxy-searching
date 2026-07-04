@@ -3,6 +3,39 @@
   "company_name": "アトム",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJA5",
+      "submit_date_time": "2026-06-24 15:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJA5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案植田剛史佐藤真一郎三平昌弘池田清華",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.2716181276391128e+27,
+          "votes_against": 27713230182314422000,
+          "votes_abstain": 78000,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案土田正和大藏さいら山崎操",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 127499112721191270000,
+          "votes_against": 260902896221229,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W3RW",
@@ -69,5 +102,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:06:33.320Z"
+  "updated_at": "2026-07-04T01:46:22.612Z"
 }

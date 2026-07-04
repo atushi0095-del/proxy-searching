@@ -3,6 +3,123 @@
   "company_name": "ダイコク電機",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKLH",
+      "submit_date_time": "2026-06-25 11:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKLH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大上誠一郎",
+          "votes_for": 92332,
+          "votes_against": 2880,
+          "votes_abstain": 327,
+          "approval_pct": 96.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "栢森雅勝",
+          "votes_for": 92048,
+          "votes_against": 3164,
+          "votes_abstain": 327,
+          "approval_pct": 96.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "栢森健",
+          "votes_for": 92920,
+          "votes_against": 2292,
+          "votes_abstain": 327,
+          "approval_pct": 97.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大成俊文",
+          "votes_for": 92928,
+          "votes_against": 2284,
+          "votes_abstain": 327,
+          "approval_pct": 97.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "櫻井由美子",
+          "votes_for": 92930,
+          "votes_against": 2282,
+          "votes_abstain": 327,
+          "approval_pct": 97.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小紫正樹",
+          "votes_for": 92827,
+          "votes_against": 2385,
+          "votes_abstain": 327,
+          "approval_pct": 97.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "森田幸典",
+          "votes_for": 86499,
+          "votes_against": 8712,
+          "votes_abstain": 327,
+          "approval_pct": 90.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "今井宣之",
+          "votes_for": 86526,
+          "votes_against": 8685,
+          "votes_abstain": 327,
+          "approval_pct": 90.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案役員賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 86529,
+          "votes_against": 8683,
+          "votes_abstain": 327,
+          "approval_pct": 90.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W7MC",
@@ -249,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:45:39.751Z"
+  "updated_at": "2026-07-04T01:40:35.877Z"
 }

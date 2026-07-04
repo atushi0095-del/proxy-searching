@@ -3,6 +3,135 @@
   "company_name": "6862",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNEX",
+      "submit_date_time": "2026-06-30 16:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNEX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 43960,
+          "votes_against": 434,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "若山健彦",
+          "votes_for": 44020,
+          "votes_against": 374,
+          "votes_abstain": 0,
+          "approval_pct": 99.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "相澤均",
+          "votes_for": 44055,
+          "votes_against": 339,
+          "votes_abstain": 0,
+          "approval_pct": 99.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三宅哲史",
+          "votes_for": 44036,
+          "votes_against": 358,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "杉山敏美",
+          "votes_for": 44034,
+          "votes_against": 360,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "矢吹尚秀",
+          "votes_for": 44047,
+          "votes_against": 347,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "児玉純一",
+          "votes_for": 44035,
+          "votes_against": 359,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）の報酬額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 43595,
+          "votes_against": 799,
+          "votes_abstain": 0,
+          "approval_pct": 98.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役の報酬額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 43503,
+          "votes_against": 891,
+          "votes_abstain": 0,
+          "approval_pct": 97.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役に対する譲渡制限付株式の付与のための報酬改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 43169,
+          "votes_against": 1222,
+          "votes_abstain": 0,
+          "approval_pct": 97.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100VYG2",
@@ -261,5 +390,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:10:06.027Z"
+  "updated_at": "2026-07-04T00:54:33.843Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "岡谷電機産業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YL7L",
+      "submit_date_time": "2026-06-26 10:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL7L",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高屋舗明",
+          "votes_for": 159454,
+          "votes_against": 3648,
+          "votes_abstain": 0,
+          "approval_pct": 97.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本間勤",
+          "votes_for": 159335,
+          "votes_against": 3767,
+          "votes_abstain": 0,
+          "approval_pct": 97.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金丸昌雄",
+          "votes_for": 159533,
+          "votes_against": 3569,
+          "votes_abstain": 0,
+          "approval_pct": 97.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "房前芳一",
+          "votes_for": 159185,
+          "votes_against": 3917,
+          "votes_abstain": 0,
+          "approval_pct": 97.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "寺本進",
+          "votes_for": 159392,
+          "votes_against": 3710,
+          "votes_abstain": 0,
+          "approval_pct": 97.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長井浩",
+          "votes_for": 160400,
+          "votes_against": 2746,
+          "votes_abstain": 0,
+          "approval_pct": 98.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保田康裕",
+          "votes_for": 160066,
+          "votes_against": 3041,
+          "votes_abstain": 0,
+          "approval_pct": 98.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7G3",
@@ -201,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:48:10.442Z"
+  "updated_at": "2026-07-04T01:30:18.354Z"
 }

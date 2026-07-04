@@ -3,6 +3,123 @@
   "company_name": "ツカモトコーポレーション",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLG1",
+      "submit_date_time": "2026-06-26 10:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLG1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 21492,
+          "votes_against": 257,
+          "votes_abstain": 0,
+          "approval_pct": 98.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中文人",
+          "votes_for": 21384,
+          "votes_against": 365,
+          "votes_abstain": 0,
+          "approval_pct": 98.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西村隆",
+          "votes_for": 21391,
+          "votes_against": 358,
+          "votes_abstain": 0,
+          "approval_pct": 98.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "齋川敏明",
+          "votes_for": 21394,
+          "votes_against": 355,
+          "votes_abstain": 0,
+          "approval_pct": 98.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "角田英二",
+          "votes_for": 21390,
+          "votes_against": 359,
+          "votes_abstain": 0,
+          "approval_pct": 98.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "蒔山秀人",
+          "votes_for": 21398,
+          "votes_against": 351,
+          "votes_abstain": 0,
+          "approval_pct": 98.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "阿久津正志",
+          "votes_for": 21409,
+          "votes_against": 340,
+          "votes_abstain": 0,
+          "approval_pct": 98.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "野中郁江",
+          "votes_for": 21365,
+          "votes_against": 384,
+          "votes_abstain": 0,
+          "approval_pct": 98.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "吉田民",
+          "votes_for": 21442,
+          "votes_against": 307,
+          "votes_abstain": 0,
+          "approval_pct": 98.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W7IN",
@@ -237,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:42:12.691Z"
+  "updated_at": "2026-07-04T01:29:59.721Z"
 }

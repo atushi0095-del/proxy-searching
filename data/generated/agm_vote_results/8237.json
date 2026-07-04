@@ -3,6 +3,183 @@
   "company_name": "松屋",
   "meetings": [
     {
+      "meeting_date": "2026-05-28",
+      "meeting_year": 2026,
+      "doc_id": "S100Y7KG",
+      "submit_date_time": "2026-06-01 12:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y7KG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 447307,
+          "votes_against": 254,
+          "votes_abstain": 0,
+          "approval_pct": 99.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "秋田正紀",
+          "votes_for": 406100,
+          "votes_against": 15229,
+          "votes_abstain": 26232,
+          "approval_pct": 90.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "古屋毅彦",
+          "votes_for": 376956,
+          "votes_against": 44373,
+          "votes_abstain": 26232,
+          "approval_pct": 84.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "横関直樹",
+          "votes_for": 420996,
+          "votes_against": 333,
+          "votes_abstain": 26232,
+          "approval_pct": 94.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森田一則",
+          "votes_for": 420998,
+          "votes_against": 331,
+          "votes_abstain": 26232,
+          "approval_pct": 94.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "蓮田玉緒",
+          "votes_for": 447230,
+          "votes_against": 331,
+          "votes_abstain": 0,
+          "approval_pct": 99.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "柏木斉",
+          "votes_for": 420886,
+          "votes_against": 443,
+          "votes_abstain": 26232,
+          "approval_pct": 94.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "石戸奈々子",
+          "votes_for": 420940,
+          "votes_against": 389,
+          "votes_abstain": 26232,
+          "approval_pct": 94.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "武藤潤",
+          "votes_for": 420961,
+          "votes_against": 368,
+          "votes_abstain": 26232,
+          "approval_pct": 94.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井上ゆかり",
+          "votes_for": 447189,
+          "votes_against": 372,
+          "votes_abstain": 0,
+          "approval_pct": 99.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "柳澤昌之",
+          "votes_for": 408102,
+          "votes_against": 13227,
+          "votes_abstain": 26232,
+          "approval_pct": 91.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "古屋勝正",
+          "votes_for": 420915,
+          "votes_against": 414,
+          "votes_abstain": 26232,
+          "approval_pct": 94.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中村隆夫",
+          "votes_for": 420987,
+          "votes_against": 342,
+          "votes_abstain": 26232,
+          "approval_pct": 94.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉田正子",
+          "votes_for": 392616,
+          "votes_against": 54945,
+          "votes_abstain": 0,
+          "approval_pct": 87.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-05-29",
       "meeting_year": 2025,
       "doc_id": "S100VV04",
@@ -144,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:26:43.843Z"
+  "updated_at": "2026-07-04T02:06:32.382Z"
 }

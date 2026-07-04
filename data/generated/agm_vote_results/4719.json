@@ -1,0 +1,100 @@
+{
+  "company_code": "4719",
+  "company_name": "アルファシステムズ",
+  "meetings": [
+    {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNOZ",
+      "submit_date_time": "2026-07-01 09:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNOZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石川英智",
+          "votes_for": 118565,
+          "votes_against": 9658,
+          "votes_abstain": 4,
+          "approval_pct": 92.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹原政義",
+          "votes_for": 114141,
+          "votes_against": 14082,
+          "votes_abstain": 4,
+          "approval_pct": 89.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口裕之",
+          "votes_for": 127356,
+          "votes_against": 868,
+          "votes_abstain": 4,
+          "approval_pct": 99.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "布施木孝叔",
+          "votes_for": 126443,
+          "votes_against": 1781,
+          "votes_abstain": 4,
+          "approval_pct": 98.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "定塚淳一",
+          "votes_for": 126446,
+          "votes_against": 1778,
+          "votes_abstain": 4,
+          "approval_pct": 98.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "亀山信行",
+          "votes_for": 125826,
+          "votes_against": 2400,
+          "votes_abstain": 4,
+          "approval_pct": 98.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "成相宏",
+          "votes_for": 128162,
+          "votes_against": 65,
+          "votes_abstain": 4,
+          "approval_pct": 99.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-04T00:53:04.494Z"
+}

@@ -3,6 +3,123 @@
   "company_name": "はせがわ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YLPG",
+      "submit_date_time": "2026-06-26 10:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLPG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 140836,
+          "votes_against": 598,
+          "votes_abstain": null,
+          "approval_pct": 97.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新貝三四郎",
+          "votes_for": 138238,
+          "votes_against": 3199,
+          "votes_abstain": null,
+          "approval_pct": 95.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中谷泰文",
+          "votes_for": 139730,
+          "votes_against": 1707,
+          "votes_abstain": null,
+          "approval_pct": 96.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "榎本哲治",
+          "votes_for": 139835,
+          "votes_against": 1602,
+          "votes_abstain": null,
+          "approval_pct": 96.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田村岳二",
+          "votes_for": 139889,
+          "votes_against": 1548,
+          "votes_abstain": null,
+          "approval_pct": 96.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "茶木正安",
+          "votes_for": 138872,
+          "votes_against": 2565,
+          "votes_abstain": null,
+          "approval_pct": 96.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "軒名彰",
+          "votes_for": 139632,
+          "votes_against": 1805,
+          "votes_abstain": null,
+          "approval_pct": 96.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉本保範",
+          "votes_for": 140754,
+          "votes_against": 683,
+          "votes_abstain": null,
+          "approval_pct": 97.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本和子",
+          "votes_for": 140643,
+          "votes_against": 794,
+          "votes_abstain": null,
+          "approval_pct": 97.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8MV",
@@ -237,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:32:06.774Z"
+  "updated_at": "2026-07-04T01:29:50.468Z"
 }

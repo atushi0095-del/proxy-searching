@@ -3,6 +3,147 @@
   "company_name": "富士電機",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YNYY",
+      "submit_date_time": "2026-07-01 13:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNYY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北澤通宏",
+          "votes_for": 1266369,
+          "votes_against": 1030917,
+          "votes_abstain": 229511,
+          "approval_pct": 81.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "近藤史郎",
+          "votes_for": 1266364,
+          "votes_against": 1099545,
+          "votes_abstain": 161031,
+          "approval_pct": 86.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "宝泉徹",
+          "votes_for": 1266382,
+          "votes_against": 1228854,
+          "votes_abstain": 23866,
+          "approval_pct": 97.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鉄谷裕司",
+          "votes_for": 1266382,
+          "votes_against": 1228826,
+          "votes_abstain": 23894,
+          "approval_pct": 97.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "河野正志",
+          "votes_for": 1266382,
+          "votes_against": 1228871,
+          "votes_abstain": 23849,
+          "approval_pct": 97.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "三吉義忠",
+          "votes_for": 1266382,
+          "votes_against": 1228760,
+          "votes_abstain": 23960,
+          "approval_pct": 97.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "丹波俊人",
+          "votes_for": 1266382,
+          "votes_against": 1203932,
+          "votes_abstain": 59936,
+          "approval_pct": 95.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "富永由加里",
+          "votes_for": 1266385,
+          "votes_against": 1260752,
+          "votes_abstain": 3119,
+          "approval_pct": 99.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "立藤幸博",
+          "votes_for": 1266385,
+          "votes_against": 1260801,
+          "votes_abstain": 3070,
+          "approval_pct": 99.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "野城智也",
+          "votes_for": 1266385,
+          "votes_against": 1260649,
+          "votes_abstain": 3222,
+          "approval_pct": 99.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "大橋潤",
+          "votes_for": 1267072,
+          "votes_against": 1257619,
+          "votes_abstain": 6939,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TZGA",
@@ -204,5 +345,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:09:04.639Z"
+  "updated_at": "2026-07-04T00:51:35.734Z"
 }

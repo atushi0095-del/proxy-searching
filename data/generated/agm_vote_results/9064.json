@@ -3,6 +3,123 @@
   "company_name": "ヤマトホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YH6C",
+      "submit_date_time": "2026-06-23 10:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YH6C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長尾裕",
+          "votes_for": 2401649,
+          "votes_against": 316988,
+          "votes_abstain": 0,
+          "approval_pct": 88.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "櫻井敏之",
+          "votes_for": 2697797,
+          "votes_against": 20844,
+          "votes_abstain": 0,
+          "approval_pct": 99.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿波誠一",
+          "votes_for": 2697195,
+          "votes_against": 21446,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "チャールズ・イン",
+          "votes_for": 2458101,
+          "votes_against": 260542,
+          "votes_abstain": 0,
+          "approval_pct": 90.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田潤一郎",
+          "votes_for": 2622250,
+          "votes_against": 96393,
+          "votes_abstain": 0,
+          "approval_pct": 96.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木原民",
+          "votes_for": 2622415,
+          "votes_against": 96228,
+          "votes_abstain": 0,
+          "approval_pct": 96.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "クリスティン・エドマン",
+          "votes_for": 2077532,
+          "votes_against": 641111,
+          "votes_abstain": 0,
+          "approval_pct": 76.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤本昌義",
+          "votes_for": 2702510,
+          "votes_against": 16134,
+          "votes_abstain": 0,
+          "approval_pct": 99.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐々木勉",
+          "votes_for": 2696668,
+          "votes_against": 21976,
+          "votes_abstain": 0,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W357",
@@ -225,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:08:35.106Z"
+  "updated_at": "2026-07-04T01:53:15.738Z"
 }

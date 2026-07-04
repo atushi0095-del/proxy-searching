@@ -3,6 +3,147 @@
   "company_name": "2469",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YMVE",
+      "submit_date_time": "2026-06-29 13:26",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMVE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "日比野晃久",
+          "votes_for": 70972,
+          "votes_against": 6146,
+          "votes_abstain": null,
+          "approval_pct": 90.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉松聡",
+          "votes_for": 70985,
+          "votes_against": 6133,
+          "votes_abstain": null,
+          "approval_pct": 90.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芋川淳一",
+          "votes_for": 76507,
+          "votes_against": 611,
+          "votes_abstain": null,
+          "approval_pct": 97.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久野慎幸",
+          "votes_for": 76501,
+          "votes_against": 617,
+          "votes_abstain": null,
+          "approval_pct": 97.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井澤孝",
+          "votes_for": 76529,
+          "votes_against": 589,
+          "votes_abstain": null,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高野芳裕",
+          "votes_for": 76514,
+          "votes_against": 604,
+          "votes_abstain": null,
+          "approval_pct": 97.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金子基宏",
+          "votes_for": 74200,
+          "votes_against": 2918,
+          "votes_abstain": null,
+          "approval_pct": 94.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口孝太",
+          "votes_for": 76496,
+          "votes_against": 622,
+          "votes_abstain": null,
+          "approval_pct": 97.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森勝之",
+          "votes_for": 76884,
+          "votes_against": 234,
+          "votes_abstain": null,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "須賀幸喜",
+          "votes_for": 76861,
+          "votes_against": 257,
+          "votes_abstain": null,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "自閑博巳",
+          "votes_for": 71603,
+          "votes_against": 5515,
+          "votes_abstain": null,
+          "approval_pct": 91.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W827",
@@ -285,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:41:40.616Z"
+  "updated_at": "2026-07-04T01:11:51.312Z"
 }

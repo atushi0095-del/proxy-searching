@@ -3,6 +3,159 @@
   "company_name": "インターネットイニシアティブ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YM81",
+      "submit_date_time": "2026-06-29 10:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM81",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1539664,
+          "votes_against": 688,
+          "votes_abstain": 1080,
+          "approval_pct": 99.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴木幸一",
+          "votes_for": 1366727,
+          "votes_against": 173625,
+          "votes_abstain": 1080,
+          "approval_pct": 88.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "谷脇康彦",
+          "votes_for": 1499349,
+          "votes_against": 41004,
+          "votes_abstain": 1080,
+          "approval_pct": 97.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北村公一",
+          "votes_for": 1533572,
+          "votes_against": 6787,
+          "votes_abstain": 1080,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渡井昭久",
+          "votes_for": 1522282,
+          "votes_against": 18077,
+          "votes_abstain": 1080,
+          "approval_pct": 98.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "島上純一",
+          "votes_for": 1533889,
+          "votes_against": 6470,
+          "votes_abstain": 1080,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "塚本隆史",
+          "votes_for": 1512491,
+          "votes_against": 27866,
+          "votes_abstain": 1080,
+          "approval_pct": 98.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佃和夫",
+          "votes_for": 1530147,
+          "votes_against": 10213,
+          "votes_abstain": 1080,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岩間陽一郎",
+          "votes_for": 1530172,
+          "votes_against": 10188,
+          "votes_abstain": 1080,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡本厚",
+          "votes_for": 1531354,
+          "votes_against": 9006,
+          "votes_abstain": 1080,
+          "approval_pct": 99.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鵫巣香穂利",
+          "votes_for": 1530676,
+          "votes_against": 9684,
+          "votes_abstain": 1080,
+          "approval_pct": 99.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "原田史緒",
+          "votes_for": 1539608,
+          "votes_against": 754,
+          "votes_abstain": 1080,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8OW",
@@ -393,5 +546,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:25:56.261Z"
+  "updated_at": "2026-07-04T01:16:36.119Z"
 }

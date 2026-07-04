@@ -3,6 +3,123 @@
   "company_name": "特種東海製紙",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNN5",
+      "submit_date_time": "2026-06-30 14:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNN5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 286148,
+          "votes_against": 744,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松田裕司",
+          "votes_for": 275228,
+          "votes_against": 11664,
+          "votes_abstain": 0,
+          "approval_pct": 95.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村隆志",
+          "votes_for": 285188,
+          "votes_against": 1704,
+          "votes_abstain": 0,
+          "approval_pct": 99.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐野倫明",
+          "votes_for": 275812,
+          "votes_against": 11080,
+          "votes_abstain": 0,
+          "approval_pct": 96.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福井里司",
+          "votes_for": 285166,
+          "votes_against": 1726,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石川雄三",
+          "votes_for": 275359,
+          "votes_against": 11533,
+          "votes_abstain": 0,
+          "approval_pct": 95.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮下律江",
+          "votes_for": 275559,
+          "votes_against": 11333,
+          "votes_abstain": 0,
+          "approval_pct": 96.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "友竹義明",
+          "votes_for": 285050,
+          "votes_against": 1833,
+          "votes_abstain": 0,
+          "approval_pct": 99.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 284582,
+          "votes_against": 2310,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WATV",
@@ -297,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:02:58.453Z"
+  "updated_at": "2026-07-04T00:57:03.002Z"
 }

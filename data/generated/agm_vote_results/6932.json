@@ -3,6 +3,111 @@
   "company_name": "遠藤照明",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLZS",
+      "submit_date_time": "2026-06-26 15:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLZS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 101854,
+          "votes_against": 536,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "遠藤邦彦",
+          "votes_for": 92444,
+          "votes_against": 9951,
+          "votes_abstain": 0,
+          "approval_pct": 90.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "菱谷清",
+          "votes_for": 101440,
+          "votes_against": 955,
+          "votes_abstain": 0,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "奥村昌之",
+          "votes_for": 101440,
+          "votes_against": 955,
+          "votes_abstain": 0,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "土屋郁子",
+          "votes_for": 101444,
+          "votes_against": 951,
+          "votes_abstain": 0,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "山葉隆久",
+          "votes_for": 101438,
+          "votes_against": 957,
+          "votes_abstain": 0,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案（会社提案）",
+          "proposal_category": "その他",
+          "candidate_name": "坂田秀隆",
+          "votes_for": 101619,
+          "votes_against": 772,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案（株主提案）",
+          "proposal_category": "株主提案",
+          "candidate_name": null,
+          "votes_for": 17996,
+          "votes_against": 86196,
+          "votes_abstain": 0,
+          "approval_pct": 17.27,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6MC",
@@ -309,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:49:49.302Z"
+  "updated_at": "2026-07-04T01:21:38.427Z"
 }

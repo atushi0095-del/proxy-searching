@@ -3,6 +3,87 @@
   "company_name": "双葉電子工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNWX",
+      "submit_date_time": "2026-07-02 09:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNWX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 267907,
+          "votes_against": 65931,
+          "votes_abstain": 0,
+          "approval_pct": 80.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "有馬資明",
+          "votes_for": 212321,
+          "votes_against": 121538,
+          "votes_abstain": 0,
+          "approval_pct": 63.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "君塚俊秀",
+          "votes_for": 252303,
+          "votes_against": 81556,
+          "votes_abstain": 0,
+          "approval_pct": 75.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "冨田正晴",
+          "votes_for": 252485,
+          "votes_against": 81374,
+          "votes_abstain": 0,
+          "approval_pct": 75.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "國尾武光",
+          "votes_for": 256361,
+          "votes_against": 77498,
+          "votes_abstain": 0,
+          "approval_pct": 76.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中雅子",
+          "votes_for": 256568,
+          "votes_against": 77291,
+          "votes_abstain": 0,
+          "approval_pct": 76.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WAIB",
@@ -213,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:03:08.604Z"
+  "updated_at": "2026-07-04T00:48:52.580Z"
 }

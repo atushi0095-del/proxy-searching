@@ -3,6 +3,99 @@
   "company_name": "愛知製鋼",
   "meetings": [
     {
+      "meeting_date": "2026-06-16",
+      "meeting_year": 2026,
+      "doc_id": "S100YDX7",
+      "submit_date_time": "2026-06-18 11:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YDX7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 505775,
+          "votes_against": 288,
+          "votes_abstain": 0,
+          "approval_pct": 99.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤岡高広",
+          "votes_for": 440017,
+          "votes_against": 66041,
+          "votes_abstain": 0,
+          "approval_pct": 86.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤尚英",
+          "votes_for": 447546,
+          "votes_against": 58328,
+          "votes_abstain": 186,
+          "approval_pct": 88.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村元志",
+          "votes_for": 466383,
+          "votes_against": 39678,
+          "votes_abstain": 0,
+          "approval_pct": 92.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井直生",
+          "votes_for": 503641,
+          "votes_against": 2420,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新居勇子",
+          "votes_for": 484869,
+          "votes_against": 21193,
+          "votes_abstain": 0,
+          "approval_pct": 95.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川恭範",
+          "votes_for": 505576,
+          "votes_against": 487,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100W07N",
@@ -165,5 +258,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:17:37.328Z"
+  "updated_at": "2026-07-04T02:00:47.529Z"
 }

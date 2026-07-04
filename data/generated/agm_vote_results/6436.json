@@ -3,6 +3,39 @@
   "company_name": "アマノ",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNHD",
+      "submit_date_time": "2026-06-30 15:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNHD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 620085,
+          "votes_against": 200,
+          "votes_abstain": 163,
+          "approval_pct": 99.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役等に対する業績連動型株式報酬等の改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 618847,
+          "votes_against": 1477,
+          "votes_abstain": 124,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9KV",
@@ -189,5 +222,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:18:37.427Z"
+  "updated_at": "2026-07-04T00:56:30.532Z"
 }

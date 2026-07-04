@@ -3,6 +3,123 @@
   "company_name": "ＺＡＣＲＯＳ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YG9B",
+      "submit_date_time": "2026-06-22 10:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YG9B",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 540681,
+          "votes_against": 403,
+          "votes_abstain": 0,
+          "approval_pct": 98.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤森明彦",
+          "votes_for": 497084,
+          "votes_against": 43996,
+          "votes_abstain": 0,
+          "approval_pct": 90.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下田拓",
+          "votes_for": 497352,
+          "votes_against": 43727,
+          "votes_abstain": 0,
+          "approval_pct": 90.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤道彦",
+          "votes_for": 516644,
+          "votes_against": 24436,
+          "votes_abstain": 0,
+          "approval_pct": 94.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久下典宏",
+          "votes_for": 516568,
+          "votes_against": 24512,
+          "votes_abstain": 0,
+          "approval_pct": 94.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹内さと子",
+          "votes_for": 534674,
+          "votes_against": 6408,
+          "votes_abstain": 0,
+          "approval_pct": 97.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤森伸彦",
+          "votes_for": 511965,
+          "votes_against": 29115,
+          "votes_abstain": 0,
+          "approval_pct": 93.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊澤久美",
+          "votes_for": 534656,
+          "votes_against": 6426,
+          "votes_abstain": 0,
+          "approval_pct": 97.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "羽田野彰士",
+          "votes_for": 537262,
+          "votes_against": 3822,
+          "votes_abstain": 0,
+          "approval_pct": 97.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W3OS",
@@ -249,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:07:37.186Z"
+  "updated_at": "2026-07-04T01:56:20.834Z"
 }

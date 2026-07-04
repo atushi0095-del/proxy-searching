@@ -3,6 +3,135 @@
   "company_name": "ﾃｸﾉ菱和",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLOX",
+      "submit_date_time": "2026-06-26 10:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLOX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 157799,
+          "votes_against": 137,
+          "votes_abstain": 368,
+          "approval_pct": 99.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤雅也",
+          "votes_for": 144793,
+          "votes_against": 13143,
+          "votes_abstain": 368,
+          "approval_pct": 91.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大石勉",
+          "votes_for": 157475,
+          "votes_against": 461,
+          "votes_abstain": 368,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "袴田一博",
+          "votes_for": 157471,
+          "votes_against": 465,
+          "votes_abstain": 368,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木俊夫",
+          "votes_for": 157584,
+          "votes_against": 352,
+          "votes_abstain": 368,
+          "approval_pct": 99.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中雅敏",
+          "votes_for": 156766,
+          "votes_against": 1170,
+          "votes_abstain": 368,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐古麻衣子",
+          "votes_for": 157458,
+          "votes_against": 478,
+          "votes_abstain": 368,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三森仁",
+          "votes_for": 157701,
+          "votes_against": 235,
+          "votes_abstain": 368,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 157515,
+          "votes_against": 413,
+          "votes_abstain": 376,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 157560,
+          "votes_against": 368,
+          "votes_abstain": 376,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W83K",
@@ -297,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:43:50.179Z"
+  "updated_at": "2026-07-04T01:29:14.485Z"
 }

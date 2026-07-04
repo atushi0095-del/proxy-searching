@@ -3,6 +3,87 @@
   "company_name": "ＮＩＳＳＯホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKN9",
+      "submit_date_time": "2026-06-25 11:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKN9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 260739,
+          "votes_against": 1752,
+          "votes_abstain": null,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水竜一",
+          "votes_for": 232521,
+          "votes_against": 30098,
+          "votes_abstain": null,
+          "approval_pct": 87.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤野賢治",
+          "votes_for": 237501,
+          "votes_against": 25119,
+          "votes_abstain": null,
+          "approval_pct": 89.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中陽一郎",
+          "votes_for": 237550,
+          "votes_against": 25070,
+          "votes_abstain": null,
+          "approval_pct": 89.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "遠藤太嘉志",
+          "votes_for": 237486,
+          "votes_against": 25134,
+          "votes_abstain": null,
+          "approval_pct": 89.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福井順一",
+          "votes_for": 236838,
+          "votes_against": 25782,
+          "votes_abstain": null,
+          "approval_pct": 89.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6XY",
@@ -261,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:50:47.987Z"
+  "updated_at": "2026-07-04T01:40:28.885Z"
 }

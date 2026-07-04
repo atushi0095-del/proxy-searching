@@ -3,6 +3,87 @@
   "company_name": "日進工具",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKCB",
+      "submit_date_time": "2026-06-25 09:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKCB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 200776,
+          "votes_against": 2164,
+          "votes_abstain": 1,
+          "approval_pct": 98.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤弘治",
+          "votes_for": 193675,
+          "votes_against": 1432,
+          "votes_abstain": 7834,
+          "approval_pct": 95.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤隆司",
+          "votes_for": 201533,
+          "votes_against": 1408,
+          "votes_abstain": null,
+          "approval_pct": 99.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "足立有子",
+          "votes_for": 201374,
+          "votes_against": 1567,
+          "votes_abstain": null,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "戸田覚斉藤貴宣",
+          "votes_for": 201561198458,
+          "votes_against": 13804483,
+          "votes_abstain": null,
+          "approval_pct": 99.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小倉乃里子平賀真紀",
+          "votes_for": 201508201630,
+          "votes_against": 14331311,
+          "votes_abstain": null,
+          "approval_pct": 99.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W52E",
@@ -213,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:03:22.274Z"
+  "updated_at": "2026-07-04T01:42:44.668Z"
 }

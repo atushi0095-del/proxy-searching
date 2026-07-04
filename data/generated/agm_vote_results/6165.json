@@ -3,6 +3,99 @@
   "company_name": "パンチ工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJD2",
+      "submit_date_time": "2026-06-24 13:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJD2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 159441,
+          "votes_against": 490,
+          "votes_abstain": 70,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森久保哲司",
+          "votes_for": 156906,
+          "votes_against": 3025,
+          "votes_abstain": 70,
+          "approval_pct": 98.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高梨晃",
+          "votes_for": 158923,
+          "votes_against": 1008,
+          "votes_abstain": 70,
+          "approval_pct": 99.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松澤靖",
+          "votes_for": 157854,
+          "votes_against": 2077,
+          "votes_abstain": 70,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高辻成彦",
+          "votes_for": 157819,
+          "votes_against": 2112,
+          "votes_abstain": 70,
+          "approval_pct": 98.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大里真理子",
+          "votes_for": 157874,
+          "votes_against": 2057,
+          "votes_abstain": 70,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 144486,
+          "votes_against": 15497,
+          "votes_abstain": 70,
+          "approval_pct": 90.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W525",
@@ -201,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:02:18.934Z"
+  "updated_at": "2026-07-04T01:48:27.308Z"
 }

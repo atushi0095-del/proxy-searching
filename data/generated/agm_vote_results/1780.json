@@ -3,6 +3,123 @@
   "company_name": "ヤマウラ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YOCS",
+      "submit_date_time": "2026-07-02 13:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOCS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 145985,
+          "votes_against": 659,
+          "votes_abstain": null,
+          "approval_pct": 99.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 146148,
+          "votes_against": 496,
+          "votes_abstain": null,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山浦正貴",
+          "votes_for": 145196,
+          "votes_against": 1438,
+          "votes_abstain": null,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤木公明",
+          "votes_for": 145939,
+          "votes_against": 695,
+          "votes_abstain": null,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赤羽一成",
+          "votes_for": 145835,
+          "votes_against": 799,
+          "votes_abstain": null,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中谷亘",
+          "votes_for": 146017,
+          "votes_against": 617,
+          "votes_abstain": null,
+          "approval_pct": 99.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "萩原浩一",
+          "votes_for": 145831,
+          "votes_against": 812,
+          "votes_abstain": null,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安部正明",
+          "votes_for": 145949,
+          "votes_against": 694,
+          "votes_abstain": null,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村文雄",
+          "votes_for": 145829,
+          "votes_against": 814,
+          "votes_abstain": null,
+          "approval_pct": 99.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WA8N",
@@ -273,5 +390,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:09:58.501Z"
+  "updated_at": "2026-07-04T00:47:42.202Z"
 }

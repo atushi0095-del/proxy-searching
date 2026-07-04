@@ -3,6 +3,99 @@
   "company_name": "リゾートトラスト",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YMAQ",
+      "submit_date_time": "2026-06-29 13:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMAQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1714828,
+          "votes_against": 1922,
+          "votes_abstain": 13,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 1714862,
+          "votes_against": 1888,
+          "votes_abstain": 13,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊藤與朗",
+          "votes_for": 1699581,
+          "votes_against": 17163,
+          "votes_abstain": 13,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊藤勝康",
+          "votes_for": 1685783,
+          "votes_against": 30959,
+          "votes_abstain": 13,
+          "approval_pct": 98.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伏見有貴",
+          "votes_for": 1666413,
+          "votes_against": 50212,
+          "votes_abstain": 130,
+          "approval_pct": 97.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "新谷敦之",
+          "votes_for": 1705204,
+          "votes_against": 11544,
+          "votes_abstain": 13,
+          "approval_pct": 99.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小杉善信",
+          "votes_for": 1710700,
+          "votes_against": 6048,
+          "votes_abstain": 13,
+          "approval_pct": 99.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9K3",
@@ -321,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:21:36.029Z"
+  "updated_at": "2026-07-04T01:11:30.250Z"
 }

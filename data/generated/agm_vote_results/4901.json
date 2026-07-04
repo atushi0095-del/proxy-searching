@@ -3,6 +3,159 @@
   "company_name": "富士フイルムホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YMU7",
+      "submit_date_time": "2026-06-29 13:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMU7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 9939873,
+          "votes_against": 6207,
+          "votes_abstain": 0,
+          "approval_pct": 99.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "助野健児",
+          "votes_for": 9582477,
+          "votes_against": 341591,
+          "votes_abstain": 32801,
+          "approval_pct": 95.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤禎一",
+          "votes_for": 9585317,
+          "votes_against": 338752,
+          "votes_abstain": 32801,
+          "approval_pct": 95.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "樋口昌之",
+          "votes_for": 9764174,
+          "votes_against": 192705,
+          "votes_abstain": 3,
+          "approval_pct": 97.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濱直樹",
+          "votes_for": 9770378,
+          "votes_against": 186500,
+          "votes_abstain": 3,
+          "approval_pct": 97.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉澤ちさと",
+          "votes_for": 9770119,
+          "votes_against": 186759,
+          "votes_abstain": 3,
+          "approval_pct": 97.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤洋士",
+          "votes_for": 9771186,
+          "votes_against": 185692,
+          "votes_abstain": 3,
+          "approval_pct": 97.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北村邦太郎",
+          "votes_for": 9679213,
+          "votes_against": 277661,
+          "votes_abstain": 3,
+          "approval_pct": 96.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "江田麻季子",
+          "votes_for": 9908498,
+          "votes_against": 48385,
+          "votes_abstain": 3,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永野毅",
+          "votes_for": 9903489,
+          "votes_against": 53394,
+          "votes_abstain": 3,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅原郁郎",
+          "votes_for": 9902877,
+          "votes_against": 54006,
+          "votes_abstain": 3,
+          "approval_pct": 99.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木貴子",
+          "votes_for": 9906512,
+          "votes_against": 50370,
+          "votes_abstain": 3,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-30",
       "meeting_year": 2025,
       "doc_id": "S100W9JB",
@@ -393,5 +546,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:21:31.118Z"
+  "updated_at": "2026-07-04T01:11:58.208Z"
 }

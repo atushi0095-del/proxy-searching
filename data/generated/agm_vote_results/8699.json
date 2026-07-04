@@ -3,6 +3,63 @@
   "company_name": "HSﾎｰﾙﾃﾞｨﾝｸﾞｽ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN2K",
+      "submit_date_time": "2026-06-29 15:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN2K",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 177701,
+          "votes_against": 3240,
+          "votes_abstain": 0,
+          "approval_pct": 98.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件松村恭也村井希有子服部純一石井喜三郎税所篤",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 1.7572517758617557e+29,
+          "votes_against": 52163355538033656000,
+          "votes_abstain": 0,
+          "approval_pct": 97.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 177643,
+          "votes_against": 3298,
+          "votes_abstain": 0,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案株主価値向上に向けた中期経営計画策定に関する定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 4406,
+          "votes_against": 176535,
+          "votes_abstain": 0,
+          "approval_pct": 2.44,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8YE",
@@ -141,5 +198,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:29:50.842Z"
+  "updated_at": "2026-07-04T01:07:44.384Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "株式会社デンソー",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YEG5",
+      "submit_date_time": "2026-06-19 11:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YEG5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "有馬浩二",
+          "votes_for": 22693094,
+          "votes_against": 573411,
+          "votes_abstain": 48492,
+          "approval_pct": 97.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林新之助",
+          "votes_for": 22726950,
+          "votes_against": 539552,
+          "votes_abstain": 48492,
+          "approval_pct": 97.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松井靖",
+          "votes_for": 22951164,
+          "votes_against": 363675,
+          "votes_abstain": 160,
+          "approval_pct": 98.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山崎康彦",
+          "votes_for": 22964526,
+          "votes_against": 350313,
+          "votes_abstain": 160,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三屋裕子",
+          "votes_for": 23260119,
+          "votes_against": 54728,
+          "votes_abstain": 160,
+          "approval_pct": 99.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木下範子",
+          "votes_for": 23290074,
+          "votes_against": 24775,
+          "votes_abstain": 160,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "犬塚直人",
+          "votes_for": 23177917,
+          "votes_against": 137009,
+          "votes_abstain": 80,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "馬場久美子",
+          "votes_for": 23297887,
+          "votes_against": 17042,
+          "votes_abstain": 80,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山上眞人",
+          "votes_for": 23299250,
+          "votes_against": 15679,
+          "votes_abstain": 80,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 23201000,
+          "votes_against": 89674,
+          "votes_abstain": 144,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-13",
       "meeting_year": 2025,
       "doc_id": "S100VXY3",
@@ -249,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:21:42.858Z"
+  "updated_at": "2026-07-04T01:59:21.907Z"
 }

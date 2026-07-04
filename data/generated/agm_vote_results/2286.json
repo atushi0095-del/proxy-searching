@@ -3,6 +3,99 @@
   "company_name": "林兼産業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNCY",
+      "submit_date_time": "2026-06-30 09:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNCY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 54960,
+          "votes_against": 1203,
+          "votes_abstain": 0,
+          "approval_pct": 97.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中部哲二",
+          "votes_for": 54632,
+          "votes_against": 1558,
+          "votes_abstain": 0,
+          "approval_pct": 97.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三代健造",
+          "votes_for": 54721,
+          "votes_against": 1469,
+          "votes_abstain": 0,
+          "approval_pct": 97.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "児玉哲朗",
+          "votes_for": 54063,
+          "votes_against": 2127,
+          "votes_abstain": 0,
+          "approval_pct": 96.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "戸倉信一",
+          "votes_for": 54720,
+          "votes_against": 1470,
+          "votes_abstain": 0,
+          "approval_pct": 97.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中嶋一貴",
+          "votes_for": 54101,
+          "votes_against": 2089,
+          "votes_abstain": 0,
+          "approval_pct": 96.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田中姿子",
+          "votes_for": 54614,
+          "votes_against": 1576,
+          "votes_abstain": 0,
+          "approval_pct": 97.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8CZ",
@@ -261,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:39:51.258Z"
+  "updated_at": "2026-07-04T01:02:13.690Z"
 }

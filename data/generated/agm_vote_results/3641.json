@@ -3,6 +3,39 @@
   "company_name": "パピレス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YKXO",
+      "submit_date_time": "2026-06-26 09:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKXO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 65605,
+          "votes_against": 440,
+          "votes_abstain": null,
+          "approval_pct": 99.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役に対する株式報酬制度の継続の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 63648,
+          "votes_against": 2437,
+          "votes_abstain": null,
+          "approval_pct": 96.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5S2",
@@ -165,5 +198,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:54:34.452Z"
+  "updated_at": "2026-07-04T01:32:23.193Z"
 }

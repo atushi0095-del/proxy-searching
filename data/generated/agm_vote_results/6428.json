@@ -3,6 +3,123 @@
   "company_name": "オーイズミ",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNGP",
+      "submit_date_time": "2026-06-30 13:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNGP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 185145,
+          "votes_against": 1009,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大泉政治",
+          "votes_for": 184277,
+          "votes_against": 1862,
+          "votes_abstain": 15,
+          "approval_pct": 98.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大泉秀治",
+          "votes_for": 184298,
+          "votes_against": 1841,
+          "votes_abstain": 15,
+          "approval_pct": 99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "柿澤孝勇",
+          "votes_for": 184333,
+          "votes_against": 1806,
+          "votes_abstain": 15,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北村稔",
+          "votes_for": 184337,
+          "votes_against": 1802,
+          "votes_abstain": 15,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等員である取締役を除く。)5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鹿野美紀",
+          "votes_for": 184280,
+          "votes_against": 1859,
+          "votes_abstain": 15,
+          "approval_pct": 98.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山﨑泰男",
+          "votes_for": 184155,
+          "votes_against": 1999,
+          "votes_abstain": 0,
+          "approval_pct": 98.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "甲原丈英",
+          "votes_for": 184337,
+          "votes_against": 1817,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中込淳之介",
+          "votes_for": 184263,
+          "votes_against": 1891,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9BP",
@@ -201,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:24:57.619Z"
+  "updated_at": "2026-07-04T00:59:10.701Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "マルシェ",
   "meetings": [
     {
+      "meeting_date": "2026-06-27",
+      "meeting_year": 2026,
+      "doc_id": "S100YN7C",
+      "submit_date_time": "2026-06-29 16:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN7C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案第三者割当増資による募集株式の発行の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 58470,
+          "votes_against": 1679,
+          "votes_abstain": 0,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案資本金及び資本準備金の額の減少並びに剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 58324,
+          "votes_against": 1825,
+          "votes_abstain": 0,
+          "approval_pct": 96.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加藤洋嗣",
+          "votes_for": 58353,
+          "votes_against": 1796,
+          "votes_abstain": 0,
+          "approval_pct": 96.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "熨斗和之",
+          "votes_for": 58456,
+          "votes_against": 1693,
+          "votes_abstain": 0,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森下篤史",
+          "votes_for": 58403,
+          "votes_against": 1746,
+          "votes_abstain": 0,
+          "approval_pct": 96.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "清水一成",
+          "votes_for": 58505,
+          "votes_against": 1644,
+          "votes_abstain": 0,
+          "approval_pct": 96.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "茨田篤司",
+          "votes_for": 58472,
+          "votes_against": 1677,
+          "votes_abstain": 0,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-22",
       "meeting_year": 2025,
       "doc_id": "S100W2VD",
@@ -225,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:09:39.597Z"
+  "updated_at": "2026-07-04T01:03:59.214Z"
 }

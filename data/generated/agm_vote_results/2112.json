@@ -3,6 +3,123 @@
   "company_name": "塩水港精糖",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMUM",
+      "submit_date_time": "2026-06-29 13:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMUM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 189826,
+          "votes_against": 4334,
+          "votes_abstain": 0,
+          "approval_pct": 97.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久野修慈",
+          "votes_for": 177438,
+          "votes_against": 16732,
+          "votes_abstain": 0,
+          "approval_pct": 91.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田畑貴史",
+          "votes_for": 188173,
+          "votes_against": 5997,
+          "votes_abstain": 0,
+          "approval_pct": 96.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉山拓也",
+          "votes_for": 188031,
+          "votes_against": 6139,
+          "votes_abstain": 0,
+          "approval_pct": 96.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濱保健一",
+          "votes_for": 187453,
+          "votes_against": 6717,
+          "votes_abstain": 0,
+          "approval_pct": 96.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤明",
+          "votes_for": 184943,
+          "votes_against": 9227,
+          "votes_abstain": 0,
+          "approval_pct": 95.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山下裕司",
+          "votes_for": 187843,
+          "votes_against": 6327,
+          "votes_abstain": 0,
+          "approval_pct": 96.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾滝亨",
+          "votes_for": 188376,
+          "votes_against": 5794,
+          "votes_abstain": 0,
+          "approval_pct": 97.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口秀巳",
+          "votes_for": 187921,
+          "votes_against": 6249,
+          "votes_abstain": 0,
+          "approval_pct": 96.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9WT",
@@ -249,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:15:05.488Z"
+  "updated_at": "2026-07-04T01:12:09.283Z"
 }

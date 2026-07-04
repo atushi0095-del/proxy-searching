@@ -3,6 +3,39 @@
   "company_name": "力の源ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNS8",
+      "submit_date_time": "2026-06-30 16:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNS8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件河原成美山根智之鈴木美奈子",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 222969223112228130,
+          "votes_against": 679966561651,
+          "votes_abstain": null,
+          "approval_pct": 96.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠の監査等委員である取締役1名選任の件松田洋志",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 220735,
+          "votes_against": 9046,
+          "votes_abstain": null,
+          "approval_pct": 96.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7SC",
@@ -93,5 +126,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:44:37.955Z"
+  "updated_at": "2026-07-04T00:54:40.710Z"
 }

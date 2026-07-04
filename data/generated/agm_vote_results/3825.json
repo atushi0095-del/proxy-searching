@@ -3,6 +3,111 @@
   "company_name": "リミックスポイント",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLBR",
+      "submit_date_time": "2026-06-26 10:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLBR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案吸収分割契約承認の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 776710,
+          "votes_against": 30929,
+          "votes_abstain": 0,
+          "approval_pct": 96.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高橋由彦",
+          "votes_for": 760940,
+          "votes_against": 46724,
+          "votes_abstain": 0,
+          "approval_pct": 94.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "秋田真人",
+          "votes_for": 759428,
+          "votes_against": 48236,
+          "votes_abstain": 0,
+          "approval_pct": 94.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "原田浩志",
+          "votes_for": 767738,
+          "votes_against": 39926,
+          "votes_abstain": 0,
+          "approval_pct": 95.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山室裕幸",
+          "votes_for": 764255,
+          "votes_against": 43409,
+          "votes_abstain": 0,
+          "approval_pct": 94.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "金﨑卓也",
+          "votes_for": 766153,
+          "votes_against": 41511,
+          "votes_abstain": 0,
+          "approval_pct": 94.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "江田健二",
+          "votes_for": 773418,
+          "votes_against": 34246,
+          "votes_abstain": 0,
+          "approval_pct": 95.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "井上直樹",
+          "votes_for": 770764,
+          "votes_against": 36900,
+          "votes_abstain": 0,
+          "approval_pct": 95.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8ET",
@@ -249,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:39:14.006Z"
+  "updated_at": "2026-07-04T01:30:53.794Z"
 }

@@ -3,6 +3,75 @@
   "company_name": "武田薬品工業株式会社",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLNK",
+      "submit_date_time": "2026-06-26 12:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLNK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 11994528,
+          "votes_against": 2199,
+          "votes_abstain": 25,
+          "approval_pct": 98.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案ジュリーキム古田未来乃アンドリュープランプ飯島彰己スティーブンギリスジョンマラガノア津坂美樹ポールストフェルス",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.1840220113924851e+63,
+          "votes_against": 2.234496799687979e+47,
+          "votes_abstain": 910525252525252500,
+          "approval_pct": 97.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案キンバリーリードブルースブルサード木村浩一郎",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.1659554111847641e+23,
+          "votes_against": 412957887743109100,
+          "votes_abstain": 252525,
+          "approval_pct": 95.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案ポールストフェルス",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 11999993,
+          "votes_against": 72670,
+          "votes_abstain": 25,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 10104535,
+          "votes_against": 1946260,
+          "votes_abstain": 21968,
+          "approval_pct": 82.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W9V8",
@@ -105,5 +174,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:10:37.883Z"
+  "updated_at": "2026-07-04T01:27:42.616Z"
 }

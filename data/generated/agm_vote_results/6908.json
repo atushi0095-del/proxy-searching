@@ -3,6 +3,123 @@
   "company_name": "イリソ電子工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJI7",
+      "submit_date_time": "2026-06-24 14:42",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJI7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 105835,
+          "votes_against": 58217,
+          "votes_abstain": 3403,
+          "approval_pct": 63.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "柴田雅久",
+          "votes_for": 153712,
+          "votes_against": 13722,
+          "votes_abstain": 20,
+          "approval_pct": 91.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木仁",
+          "votes_for": 137837,
+          "votes_against": 29475,
+          "votes_abstain": 141,
+          "approval_pct": 82.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "池田修一",
+          "votes_for": 163455,
+          "votes_against": 3979,
+          "votes_abstain": 20,
+          "approval_pct": 97.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大平明彦",
+          "votes_for": 158680,
+          "votes_against": 8754,
+          "votes_abstain": 20,
+          "approval_pct": 94.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮内敏彦",
+          "votes_for": 155096,
+          "votes_against": 12339,
+          "votes_abstain": 20,
+          "approval_pct": 92.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤田浩司",
+          "votes_for": 159092,
+          "votes_against": 8343,
+          "votes_abstain": 20,
+          "approval_pct": 95.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐藤登",
+          "votes_for": 158972,
+          "votes_against": 8463,
+          "votes_abstain": 20,
+          "approval_pct": 94.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "内田明美",
+          "votes_for": 159172,
+          "votes_against": 8263,
+          "votes_abstain": 20,
+          "approval_pct": 95.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W56U",
@@ -129,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:02:23.948Z"
+  "updated_at": "2026-07-04T01:47:10.052Z"
 }

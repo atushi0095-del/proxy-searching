@@ -3,6 +3,147 @@
   "company_name": "ﾌﾞﾛｰﾄﾞﾒﾃﾞｨｱ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNQC",
+      "submit_date_time": "2026-06-30 15:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNQC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 52982,
+          "votes_against": 719,
+          "votes_abstain": 66,
+          "approval_pct": 98.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本太郎",
+          "votes_for": 44014,
+          "votes_against": 9687,
+          "votes_abstain": 66,
+          "approval_pct": 81.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保利人",
+          "votes_for": 51686,
+          "votes_against": 2015,
+          "votes_abstain": 66,
+          "approval_pct": 96.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村修巳",
+          "votes_for": 51695,
+          "votes_against": 2006,
+          "votes_abstain": 66,
+          "approval_pct": 96.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "押尾英明",
+          "votes_for": 51733,
+          "votes_against": 1968,
+          "votes_abstain": 66,
+          "approval_pct": 96.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田純",
+          "votes_for": 51706,
+          "votes_against": 1995,
+          "votes_abstain": 66,
+          "approval_pct": 96.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口畝誉",
+          "votes_for": 51698,
+          "votes_against": 2003,
+          "votes_abstain": 66,
+          "approval_pct": 96.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "古屋俊一",
+          "votes_for": 50392,
+          "votes_against": 3309,
+          "votes_abstain": 66,
+          "approval_pct": 93.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北谷賢司",
+          "votes_for": 50282,
+          "votes_against": 3419,
+          "votes_abstain": 66,
+          "approval_pct": 93.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤淳子",
+          "votes_for": 52268,
+          "votes_against": 1433,
+          "votes_abstain": 66,
+          "approval_pct": 97.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "粂川操",
+          "votes_for": 52266,
+          "votes_against": 1435,
+          "votes_abstain": 66,
+          "approval_pct": 97.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9YE",
@@ -321,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:14:32.084Z"
+  "updated_at": "2026-07-04T00:55:30.166Z"
 }

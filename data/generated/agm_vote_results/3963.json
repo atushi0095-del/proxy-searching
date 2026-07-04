@@ -3,6 +3,159 @@
   "company_name": "シンクロ・フード",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YE1M",
+      "submit_date_time": "2026-06-25 13:17",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YE1M",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 235425,
+          "votes_against": 1966,
+          "votes_abstain": 226,
+          "approval_pct": 99.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大久保俊",
+          "votes_for": 234314,
+          "votes_against": 3086,
+          "votes_abstain": 226,
+          "approval_pct": 98.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤代真一",
+          "votes_for": 115188,
+          "votes_against": 122212,
+          "votes_abstain": 226,
+          "approval_pct": 48.47,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松崎良太",
+          "votes_for": 88331,
+          "votes_against": 149069,
+          "votes_abstain": 226,
+          "approval_pct": 37.17,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "永井美保子",
+          "votes_for": 88281,
+          "votes_against": 149119,
+          "votes_abstain": 226,
+          "approval_pct": 37.15,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "坂井一成",
+          "votes_for": 232002,
+          "votes_against": 5398,
+          "votes_abstain": 226,
+          "approval_pct": 97.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "洲濵陽一",
+          "votes_for": 235580,
+          "votes_against": 1820,
+          "votes_abstain": 226,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "Bellamy,JasonOrlando",
+          "votes_for": 235378,
+          "votes_against": 2022,
+          "votes_abstain": 226,
+          "approval_pct": 99.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "細川健",
+          "votes_for": 151648,
+          "votes_against": 85752,
+          "votes_abstain": 226,
+          "approval_pct": 63.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "武藤竜弘",
+          "votes_for": 151759,
+          "votes_against": 85641,
+          "votes_abstain": 226,
+          "approval_pct": 63.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案定款一部変更（取締役の員数の上限の増加）の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 43430,
+          "votes_against": 86256,
+          "votes_abstain": 107940,
+          "approval_pct": 18.28,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案定款一部変更（戦略検討委員会の設置）の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 43628,
+          "votes_against": 86051,
+          "votes_abstain": 107940,
+          "approval_pct": 18.36,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5UE",
@@ -225,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:40:18.205Z"
+  "updated_at": "2026-07-04T01:39:43.465Z"
 }

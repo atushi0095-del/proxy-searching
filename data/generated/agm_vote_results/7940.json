@@ -3,6 +3,87 @@
   "company_name": "ウェーブロックホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YFGZ",
+      "submit_date_time": "2026-06-19 15:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFGZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石原智憲",
+          "votes_for": 41853,
+          "votes_against": 8078,
+          "votes_abstain": null,
+          "approval_pct": 83.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "島田康太郎",
+          "votes_for": 41771,
+          "votes_against": 8160,
+          "votes_abstain": null,
+          "approval_pct": 83.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山木浩",
+          "votes_for": 41861,
+          "votes_against": 8070,
+          "votes_abstain": null,
+          "approval_pct": 83.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "萩原邦章",
+          "votes_for": 41824,
+          "votes_against": 8107,
+          "votes_abstain": null,
+          "approval_pct": 83.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 40646,
+          "votes_against": 9285,
+          "votes_abstain": null,
+          "approval_pct": 81.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 40746,
+          "votes_against": 9185,
+          "votes_abstain": null,
+          "approval_pct": 81.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W1I3",
@@ -153,5 +234,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:15:05.941Z"
+  "updated_at": "2026-07-04T01:58:31.694Z"
 }

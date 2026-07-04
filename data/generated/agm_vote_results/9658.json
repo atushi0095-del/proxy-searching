@@ -3,6 +3,147 @@
   "company_name": "ビジネスブレイン太田昭和",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKJB",
+      "submit_date_time": "2026-06-25 10:52",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKJB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小宮一浩",
+          "votes_for": 76814,
+          "votes_against": 3358,
+          "votes_abstain": null,
+          "approval_pct": 95.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上原仁",
+          "votes_for": 79022,
+          "votes_against": 1149,
+          "votes_abstain": null,
+          "approval_pct": 98.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村裕仁",
+          "votes_for": 79335,
+          "votes_against": 836,
+          "votes_abstain": null,
+          "approval_pct": 98.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷渕将人",
+          "votes_for": 79345,
+          "votes_against": 826,
+          "votes_abstain": null,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉野敏也",
+          "votes_for": 79345,
+          "votes_against": 826,
+          "votes_abstain": null,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野田久人",
+          "votes_for": 79282,
+          "votes_against": 889,
+          "votes_abstain": null,
+          "approval_pct": 98.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "牧本功貴",
+          "votes_for": 79336,
+          "votes_against": 835,
+          "votes_abstain": null,
+          "approval_pct": 98.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中井修",
+          "votes_for": 79446,
+          "votes_against": 727,
+          "votes_abstain": null,
+          "approval_pct": 99.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黄明仙",
+          "votes_for": 79432,
+          "votes_against": 741,
+          "votes_abstain": null,
+          "approval_pct": 99.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中島康晴",
+          "votes_for": 79348,
+          "votes_against": 827,
+          "votes_abstain": null,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長家広明",
+          "votes_for": 79356,
+          "votes_against": 819,
+          "votes_abstain": null,
+          "approval_pct": 98.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W572",
@@ -321,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:02:33.224Z"
+  "updated_at": "2026-07-04T01:41:25.308Z"
 }

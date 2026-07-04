@@ -3,6 +3,123 @@
   "company_name": "アキレス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNU2",
+      "submit_date_time": "2026-07-01 09:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNU2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 88774,
+          "votes_against": 4510,
+          "votes_abstain": 0,
+          "approval_pct": 95.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "日景一郎",
+          "votes_for": 72606,
+          "votes_against": 20679,
+          "votes_abstain": 0,
+          "approval_pct": 77.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "河野和晃",
+          "votes_for": 88735,
+          "votes_against": 4550,
+          "votes_abstain": 0,
+          "approval_pct": 95.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "横山浩樹",
+          "votes_for": 88735,
+          "votes_against": 4550,
+          "votes_abstain": 0,
+          "approval_pct": 95.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "柳川達也",
+          "votes_for": 88737,
+          "votes_against": 4548,
+          "votes_abstain": 0,
+          "approval_pct": 95.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川島英一",
+          "votes_for": 90742,
+          "votes_against": 2543,
+          "votes_abstain": 0,
+          "approval_pct": 97.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "越智久生",
+          "votes_for": 90718,
+          "votes_against": 2567,
+          "votes_abstain": 0,
+          "approval_pct": 97.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "舘野均",
+          "votes_for": 88754,
+          "votes_against": 4531,
+          "votes_abstain": 0,
+          "approval_pct": 95.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小久江晴子",
+          "votes_for": 92723,
+          "votes_against": 562,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WADP",
@@ -333,5 +450,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:06:00.647Z"
+  "updated_at": "2026-07-04T00:53:23.205Z"
 }

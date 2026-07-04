@@ -3,6 +3,135 @@
   "company_name": "コア",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YNOV",
+      "submit_date_time": "2026-06-30 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNOV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "種村良平",
+          "votes_for": 111234,
+          "votes_against": 2464,
+          "votes_abstain": null,
+          "approval_pct": 97.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "横山浩二",
+          "votes_for": 111851,
+          "votes_against": 1847,
+          "votes_abstain": null,
+          "approval_pct": 98.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "牛嶋友美",
+          "votes_for": 113029,
+          "votes_against": 669,
+          "votes_abstain": null,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "亀谷良",
+          "votes_for": 113157,
+          "votes_against": 541,
+          "votes_abstain": null,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鷲山博史",
+          "votes_for": 113134,
+          "votes_against": 564,
+          "votes_abstain": null,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "神山裕司",
+          "votes_for": 112805,
+          "votes_against": 893,
+          "votes_abstain": null,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小林利典",
+          "votes_for": 111365,
+          "votes_against": 2333,
+          "votes_abstain": null,
+          "approval_pct": 97.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "竹野俊成",
+          "votes_for": 110787,
+          "votes_against": 2912,
+          "votes_abstain": null,
+          "approval_pct": 97.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "圷由美子",
+          "votes_for": 113110,
+          "votes_against": 588,
+          "votes_abstain": null,
+          "approval_pct": 99.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案退任取締役に対し退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 103013,
+          "votes_against": 10686,
+          "votes_abstain": null,
+          "approval_pct": 90.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TXEL",
@@ -144,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:26:50.841Z"
+  "updated_at": "2026-07-04T00:56:14.339Z"
 }

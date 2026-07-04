@@ -3,6 +3,99 @@
   "company_name": "ナカバヤシ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMVA",
+      "submit_date_time": "2026-06-29 13:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMVA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 220707,
+          "votes_against": 633,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中林一良",
+          "votes_for": 212547,
+          "votes_against": 8976,
+          "votes_abstain": 0,
+          "approval_pct": 95.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "前田洋二",
+          "votes_for": 216864,
+          "votes_against": 4659,
+          "votes_abstain": 0,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "淡路克浩",
+          "votes_for": 217014,
+          "votes_against": 4509,
+          "votes_abstain": 0,
+          "approval_pct": 97.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "青山伸一",
+          "votes_for": 217075,
+          "votes_against": 4448,
+          "votes_abstain": 0,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長井俊介",
+          "votes_for": 219893,
+          "votes_against": 1630,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中山理香",
+          "votes_for": 220019,
+          "votes_against": 1504,
+          "votes_abstain": 0,
+          "approval_pct": 99.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W92X",
@@ -297,5 +390,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:29:06.860Z"
+  "updated_at": "2026-07-04T01:11:32.595Z"
 }

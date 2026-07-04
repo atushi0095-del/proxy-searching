@@ -3,6 +3,159 @@
   "company_name": "千葉銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNKE",
+      "submit_date_time": "2026-06-30 13:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNKE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6060235,
+          "votes_against": 3499,
+          "votes_abstain": 80,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "①米本努",
+          "votes_for": 5921970,
+          "votes_against": 127485,
+          "votes_abstain": 14682,
+          "approval_pct": 97.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "②山﨑清美",
+          "votes_for": 6012118,
+          "votes_against": 51941,
+          "votes_abstain": 80,
+          "approval_pct": 98.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "③淡路睦",
+          "votes_for": 6012207,
+          "votes_against": 51932,
+          "votes_abstain": 0,
+          "approval_pct": 98.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "④牧之瀬孝",
+          "votes_for": 6016575,
+          "votes_against": 47484,
+          "votes_abstain": 80,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "⑤小野雅康",
+          "votes_for": 6016238,
+          "votes_against": 47821,
+          "votes_abstain": 80,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "⑥高山靖子",
+          "votes_for": 5909286,
+          "votes_against": 154769,
+          "votes_abstain": 80,
+          "approval_pct": 96.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "⑦木内登英",
+          "votes_for": 5957776,
+          "votes_against": 106279,
+          "votes_abstain": 80,
+          "approval_pct": 97.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "⑧吉澤亮二",
+          "votes_for": 6048672,
+          "votes_against": 15390,
+          "votes_abstain": 80,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "⑨鍋嶋麻奈",
+          "votes_for": 6048463,
+          "votes_against": 15599,
+          "votes_abstain": 80,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "⑩水越尚子",
+          "votes_for": 6056383,
+          "votes_against": 7603,
+          "votes_abstain": 80,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6031211,
+          "votes_against": 32880,
+          "votes_abstain": 80,
+          "approval_pct": 98.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WAKA",
@@ -321,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:05:26.771Z"
+  "updated_at": "2026-07-04T00:58:31.140Z"
 }

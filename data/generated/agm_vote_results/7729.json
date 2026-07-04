@@ -3,6 +3,111 @@
   "company_name": "東京精密",
   "meetings": [
     {
+      "meeting_date": "2026-06-22",
+      "meeting_year": 2026,
+      "doc_id": "S100YLAB",
+      "submit_date_time": "2026-06-25 16:51",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLAB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 333860,
+          "votes_against": 257,
+          "votes_abstain": 265,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田均",
+          "votes_for": 330954,
+          "votes_against": 3163,
+          "votes_abstain": 265,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村龍一",
+          "votes_for": 330615,
+          "votes_against": 3502,
+          "votes_abstain": 265,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伯耆田貴浩",
+          "votes_for": 331519,
+          "votes_against": 2598,
+          "votes_abstain": 265,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ロミプラダン",
+          "votes_for": 331451,
+          "votes_against": 2666,
+          "votes_abstain": 265,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高増潔",
+          "votes_for": 333408,
+          "votes_against": 709,
+          "votes_abstain": 265,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森重哉",
+          "votes_for": 333425,
+          "votes_against": 692,
+          "votes_abstain": 265,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川﨑素子",
+          "votes_for": 323260,
+          "votes_against": 10857,
+          "votes_abstain": 265,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W7FD",
@@ -285,5 +390,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:40:46.355Z"
+  "updated_at": "2026-07-04T01:33:09.056Z"
 }

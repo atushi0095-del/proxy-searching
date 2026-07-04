@@ -3,6 +3,147 @@
   "company_name": "エレコム",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMPO",
+      "submit_date_time": "2026-06-29 11:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMPO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 703581,
+          "votes_against": 12237,
+          "votes_abstain": 0,
+          "approval_pct": 98.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "葉田順治",
+          "votes_for": 689785,
+          "votes_against": 26002,
+          "votes_abstain": 27,
+          "approval_pct": 96.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石見浩一",
+          "votes_for": 673398,
+          "votes_against": 42390,
+          "votes_abstain": 27,
+          "approval_pct": 94.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中昌樹",
+          "votes_for": 707366,
+          "votes_against": 8449,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "町一浩",
+          "votes_for": 707417,
+          "votes_against": 8398,
+          "votes_abstain": 0,
+          "approval_pct": 98.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "葉田甲太",
+          "votes_for": 703998,
+          "votes_against": 11817,
+          "votes_abstain": 0,
+          "approval_pct": 98.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田博之",
+          "votes_for": 710639,
+          "votes_against": 5178,
+          "votes_abstain": 0,
+          "approval_pct": 99.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺美紀",
+          "votes_for": 710884,
+          "votes_against": 4933,
+          "votes_abstain": 0,
+          "approval_pct": 99.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長岡孝",
+          "votes_for": 694242,
+          "votes_against": 21574,
+          "votes_abstain": 0,
+          "approval_pct": 96.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "䕃山秀一",
+          "votes_for": 696635,
+          "votes_against": 19181,
+          "votes_abstain": 0,
+          "approval_pct": 97.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "増田豊",
+          "votes_for": 527691,
+          "votes_against": 187807,
+          "votes_abstain": 316,
+          "approval_pct": 73.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6LW",
@@ -333,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:51:07.359Z"
+  "updated_at": "2026-07-04T01:13:39.374Z"
 }

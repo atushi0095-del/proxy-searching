@@ -3,6 +3,111 @@
   "company_name": "日本アビオニクス",
   "meetings": [
     {
+      "meeting_date": "2026-06-22",
+      "meeting_year": 2026,
+      "doc_id": "S100YH5U",
+      "submit_date_time": "2026-06-22 16:59",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YH5U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "剰余金処分の件",
+          "votes_for": 109885,
+          "votes_against": 383,
+          "votes_abstain": 14,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹内正人",
+          "votes_for": 97031,
+          "votes_against": 13236,
+          "votes_abstain": 14,
+          "approval_pct": 87.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山後宏幸",
+          "votes_for": 109731,
+          "votes_against": 537,
+          "votes_abstain": 14,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤精彦",
+          "votes_for": 109618,
+          "votes_against": 650,
+          "votes_abstain": 14,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森誠一",
+          "votes_for": 96076,
+          "votes_against": 14192,
+          "votes_abstain": 14,
+          "approval_pct": 87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "海野忍",
+          "votes_for": 108737,
+          "votes_against": 1532,
+          "votes_abstain": 14,
+          "approval_pct": 98.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青山薫",
+          "votes_for": 109715,
+          "votes_against": 554,
+          "votes_abstain": 14,
+          "approval_pct": 99.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "近藤将士",
+          "votes_for": 107592,
+          "votes_against": 2676,
+          "votes_abstain": 14,
+          "approval_pct": 97.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5Z5",
@@ -201,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:56:08.320Z"
+  "updated_at": "2026-07-04T01:53:53.291Z"
 }

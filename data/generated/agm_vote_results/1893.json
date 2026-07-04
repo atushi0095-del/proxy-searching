@@ -3,6 +3,123 @@
   "company_name": "五洋建設",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLFC",
+      "submit_date_time": "2026-06-26 13:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLFC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2041109,
+          "votes_against": 1844,
+          "votes_abstain": 21234,
+          "approval_pct": 98.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "清水琢三",
+          "votes_for": 1965405,
+          "votes_against": 77144,
+          "votes_abstain": 21640,
+          "approval_pct": 95.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山下朋之",
+          "votes_for": 2021048,
+          "votes_against": 21902,
+          "votes_abstain": 21240,
+          "approval_pct": 97.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中野北斗",
+          "votes_for": 1825484,
+          "votes_against": 217462,
+          "votes_abstain": 21240,
+          "approval_pct": 88.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "関口美奈",
+          "votes_for": 2024356,
+          "votes_against": 19717,
+          "votes_abstain": 20120,
+          "approval_pct": 98.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "林田博",
+          "votes_for": 1964413,
+          "votes_against": 78536,
+          "votes_abstain": 21240,
+          "approval_pct": 95.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "菊池亜紀子",
+          "votes_for": 2023319,
+          "votes_against": 19634,
+          "votes_abstain": 21240,
+          "approval_pct": 98.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岸波みさわ",
+          "votes_for": 2031081,
+          "votes_against": 11872,
+          "votes_abstain": 21240,
+          "approval_pct": 98.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役に対する業績連動型株式報酬制度改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 2036356,
+          "votes_against": 6599,
+          "votes_abstain": 21234,
+          "approval_pct": 98.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W6T9",
@@ -345,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:53:12.405Z"
+  "updated_at": "2026-07-04T01:26:58.881Z"
 }

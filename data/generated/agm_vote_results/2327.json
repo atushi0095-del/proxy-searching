@@ -3,6 +3,135 @@
   "company_name": "日鉄ソリューションズ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YI63",
+      "submit_date_time": "2026-06-23 17:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YI63",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "玉置和彦",
+          "votes_for": 1353029,
+          "votes_against": 301874,
+          "votes_abstain": 381,
+          "approval_pct": 81.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "熊本吉弘",
+          "votes_for": 1638432,
+          "votes_against": 16857,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐藤文敏",
+          "votes_for": 1638326,
+          "votes_against": 16963,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "石井一郎",
+          "votes_for": 1363066,
+          "votes_against": 292225,
+          "votes_abstain": 0,
+          "approval_pct": 82.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "堀井利江",
+          "votes_for": 1363098,
+          "votes_against": 292193,
+          "votes_abstain": 0,
+          "approval_pct": 82.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山畑聡",
+          "votes_for": 1363105,
+          "votes_against": 292186,
+          "votes_abstain": 0,
+          "approval_pct": 82.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川上智子",
+          "votes_for": 1638546,
+          "votes_against": 16746,
+          "votes_abstain": 0,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "加藤伸一",
+          "votes_for": 1547695,
+          "votes_against": 107594,
+          "votes_abstain": 0,
+          "approval_pct": 93.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更（親会社等に対する預け金の禁止）の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 296073,
+          "votes_against": 1359349,
+          "votes_abstain": 2,
+          "approval_pct": 17.87,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案定款一部変更（親会社等への資金拠出に関する開示）の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 301096,
+          "votes_against": 1354343,
+          "votes_abstain": 2,
+          "approval_pct": 18.17,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W3U9",
@@ -180,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:06:50.357Z"
+  "updated_at": "2026-07-04T01:50:24.808Z"
 }

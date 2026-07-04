@@ -3,6 +3,111 @@
   "company_name": "大栄環境",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLL3",
+      "submit_date_time": "2026-06-26 11:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLL3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 944236,
+          "votes_against": 95,
+          "votes_abstain": null,
+          "approval_pct": 98.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "金子文雄",
+          "votes_for": 842073,
+          "votes_against": 102228,
+          "votes_abstain": 26,
+          "approval_pct": 87.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "下田守彦",
+          "votes_for": 890964,
+          "votes_against": 53335,
+          "votes_abstain": 26,
+          "approval_pct": 92.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大田成幸",
+          "votes_for": 923861,
+          "votes_against": 20467,
+          "votes_abstain": null,
+          "approval_pct": 96.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "村上知子",
+          "votes_for": 924643,
+          "votes_against": 19686,
+          "votes_abstain": null,
+          "approval_pct": 96.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "峯森章",
+          "votes_for": 878061,
+          "votes_against": 66266,
+          "votes_abstain": null,
+          "approval_pct": 91.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "村井一雅",
+          "votes_for": 922189,
+          "votes_against": 22140,
+          "votes_abstain": null,
+          "approval_pct": 96.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "北嶋紀子",
+          "votes_for": 925730,
+          "votes_against": 18600,
+          "votes_abstain": null,
+          "approval_pct": 96.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W847",
@@ -249,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:39:36.765Z"
+  "updated_at": "2026-07-04T01:28:12.849Z"
 }

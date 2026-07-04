@@ -3,6 +3,123 @@
   "company_name": "ルネサンス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM1W",
+      "submit_date_time": "2026-06-26 14:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM1W",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 136355,
+          "votes_against": 838,
+          "votes_abstain": 0,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "望月美佐緒",
+          "votes_for": 129959,
+          "votes_against": 7237,
+          "votes_abstain": 0,
+          "approval_pct": 94.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡本利治",
+          "votes_for": 129795,
+          "votes_against": 7401,
+          "votes_abstain": 0,
+          "approval_pct": 94.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安澤嘉丞",
+          "votes_for": 133054,
+          "votes_against": 4142,
+          "votes_abstain": 0,
+          "approval_pct": 96.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田智宣",
+          "votes_for": 133121,
+          "votes_against": 4075,
+          "votes_abstain": 0,
+          "approval_pct": 97.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "阿部奈美",
+          "votes_for": 133407,
+          "votes_against": 3789,
+          "votes_abstain": 0,
+          "approval_pct": 97.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松井拓己",
+          "votes_for": 133399,
+          "votes_against": 3797,
+          "votes_abstain": 0,
+          "approval_pct": 97.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "谷口健太郎",
+          "votes_for": 133422,
+          "votes_against": 3774,
+          "votes_abstain": 0,
+          "approval_pct": 97.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山平恵子",
+          "votes_for": 135847,
+          "votes_against": 1349,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8II",
@@ -285,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:37:42.058Z"
+  "updated_at": "2026-07-04T01:24:42.325Z"
 }

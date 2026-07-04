@@ -3,6 +3,159 @@
   "company_name": "能美防災",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMQV",
+      "submit_date_time": "2026-06-30 11:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMQV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 539790,
+          "votes_against": 274,
+          "votes_abstain": 289,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡村武士",
+          "votes_for": 508527,
+          "votes_against": 31535,
+          "votes_abstain": 289,
+          "approval_pct": 94.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "長谷川雅弘",
+          "votes_for": 512714,
+          "votes_against": 27348,
+          "votes_abstain": 289,
+          "approval_pct": 94.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中村雅之",
+          "votes_for": 538506,
+          "votes_against": 1555,
+          "votes_abstain": 289,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "千田岳彦",
+          "votes_for": 538526,
+          "votes_against": 1535,
+          "votes_abstain": 289,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "塩谷愼",
+          "votes_for": 525337,
+          "votes_against": 14726,
+          "votes_abstain": 289,
+          "approval_pct": 97.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "平野啓子",
+          "votes_for": 538665,
+          "votes_against": 1398,
+          "votes_abstain": 289,
+          "approval_pct": 99.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鷲見哲也",
+          "votes_for": 538689,
+          "votes_against": 1374,
+          "votes_abstain": 289,
+          "approval_pct": 99.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤井裕之",
+          "votes_for": 516298,
+          "votes_against": 23722,
+          "votes_abstain": 289,
+          "approval_pct": 95.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "長濱晶子",
+          "votes_for": 538896,
+          "votes_against": 1128,
+          "votes_abstain": 289,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "福田真人",
+          "votes_for": 538872,
+          "votes_against": 1152,
+          "votes_abstain": 289,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安部道雄",
+          "votes_for": 505089,
+          "votes_against": 34934,
+          "votes_abstain": 289,
+          "approval_pct": 93.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W951",
@@ -309,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:26:43.276Z"
+  "updated_at": "2026-07-04T01:00:02.081Z"
 }

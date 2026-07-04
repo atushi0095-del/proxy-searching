@@ -3,6 +3,87 @@
   "company_name": "曙ブレーキ工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJGO",
+      "submit_date_time": "2026-06-25 15:59",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJGO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長岡宏",
+          "votes_for": 2023346,
+          "votes_against": 183134,
+          "votes_abstain": 1278,
+          "approval_pct": 91.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柳澤是清",
+          "votes_for": 2172890,
+          "votes_against": 33590,
+          "votes_abstain": 1278,
+          "approval_pct": 98.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "戎野順一",
+          "votes_for": 2155097,
+          "votes_against": 51383,
+          "votes_abstain": 1278,
+          "approval_pct": 97.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "駒形崇",
+          "votes_for": 2073365,
+          "votes_against": 133115,
+          "votes_abstain": 1278,
+          "approval_pct": 93.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉高夫",
+          "votes_for": 2176180,
+          "votes_against": 30694,
+          "votes_abstain": 884,
+          "approval_pct": 98.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2094755,
+          "votes_against": 112104,
+          "votes_abstain": 899,
+          "approval_pct": 94.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W70B",
@@ -108,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:46:27.704Z"
+  "updated_at": "2026-07-04T01:34:26.417Z"
 }

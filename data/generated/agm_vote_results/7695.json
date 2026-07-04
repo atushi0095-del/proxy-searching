@@ -3,6 +3,111 @@
   "company_name": "交換できるくん",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNDX",
+      "submit_date_time": "2026-06-30 10:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNDX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 56830,
+          "votes_against": 101,
+          "votes_abstain": null,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 56824,
+          "votes_against": 107,
+          "votes_abstain": null,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "栗原将",
+          "votes_for": 56823,
+          "votes_against": 108,
+          "votes_abstain": null,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤浩二",
+          "votes_for": 56802,
+          "votes_against": 129,
+          "votes_abstain": null,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川憲亮",
+          "votes_for": 56790,
+          "votes_against": 141,
+          "votes_abstain": null,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金森英之",
+          "votes_for": 56818,
+          "votes_against": 113,
+          "votes_abstain": null,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木謙吾",
+          "votes_for": 56820,
+          "votes_against": 111,
+          "votes_abstain": null,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野田優子",
+          "votes_for": 56820,
+          "votes_against": 111,
+          "votes_abstain": null,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-24",
       "meeting_year": 2024,
       "doc_id": "S100TXF2",
@@ -132,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:40:10.071Z"
+  "updated_at": "2026-07-04T01:00:37.008Z"
 }

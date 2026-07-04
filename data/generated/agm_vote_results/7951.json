@@ -3,6 +3,123 @@
   "company_name": "ヤマハ",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNJV",
+      "submit_date_time": "2026-06-30 15:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNJV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 3724969,
+          "votes_against": 3253,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中田卓也",
+          "votes_for": 3358413,
+          "votes_against": 372212,
+          "votes_abstain": 0,
+          "approval_pct": 89.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山浦敦",
+          "votes_for": 3529432,
+          "votes_against": 201195,
+          "votes_abstain": 0,
+          "approval_pct": 94.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "篠原弘道",
+          "votes_for": 3568364,
+          "votes_against": 162265,
+          "votes_abstain": 0,
+          "approval_pct": 95.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉澤尚子",
+          "votes_for": 3587780,
+          "votes_against": 142850,
+          "votes_abstain": 0,
+          "approval_pct": 96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "江幡奈歩",
+          "votes_for": 3588616,
+          "votes_against": 142014,
+          "votes_abstain": 0,
+          "approval_pct": 96.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "伊藤秀二",
+          "votes_for": 3707626,
+          "votes_against": 23003,
+          "votes_abstain": 0,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "野上宰門",
+          "votes_for": 3722905,
+          "votes_against": 7725,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ケリー・ワリング",
+          "votes_for": 3722213,
+          "votes_against": 8417,
+          "votes_abstain": 0,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W22J",
@@ -237,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:10:06.397Z"
+  "updated_at": "2026-07-04T00:56:00.243Z"
 }

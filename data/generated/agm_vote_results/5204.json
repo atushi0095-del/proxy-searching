@@ -3,6 +3,123 @@
   "company_name": "石塚硝子",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YGWN",
+      "submit_date_time": "2026-06-22 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGWN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "石塚久継",
+          "votes_for": 29664,
+          "votes_against": 2349,
+          "votes_abstain": 0,
+          "approval_pct": 92.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "畔柳博史",
+          "votes_for": 30064,
+          "votes_against": 1949,
+          "votes_abstain": 0,
+          "approval_pct": 93.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "稲本弘希",
+          "votes_for": 30079,
+          "votes_against": 1934,
+          "votes_abstain": 0,
+          "approval_pct": 93.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "杉浦修",
+          "votes_for": 30078,
+          "votes_against": 1935,
+          "votes_abstain": 0,
+          "approval_pct": 93.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小栗悟",
+          "votes_for": 30073,
+          "votes_against": 1940,
+          "votes_abstain": 0,
+          "approval_pct": 93.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安北千差",
+          "votes_for": 30079,
+          "votes_against": 1934,
+          "votes_abstain": 0,
+          "approval_pct": 93.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "赤嶺順也",
+          "votes_for": 31182,
+          "votes_against": 832,
+          "votes_abstain": 0,
+          "approval_pct": 97.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "松田茂樹",
+          "votes_for": 31694,
+          "votes_against": 320,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "石原浩",
+          "votes_for": 31686,
+          "votes_against": 328,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-17",
       "meeting_year": 2025,
       "doc_id": "S100VZXK",
@@ -273,5 +390,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:19:28.205Z"
+  "updated_at": "2026-07-04T01:55:01.522Z"
 }

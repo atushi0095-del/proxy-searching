@@ -3,6 +3,123 @@
   "company_name": "アルフレッサ　ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKKD",
+      "submit_date_time": "2026-06-25 11:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKKD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 1529494,
+          "votes_against": 842,
+          "votes_abstain": 278,
+          "approval_pct": 99.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "荒川隆治",
+          "votes_for": 1224359,
+          "votes_against": 69630,
+          "votes_abstain": 236621,
+          "approval_pct": 79.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福神雄介",
+          "votes_for": 1233373,
+          "votes_against": 60617,
+          "votes_abstain": 236621,
+          "approval_pct": 80.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大橋茂樹",
+          "votes_for": 1237050,
+          "votes_against": 56943,
+          "votes_abstain": 236621,
+          "approval_pct": 80.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中敏樹",
+          "votes_for": 1237093,
+          "votes_against": 56900,
+          "votes_abstain": 236621,
+          "approval_pct": 80.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "島田浩一",
+          "votes_for": 1236971,
+          "votes_against": 57022,
+          "votes_abstain": 236621,
+          "approval_pct": 80.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木下学",
+          "votes_for": 1240505,
+          "votes_against": 53488,
+          "votes_abstain": 236621,
+          "approval_pct": 81.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "竹内淑恵",
+          "votes_for": 1240630,
+          "votes_against": 53363,
+          "votes_abstain": 236621,
+          "approval_pct": 81.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "國政貴美子",
+          "votes_for": 1240676,
+          "votes_against": 53317,
+          "votes_abstain": 236621,
+          "approval_pct": 81.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W78P",
@@ -357,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:49:59.226Z"
+  "updated_at": "2026-07-04T01:40:57.196Z"
 }

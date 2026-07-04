@@ -3,6 +3,99 @@
   "company_name": "日鉄鉱業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMOG",
+      "submit_date_time": "2026-06-29 15:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMOG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 575724,
+          "votes_against": 77043,
+          "votes_abstain": 0,
+          "approval_pct": 88.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件森川玲一",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 517355,
+          "votes_against": 135799,
+          "votes_abstain": 0,
+          "approval_pct": 79.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件森川玲一",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "曽田健",
+          "votes_for": 573487,
+          "votes_against": 79669,
+          "votes_abstain": 0,
+          "approval_pct": 87.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件森川玲一",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "泉宣道",
+          "votes_for": 574793,
+          "votes_against": 78364,
+          "votes_abstain": 0,
+          "approval_pct": 87.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件森川玲一",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "板倉賢一",
+          "votes_for": 574850,
+          "votes_against": 78307,
+          "votes_abstain": 0,
+          "approval_pct": 87.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件森川玲一",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "長田弘樹",
+          "votes_for": 573491,
+          "votes_against": 79665,
+          "votes_abstain": 0,
+          "approval_pct": 87.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件森川玲一",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "麻木孝郎",
+          "votes_for": 573499,
+          "votes_against": 79657,
+          "votes_abstain": 0,
+          "approval_pct": 87.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WA8C",
@@ -237,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:10:03.530Z"
+  "updated_at": "2026-07-04T01:05:41.645Z"
 }

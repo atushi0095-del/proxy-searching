@@ -3,6 +3,39 @@
   "company_name": "東京製鐵",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKF6",
+      "submit_date_time": "2026-06-25 10:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKF6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 911456,
+          "votes_against": 968,
+          "votes_abstain": null,
+          "approval_pct": 99.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "奈良暢明津田聰一朗伊藤岳",
+          "votes_for": 797450817583887100,
+          "votes_against": 1152219512725670,
+          "votes_abstain": null,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W9RF",
@@ -165,5 +198,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:18:06.034Z"
+  "updated_at": "2026-07-04T01:42:03.861Z"
 }

@@ -3,6 +3,87 @@
   "company_name": "チタン工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLKH",
+      "submit_date_time": "2026-06-26 15:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLKH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 15585,
+          "votes_against": 191,
+          "votes_abstain": 0,
+          "approval_pct": 98.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上保雄",
+          "votes_for": 15208,
+          "votes_against": 560,
+          "votes_abstain": 0,
+          "approval_pct": 96.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長岡佳孝",
+          "votes_for": 15278,
+          "votes_against": 490,
+          "votes_abstain": 0,
+          "approval_pct": 96.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長岡茂",
+          "votes_for": 15272,
+          "votes_against": 496,
+          "votes_abstain": 0,
+          "approval_pct": 96.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千々松義人",
+          "votes_for": 15291,
+          "votes_against": 477,
+          "votes_abstain": 0,
+          "approval_pct": 96.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西田敦",
+          "votes_for": 15287,
+          "votes_against": 481,
+          "votes_abstain": 0,
+          "approval_pct": 96.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W84V",
@@ -225,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:34:50.544Z"
+  "updated_at": "2026-07-04T01:23:00.344Z"
 }

@@ -3,6 +3,147 @@
   "company_name": "フォーカスシステムズ",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNO4",
+      "submit_date_time": "2026-06-30 15:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNO4",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 110731,
+          "votes_against": 234,
+          "votes_abstain": 0,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 110686,
+          "votes_against": 279,
+          "votes_abstain": 0,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森啓一",
+          "votes_for": 92847,
+          "votes_against": 18118,
+          "votes_abstain": 0,
+          "approval_pct": 83.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "津嶋隆博",
+          "votes_for": 110041,
+          "votes_against": 924,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "水野弥",
+          "votes_for": 109945,
+          "votes_against": 1020,
+          "votes_abstain": 0,
+          "approval_pct": 99.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "瀬尾勘太",
+          "votes_for": 109812,
+          "votes_against": 1153,
+          "votes_abstain": 0,
+          "approval_pct": 98.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "秋山エリカ",
+          "votes_for": 109754,
+          "votes_against": 1211,
+          "votes_abstain": 0,
+          "approval_pct": 98.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山尾百合子",
+          "votes_for": 109743,
+          "votes_against": 1222,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 109504,
+          "votes_against": 1461,
+          "votes_abstain": 0,
+          "approval_pct": 98.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役報酬限度額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 109416,
+          "votes_against": 1549,
+          "votes_abstain": 0,
+          "approval_pct": 98.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役に対する譲渡制限付株式付与のための報酬改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 109727,
+          "votes_against": 1238,
+          "votes_abstain": 0,
+          "approval_pct": 98.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W8OY",
@@ -201,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:12:00.744Z"
+  "updated_at": "2026-07-04T00:56:39.870Z"
 }

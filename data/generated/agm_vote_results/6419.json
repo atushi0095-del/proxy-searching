@@ -3,6 +3,99 @@
   "company_name": "マースグループホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YNLC",
+      "submit_date_time": "2026-07-01 09:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNLC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 132524,
+          "votes_against": 9220,
+          "votes_abstain": null,
+          "approval_pct": 93.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松波明宏",
+          "votes_for": 118288,
+          "votes_against": 23456,
+          "votes_abstain": null,
+          "approval_pct": 83.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋丈治",
+          "votes_for": 137009,
+          "votes_against": 4735,
+          "votes_abstain": null,
+          "approval_pct": 96.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥村雅史",
+          "votes_for": 140659,
+          "votes_against": 1085,
+          "votes_abstain": null,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中博尊",
+          "votes_for": 140613,
+          "votes_against": 1131,
+          "votes_abstain": null,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水顕",
+          "votes_for": 140740,
+          "votes_against": 1004,
+          "votes_abstain": null,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 109947,
+          "votes_against": 31797,
+          "votes_abstain": null,
+          "approval_pct": 77.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WATN",
@@ -189,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:01:10.248Z"
+  "updated_at": "2026-07-04T00:53:25.608Z"
 }

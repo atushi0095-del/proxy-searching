@@ -3,6 +3,63 @@
   "company_name": "楽天銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKRV",
+      "submit_date_time": "2026-06-25 16:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKRV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案東林知隆三木谷浩史水口直毅長門正貢川村佳世子河井聡小木曽麻里",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.2176371265661147e+48,
+          "votes_against": 3.101312621088298e+39,
+          "votes_abstain": 1.7038170383673672e+24,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案山田眞之助池田潤大洞聖子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 140073715187021510000,
+          "votes_against": 1437132574925815,
+          "votes_abstain": 367367367,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1297329,
+          "votes_against": 247117,
+          "votes_abstain": 367,
+          "approval_pct": 83.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1315260,
+          "votes_against": 229191,
+          "votes_abstain": 367,
+          "approval_pct": 85.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY5K",
@@ -96,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:24:51.599Z"
+  "updated_at": "2026-07-04T01:33:22.934Z"
 }

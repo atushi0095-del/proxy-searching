@@ -3,6 +3,63 @@
   "company_name": "ホクト株式会社",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMPK",
+      "submit_date_time": "2026-06-29 11:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMPK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 253479,
+          "votes_against": 1180,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "土屋孝二",
+          "votes_for": 237740,
+          "votes_against": 16917,
+          "votes_abstain": 0,
+          "approval_pct": 93.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "杉村智代",
+          "votes_for": 253851,
+          "votes_against": 807,
+          "votes_abstain": 0,
+          "approval_pct": 99.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案退任取締役に対する弔慰金（死亡退職慰労金の贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 193153,
+          "votes_against": 61508,
+          "votes_abstain": 0,
+          "approval_pct": 75.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2P7",
@@ -165,5 +222,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:10:39.549Z"
+  "updated_at": "2026-07-04T01:13:41.695Z"
 }

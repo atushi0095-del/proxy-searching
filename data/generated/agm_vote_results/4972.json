@@ -3,6 +3,123 @@
   "company_name": "綜研化学",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKQW",
+      "submit_date_time": "2026-06-25 14:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKQW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 107767,
+          "votes_against": 754,
+          "votes_abstain": 0,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "冨田幸二",
+          "votes_for": 82682,
+          "votes_against": 25839,
+          "votes_abstain": 0,
+          "approval_pct": 76.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡本秀二",
+          "votes_for": 82479,
+          "votes_against": 26042,
+          "votes_abstain": 0,
+          "approval_pct": 76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "蓮井崇文",
+          "votes_for": 82839,
+          "votes_against": 25682,
+          "votes_abstain": 0,
+          "approval_pct": 76.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "滝澤清隆",
+          "votes_for": 82837,
+          "votes_against": 25684,
+          "votes_abstain": 0,
+          "approval_pct": 76.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "泉弘毅",
+          "votes_for": 83032,
+          "votes_against": 25489,
+          "votes_abstain": 0,
+          "approval_pct": 76.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "浅野恵子",
+          "votes_for": 25480,
+          "votes_against": 0,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中瀬道行",
+          "votes_for": 83376,
+          "votes_against": 25145,
+          "votes_abstain": 0,
+          "approval_pct": 76.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 81794,
+          "votes_against": 26727,
+          "votes_abstain": 0,
+          "approval_pct": 75.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6PC",
@@ -225,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:52:03.600Z"
+  "updated_at": "2026-07-04T01:38:33.140Z"
 }

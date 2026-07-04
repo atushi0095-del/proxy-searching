@@ -3,6 +3,135 @@
   "company_name": "ローム",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YMM6",
+      "submit_date_time": "2026-06-29 15:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMM6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3192972,
+          "votes_against": 19679,
+          "votes_abstain": 8,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3192667,
+          "votes_against": 19985,
+          "votes_abstain": 8,
+          "approval_pct": 99.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "東克己",
+          "votes_for": 2470326,
+          "votes_against": 742276,
+          "votes_abstain": 8,
+          "approval_pct": 76.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊野和英",
+          "votes_for": 3099189,
+          "votes_against": 113423,
+          "votes_abstain": 8,
+          "approval_pct": 96.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "立石哲夫",
+          "votes_for": 3063350,
+          "votes_against": 149262,
+          "votes_abstain": 8,
+          "approval_pct": 95.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "PeterKenevan",
+          "votes_for": 3115483,
+          "votes_against": 97129,
+          "votes_abstain": 8,
+          "approval_pct": 96.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "南雲忠信",
+          "votes_for": 3040412,
+          "votes_against": 169126,
+          "votes_abstain": 3077,
+          "approval_pct": 94.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小崎亜依子",
+          "votes_for": 3186746,
+          "votes_against": 25865,
+          "votes_abstain": 8,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "南川明",
+          "votes_for": 3206450,
+          "votes_against": 6164,
+          "votes_abstain": 8,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3208154,
+          "votes_against": 4499,
+          "votes_abstain": 8,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-30",
       "meeting_year": 2025,
       "doc_id": "S100W8L8",
@@ -297,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:26:13.150Z"
+  "updated_at": "2026-07-04T01:06:22.053Z"
 }

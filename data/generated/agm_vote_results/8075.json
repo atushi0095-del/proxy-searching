@@ -3,6 +3,135 @@
   "company_name": "神鋼商事",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YNZJ",
+      "submit_date_time": "2026-07-01 15:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNZJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙下拡展",
+          "votes_for": 224396,
+          "votes_against": 4953,
+          "votes_abstain": 0,
+          "approval_pct": 97.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "足達雅人",
+          "votes_for": 225206,
+          "votes_against": 4143,
+          "votes_abstain": 0,
+          "approval_pct": 98.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三原雄二",
+          "votes_for": 228233,
+          "votes_against": 1116,
+          "votes_abstain": 0,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浦出信次",
+          "votes_for": 228602,
+          "votes_against": 747,
+          "votes_abstain": 0,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋淳",
+          "votes_for": 228418,
+          "votes_against": 931,
+          "votes_abstain": 0,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田野美雄",
+          "votes_for": 226528,
+          "votes_against": 2821,
+          "votes_abstain": 0,
+          "approval_pct": 98.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡部泰幸",
+          "votes_for": 227984,
+          "votes_against": 1365,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金子浩子",
+          "votes_for": 228762,
+          "votes_against": 587,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川美雪",
+          "votes_for": 215494,
+          "votes_against": 13855,
+          "votes_abstain": 0,
+          "approval_pct": 93.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下村久幸",
+          "votes_for": 229630,
+          "votes_against": 619,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100WAHH",
@@ -273,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:05:43.738Z"
+  "updated_at": "2026-07-04T00:49:59.140Z"
 }

@@ -3,6 +3,123 @@
   "company_name": "スズデン",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKU3",
+      "submit_date_time": "2026-06-25 13:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKU3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木敏雄",
+          "votes_for": 94196,
+          "votes_against": 7348,
+          "votes_abstain": 0,
+          "approval_pct": 92.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "高谷健文",
+          "votes_for": 94212,
+          "votes_against": 7332,
+          "votes_abstain": 0,
+          "approval_pct": 92.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安岳宗吉",
+          "votes_for": 97050,
+          "votes_against": 4494,
+          "votes_abstain": 0,
+          "approval_pct": 95.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊藤義則",
+          "votes_for": 100448,
+          "votes_against": 1096,
+          "votes_abstain": 0,
+          "approval_pct": 98.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤本茂樹",
+          "votes_for": 99231,
+          "votes_against": 2313,
+          "votes_abstain": 0,
+          "approval_pct": 97.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山田雅司",
+          "votes_for": 100353,
+          "votes_against": 1191,
+          "votes_abstain": 0,
+          "approval_pct": 98.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "平真美",
+          "votes_for": 88341,
+          "votes_against": 13203,
+          "votes_abstain": 0,
+          "approval_pct": 87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中嶋正博",
+          "votes_for": 99885,
+          "votes_against": 1659,
+          "votes_abstain": 0,
+          "approval_pct": 98.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く）に対する役員賞与支給の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 100133,
+          "votes_against": 1411,
+          "votes_abstain": 0,
+          "approval_pct": 98.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8GC",
@@ -285,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:36:03.938Z"
+  "updated_at": "2026-07-04T01:39:06.252Z"
 }

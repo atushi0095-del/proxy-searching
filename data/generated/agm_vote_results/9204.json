@@ -3,6 +3,147 @@
   "company_name": "ｽｶｲﾏｰｸ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YFW1",
+      "submit_date_time": "2026-06-26 15:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFW1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "三輪德泰",
+          "votes_for": 388393,
+          "votes_against": 25212,
+          "votes_abstain": 0,
+          "approval_pct": 91.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "根岸毅",
+          "votes_for": 393213,
+          "votes_against": 20392,
+          "votes_abstain": 0,
+          "approval_pct": 92.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "桐山毅",
+          "votes_for": 393351,
+          "votes_against": 20254,
+          "votes_abstain": 0,
+          "approval_pct": 92.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "草薙邦雄",
+          "votes_for": 392923,
+          "votes_against": 20682,
+          "votes_abstain": 0,
+          "approval_pct": 92.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "宝鏡邦祐",
+          "votes_for": 393564,
+          "votes_against": 20041,
+          "votes_abstain": 0,
+          "approval_pct": 92.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加藤勝也",
+          "votes_for": 393236,
+          "votes_against": 20369,
+          "votes_abstain": 0,
+          "approval_pct": 92.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤善信",
+          "votes_for": 395351,
+          "votes_against": 18254,
+          "votes_abstain": 0,
+          "approval_pct": 93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "米正剛",
+          "votes_for": 392811,
+          "votes_against": 20794,
+          "votes_abstain": 0,
+          "approval_pct": 92.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "豊島勝一郎",
+          "votes_for": 392907,
+          "votes_against": 20698,
+          "votes_abstain": 0,
+          "approval_pct": 92.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "浅井伸祐",
+          "votes_for": 382431,
+          "votes_against": 31174,
+          "votes_abstain": 0,
+          "approval_pct": 89.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "森谷和生",
+          "votes_for": 397805,
+          "votes_against": 16629,
+          "votes_abstain": 0,
+          "approval_pct": 93.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TT28",
@@ -180,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:10:49.748Z"
+  "updated_at": "2026-07-04T01:20:50.962Z"
 }

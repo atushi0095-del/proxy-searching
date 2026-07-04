@@ -3,6 +3,99 @@
   "company_name": "ｽｶﾞｲ化学工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YIW5",
+      "submit_date_time": "2026-06-25 09:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIW5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "剰余金処分の件",
+          "votes_for": 6870,
+          "votes_against": 29,
+          "votes_abstain": null,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野間修",
+          "votes_for": 6861,
+          "votes_against": 38,
+          "votes_abstain": null,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "種治崇",
+          "votes_for": 6867,
+          "votes_against": 32,
+          "votes_abstain": null,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井田泰敬",
+          "votes_for": 6859,
+          "votes_against": 40,
+          "votes_abstain": null,
+          "approval_pct": 99.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山邉賢",
+          "votes_for": 6864,
+          "votes_against": 35,
+          "votes_abstain": null,
+          "approval_pct": 99.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内川真由美",
+          "votes_for": 6858,
+          "votes_against": 41,
+          "votes_abstain": null,
+          "approval_pct": 99.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "日根野谷正人",
+          "votes_for": 6865,
+          "votes_against": 34,
+          "votes_abstain": null,
+          "approval_pct": 99.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W1G1",
@@ -177,5 +270,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:14:01.220Z"
+  "updated_at": "2026-07-04T01:43:07.836Z"
 }

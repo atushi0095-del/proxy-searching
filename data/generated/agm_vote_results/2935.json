@@ -3,6 +3,135 @@
   "company_name": "ピックルスホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-05-28",
+      "meeting_year": 2026,
+      "doc_id": "S100Y8FD",
+      "submit_date_time": "2026-06-03 15:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y8FD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮本雅弘",
+          "votes_for": 84818,
+          "votes_against": 5421,
+          "votes_abstain": 0,
+          "approval_pct": 93.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "影山直司",
+          "votes_for": 84599,
+          "votes_against": 5640,
+          "votes_abstain": 0,
+          "approval_pct": 93.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三品徹",
+          "votes_for": 86557,
+          "votes_against": 3682,
+          "votes_abstain": 0,
+          "approval_pct": 95.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾中真二",
+          "votes_for": 89177,
+          "votes_against": 1062,
+          "votes_abstain": 0,
+          "approval_pct": 98.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "萩野賴子",
+          "votes_for": 86218,
+          "votes_against": 4021,
+          "votes_abstain": 0,
+          "approval_pct": 95.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中德兵衞",
+          "votes_for": 86337,
+          "votes_against": 3902,
+          "votes_abstain": 0,
+          "approval_pct": 95.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西渉",
+          "votes_for": 89201,
+          "votes_against": 1040,
+          "votes_abstain": 0,
+          "approval_pct": 98.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神﨑幸雄",
+          "votes_for": 89073,
+          "votes_against": 1168,
+          "votes_abstain": 0,
+          "approval_pct": 98.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小高正裕",
+          "votes_for": 89301,
+          "votes_against": 940,
+          "votes_abstain": 0,
+          "approval_pct": 98.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "粟井邦彦",
+          "votes_for": 82464,
+          "votes_against": 7777,
+          "votes_abstain": 0,
+          "approval_pct": 91.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-30",
       "meeting_year": 2024,
       "doc_id": "S100TK2Y",
@@ -144,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:30:21.524Z"
+  "updated_at": "2026-07-04T02:05:11.370Z"
 }

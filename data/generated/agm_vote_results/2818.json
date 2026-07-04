@@ -3,6 +3,123 @@
   "company_name": "ピエトロ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKH8",
+      "submit_date_time": "2026-06-25 10:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKH8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 50426,
+          "votes_against": 184,
+          "votes_abstain": 0,
+          "approval_pct": 98.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西川啓子",
+          "votes_for": 50203,
+          "votes_against": 416,
+          "votes_abstain": 0,
+          "approval_pct": 98.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋泰行",
+          "votes_for": 50314,
+          "votes_against": 305,
+          "votes_abstain": 0,
+          "approval_pct": 98.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮川慎一",
+          "votes_for": 50192,
+          "votes_against": 427,
+          "votes_abstain": 0,
+          "approval_pct": 98.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "相薗好伸",
+          "votes_for": 50348,
+          "votes_against": 271,
+          "votes_abstain": 0,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田島潤",
+          "votes_for": 50342,
+          "votes_against": 277,
+          "votes_abstain": 0,
+          "approval_pct": 98.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙田聖大",
+          "votes_for": 50109,
+          "votes_against": 510,
+          "votes_abstain": 0,
+          "approval_pct": 98.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "シュードル祐子",
+          "votes_for": 50262,
+          "votes_against": 357,
+          "votes_abstain": 0,
+          "approval_pct": 98.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋康徳",
+          "votes_for": 50225,
+          "votes_against": 394,
+          "votes_abstain": 0,
+          "approval_pct": 98.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9TA",
@@ -237,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:16:16.929Z"
+  "updated_at": "2026-07-04T01:41:43.432Z"
 }

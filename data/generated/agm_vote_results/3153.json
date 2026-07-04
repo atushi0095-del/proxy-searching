@@ -3,6 +3,159 @@
   "company_name": "八洲電機",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKLM",
+      "submit_date_time": "2026-06-25 13:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKLM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "太田明夫",
+          "votes_for": 141461,
+          "votes_against": 2559,
+          "votes_abstain": 0,
+          "approval_pct": 98.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "清宮茂樹",
+          "votes_for": 141681,
+          "votes_against": 2339,
+          "votes_abstain": 0,
+          "approval_pct": 98.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松﨑正",
+          "votes_for": 143208,
+          "votes_against": 812,
+          "votes_abstain": 0,
+          "approval_pct": 99.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "織田富造",
+          "votes_for": 143189,
+          "votes_against": 831,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡谷洋介",
+          "votes_for": 143231,
+          "votes_against": 789,
+          "votes_abstain": 0,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "上石奈緒",
+          "votes_for": 143181,
+          "votes_against": 839,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮直仁",
+          "votes_for": 116926,
+          "votes_against": 27092,
+          "votes_abstain": 0,
+          "approval_pct": 81.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山内豊",
+          "votes_for": 142665,
+          "votes_against": 1353,
+          "votes_abstain": 0,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岩瀬淳一",
+          "votes_for": 136226,
+          "votes_against": 7792,
+          "votes_abstain": 0,
+          "approval_pct": 94.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "白井純夫",
+          "votes_for": 143155,
+          "votes_against": 865,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役（監査等委員である取締役を除く。）に対する金銭報酬限度額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 139712,
+          "votes_against": 4308,
+          "votes_abstain": 0,
+          "approval_pct": 97.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役（監査等委員である取締役及び社外取締役を除く。）に対する譲渡制限付株式報酬限度額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 142093,
+          "votes_against": 1927,
+          "votes_abstain": 0,
+          "approval_pct": 98.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TT6D",
@@ -120,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:02:17.418Z"
+  "updated_at": "2026-07-04T01:39:34.111Z"
 }

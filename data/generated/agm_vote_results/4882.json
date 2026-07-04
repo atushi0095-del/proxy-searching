@@ -3,6 +3,123 @@
   "company_name": "ペルセウスプロテオミクス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJYH",
+      "submit_date_time": "2026-06-24 16:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJYH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 66502,
+          "votes_against": 9877,
+          "votes_abstain": null,
+          "approval_pct": 84.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横川拓哉",
+          "votes_for": 63704,
+          "votes_against": 12765,
+          "votes_abstain": null,
+          "approval_pct": 80.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "萩原真二",
+          "votes_for": 65943,
+          "votes_against": 10436,
+          "votes_abstain": null,
+          "approval_pct": 83.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "棚橋進",
+          "votes_for": 67377,
+          "votes_against": 9002,
+          "votes_abstain": null,
+          "approval_pct": 85.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小南欽一郎",
+          "votes_for": 68049,
+          "votes_against": 8330,
+          "votes_abstain": null,
+          "approval_pct": 86.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "花井陳雄",
+          "votes_for": 66192,
+          "votes_against": 10187,
+          "votes_abstain": null,
+          "approval_pct": 84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本尚",
+          "votes_for": 69595,
+          "votes_against": 6784,
+          "votes_abstain": null,
+          "approval_pct": 88.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西垣扶佐子",
+          "votes_for": 69789,
+          "votes_against": 6590,
+          "votes_abstain": null,
+          "approval_pct": 88.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "島戸圭輔",
+          "votes_for": 70116,
+          "votes_against": 6263,
+          "votes_abstain": null,
+          "approval_pct": 88.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W5WK",
@@ -225,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:30:12.873Z"
+  "updated_at": "2026-07-04T01:43:56.794Z"
 }

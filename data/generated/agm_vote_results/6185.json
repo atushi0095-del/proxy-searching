@@ -3,6 +3,87 @@
   "company_name": "ＳＭＮ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YN4I",
+      "submit_date_time": "2026-06-30 15:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN4I",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "原山直樹",
+          "votes_for": 109014,
+          "votes_against": 4426,
+          "votes_abstain": null,
+          "approval_pct": 91.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安田崇浩",
+          "votes_for": 112425,
+          "votes_against": 1015,
+          "votes_abstain": null,
+          "approval_pct": 94.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小笠原康貴",
+          "votes_for": 112167,
+          "votes_against": 1273,
+          "votes_abstain": null,
+          "approval_pct": 94.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "本間俊之",
+          "votes_for": 112442,
+          "votes_against": 998,
+          "votes_abstain": null,
+          "approval_pct": 94.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "相内泰和",
+          "votes_for": 112307,
+          "votes_against": 1133,
+          "votes_abstain": null,
+          "approval_pct": 94.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "関根里佳子",
+          "votes_for": 112488,
+          "votes_against": 952,
+          "votes_abstain": null,
+          "approval_pct": 94.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W3Q2",
@@ -153,5 +234,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:04:07.121Z"
+  "updated_at": "2026-07-04T00:55:57.893Z"
 }

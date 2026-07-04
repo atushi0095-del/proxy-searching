@@ -3,6 +3,27 @@
   "company_name": "ホクシン",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YO21",
+      "submit_date_time": "2026-07-01 14:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO21",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員以外の取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "①高橋英明②廣田昌俊③池本輝男④小泉浩一",
+          "votes_for": 2.0778920747420782e+23,
+          "votes_against": 3157347231263902,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WBB9",
@@ -48,5 +69,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:00:28.310Z"
+  "updated_at": "2026-07-04T00:50:53.096Z"
 }

@@ -3,6 +3,39 @@
   "company_name": "セーラー広告",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YK1L",
+      "submit_date_time": "2026-06-25 15:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YK1L",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 30000,
+          "votes_against": 1669,
+          "votes_abstain": 0,
+          "approval_pct": 94.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中西裕司",
+          "votes_for": 31293,
+          "votes_against": 376,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7KP",
@@ -57,5 +90,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:33:17.120Z"
+  "updated_at": "2026-07-04T01:35:27.863Z"
 }

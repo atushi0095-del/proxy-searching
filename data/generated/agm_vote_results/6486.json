@@ -3,6 +3,159 @@
   "company_name": "イーグル工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJF3",
+      "submit_date_time": "2026-06-24 14:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJF3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 354901,
+          "votes_against": 27055,
+          "votes_abstain": 0,
+          "approval_pct": 92.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鶴鉄二",
+          "votes_for": 375087,
+          "votes_against": 6855,
+          "votes_abstain": 13,
+          "approval_pct": 98.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中尾正樹",
+          "votes_for": 376786,
+          "votes_against": 5168,
+          "votes_abstain": 0,
+          "approval_pct": 98.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上村訓右",
+          "votes_for": 376782,
+          "votes_against": 5172,
+          "votes_abstain": 0,
+          "approval_pct": 98.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "嶋田雅英",
+          "votes_for": 377639,
+          "votes_against": 4317,
+          "votes_abstain": 0,
+          "approval_pct": 98.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中澤亮大",
+          "votes_for": 380902,
+          "votes_against": 1054,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村田良伸",
+          "votes_for": 380896,
+          "votes_against": 1060,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山澤梨沙",
+          "votes_for": 380987,
+          "votes_against": 970,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "射場泰光",
+          "votes_for": 378881,
+          "votes_against": 3112,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "庄野勝彦",
+          "votes_for": 377811,
+          "votes_against": 4186,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂口昌子",
+          "votes_for": 377851,
+          "votes_against": 4146,
+          "votes_abstain": 0,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池孝",
+          "votes_for": 373432,
+          "votes_against": 8565,
+          "votes_abstain": 0,
+          "approval_pct": 97.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TSL9",
@@ -216,5 +369,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:04:53.720Z"
+  "updated_at": "2026-07-04T01:47:28.459Z"
 }

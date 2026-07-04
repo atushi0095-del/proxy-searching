@@ -3,6 +3,123 @@
   "company_name": "オリエンタル白石",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YIZV",
+      "submit_date_time": "2026-06-29 09:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIZV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 968580,
+          "votes_against": 5581,
+          "votes_abstain": 143,
+          "approval_pct": 99.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "照井満",
+          "votes_for": 835382,
+          "votes_against": 138897,
+          "votes_abstain": 25,
+          "approval_pct": 85.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "正司明夫",
+          "votes_for": 960360,
+          "votes_against": 13919,
+          "votes_abstain": 25,
+          "approval_pct": 98.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本幸彦",
+          "votes_for": 959687,
+          "votes_against": 14592,
+          "votes_abstain": 25,
+          "approval_pct": 98.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水野敏昭",
+          "votes_for": 960391,
+          "votes_against": 13888,
+          "votes_abstain": 25,
+          "approval_pct": 98.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤英明",
+          "votes_for": 959605,
+          "votes_against": 14674,
+          "votes_abstain": 25,
+          "approval_pct": 98.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "酢谷裕子",
+          "votes_for": 960257,
+          "votes_against": 14022,
+          "votes_abstain": 25,
+          "approval_pct": 98.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森永博之",
+          "votes_for": 959665,
+          "votes_against": 14614,
+          "votes_abstain": 25,
+          "approval_pct": 98.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "磯和春美",
+          "votes_for": 959444,
+          "votes_against": 14835,
+          "votes_abstain": 25,
+          "approval_pct": 98.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6M1",
@@ -285,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:24:10.513Z"
+  "updated_at": "2026-07-04T01:18:22.141Z"
 }

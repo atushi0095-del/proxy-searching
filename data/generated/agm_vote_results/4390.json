@@ -3,6 +3,99 @@
   "company_name": "ＩＰＳ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJBY",
+      "submit_date_time": "2026-06-24 13:12",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJBY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 78628,
+          "votes_against": 160,
+          "votes_abstain": null,
+          "approval_pct": 99.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮下幸治",
+          "votes_for": 77403,
+          "votes_against": 1387,
+          "votes_abstain": null,
+          "approval_pct": 98.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上森雅子",
+          "votes_for": 78587,
+          "votes_against": 203,
+          "votes_abstain": null,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川渕正光",
+          "votes_for": 78538,
+          "votes_against": 252,
+          "votes_abstain": null,
+          "approval_pct": 99.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中原茂樹",
+          "votes_for": 78530,
+          "votes_against": 260,
+          "votes_abstain": null,
+          "approval_pct": 99.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村口和孝",
+          "votes_for": 78517,
+          "votes_against": 273,
+          "votes_abstain": null,
+          "approval_pct": 99.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "雪丸暁子",
+          "votes_for": 78540,
+          "votes_against": 250,
+          "votes_abstain": null,
+          "approval_pct": 99.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W65C",
@@ -225,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:56:22.926Z"
+  "updated_at": "2026-07-04T01:48:34.210Z"
 }

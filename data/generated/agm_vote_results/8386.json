@@ -3,6 +3,135 @@
   "company_name": "百十四銀行",
   "meetings": [
     {
+      "meeting_date": "2026-07-01",
+      "meeting_year": 2026,
+      "doc_id": "S100YNS3",
+      "submit_date_time": "2026-07-01 16:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNS3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 229401,
+          "votes_against": 1248,
+          "votes_abstain": 451,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "綾田裕次郎",
+          "votes_for": 198986,
+          "votes_against": 31561,
+          "votes_abstain": 451,
+          "approval_pct": 86.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森匡史",
+          "votes_for": 180508,
+          "votes_against": 50138,
+          "votes_abstain": 451,
+          "approval_pct": 78.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "豊嶋正和",
+          "votes_for": 203021,
+          "votes_against": 27625,
+          "votes_abstain": 451,
+          "approval_pct": 87.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "多田和仁",
+          "votes_for": 203131,
+          "votes_against": 27515,
+          "votes_abstain": 451,
+          "approval_pct": 87.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅弘",
+          "votes_for": 225310,
+          "votes_against": 5337,
+          "votes_abstain": 451,
+          "approval_pct": 97.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩根正明",
+          "votes_for": 225397,
+          "votes_against": 5250,
+          "votes_abstain": 451,
+          "approval_pct": 97.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小田英城",
+          "votes_for": 225352,
+          "votes_against": 5295,
+          "votes_abstain": 451,
+          "approval_pct": 97.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩瀬徹也",
+          "votes_for": 225348,
+          "votes_against": 5299,
+          "votes_abstain": 451,
+          "approval_pct": 97.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 218305,
+          "votes_against": 11890,
+          "votes_abstain": 904,
+          "approval_pct": 94.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-07-02",
       "meeting_year": 2025,
       "doc_id": "S100WAD8",
@@ -333,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:03:23.390Z"
+  "updated_at": "2026-07-04T00:49:23.884Z"
 }

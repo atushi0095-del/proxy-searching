@@ -3,6 +3,87 @@
   "company_name": "ビザスク",
   "meetings": [
     {
+      "meeting_date": "2026-05-29",
+      "meeting_year": 2026,
+      "doc_id": "S100Y8SA",
+      "submit_date_time": "2026-06-04 16:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y8SA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "端羽英子",
+          "votes_for": 51813,
+          "votes_against": 651,
+          "votes_abstain": null,
+          "approval_pct": 98.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "七倉壮",
+          "votes_for": 51838,
+          "votes_against": 626,
+          "votes_abstain": null,
+          "approval_pct": 98.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮崎雄",
+          "votes_for": 51840,
+          "votes_against": 624,
+          "votes_abstain": null,
+          "approval_pct": 98.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堅田航平",
+          "votes_for": 52157,
+          "votes_against": 307,
+          "votes_abstain": null,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安田幸代",
+          "votes_for": 52162,
+          "votes_against": 302,
+          "votes_abstain": null,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 51550,
+          "votes_against": 914,
+          "votes_abstain": null,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-05-30",
       "meeting_year": 2025,
       "doc_id": "S100VVPK",
@@ -153,5 +234,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:24:20.534Z"
+  "updated_at": "2026-07-04T02:04:48.067Z"
 }

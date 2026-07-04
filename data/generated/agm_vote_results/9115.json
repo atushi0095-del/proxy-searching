@@ -3,6 +3,135 @@
   "company_name": "明海グループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLNH",
+      "submit_date_time": "2026-06-26 12:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLNH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 327980,
+          "votes_against": 193,
+          "votes_abstain": 23,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内田和也",
+          "votes_for": 305085,
+          "votes_against": 23169,
+          "votes_abstain": null,
+          "approval_pct": 92.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内田貴也",
+          "votes_for": 305131,
+          "votes_against": 23123,
+          "votes_abstain": null,
+          "approval_pct": 92.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "笹原弘崇",
+          "votes_for": 327878,
+          "votes_against": 376,
+          "votes_abstain": null,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤川仁",
+          "votes_for": 327879,
+          "votes_against": 375,
+          "votes_abstain": null,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉ヶ江隆介",
+          "votes_for": 327897,
+          "votes_against": 357,
+          "votes_abstain": null,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋あゆ子",
+          "votes_for": 327885,
+          "votes_against": 369,
+          "votes_abstain": null,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長田晋",
+          "votes_for": 327884,
+          "votes_against": 370,
+          "votes_abstain": null,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中誠一",
+          "votes_for": 327963,
+          "votes_against": 291,
+          "votes_abstain": null,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅谷とも子",
+          "votes_for": 327975,
+          "votes_against": 279,
+          "votes_abstain": null,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXZ5",
@@ -168,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:31:08.239Z"
+  "updated_at": "2026-07-04T01:27:44.993Z"
 }

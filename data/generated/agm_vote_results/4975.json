@@ -3,6 +3,147 @@
   "company_name": "ＪＣＵ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM0O",
+      "submit_date_time": "2026-06-26 14:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM0O",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村昌志",
+          "votes_for": 196253,
+          "votes_against": 13772,
+          "votes_abstain": 25,
+          "approval_pct": 93.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大森晃久",
+          "votes_for": 207167,
+          "votes_against": 2846,
+          "votes_abstain": 38,
+          "approval_pct": 98.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新隆徳",
+          "votes_for": 206277,
+          "votes_against": 3751,
+          "votes_abstain": 25,
+          "approval_pct": 98.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池側浩文",
+          "votes_for": 204965,
+          "votes_against": 5063,
+          "votes_abstain": 25,
+          "approval_pct": 97.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上洋二",
+          "votes_for": 204977,
+          "votes_against": 5051,
+          "votes_abstain": 25,
+          "approval_pct": 97.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荒明文彦",
+          "votes_for": 206280,
+          "votes_against": 3748,
+          "votes_abstain": 25,
+          "approval_pct": 98.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本眞弓",
+          "votes_for": 209478,
+          "votes_against": 551,
+          "votes_abstain": 25,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "板垣昌幸",
+          "votes_for": 209591,
+          "votes_against": 438,
+          "votes_abstain": 25,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "二瓶晴郷",
+          "votes_for": 203572,
+          "votes_against": 6456,
+          "votes_abstain": 25,
+          "approval_pct": 96.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木原大輔",
+          "votes_for": 209823,
+          "votes_against": 207,
+          "votes_abstain": 25,
+          "approval_pct": 99.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邊充広",
+          "votes_for": 208508,
+          "votes_against": 1522,
+          "votes_abstain": 25,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W7GI",
@@ -285,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:44:00.073Z"
+  "updated_at": "2026-07-04T01:25:27.156Z"
 }

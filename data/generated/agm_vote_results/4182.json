@@ -3,6 +3,147 @@
   "company_name": "三菱瓦斯化学",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLA2",
+      "submit_date_time": "2026-06-29 09:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLA2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤井政志",
+          "votes_for": 1432648,
+          "votes_against": 90921,
+          "votes_abstain": 3520,
+          "approval_pct": 93.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊佐早禎則",
+          "votes_for": 1442692,
+          "votes_against": 80876,
+          "votes_abstain": 3520,
+          "approval_pct": 94.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北川元康",
+          "votes_for": 1508922,
+          "votes_against": 14652,
+          "votes_abstain": 3520,
+          "approval_pct": 98.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "毛戸耕",
+          "votes_for": 1509896,
+          "votes_against": 13678,
+          "votes_abstain": 3520,
+          "approval_pct": 98.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "東友之",
+          "votes_for": 1510914,
+          "votes_against": 12660,
+          "votes_abstain": 3520,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林千果",
+          "votes_for": 1510881,
+          "votes_against": 12693,
+          "votes_abstain": 3520,
+          "approval_pct": 98.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "真鍋靖",
+          "votes_for": 1518734,
+          "votes_against": 4842,
+          "votes_abstain": 3520,
+          "approval_pct": 99.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "栗原和枝",
+          "votes_for": 1518362,
+          "votes_against": 5214,
+          "votes_abstain": 3520,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤地",
+          "votes_for": 1519230,
+          "votes_against": 4346,
+          "votes_abstain": 3520,
+          "approval_pct": 99.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "真鍋美穂子",
+          "votes_for": 1520217,
+          "votes_against": 3359,
+          "votes_abstain": 3520,
+          "approval_pct": 99.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神﨑浩昭",
+          "votes_for": 1510526,
+          "votes_against": 13289,
+          "votes_abstain": 3282,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W2T3",
@@ -369,5 +510,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:43:52.654Z"
+  "updated_at": "2026-07-04T01:18:12.291Z"
 }

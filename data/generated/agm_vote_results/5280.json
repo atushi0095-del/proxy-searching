@@ -3,6 +3,51 @@
   "company_name": "ヨシコン",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM4Y",
+      "submit_date_time": "2026-06-26 15:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM4Y",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 44340,
+          "votes_against": 1346,
+          "votes_abstain": 0,
+          "approval_pct": 97.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "池田寛",
+          "votes_for": 42504,
+          "votes_against": 3182,
+          "votes_abstain": 0,
+          "approval_pct": 93.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案役員賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 41944,
+          "votes_against": 3742,
+          "votes_abstain": 0,
+          "approval_pct": 91.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W77Y",
@@ -213,5 +258,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:50:28.614Z"
+  "updated_at": "2026-07-04T01:22:58.102Z"
 }

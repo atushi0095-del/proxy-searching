@@ -3,6 +3,135 @@
   "company_name": "櫻島埠頭",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM23",
+      "submit_date_time": "2026-06-26 14:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM23",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 9878,
+          "votes_against": 17,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "谷本祐介",
+          "votes_for": 9805,
+          "votes_against": 90,
+          "votes_abstain": 0,
+          "approval_pct": 99.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤禎広",
+          "votes_for": 9816,
+          "votes_against": 79,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤井守",
+          "votes_for": 9816,
+          "votes_against": 79,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藍場建志郎",
+          "votes_for": 9814,
+          "votes_against": 81,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森下勝",
+          "votes_for": 9821,
+          "votes_against": 74,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "德平隆之",
+          "votes_for": 9813,
+          "votes_against": 82,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "宮崎慎吾",
+          "votes_for": 11453,
+          "votes_against": 76,
+          "votes_abstain": 0,
+          "approval_pct": 99.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件水村淳",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 9805,
+          "votes_against": 89,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件香山久美",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 9819,
+          "votes_against": 76,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9J8",
@@ -177,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:21:57.005Z"
+  "updated_at": "2026-07-04T01:24:39.941Z"
 }

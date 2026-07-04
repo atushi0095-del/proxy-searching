@@ -3,6 +3,111 @@
   "company_name": "ｱﾙﾒﾃﾞｨｵ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN19",
+      "submit_date_time": "2026-06-29 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN19",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 84545,
+          "votes_against": 2746,
+          "votes_abstain": null,
+          "approval_pct": 96.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 85102,
+          "votes_against": 2189,
+          "votes_abstain": null,
+          "approval_pct": 97.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋靖",
+          "votes_for": 76406,
+          "votes_against": 10880,
+          "votes_abstain": null,
+          "approval_pct": 87.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "関清美",
+          "votes_for": 75645,
+          "votes_against": 11641,
+          "votes_abstain": null,
+          "approval_pct": 86.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吹野洋平",
+          "votes_for": 76564,
+          "votes_against": 10722,
+          "votes_abstain": null,
+          "approval_pct": 87.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "星島時太郎",
+          "votes_for": 76457,
+          "votes_against": 10829,
+          "votes_abstain": null,
+          "approval_pct": 87.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "深川敏弘",
+          "votes_for": 75566,
+          "votes_against": 11720,
+          "votes_abstain": null,
+          "approval_pct": 86.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮地理子",
+          "votes_for": 82294,
+          "votes_against": 4992,
+          "votes_abstain": null,
+          "approval_pct": 94.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9DD",
@@ -225,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:18:52.022Z"
+  "updated_at": "2026-07-04T01:06:59.269Z"
 }

@@ -3,6 +3,75 @@
   "company_name": "海帆",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YLWN",
+      "submit_date_time": "2026-06-26 13:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLWN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 219660,
+          "votes_against": 8644,
+          "votes_abstain": 0,
+          "approval_pct": 96.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉川元宏",
+          "votes_for": 217618,
+          "votes_against": 10686,
+          "votes_abstain": 0,
+          "approval_pct": 95.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "守田直貴",
+          "votes_for": 216997,
+          "votes_against": 11307,
+          "votes_abstain": 0,
+          "approval_pct": 95.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上田真由美",
+          "votes_for": 217457,
+          "votes_against": 10847,
+          "votes_abstain": 0,
+          "approval_pct": 95.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 220063,
+          "votes_against": 8241,
+          "votes_abstain": 0,
+          "approval_pct": 96.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5MY",
@@ -213,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:58:16.849Z"
+  "updated_at": "2026-07-04T01:26:29.424Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "ＯＵＧホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YOQG",
+      "submit_date_time": "2026-07-03 14:51",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOQG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 39185,
+          "votes_against": 322,
+          "votes_abstain": 25,
+          "approval_pct": 97.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋爪康至",
+          "votes_for": 39196,
+          "votes_against": 336,
+          "votes_abstain": null,
+          "approval_pct": 97.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田稔",
+          "votes_for": 39127,
+          "votes_against": 405,
+          "votes_abstain": null,
+          "approval_pct": 97.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村耕",
+          "votes_for": 39108,
+          "votes_against": 424,
+          "votes_abstain": null,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井享一",
+          "votes_for": 39282,
+          "votes_against": 250,
+          "votes_abstain": null,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹田誠",
+          "votes_for": 39275,
+          "votes_against": 257,
+          "votes_abstain": null,
+          "approval_pct": 98.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中迫猛",
+          "votes_for": 39266,
+          "votes_against": 266,
+          "votes_abstain": null,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荻野義明",
+          "votes_for": 39178,
+          "votes_against": 354,
+          "votes_abstain": null,
+          "approval_pct": 97.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永島眞由美",
+          "votes_for": 39112,
+          "votes_against": 420,
+          "votes_abstain": null,
+          "approval_pct": 97.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上野友慈",
+          "votes_for": 39199,
+          "votes_against": 333,
+          "votes_abstain": null,
+          "approval_pct": 97.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WBCP",
@@ -273,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:00:13.479Z"
+  "updated_at": "2026-07-04T00:45:38.634Z"
 }

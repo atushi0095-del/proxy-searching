@@ -3,6 +3,63 @@
   "company_name": "第一興商",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN0A",
+      "submit_date_time": "2026-06-29 15:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN0A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 821949,
+          "votes_against": 1506,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "大谷裕二",
+          "votes_for": 786106,
+          "votes_against": 37332,
+          "votes_abstain": 0,
+          "approval_pct": 95.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "高津知之",
+          "votes_for": 821124,
+          "votes_against": 2319,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 821148,
+          "votes_against": 2301,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2LR",
@@ -177,5 +234,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:11:21.378Z"
+  "updated_at": "2026-07-04T01:06:33.507Z"
 }

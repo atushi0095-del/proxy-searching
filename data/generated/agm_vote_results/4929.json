@@ -3,6 +3,99 @@
   "company_name": "アジュバンホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YFAL",
+      "submit_date_time": "2026-06-19 13:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFAL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 58357,
+          "votes_against": 649,
+          "votes_abstain": 1,
+          "approval_pct": 98.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村豊",
+          "votes_for": 58039,
+          "votes_against": 1063,
+          "votes_abstain": 1,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中順子",
+          "votes_for": 58064,
+          "votes_against": 1038,
+          "votes_abstain": 1,
+          "approval_pct": 98.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤原武",
+          "votes_for": 58108,
+          "votes_against": 994,
+          "votes_abstain": 1,
+          "approval_pct": 98.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大嶋宏和",
+          "votes_for": 58100,
+          "votes_against": 1002,
+          "votes_abstain": 1,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中昌樹",
+          "votes_for": 58105,
+          "votes_against": 997,
+          "votes_abstain": 1,
+          "approval_pct": 98.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村卓哉",
+          "votes_for": 58075,
+          "votes_against": 1027,
+          "votes_abstain": 1,
+          "approval_pct": 98.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-12",
       "meeting_year": 2025,
       "doc_id": "S100VXO8",
@@ -237,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:22:34.753Z"
+  "updated_at": "2026-07-04T01:59:02.427Z"
 }

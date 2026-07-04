@@ -3,6 +3,147 @@
   "company_name": "神奈川中央交通",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YJIT",
+      "submit_date_time": "2026-06-26 12:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJIT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 99921,
+          "votes_against": 127,
+          "votes_abstain": null,
+          "approval_pct": 99.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今井雅之",
+          "votes_for": 97044,
+          "votes_against": 3004,
+          "votes_abstain": null,
+          "approval_pct": 97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大木芳幸",
+          "votes_for": 99774,
+          "votes_against": 274,
+          "votes_abstain": null,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "星野晃司",
+          "votes_for": 95767,
+          "votes_against": 4281,
+          "votes_abstain": null,
+          "approval_pct": 95.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "結城正博",
+          "votes_for": 99619,
+          "votes_against": 429,
+          "votes_abstain": null,
+          "approval_pct": 99.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森重俊也",
+          "votes_for": 99564,
+          "votes_against": 484,
+          "votes_abstain": null,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木野綾子",
+          "votes_for": 99690,
+          "votes_against": 358,
+          "votes_abstain": null,
+          "approval_pct": 99.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "住吉利夫",
+          "votes_for": 99635,
+          "votes_against": 419,
+          "votes_abstain": null,
+          "approval_pct": 99.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "網本重之",
+          "votes_for": 99131,
+          "votes_against": 923,
+          "votes_abstain": null,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "片桐春美",
+          "votes_for": 99148,
+          "votes_against": 906,
+          "votes_abstain": null,
+          "approval_pct": 99.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡本満喜子",
+          "votes_for": 99792,
+          "votes_against": 262,
+          "votes_abstain": null,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100VZCH",
@@ -261,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:36:06.494Z"
+  "updated_at": "2026-07-04T01:27:37.800Z"
 }

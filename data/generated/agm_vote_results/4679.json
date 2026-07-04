@@ -3,6 +3,123 @@
   "company_name": "田谷",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YLG8",
+      "submit_date_time": "2026-06-26 10:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLG8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 38403,
+          "votes_against": 551,
+          "votes_abstain": 0,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 38351,
+          "votes_against": 604,
+          "votes_abstain": 0,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "保科匡邦",
+          "votes_for": 38118,
+          "votes_against": 837,
+          "votes_abstain": 0,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村正二",
+          "votes_for": 38206,
+          "votes_against": 749,
+          "votes_abstain": 0,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中西一也",
+          "votes_for": 38119,
+          "votes_against": 836,
+          "votes_abstain": 0,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上原俊晴",
+          "votes_for": 38207,
+          "votes_against": 748,
+          "votes_abstain": 0,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田島克夫",
+          "votes_for": 38192,
+          "votes_against": 763,
+          "votes_abstain": 0,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三浦璃久",
+          "votes_for": 38182,
+          "votes_against": 773,
+          "votes_abstain": 0,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本裕弥",
+          "votes_for": 38206,
+          "votes_against": 749,
+          "votes_abstain": 0,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-18",
       "meeting_year": 2024,
       "doc_id": "S100TPAR",
@@ -120,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:21:19.540Z"
+  "updated_at": "2026-07-04T01:31:12.895Z"
 }

@@ -3,6 +3,51 @@
   "company_name": "ディーブイエックス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNLV",
+      "submit_date_time": "2026-06-30 15:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNLV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案当社とオルバヘルスケアホールディングス株式会社との株式交換契約承認の件",
+          "proposal_category": "組織再編",
+          "candidate_name": null,
+          "votes_for": 77721,
+          "votes_against": 16512,
+          "votes_abstain": null,
+          "approval_pct": 82.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮川猛野島透田上昭子",
+          "votes_for": 935029350193475,
+          "votes_against": 731732758,
+          "votes_abstain": null,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 93457,
+          "votes_against": 776,
+          "votes_abstain": null,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-28",
       "meeting_year": 2024,
       "doc_id": "S100TZ9U",
@@ -48,5 +93,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:12:19.684Z"
+  "updated_at": "2026-07-04T00:55:16.002Z"
 }

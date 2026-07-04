@@ -3,6 +3,27 @@
   "company_name": "ステラ　ケミファ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YJD4",
+      "submit_date_time": "2026-06-24 13:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJD4",
+      "proposals": [
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 25693,
+          "votes_against": 79248,
+          "votes_abstain": 1,
+          "approval_pct": 24.48,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WABS",
@@ -93,5 +114,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:08:16.007Z"
+  "updated_at": "2026-07-04T01:48:24.963Z"
 }

@@ -3,6 +3,159 @@
   "company_name": "日本発條",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLT1",
+      "submit_date_time": "2026-06-26 11:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLT1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1854641,
+          "votes_against": 683,
+          "votes_abstain": 47,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "茅本隆司",
+          "votes_for": 1640428,
+          "votes_against": 214887,
+          "votes_abstain": 47,
+          "approval_pct": 87.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "上村和久",
+          "votes_for": 1675650,
+          "votes_against": 179668,
+          "votes_abstain": 47,
+          "approval_pct": 89.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高村典利",
+          "votes_for": 1677089,
+          "votes_against": 178232,
+          "votes_abstain": 47,
+          "approval_pct": 89.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "堀江雅之",
+          "votes_for": 1676886,
+          "votes_against": 178435,
+          "votes_abstain": 47,
+          "approval_pct": 89.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐々木俊輔",
+          "votes_for": 1813543,
+          "votes_against": 41779,
+          "votes_abstain": 47,
+          "approval_pct": 97.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "末啓一郎",
+          "votes_for": 1518902,
+          "votes_against": 336417,
+          "votes_abstain": 47,
+          "approval_pct": 81.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "玉越浩美",
+          "votes_for": 1824853,
+          "votes_against": 30470,
+          "votes_abstain": 47,
+          "approval_pct": 97.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "古川玲子",
+          "votes_for": 1824793,
+          "votes_against": 30530,
+          "votes_abstain": 47,
+          "approval_pct": 97.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役補欠者1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "向宣明",
+          "votes_for": 1854908,
+          "votes_against": 426,
+          "votes_abstain": 47,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案社外取締役の構成に関する定款変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 285282,
+          "votes_against": 1569470,
+          "votes_abstain": 452,
+          "approval_pct": 15.26,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案定時株主総会の基準日に関する定款変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 148481,
+          "votes_against": 1706286,
+          "votes_abstain": 452,
+          "approval_pct": 7.94,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6ZU",
@@ -381,5 +534,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:42:15.148Z"
+  "updated_at": "2026-07-04T01:27:56.790Z"
 }

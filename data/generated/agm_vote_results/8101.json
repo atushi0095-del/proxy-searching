@@ -3,6 +3,123 @@
   "company_name": "ＧＳＩクレオス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YMX1",
+      "submit_date_time": "2026-06-30 10:29",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMX1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 85030,
+          "votes_against": 297,
+          "votes_abstain": 0,
+          "approval_pct": 99.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 84914,
+          "votes_against": 413,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉永直明",
+          "votes_for": 83702,
+          "votes_against": 1623,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小野国広",
+          "votes_for": 84469,
+          "votes_against": 856,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "西村裕樹",
+          "votes_for": 84515,
+          "votes_against": 811,
+          "votes_abstain": 0,
+          "approval_pct": 99.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "向徹也",
+          "votes_for": 84554,
+          "votes_against": 772,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山口宜洋",
+          "votes_for": 84413,
+          "votes_against": 913,
+          "votes_abstain": 0,
+          "approval_pct": 98.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大西文博",
+          "votes_for": 84345,
+          "votes_against": 981,
+          "votes_abstain": 0,
+          "approval_pct": 98.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "千葉櫻えりか",
+          "votes_for": 84370,
+          "votes_against": 956,
+          "votes_abstain": 0,
+          "approval_pct": 98.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W99U",
@@ -237,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:25:53.805Z"
+  "updated_at": "2026-07-04T01:01:02.642Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "日本山村硝子",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNGY",
+      "submit_date_time": "2026-06-30 11:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNGY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 63908,
+          "votes_against": 611,
+          "votes_abstain": null,
+          "approval_pct": 99.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山村幸治",
+          "votes_for": 62555,
+          "votes_against": 1964,
+          "votes_abstain": null,
+          "approval_pct": 96.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山村昇",
+          "votes_for": 62524,
+          "votes_against": 1995,
+          "votes_abstain": null,
+          "approval_pct": 96.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "明神裕",
+          "votes_for": 62663,
+          "votes_against": 1856,
+          "votes_abstain": null,
+          "approval_pct": 97.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田口智之",
+          "votes_for": 62669,
+          "votes_against": 1850,
+          "votes_abstain": null,
+          "approval_pct": 97.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田口義洋",
+          "votes_for": 62676,
+          "votes_against": 1843,
+          "votes_abstain": null,
+          "approval_pct": 97.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2508,
+          "votes_against": 62011,
+          "votes_abstain": null,
+          "approval_pct": 3.89,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9G3",
@@ -237,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:23:25.135Z"
+  "updated_at": "2026-07-04T00:59:54.354Z"
 }

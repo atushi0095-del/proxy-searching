@@ -3,6 +3,123 @@
   "company_name": "ダイヤモンドエレクトリックホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNCL",
+      "submit_date_time": "2026-06-30 09:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNCL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 52124,
+          "votes_against": 6400,
+          "votes_abstain": 0,
+          "approval_pct": 89.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野有理",
+          "votes_for": 49622,
+          "votes_against": 8876,
+          "votes_abstain": 26,
+          "approval_pct": 84.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田夛佳志",
+          "votes_for": 52064,
+          "votes_against": 6434,
+          "votes_abstain": 26,
+          "approval_pct": 88.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡本岳",
+          "votes_for": 52374,
+          "votes_against": 6124,
+          "votes_abstain": 26,
+          "approval_pct": 89.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡本南芳",
+          "votes_for": 55842,
+          "votes_against": 2656,
+          "votes_abstain": 26,
+          "approval_pct": 95.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "笠間士郎",
+          "votes_for": 53722,
+          "votes_against": 4802,
+          "votes_abstain": 0,
+          "approval_pct": 91.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "江森克治",
+          "votes_for": 56110,
+          "votes_against": 2388,
+          "votes_abstain": 26,
+          "approval_pct": 95.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊地加奈子",
+          "votes_for": 56154,
+          "votes_against": 2344,
+          "votes_abstain": 26,
+          "approval_pct": 95.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 48790,
+          "votes_against": 9734,
+          "votes_abstain": 0,
+          "approval_pct": 83.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9O9",
@@ -201,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:19:14.884Z"
+  "updated_at": "2026-07-04T01:02:25.390Z"
 }

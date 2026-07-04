@@ -3,6 +3,195 @@
   "company_name": "三菱製鋼",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YKMA",
+      "submit_date_time": "2026-06-25 11:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKMA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 97772,
+          "votes_against": 701,
+          "votes_abstain": 0,
+          "approval_pct": 97.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 97740,
+          "votes_against": 742,
+          "votes_abstain": 0,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山口淳",
+          "votes_for": 89609,
+          "votes_against": 8873,
+          "votes_abstain": 0,
+          "approval_pct": 89.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "青池慶介",
+          "votes_for": 95816,
+          "votes_against": 2666,
+          "votes_abstain": 0,
+          "approval_pct": 95.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山尾明",
+          "votes_for": 91811,
+          "votes_against": 6671,
+          "votes_abstain": 0,
+          "approval_pct": 91.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "竹内美奈子",
+          "votes_for": 91763,
+          "votes_against": 6719,
+          "votes_abstain": 0,
+          "approval_pct": 91.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "萩田敦司",
+          "votes_for": 95399,
+          "votes_against": 3083,
+          "votes_abstain": 0,
+          "approval_pct": 95.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松田結花",
+          "votes_for": 96061,
+          "votes_against": 2421,
+          "votes_abstain": 0,
+          "approval_pct": 96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三尾良孝",
+          "votes_for": 84563,
+          "votes_against": 13919,
+          "votes_abstain": 0,
+          "approval_pct": 84.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中森義巳",
+          "votes_for": 96166,
+          "votes_against": 2316,
+          "votes_abstain": 0,
+          "approval_pct": 96.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "高見之雄",
+          "votes_for": 97541,
+          "votes_against": 941,
+          "votes_abstain": 0,
+          "approval_pct": 97.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森藤千加",
+          "votes_for": 97572,
+          "votes_against": 910,
+          "votes_abstain": 0,
+          "approval_pct": 97.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役（監査等委員である取締役を除く。）の報酬等の額決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 97249,
+          "votes_against": 1233,
+          "votes_abstain": 0,
+          "approval_pct": 97.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案監査等委員である取締役の報酬等の額決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 97199,
+          "votes_against": 1283,
+          "votes_abstain": 0,
+          "approval_pct": 97.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案取締役（監査等委員である取締役を除く。）等に対する業績連動型株式報酬制度の一部改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 97198,
+          "votes_against": 1284,
+          "votes_abstain": 0,
+          "approval_pct": 97.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W4GU",
@@ -213,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:04:21.828Z"
+  "updated_at": "2026-07-04T01:40:40.547Z"
 }

@@ -3,6 +3,111 @@
   "company_name": "大豊工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YIXM",
+      "submit_date_time": "2026-06-24 09:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIXM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新美俊生",
+          "votes_for": 180064,
+          "votes_against": 63325,
+          "votes_abstain": 0,
+          "approval_pct": 73.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加納知広",
+          "votes_for": 197328,
+          "votes_against": 46061,
+          "votes_abstain": 0,
+          "approval_pct": 80.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹村康行",
+          "votes_for": 215372,
+          "votes_against": 28017,
+          "votes_abstain": 0,
+          "approval_pct": 88.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横井明彦",
+          "votes_for": 242474,
+          "votes_against": 915,
+          "votes_abstain": 0,
+          "approval_pct": 99.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤邦夫",
+          "votes_for": 206194,
+          "votes_against": 37195,
+          "votes_abstain": 0,
+          "approval_pct": 84.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩井善郎",
+          "votes_for": 208913,
+          "votes_against": 34476,
+          "votes_abstain": 0,
+          "approval_pct": 85.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩本恒明",
+          "votes_for": 242989,
+          "votes_against": 511,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鬼村洋平",
+          "votes_for": 207235,
+          "votes_against": 36265,
+          "votes_abstain": 0,
+          "approval_pct": 84.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W0YR",
@@ -177,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:16:35.972Z"
+  "updated_at": "2026-07-04T01:50:02.925Z"
 }

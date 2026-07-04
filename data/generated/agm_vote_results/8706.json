@@ -3,6 +3,135 @@
   "company_name": "極東証券",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YL9C",
+      "submit_date_time": "2026-06-25 16:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL9C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊池廣之",
+          "votes_for": 227307,
+          "votes_against": 8787,
+          "votes_abstain": 305,
+          "approval_pct": 96.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊池一広",
+          "votes_for": 220339,
+          "votes_against": 15755,
+          "votes_abstain": 305,
+          "approval_pct": 93.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤昌弘",
+          "votes_for": 235365,
+          "votes_against": 729,
+          "votes_abstain": 305,
+          "approval_pct": 99.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西向一浩",
+          "votes_for": 235647,
+          "votes_against": 447,
+          "votes_abstain": 305,
+          "approval_pct": 99.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀川健次郎",
+          "votes_for": 235032,
+          "votes_against": 1062,
+          "votes_abstain": 305,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉野貞雄",
+          "votes_for": 235067,
+          "votes_against": 1027,
+          "votes_abstain": 305,
+          "approval_pct": 99.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅谷貴子",
+          "votes_for": 235399,
+          "votes_against": 695,
+          "votes_abstain": 305,
+          "approval_pct": 99.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金子弘之",
+          "votes_for": 226803,
+          "votes_against": 9291,
+          "votes_abstain": 305,
+          "approval_pct": 95.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "津國伸郎",
+          "votes_for": 222042,
+          "votes_against": 14052,
+          "votes_abstain": 305,
+          "approval_pct": 93.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 235195,
+          "votes_against": 899,
+          "votes_abstain": 305,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W7F3",
@@ -225,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:48:53.423Z"
+  "updated_at": "2026-07-04T01:33:39.979Z"
 }

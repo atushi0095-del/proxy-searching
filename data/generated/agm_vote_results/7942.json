@@ -3,6 +3,183 @@
   "company_name": "ＪＳＰ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNMQ",
+      "submit_date_time": "2026-07-01 15:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNMQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 220725,
+          "votes_against": 467,
+          "votes_abstain": null,
+          "approval_pct": 99.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大久保知彦",
+          "votes_for": 198442,
+          "votes_against": 22750,
+          "votes_abstain": null,
+          "approval_pct": 89.71,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小森康",
+          "votes_for": 211344,
+          "votes_against": 9848,
+          "votes_abstain": null,
+          "approval_pct": 95.55,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "竹村洋介",
+          "votes_for": 220138,
+          "votes_against": 1054,
+          "votes_abstain": null,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "島義和",
+          "votes_for": 220021,
+          "votes_against": 1171,
+          "votes_abstain": null,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木浦智之",
+          "votes_for": 220021,
+          "votes_against": 1171,
+          "votes_abstain": null,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "半根隆巳",
+          "votes_for": 220152,
+          "votes_against": 1040,
+          "votes_abstain": null,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中嶋一浩",
+          "votes_for": 220094,
+          "votes_against": 1098,
+          "votes_abstain": null,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "及川政春",
+          "votes_for": 220159,
+          "votes_against": 1033,
+          "votes_abstain": null,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "伊藤潔",
+          "votes_for": 220267,
+          "votes_against": 925,
+          "votes_abstain": null,
+          "approval_pct": 99.58,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "杉山涼子",
+          "votes_for": 220223,
+          "votes_against": 969,
+          "votes_abstain": null,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "倉島薫",
+          "votes_for": 220439,
+          "votes_against": 753,
+          "votes_abstain": null,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "阿部敦茂",
+          "votes_for": 220453,
+          "votes_against": 739,
+          "votes_abstain": null,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 220504,
+          "votes_against": 688,
+          "votes_abstain": null,
+          "approval_pct": 99.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TYNU",
@@ -204,5 +381,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:17:36.609Z"
+  "updated_at": "2026-07-04T00:50:25.197Z"
 }

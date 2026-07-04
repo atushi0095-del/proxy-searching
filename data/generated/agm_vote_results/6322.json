@@ -3,6 +3,123 @@
   "company_name": "タクミナ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YG6D",
+      "submit_date_time": "2026-06-22 11:03",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YG6D",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 54088,
+          "votes_against": 73,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田信彦",
+          "votes_for": 53940,
+          "votes_against": 221,
+          "votes_abstain": 0,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田圭祐",
+          "votes_for": 53944,
+          "votes_against": 217,
+          "votes_abstain": 0,
+          "approval_pct": 99.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白岩源史",
+          "votes_for": 53882,
+          "votes_against": 279,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上博公",
+          "votes_for": 53954,
+          "votes_against": 207,
+          "votes_abstain": 0,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田路富美男",
+          "votes_for": 54066,
+          "votes_against": 95,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "桂雄一郎",
+          "votes_for": 54061,
+          "votes_against": 100,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本俊彦",
+          "votes_for": 54065,
+          "votes_against": 96,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 54059,
+          "votes_against": 102,
+          "votes_abstain": 0,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W1MO",
@@ -177,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:13:22.360Z"
+  "updated_at": "2026-07-04T01:56:11.635Z"
 }

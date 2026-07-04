@@ -3,6 +3,159 @@
   "company_name": "モスフードサービス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKO1",
+      "submit_date_time": "2026-06-26 12:43",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKO1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 219076,
+          "votes_against": 10560,
+          "votes_abstain": 0,
+          "approval_pct": 95.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村栄輔",
+          "votes_for": 221018,
+          "votes_against": 8605,
+          "votes_abstain": 16,
+          "approval_pct": 96.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "太田恒有",
+          "votes_for": 225770,
+          "votes_against": 3873,
+          "votes_abstain": 0,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "笠井洸",
+          "votes_for": 225563,
+          "votes_against": 4080,
+          "votes_abstain": 0,
+          "approval_pct": 98.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安藤芳德",
+          "votes_for": 225399,
+          "votes_against": 4244,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "平林篤",
+          "votes_for": 227179,
+          "votes_against": 2464,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "工藤環",
+          "votes_for": 226706,
+          "votes_against": 2937,
+          "votes_abstain": 0,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中山勇",
+          "votes_for": 225578,
+          "votes_against": 4066,
+          "votes_abstain": 0,
+          "approval_pct": 98.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小田原加奈",
+          "votes_for": 225933,
+          "votes_against": 3711,
+          "votes_abstain": 0,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小山薫堂",
+          "votes_for": 225517,
+          "votes_against": 4127,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "平山美夫",
+          "votes_for": 216269,
+          "votes_against": 13372,
+          "votes_abstain": 0,
+          "approval_pct": 94.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "村瀨孝子",
+          "votes_for": 227660,
+          "votes_against": 1986,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8GG",
@@ -213,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:37:02.342Z"
+  "updated_at": "2026-07-04T01:27:23.740Z"
 }

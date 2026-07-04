@@ -3,6 +3,75 @@
   "company_name": "うるる",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLS6",
+      "submit_date_time": "2026-06-26 11:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLS6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 229926,
+          "votes_against": 723,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "星知也",
+          "votes_for": 229962,
+          "votes_against": 694,
+          "votes_abstain": 1,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "桶山雄平",
+          "votes_for": 230392,
+          "votes_against": 264,
+          "votes_abstain": 1,
+          "approval_pct": 99.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "市川貴弘",
+          "votes_for": 230384,
+          "votes_against": 272,
+          "votes_abstain": 1,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松岡剛志",
+          "votes_for": 230383,
+          "votes_against": 273,
+          "votes_abstain": 1,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TXLA",
@@ -168,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:37:39.383Z"
+  "updated_at": "2026-07-04T01:28:03.771Z"
 }

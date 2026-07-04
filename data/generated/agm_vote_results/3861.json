@@ -3,6 +3,147 @@
   "company_name": "王子ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMLK",
+      "submit_date_time": "2026-06-29 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMLK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "磯野裕之",
+          "votes_for": 6594410,
+          "votes_against": 551778,
+          "votes_abstain": 868,
+          "approval_pct": 92.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鎌田和彦",
+          "votes_for": 6624750,
+          "votes_against": 521441,
+          "votes_abstain": 868,
+          "approval_pct": 92.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長谷部明夫",
+          "votes_for": 6626349,
+          "votes_against": 519842,
+          "votes_abstain": 868,
+          "approval_pct": 92.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田熊聡",
+          "votes_for": 7112219,
+          "votes_against": 33972,
+          "votes_abstain": 868,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大島忠司",
+          "votes_for": 7115557,
+          "votes_against": 30634,
+          "votes_abstain": 868,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長井聖子",
+          "votes_for": 6633017,
+          "votes_against": 513176,
+          "votes_abstain": 868,
+          "approval_pct": 92.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川広通",
+          "votes_for": 6611982,
+          "votes_against": 534211,
+          "votes_abstain": 868,
+          "approval_pct": 92.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福田佐知子",
+          "votes_for": 7119277,
+          "votes_against": 26916,
+          "votes_abstain": 868,
+          "approval_pct": 99.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村木厚子",
+          "votes_for": 7112989,
+          "votes_against": 33204,
+          "votes_abstain": 868,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安達博治",
+          "votes_for": 7127940,
+          "votes_against": 18253,
+          "votes_abstain": 868,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野々上尚",
+          "votes_for": 7140577,
+          "votes_against": 16546,
+          "votes_abstain": 868,
+          "approval_pct": 99.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9DX",
@@ -192,5 +333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:19:02.001Z"
+  "updated_at": "2026-07-04T01:08:24.800Z"
 }

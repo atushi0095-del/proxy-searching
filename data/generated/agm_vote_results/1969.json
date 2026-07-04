@@ -3,6 +3,123 @@
   "company_name": "高砂熱学工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM7V",
+      "submit_date_time": "2026-06-26 15:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM7V",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1116752,
+          "votes_against": 225,
+          "votes_abstain": 74,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小島和人",
+          "votes_for": 991673,
+          "votes_against": 124613,
+          "votes_abstain": 1494,
+          "approval_pct": 88.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保田浩司",
+          "votes_for": 1069656,
+          "votes_against": 48053,
+          "votes_abstain": 74,
+          "approval_pct": 95.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神谷忠史",
+          "votes_for": 1114704,
+          "votes_against": 3012,
+          "votes_abstain": 74,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本一郎",
+          "votes_for": 1115058,
+          "votes_against": 2656,
+          "votes_abstain": 74,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内野州馬",
+          "votes_for": 1100205,
+          "votes_against": 17507,
+          "votes_abstain": 74,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙木敦",
+          "votes_for": 1059484,
+          "votes_against": 58231,
+          "votes_abstain": 74,
+          "approval_pct": 94.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "関葉子",
+          "votes_for": 1115697,
+          "votes_against": 2019,
+          "votes_abstain": 74,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森本英香",
+          "votes_for": 1113687,
+          "votes_against": 4029,
+          "votes_abstain": 74,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100VZXE",
@@ -297,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:18:53.211Z"
+  "updated_at": "2026-07-04T01:21:29.020Z"
 }

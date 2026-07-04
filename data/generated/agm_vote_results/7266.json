@@ -3,6 +3,123 @@
   "company_name": "今仙電機製作所",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJRN",
+      "submit_date_time": "2026-06-24 15:40",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJRN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長谷川健一",
+          "votes_for": 143445,
+          "votes_against": 8408,
+          "votes_abstain": 3,
+          "approval_pct": 94.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮本秀幸",
+          "votes_for": 148689,
+          "votes_against": 3164,
+          "votes_abstain": 3,
+          "approval_pct": 97.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "萩元達也",
+          "votes_for": 149455,
+          "votes_against": 2398,
+          "votes_abstain": 3,
+          "approval_pct": 98.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀部修一",
+          "votes_for": 148126,
+          "votes_against": 3727,
+          "votes_abstain": 3,
+          "approval_pct": 97.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上達嗣",
+          "votes_for": 149479,
+          "votes_against": 2374,
+          "votes_abstain": 3,
+          "approval_pct": 98.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "亀山恭一",
+          "votes_for": 148061,
+          "votes_against": 3792,
+          "votes_abstain": 3,
+          "approval_pct": 97.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村山隆平",
+          "votes_for": 148667,
+          "votes_against": 3186,
+          "votes_abstain": 3,
+          "approval_pct": 97.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浜崎佳子",
+          "votes_for": 149403,
+          "votes_against": 2450,
+          "votes_abstain": 3,
+          "approval_pct": 98.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久志本修一",
+          "votes_for": 151103,
+          "votes_against": 809,
+          "votes_abstain": 3,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8VP",
@@ -261,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:30:30.473Z"
+  "updated_at": "2026-07-04T01:45:13.126Z"
 }

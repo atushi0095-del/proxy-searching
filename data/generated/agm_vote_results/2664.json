@@ -3,6 +3,75 @@
   "company_name": "カワチ薬品",
   "meetings": [
     {
+      "meeting_date": "2026-06-11",
+      "meeting_year": 2026,
+      "doc_id": "S100YBIL",
+      "submit_date_time": "2026-06-15 10:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YBIL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 167593,
+          "votes_against": 2686,
+          "votes_abstain": 5314,
+          "approval_pct": 94.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 159073,
+          "votes_against": 3447,
+          "votes_abstain": 5314,
+          "approval_pct": 94.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河内伸二",
+          "votes_for": 29114,
+          "votes_against": 146465,
+          "votes_abstain": 4,
+          "approval_pct": 16.46,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺林治",
+          "votes_for": 21257,
+          "votes_against": 154322,
+          "votes_abstain": 4,
+          "approval_pct": 12.02,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 10206,
+          "votes_against": 157610,
+          "votes_abstain": 2,
+          "approval_pct": 6.04,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-11",
       "meeting_year": 2025,
       "doc_id": "S100VXLW",
@@ -141,5 +210,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:22:37.065Z"
+  "updated_at": "2026-07-04T02:02:28.634Z"
 }

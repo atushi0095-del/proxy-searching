@@ -3,6 +3,159 @@
   "company_name": "ジェイリース",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNYF",
+      "submit_date_time": "2026-07-01 16:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNYF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 133656,
+          "votes_against": 923,
+          "votes_abstain": 0,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）7名専任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中島拓",
+          "votes_for": 124352,
+          "votes_against": 10227,
+          "votes_abstain": 0,
+          "approval_pct": 92.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）7名専任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中島土",
+          "votes_for": 125389,
+          "votes_against": 9190,
+          "votes_abstain": 0,
+          "approval_pct": 93.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）7名専任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "衞藤秀樹",
+          "votes_for": 133200,
+          "votes_against": 1379,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）7名専任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉田安弘",
+          "votes_for": 133415,
+          "votes_against": 1164,
+          "votes_abstain": 0,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）7名専任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中島重治",
+          "votes_for": 133333,
+          "votes_against": 1246,
+          "votes_abstain": 0,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）7名専任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田中秀幸",
+          "votes_for": 133348,
+          "votes_against": 1231,
+          "votes_abstain": 0,
+          "approval_pct": 99.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）7名専任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "渡邊博子",
+          "votes_for": 133119,
+          "votes_against": 1460,
+          "votes_abstain": 0,
+          "approval_pct": 98.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "印東大祐",
+          "votes_for": 133590,
+          "votes_against": 989,
+          "votes_abstain": 0,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "前嶋幸子",
+          "votes_for": 133445,
+          "votes_against": 1134,
+          "votes_abstain": 0,
+          "approval_pct": 99.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案退任取締役（監査等委員であるものを除く）及び退任監査等委員である取締役に対する退職慰労金贈呈の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 108411,
+          "votes_against": 26168,
+          "votes_abstain": 0,
+          "approval_pct": 80.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案資本準備金減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 133424,
+          "votes_against": 1155,
+          "votes_abstain": 0,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2CJ",
@@ -333,5 +486,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:04:36.601Z"
+  "updated_at": "2026-07-04T00:49:21.204Z"
 }

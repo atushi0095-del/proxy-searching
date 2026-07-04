@@ -3,6 +3,147 @@
   "company_name": "スターゼン",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNTB",
+      "submit_date_time": "2026-06-30 16:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNTB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 464634,
+          "votes_against": 10197,
+          "votes_abstain": 0,
+          "approval_pct": 97.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 473484,
+          "votes_against": 1347,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "横田和彦",
+          "votes_for": 428759,
+          "votes_against": 46072,
+          "votes_abstain": 0,
+          "approval_pct": 90.3,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鶉橋正雄",
+          "votes_for": 472542,
+          "votes_against": 2289,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "髙橋正道",
+          "votes_for": 472438,
+          "votes_against": 2393,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐奈常裕",
+          "votes_for": 472375,
+          "votes_against": 2456,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "髙濵良一",
+          "votes_for": 472442,
+          "votes_against": 2389,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大原亘",
+          "votes_for": 470875,
+          "votes_against": 3956,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉里格",
+          "votes_for": 409767,
+          "votes_against": 65064,
+          "votes_abstain": 0,
+          "approval_pct": 86.3,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "江藤真理子",
+          "votes_for": 472098,
+          "votes_against": 2733,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小越信吾",
+          "votes_for": 463974,
+          "votes_against": 10857,
+          "votes_abstain": 0,
+          "approval_pct": 97.71,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WANC",
@@ -333,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:04:17.866Z"
+  "updated_at": "2026-07-04T00:53:47.274Z"
 }

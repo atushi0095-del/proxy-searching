@@ -3,6 +3,135 @@
   "company_name": "西日本フィナンシャルホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMVM",
+      "submit_date_time": "2026-06-29 13:42",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMVM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1153128,
+          "votes_against": 1470,
+          "votes_abstain": 3025,
+          "approval_pct": 99.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "谷川浩道",
+          "votes_for": 1110173,
+          "votes_against": 44339,
+          "votes_abstain": 3104,
+          "approval_pct": 95.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "村上英之",
+          "votes_for": 1137511,
+          "votes_against": 17001,
+          "votes_abstain": 3104,
+          "approval_pct": 98.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "竹尾祐幸",
+          "votes_for": 1144968,
+          "votes_against": 9625,
+          "votes_abstain": 3025,
+          "approval_pct": 98.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "栗原毅",
+          "votes_for": 1145097,
+          "votes_against": 9497,
+          "votes_abstain": 3025,
+          "approval_pct": 98.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "本田隆茂",
+          "votes_for": 1145006,
+          "votes_against": 9587,
+          "votes_abstain": 3025,
+          "approval_pct": 98.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊東知子",
+          "votes_for": 1109903,
+          "votes_against": 44690,
+          "votes_abstain": 3025,
+          "approval_pct": 95.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤岡博",
+          "votes_for": 1150058,
+          "votes_against": 4538,
+          "votes_abstain": 3025,
+          "approval_pct": 99.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮本佐知子",
+          "votes_for": 1150638,
+          "votes_against": 3958,
+          "votes_abstain": 3025,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "内冨誠",
+          "votes_for": 1140898,
+          "votes_against": 13697,
+          "votes_abstain": 3025,
+          "approval_pct": 98.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9H9",
@@ -225,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:19:04.439Z"
+  "updated_at": "2026-07-04T01:11:02.091Z"
 }

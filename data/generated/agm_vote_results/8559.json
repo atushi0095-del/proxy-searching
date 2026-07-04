@@ -3,6 +3,135 @@
   "company_name": "豊和銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YO37",
+      "submit_date_time": "2026-07-01 14:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO37",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 34891,
+          "votes_against": 237,
+          "votes_abstain": null,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "権藤淳",
+          "votes_for": 33510,
+          "votes_against": 1729,
+          "votes_abstain": null,
+          "approval_pct": 95.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "牧野郡二",
+          "votes_for": 33623,
+          "votes_against": 1616,
+          "votes_abstain": null,
+          "approval_pct": 95.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡部悌史",
+          "votes_for": 34995,
+          "votes_against": 244,
+          "votes_abstain": null,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤真広",
+          "votes_for": 34999,
+          "votes_against": 240,
+          "votes_abstain": null,
+          "approval_pct": 99.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浜野法生",
+          "votes_for": 34993,
+          "votes_against": 246,
+          "votes_abstain": null,
+          "approval_pct": 99.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤直威",
+          "votes_for": 34992,
+          "votes_against": 247,
+          "votes_abstain": null,
+          "approval_pct": 99.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮原雄一",
+          "votes_for": 34993,
+          "votes_against": 246,
+          "votes_abstain": null,
+          "approval_pct": 99.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赤松健一郎",
+          "votes_for": 34968,
+          "votes_against": 271,
+          "votes_abstain": null,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邊博子",
+          "votes_for": 34983,
+          "votes_against": 256,
+          "votes_abstain": null,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WAM8",
@@ -333,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:03:55.530Z"
+  "updated_at": "2026-07-04T00:50:50.822Z"
 }

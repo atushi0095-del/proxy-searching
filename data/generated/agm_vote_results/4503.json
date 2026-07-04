@@ -3,6 +3,123 @@
   "company_name": "アステラス製薬",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YOHK",
+      "submit_date_time": "2026-07-02 17:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOHK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安川健司",
+          "votes_for": 13177867,
+          "votes_against": 662069,
+          "votes_abstain": 27914,
+          "approval_pct": 95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡村直樹",
+          "votes_for": 13313311,
+          "votes_against": 526748,
+          "votes_abstain": 27791,
+          "approval_pct": 96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉田勝好",
+          "votes_for": 13363946,
+          "votes_against": 501601,
+          "votes_abstain": 2308,
+          "approval_pct": 96.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮﨑正啓",
+          "votes_for": 13501783,
+          "votes_against": 363729,
+          "votes_abstain": 2353,
+          "approval_pct": 97.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大野洋一",
+          "votes_for": 13505712,
+          "votes_against": 359799,
+          "votes_abstain": 2354,
+          "approval_pct": 97.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "マークエネディ",
+          "votes_for": 13504316,
+          "votes_against": 361189,
+          "votes_abstain": 2360,
+          "approval_pct": 97.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣田里香",
+          "votes_for": 12932156,
+          "votes_against": 936954,
+          "votes_abstain": 2043,
+          "approval_pct": 93.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荒牧知子",
+          "votes_for": 13687378,
+          "votes_against": 181758,
+          "votes_abstain": 2026,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高原茂季",
+          "votes_for": 11201089,
+          "votes_against": 2668032,
+          "votes_abstain": 2026,
+          "approval_pct": 80.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100WAIH",
@@ -36,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:06:03.087Z"
+  "updated_at": "2026-07-04T00:46:49.480Z"
 }

@@ -3,6 +3,87 @@
   "company_name": "アサックス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YL2X",
+      "submit_date_time": "2026-06-25 15:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL2X",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 285359,
+          "votes_against": 6263,
+          "votes_abstain": 0,
+          "approval_pct": 97.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "草間庸文",
+          "votes_for": 284206,
+          "votes_against": 7421,
+          "votes_abstain": 0,
+          "approval_pct": 97.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "草間雄介",
+          "votes_for": 284057,
+          "votes_against": 7570,
+          "votes_abstain": 0,
+          "approval_pct": 97.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池尻周平",
+          "votes_for": 290730,
+          "votes_against": 897,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林一成",
+          "votes_for": 290729,
+          "votes_against": 898,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "町田裕紀",
+          "votes_for": 289958,
+          "votes_against": 1669,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7JB",
@@ -189,5 +270,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:47:22.385Z"
+  "updated_at": "2026-07-04T01:36:40.140Z"
 }

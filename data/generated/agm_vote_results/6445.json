@@ -3,6 +3,135 @@
   "company_name": "ジャノメ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YGD7",
+      "submit_date_time": "2026-06-22 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGD7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 121666,
+          "votes_against": 270,
+          "votes_abstain": 0,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "土井仁",
+          "votes_for": 110354,
+          "votes_against": 11599,
+          "votes_abstain": 0,
+          "approval_pct": 90.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "保坂幸夫",
+          "votes_for": 121478,
+          "votes_against": 475,
+          "votes_abstain": 0,
+          "approval_pct": 99.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "角田伸二",
+          "votes_for": 121509,
+          "votes_against": 444,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田二也",
+          "votes_for": 121515,
+          "votes_against": 438,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "保坂美江子",
+          "votes_for": 121308,
+          "votes_against": 645,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "獅子倉基之",
+          "votes_for": 83384,
+          "votes_against": 38569,
+          "votes_abstain": 0,
+          "approval_pct": 68.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中島文明",
+          "votes_for": 119136,
+          "votes_against": 2800,
+          "votes_abstain": 0,
+          "approval_pct": 97.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "嶋田両児",
+          "votes_for": 119114,
+          "votes_against": 2822,
+          "votes_abstain": 0,
+          "approval_pct": 97.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "倉橋希美",
+          "votes_for": 121330,
+          "votes_against": 606,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W1PC",
@@ -297,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:09:51.728Z"
+  "updated_at": "2026-07-04T01:55:08.573Z"
 }

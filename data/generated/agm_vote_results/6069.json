@@ -3,6 +3,87 @@
   "company_name": "トレンダーズ",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNGZ",
+      "submit_date_time": "2026-06-30 15:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNGZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 41925,
+          "votes_against": 291,
+          "votes_abstain": 7,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "黒川涼子",
+          "votes_for": 36828,
+          "votes_against": 5481,
+          "votes_abstain": 21,
+          "approval_pct": 86.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中隼人",
+          "votes_for": 41410,
+          "votes_against": 899,
+          "votes_abstain": 21,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "石川森生",
+          "votes_for": 41403,
+          "votes_against": 906,
+          "votes_abstain": 21,
+          "approval_pct": 97.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "横山隆治",
+          "votes_for": 36629,
+          "votes_against": 5680,
+          "votes_abstain": 21,
+          "approval_pct": 86.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "濱田健作",
+          "votes_for": 36685,
+          "votes_against": 5624,
+          "votes_abstain": 21,
+          "approval_pct": 86.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TU24",
@@ -108,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:59:12.116Z"
+  "updated_at": "2026-07-04T00:56:07.197Z"
 }

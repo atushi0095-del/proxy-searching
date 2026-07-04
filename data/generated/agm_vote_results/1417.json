@@ -3,6 +3,207 @@
   "company_name": "ミライト・ワン",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLO9",
+      "submit_date_time": "2026-06-26 11:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLO9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 754080,
+          "votes_against": 818,
+          "votes_abstain": 97,
+          "approval_pct": 99.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中山俊樹",
+          "votes_for": 701748,
+          "votes_against": 53070,
+          "votes_abstain": 152,
+          "approval_pct": 92.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "菅原英宗",
+          "votes_for": 689987,
+          "votes_against": 64833,
+          "votes_abstain": 152,
+          "approval_pct": 91.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "遠竹泰",
+          "votes_for": 723978,
+          "votes_against": 30899,
+          "votes_abstain": 97,
+          "approval_pct": 95.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙屋洋一郎",
+          "votes_for": 747035,
+          "votes_against": 7843,
+          "votes_abstain": 97,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "脇本祐史",
+          "votes_for": 747075,
+          "votes_against": 7803,
+          "votes_abstain": 97,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三ツ矢高章",
+          "votes_for": 746969,
+          "votes_against": 7909,
+          "votes_abstain": 97,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "高岡宏昌",
+          "votes_for": 747023,
+          "votes_against": 7855,
+          "votes_abstain": 97,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山本眞弓",
+          "votes_for": 750167,
+          "votes_against": 4712,
+          "votes_abstain": 97,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "瓦谷晋一",
+          "votes_for": 750267,
+          "votes_against": 4612,
+          "votes_abstain": 97,
+          "approval_pct": 99.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "塚﨑裕子",
+          "votes_for": 750275,
+          "votes_against": 4604,
+          "votes_abstain": 97,
+          "approval_pct": 99.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "瀬尾真二",
+          "votes_for": 695540,
+          "votes_against": 59330,
+          "votes_abstain": 97,
+          "approval_pct": 92.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "水谷翠",
+          "votes_for": 750448,
+          "votes_against": 4427,
+          "votes_abstain": 97,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "水間克之",
+          "votes_for": 663579,
+          "votes_against": 91291,
+          "votes_abstain": 97,
+          "approval_pct": 87.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "早川治",
+          "votes_for": 752940,
+          "votes_against": 1959,
+          "votes_abstain": 97,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査等委員ではない社外取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "早川一秀",
+          "votes_for": 121569,
+          "votes_against": 633060,
+          "votes_abstain": 292,
+          "approval_pct": 83.86,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5T0",
@@ -225,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:48:26.506Z"
+  "updated_at": "2026-07-04T01:29:05.055Z"
 }

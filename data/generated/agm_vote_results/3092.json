@@ -3,6 +3,123 @@
   "company_name": "ＺＯＺＯ",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNQ4",
+      "submit_date_time": "2026-06-30 15:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNQ4",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "澤田宏太郎",
+          "votes_for": 6780622,
+          "votes_against": 1347816,
+          "votes_abstain": 9475,
+          "approval_pct": 83.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "栁澤孝旨",
+          "votes_for": 7920787,
+          "votes_against": 217141,
+          "votes_abstain": 0,
+          "approval_pct": 97.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "廣瀬文慎",
+          "votes_for": 7885572,
+          "votes_against": 252352,
+          "votes_abstain": 0,
+          "approval_pct": 96.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "秀誠",
+          "votes_for": 7918777,
+          "votes_against": 219150,
+          "votes_abstain": 0,
+          "approval_pct": 97.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "永田佑子",
+          "votes_for": 7923263,
+          "votes_against": 214664,
+          "votes_abstain": 0,
+          "approval_pct": 97.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "齋藤太郎",
+          "votes_for": 8008213,
+          "votes_against": 129717,
+          "votes_abstain": 0,
+          "approval_pct": 98.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "閑歳孝子",
+          "votes_for": 8008206,
+          "votes_against": 129724,
+          "votes_abstain": 0,
+          "approval_pct": 98.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "及川卓也",
+          "votes_for": 8008273,
+          "votes_against": 129657,
+          "votes_abstain": 0,
+          "approval_pct": 98.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役及び非業務執行取締役を除く。）に対する報酬等の設定の件（業績連動型譲渡制限付株式の付与）",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 7985037,
+          "votes_against": 146734,
+          "votes_abstain": 6415,
+          "approval_pct": 98.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W84X",
@@ -156,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:31:40.076Z"
+  "updated_at": "2026-07-04T00:55:53.323Z"
 }

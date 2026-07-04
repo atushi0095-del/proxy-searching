@@ -3,6 +3,99 @@
   "company_name": "尾家産業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100Y1VV",
+      "submit_date_time": "2026-06-30 14:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y1VV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾家啓二",
+          "votes_for": 54296,
+          "votes_against": 280,
+          "votes_abstain": null,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾家健太郎",
+          "votes_for": 54448,
+          "votes_against": 129,
+          "votes_abstain": null,
+          "approval_pct": 99.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂口泰也",
+          "votes_for": 54472,
+          "votes_against": 104,
+          "votes_abstain": null,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野々村透",
+          "votes_for": 54460,
+          "votes_against": 116,
+          "votes_abstain": null,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩辺裕昭",
+          "votes_for": 54390,
+          "votes_against": 187,
+          "votes_abstain": null,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹田由梨",
+          "votes_for": 54443,
+          "votes_against": 134,
+          "votes_abstain": null,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 54448,
+          "votes_against": 165,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WA50",
@@ -261,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:11:18.228Z"
+  "updated_at": "2026-07-04T00:57:39.262Z"
 }

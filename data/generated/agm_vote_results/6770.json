@@ -3,6 +3,147 @@
   "company_name": "アルプスアルパイン",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM8S",
+      "submit_date_time": "2026-06-26 16:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM8S",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1642076,
+          "votes_against": 1074,
+          "votes_abstain": 298,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "泉英男",
+          "votes_for": 1616556,
+          "votes_against": 26271,
+          "votes_abstain": 595,
+          "approval_pct": 98.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小平哲",
+          "votes_for": 1625826,
+          "votes_against": 17299,
+          "votes_abstain": 298,
+          "approval_pct": 98.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺好勝",
+          "votes_for": 1631774,
+          "votes_against": 11353,
+          "votes_abstain": 298,
+          "approval_pct": 99.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "相原正巳",
+          "votes_for": 1632003,
+          "votes_against": 11124,
+          "votes_abstain": 298,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤江直文",
+          "votes_for": 1632818,
+          "votes_against": 10310,
+          "votes_abstain": 298,
+          "approval_pct": 99.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "隠樹紀子",
+          "votes_for": 1633028,
+          "votes_against": 10100,
+          "votes_abstain": 298,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊達英文",
+          "votes_for": 1633071,
+          "votes_against": 10057,
+          "votes_abstain": 298,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "笹尾泰夫",
+          "votes_for": 1609888,
+          "votes_against": 33236,
+          "votes_abstain": 298,
+          "approval_pct": 97.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野村博",
+          "votes_for": 1641386,
+          "votes_against": 1744,
+          "votes_abstain": 298,
+          "approval_pct": 99.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "町田恵美",
+          "votes_for": 1641430,
+          "votes_against": 1700,
+          "votes_abstain": 298,
+          "approval_pct": 99.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6NL",
@@ -273,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:47:43.120Z"
+  "updated_at": "2026-07-04T01:19:27.573Z"
 }

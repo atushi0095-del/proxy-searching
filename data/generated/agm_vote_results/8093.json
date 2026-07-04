@@ -3,6 +3,51 @@
   "company_name": "極東貿易",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKHX",
+      "submit_date_time": "2026-06-25 14:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKHX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 82798,
+          "votes_against": 420,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐久間慎治八田忠道岡田晃一藤野隆",
+          "votes_for": 81131815728156880000,
+          "votes_against": 208916481652928,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 82658,
+          "votes_against": 558,
+          "votes_abstain": 0,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W9SF",
@@ -93,5 +138,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:17:51.194Z"
+  "updated_at": "2026-07-04T01:37:55.728Z"
 }

@@ -3,6 +3,123 @@
   "company_name": "南海化学",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLWO",
+      "submit_date_time": "2026-06-26 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLWO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉岡伸也",
+          "votes_for": 16696,
+          "votes_against": 106,
+          "votes_abstain": 0,
+          "approval_pct": 99.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長津徹",
+          "votes_for": 16693,
+          "votes_against": 109,
+          "votes_abstain": 0,
+          "approval_pct": 99.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤久義",
+          "votes_for": 16689,
+          "votes_against": 113,
+          "votes_abstain": 0,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀尾知樹",
+          "votes_for": 16694,
+          "votes_against": 108,
+          "votes_abstain": 0,
+          "approval_pct": 99.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "栗山康秀",
+          "votes_for": 16695,
+          "votes_against": 107,
+          "votes_abstain": 0,
+          "approval_pct": 99.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊集院薫",
+          "votes_for": 16657,
+          "votes_against": 145,
+          "votes_abstain": 0,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "海部行延",
+          "votes_for": 16696,
+          "votes_against": 106,
+          "votes_abstain": 0,
+          "approval_pct": 99.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉りつ子",
+          "votes_for": 16699,
+          "votes_against": 103,
+          "votes_abstain": 0,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 16640,
+          "votes_against": 162,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TXC7",
@@ -120,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:29:27.302Z"
+  "updated_at": "2026-07-04T01:22:06.658Z"
 }

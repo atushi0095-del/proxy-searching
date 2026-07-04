@@ -3,6 +3,51 @@
   "company_name": "シーティーエス",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YH4B",
+      "submit_date_time": "2026-06-22 16:42",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YH4B",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 348512,
+          "votes_against": 367,
+          "votes_abstain": 21,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横島泰蔵",
+          "votes_for": 338542,
+          "votes_against": 10358,
+          "votes_abstain": null,
+          "approval_pct": 97.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横島連",
+          "votes_for": 342537,
+          "votes_against": 6363,
+          "votes_abstain": null,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2T4",
@@ -249,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:09:59.006Z"
+  "updated_at": "2026-07-04T01:54:02.428Z"
 }

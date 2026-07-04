@@ -3,6 +3,195 @@
   "company_name": "セコム",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNHC",
+      "submit_date_time": "2026-06-30 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNHC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3524356,
+          "votes_against": 1316,
+          "votes_abstain": 423,
+          "approval_pct": 99.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田保幸",
+          "votes_for": 3302032,
+          "votes_against": 211743,
+          "votes_abstain": 12297,
+          "approval_pct": 93.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "布施達朗",
+          "votes_for": 3451505,
+          "votes_against": 59131,
+          "votes_abstain": 15448,
+          "approval_pct": 97.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中田貴士",
+          "votes_for": 3452071,
+          "votes_against": 58565,
+          "votes_abstain": 15448,
+          "approval_pct": 97.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "稲葉誠",
+          "votes_for": 3452015,
+          "votes_against": 58621,
+          "votes_abstain": 15448,
+          "approval_pct": 97.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福岡規行",
+          "votes_for": 3446397,
+          "votes_against": 64236,
+          "votes_abstain": 15448,
+          "approval_pct": 97.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "日根清",
+          "votes_for": 3446507,
+          "votes_against": 64126,
+          "votes_abstain": 15448,
+          "approval_pct": 97.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邊元",
+          "votes_for": 3411030,
+          "votes_against": 115051,
+          "votes_abstain": 3,
+          "approval_pct": 96.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原美里",
+          "votes_for": 3513315,
+          "votes_against": 12771,
+          "votes_abstain": 3,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松﨑耕介",
+          "votes_for": 3512962,
+          "votes_against": 13126,
+          "votes_abstain": 3,
+          "approval_pct": 99.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木ゆかり",
+          "votes_for": 3514153,
+          "votes_against": 11935,
+          "votes_abstain": 3,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "矢澤潤子",
+          "votes_for": 3523699,
+          "votes_against": 2390,
+          "votes_abstain": 3,
+          "approval_pct": 99.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 3294453,
+          "votes_against": 231643,
+          "votes_abstain": 3,
+          "approval_pct": 93.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 213415,
+          "votes_against": 3306049,
+          "votes_abstain": 6562,
+          "approval_pct": 6.03,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 85672,
+          "votes_against": 3433799,
+          "votes_abstain": 6562,
+          "approval_pct": 2.42,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9NC",
@@ -333,5 +522,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:19:44.562Z"
+  "updated_at": "2026-07-04T00:56:44.525Z"
 }

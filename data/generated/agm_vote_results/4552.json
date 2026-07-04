@@ -3,6 +3,39 @@
   "company_name": "ＪＣＲファーマ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YK42",
+      "submit_date_time": "2026-06-25 13:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YK42",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案芦田透薗田啓之AndreaSpezzi檜山義雄芦田信末綱隆林裕子跡見裕PhilippeFauchet浅野敏雄MarcDunoyer依田俊英",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 9.312179445169438e+71,
+          "votes_against": 2.7713144141509715e+61,
+          "votes_abstain": 0,
+          "approval_pct": 97.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 920300,
+          "votes_against": 39236,
+          "votes_abstain": 0,
+          "approval_pct": 95.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7LH",
@@ -189,5 +222,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:44:32.948Z"
+  "updated_at": "2026-07-04T01:39:24.683Z"
 }

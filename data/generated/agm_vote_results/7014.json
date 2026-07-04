@@ -3,6 +3,111 @@
   "company_name": "名村造船所",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YIIS",
+      "submit_date_time": "2026-06-24 13:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIIS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 502398,
+          "votes_against": 68374,
+          "votes_abstain": 0,
+          "approval_pct": 88.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "間渕重文",
+          "votes_for": 534612,
+          "votes_against": 36142,
+          "votes_abstain": 0,
+          "approval_pct": 93.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "坂田貴史",
+          "votes_for": 568472,
+          "votes_against": 2287,
+          "votes_abstain": 0,
+          "approval_pct": 99.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安酸庸祐",
+          "votes_for": 549698,
+          "votes_against": 21062,
+          "votes_abstain": 0,
+          "approval_pct": 96.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "栁原大輔",
+          "votes_for": 568978,
+          "votes_against": 1783,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "田中英行",
+          "votes_for": 536672,
+          "votes_against": 34085,
+          "votes_abstain": 0,
+          "approval_pct": 94.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山本紀夫",
+          "votes_for": 567984,
+          "votes_against": 2778,
+          "votes_abstain": 0,
+          "approval_pct": 99.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案当社株式等の大規模買付等に関する対応方針（買収への対応方針）更新の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 318922,
+          "votes_against": 251847,
+          "votes_abstain": 0,
+          "approval_pct": 55.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W4RI",
@@ -225,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:01:21.424Z"
+  "updated_at": "2026-07-04T01:48:29.643Z"
 }

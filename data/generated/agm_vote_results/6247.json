@@ -3,6 +3,111 @@
   "company_name": "日阪製作所",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNJ6",
+      "submit_date_time": "2026-06-30 13:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNJ6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 212819,
+          "votes_against": 330,
+          "votes_abstain": null,
+          "approval_pct": 98.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宇佐美俊哉",
+          "votes_for": 195655,
+          "votes_against": 17517,
+          "votes_abstain": null,
+          "approval_pct": 90.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "足立昭仁",
+          "votes_for": 205190,
+          "votes_against": 7982,
+          "votes_abstain": null,
+          "approval_pct": 95.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "波多野浩史",
+          "votes_for": 211587,
+          "votes_against": 1585,
+          "votes_abstain": null,
+          "approval_pct": 98.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松田征孝",
+          "votes_for": 211675,
+          "votes_against": 1497,
+          "votes_abstain": null,
+          "approval_pct": 98.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水元公二",
+          "votes_for": 205397,
+          "votes_against": 7775,
+          "votes_abstain": null,
+          "approval_pct": 95.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "角野佑子",
+          "votes_for": 205525,
+          "votes_against": 7647,
+          "votes_abstain": null,
+          "approval_pct": 95.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "生越栄美子",
+          "votes_for": 211985,
+          "votes_against": 1187,
+          "votes_abstain": null,
+          "approval_pct": 98.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9TX",
@@ -144,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:15:18.305Z"
+  "updated_at": "2026-07-04T00:58:24.090Z"
 }

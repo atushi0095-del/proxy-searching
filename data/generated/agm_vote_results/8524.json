@@ -3,6 +3,135 @@
   "company_name": "北洋銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YO1H",
+      "submit_date_time": "2026-07-01 13:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO1H",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2888627,
+          "votes_against": 32378,
+          "votes_abstain": 2637,
+          "approval_pct": 96.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安田光春",
+          "votes_for": 2651065,
+          "votes_against": 269725,
+          "votes_abstain": 2637,
+          "approval_pct": 88.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "津山博恒",
+          "votes_for": 2588225,
+          "votes_against": 332565,
+          "votes_abstain": 2637,
+          "approval_pct": 86.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "増田仁志",
+          "votes_for": 2780918,
+          "votes_against": 139873,
+          "votes_abstain": 2637,
+          "approval_pct": 93.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山田明",
+          "votes_for": 2849149,
+          "votes_against": 71642,
+          "votes_abstain": 2637,
+          "approval_pct": 95.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "米田和志",
+          "votes_for": 2847673,
+          "votes_against": 73118,
+          "votes_abstain": 2637,
+          "approval_pct": 95.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "神戸俊昭",
+          "votes_for": 2862091,
+          "votes_against": 58701,
+          "votes_abstain": 2637,
+          "approval_pct": 96.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田原咲世",
+          "votes_for": 2877208,
+          "votes_against": 43650,
+          "votes_abstain": 2637,
+          "approval_pct": 96.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "橋本幸",
+          "votes_for": 2886084,
+          "votes_against": 34775,
+          "votes_abstain": 2637,
+          "approval_pct": 96.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "青山祥子",
+          "votes_for": 2887490,
+          "votes_against": 33369,
+          "votes_abstain": 2637,
+          "approval_pct": 96.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WABM",
@@ -297,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:06:13.109Z"
+  "updated_at": "2026-07-04T00:51:21.582Z"
 }

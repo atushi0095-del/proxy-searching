@@ -3,6 +3,147 @@
   "company_name": "鉄建建設",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YIT8",
+      "submit_date_time": "2026-06-29 10:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIT8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 103098,
+          "votes_against": 401,
+          "votes_abstain": 391,
+          "approval_pct": 98.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤泰司",
+          "votes_for": 82719,
+          "votes_against": 20797,
+          "votes_abstain": 392,
+          "approval_pct": 79.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今井政人",
+          "votes_for": 90201,
+          "votes_against": 13315,
+          "votes_abstain": 392,
+          "approval_pct": 86.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "東海林直人",
+          "votes_for": 90142,
+          "votes_against": 13374,
+          "votes_abstain": 392,
+          "approval_pct": 86.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "猪塚武志",
+          "votes_for": 102832,
+          "votes_against": 684,
+          "votes_abstain": 392,
+          "approval_pct": 98.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内田浩之",
+          "votes_for": 102817,
+          "votes_against": 699,
+          "votes_abstain": 392,
+          "approval_pct": 98.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田克彦",
+          "votes_for": 98561,
+          "votes_against": 4955,
+          "votes_abstain": 392,
+          "approval_pct": 94.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大内雅博",
+          "votes_for": 98626,
+          "votes_against": 4890,
+          "votes_abstain": 392,
+          "approval_pct": 94.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "富田美栄子",
+          "votes_for": 98677,
+          "votes_against": 4839,
+          "votes_abstain": 392,
+          "approval_pct": 94.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "関谷恵美",
+          "votes_for": 98697,
+          "votes_against": 4819,
+          "votes_abstain": 392,
+          "approval_pct": 94.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中俊久",
+          "votes_for": 102849,
+          "votes_against": 633,
+          "votes_abstain": 391,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9OJ",
@@ -357,5 +498,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:19:37.069Z"
+  "updated_at": "2026-07-04T01:15:47.455Z"
 }

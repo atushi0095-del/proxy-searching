@@ -3,6 +3,147 @@
   "company_name": "アルインコ",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YG3L",
+      "submit_date_time": "2026-06-22 09:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YG3L",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上雄策",
+          "votes_for": 148177,
+          "votes_against": 5448,
+          "votes_abstain": null,
+          "approval_pct": 96.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林宣夫",
+          "votes_for": 148391,
+          "votes_against": 5234,
+          "votes_abstain": null,
+          "approval_pct": 96.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上智晶",
+          "votes_for": 149116,
+          "votes_against": 4509,
+          "votes_abstain": null,
+          "approval_pct": 96.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂口豪志",
+          "votes_for": 149089,
+          "votes_against": 4536,
+          "votes_abstain": null,
+          "approval_pct": 96.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水野浩児",
+          "votes_for": 149081,
+          "votes_against": 4544,
+          "votes_abstain": null,
+          "approval_pct": 96.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "細川明子",
+          "votes_for": 149136,
+          "votes_against": 4489,
+          "votes_abstain": null,
+          "approval_pct": 96.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉井敏憲",
+          "votes_for": 149104,
+          "votes_against": 4521,
+          "votes_abstain": null,
+          "approval_pct": 96.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "衣目成雄",
+          "votes_for": 151476,
+          "votes_against": 2149,
+          "votes_abstain": null,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野村新平",
+          "votes_for": 151508,
+          "votes_against": 2117,
+          "votes_abstain": null,
+          "approval_pct": 98.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青山憲吾",
+          "votes_for": 151471,
+          "votes_against": 2154,
+          "votes_abstain": null,
+          "approval_pct": 98.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "楢﨑隆章",
+          "votes_for": 151238,
+          "votes_against": 2387,
+          "votes_abstain": null,
+          "approval_pct": 98.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-19",
       "meeting_year": 2024,
       "doc_id": "S100TPFS",
@@ -156,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:19:40.881Z"
+  "updated_at": "2026-07-04T01:56:48.723Z"
 }

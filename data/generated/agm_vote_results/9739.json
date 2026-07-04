@@ -3,6 +3,75 @@
   "company_name": "ＮＳＷ",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNNF",
+      "submit_date_time": "2026-07-01 11:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNNF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "多田尚二",
+          "votes_for": 122589,
+          "votes_against": 2542,
+          "votes_abstain": 0,
+          "approval_pct": 97.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹村大助",
+          "votes_for": 122961,
+          "votes_against": 2170,
+          "votes_abstain": 0,
+          "approval_pct": 98.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部徳之",
+          "votes_for": 124423,
+          "votes_against": 708,
+          "votes_abstain": 0,
+          "approval_pct": 99.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "須賀譲",
+          "votes_for": 124402,
+          "votes_against": 729,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下川原郁子",
+          "votes_for": 124816,
+          "votes_against": 315,
+          "votes_abstain": 0,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-24",
       "meeting_year": 2024,
       "doc_id": "S100TSLB",
@@ -120,5 +189,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:03:37.672Z"
+  "updated_at": "2026-07-04T00:51:56.967Z"
 }

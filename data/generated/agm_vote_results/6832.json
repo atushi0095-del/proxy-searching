@@ -3,6 +3,87 @@
   "company_name": "アオイ電子",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLSP",
+      "submit_date_time": "2026-06-26 11:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLSP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 86542,
+          "votes_against": 128,
+          "votes_abstain": 252,
+          "approval_pct": 99.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木下和洋",
+          "votes_for": 81709,
+          "votes_against": 5213,
+          "votes_abstain": 0,
+          "approval_pct": 94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青木良二",
+          "votes_for": 85800,
+          "votes_against": 1122,
+          "votes_abstain": 0,
+          "approval_pct": 98.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "相沢吉昭",
+          "votes_for": 86665,
+          "votes_against": 257,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "多田光德",
+          "votes_for": 86765,
+          "votes_against": 157,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中尾正己",
+          "votes_for": 86761,
+          "votes_against": 161,
+          "votes_abstain": 0,
+          "approval_pct": 99.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8PF",
@@ -201,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:34:43.106Z"
+  "updated_at": "2026-07-04T01:28:08.259Z"
 }

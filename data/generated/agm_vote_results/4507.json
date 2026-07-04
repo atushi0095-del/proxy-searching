@@ -3,6 +3,111 @@
   "company_name": "塩野義製薬",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YL4A",
+      "submit_date_time": "2026-06-25 15:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL4A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7125932,
+          "votes_against": 79914,
+          "votes_abstain": 82,
+          "approval_pct": 98.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "手代木功",
+          "votes_for": 6897882,
+          "votes_against": 270828,
+          "votes_abstain": 39989,
+          "approval_pct": 95.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ジョンケラー",
+          "votes_for": 7147247,
+          "votes_against": 61382,
+          "votes_abstain": 82,
+          "approval_pct": 99.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安藤圭一",
+          "votes_for": 6997092,
+          "votes_against": 211535,
+          "votes_abstain": 82,
+          "approval_pct": 97.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾崎裕",
+          "votes_for": 7155364,
+          "votes_against": 49624,
+          "votes_abstain": 3723,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤原崇起",
+          "votes_for": 7159144,
+          "votes_against": 49486,
+          "votes_abstain": 82,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣瀬恭子",
+          "votes_for": 7179516,
+          "votes_against": 29114,
+          "votes_abstain": 82,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "芳井敬一",
+          "votes_for": 7182800,
+          "votes_against": 25833,
+          "votes_abstain": 82,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100W0IG",
@@ -333,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:17:57.058Z"
+  "updated_at": "2026-07-04T01:35:43.976Z"
 }

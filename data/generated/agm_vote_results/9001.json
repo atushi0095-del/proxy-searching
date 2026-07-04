@@ -3,6 +3,159 @@
   "company_name": "東武鉄道",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKQG",
+      "submit_date_time": "2026-06-29 10:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKQG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1476738,
+          "votes_against": 4556,
+          "votes_abstain": 444,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "根津嘉澄",
+          "votes_for": 1455587,
+          "votes_against": 21264,
+          "votes_abstain": 4887,
+          "approval_pct": 98.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "都筑豊",
+          "votes_for": 1461004,
+          "votes_against": 15845,
+          "votes_abstain": 4887,
+          "approval_pct": 98.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横田芳美",
+          "votes_for": 1462757,
+          "votes_against": 18515,
+          "votes_abstain": 464,
+          "approval_pct": 98.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木孝郎",
+          "votes_for": 1464998,
+          "votes_against": 16277,
+          "votes_abstain": 464,
+          "approval_pct": 98.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "矢ケ崎紀子",
+          "votes_for": 1470212,
+          "votes_against": 11065,
+          "votes_abstain": 464,
+          "approval_pct": 99.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河田正也",
+          "votes_for": 1471681,
+          "votes_against": 9597,
+          "votes_abstain": 464,
+          "approval_pct": 99.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "秋田正紀",
+          "votes_for": 1459655,
+          "votes_against": 21620,
+          "votes_abstain": 464,
+          "approval_pct": 98.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本光弘",
+          "votes_for": 1471531,
+          "votes_against": 9747,
+          "votes_abstain": 464,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉崎智恵子",
+          "votes_for": 1471256,
+          "votes_against": 10022,
+          "votes_abstain": 464,
+          "approval_pct": 99.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "古宮正章",
+          "votes_for": 1460251,
+          "votes_against": 21024,
+          "votes_abstain": 464,
+          "approval_pct": 98.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1466542,
+          "votes_against": 14225,
+          "votes_abstain": 1018,
+          "approval_pct": 98.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W5H4",
@@ -321,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:27:45.400Z"
+  "updated_at": "2026-07-04T01:16:15.699Z"
 }

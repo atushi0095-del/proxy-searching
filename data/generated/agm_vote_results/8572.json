@@ -3,6 +3,111 @@
   "company_name": "アコム",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YIK7",
+      "submit_date_time": "2026-06-24 09:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIK7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 14871081,
+          "votes_against": 11244,
+          "votes_abstain": 0,
+          "approval_pct": 99.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木下盛好",
+          "votes_for": 13822123,
+          "votes_against": 1060004,
+          "votes_abstain": 262,
+          "approval_pct": 92.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "成瀬浩史",
+          "votes_for": 14527785,
+          "votes_against": 354601,
+          "votes_abstain": 0,
+          "approval_pct": 97.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木下政孝",
+          "votes_for": 13923220,
+          "votes_against": 958908,
+          "votes_abstain": 262,
+          "approval_pct": 93.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "桐渕高志",
+          "votes_for": 14760285,
+          "votes_against": 122105,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山本忠司",
+          "votes_for": 14759474,
+          "votes_against": 122916,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "タンミッシェル",
+          "votes_for": 14787612,
+          "votes_against": 94779,
+          "votes_abstain": 0,
+          "approval_pct": 99.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員であるものを除く。）7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木下裕司",
+          "votes_for": 14811252,
+          "votes_against": 71135,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2P4",
@@ -273,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:10:41.997Z"
+  "updated_at": "2026-07-04T01:50:19.205Z"
 }

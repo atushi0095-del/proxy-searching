@@ -3,6 +3,147 @@
   "company_name": "マツダ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLQL",
+      "submit_date_time": "2026-06-26 11:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLQL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 4841036,
+          "votes_against": 16218,
+          "votes_abstain": 130,
+          "approval_pct": 98.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菖蒲田清孝",
+          "votes_for": 4716087,
+          "votes_against": 145004,
+          "votes_abstain": 140,
+          "approval_pct": 95.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "毛籠勝弘",
+          "votes_for": 4728036,
+          "votes_against": 120714,
+          "votes_abstain": 12481,
+          "approval_pct": 96.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ジェフリー・エイチ・ガイトン",
+          "votes_for": 4731429,
+          "votes_against": 129663,
+          "votes_abstain": 140,
+          "approval_pct": 96.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "向井武司",
+          "votes_for": 4777005,
+          "votes_against": 84090,
+          "votes_abstain": 140,
+          "approval_pct": 97.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青山裕大",
+          "votes_for": 4776980,
+          "votes_against": 84115,
+          "votes_abstain": 140,
+          "approval_pct": 97.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小島岳二",
+          "votes_for": 4778512,
+          "votes_against": 82583,
+          "votes_abstain": 140,
+          "approval_pct": 97.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "梅下隆一",
+          "votes_for": 4778333,
+          "votes_against": 82762,
+          "votes_abstain": 140,
+          "approval_pct": 97.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤潔",
+          "votes_for": 4831903,
+          "votes_against": 29193,
+          "votes_abstain": 140,
+          "approval_pct": 98.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川理子",
+          "votes_for": 4810349,
+          "votes_against": 50747,
+          "votes_abstain": 140,
+          "approval_pct": 97.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "及川美紀",
+          "votes_for": 4834357,
+          "votes_against": 26739,
+          "votes_abstain": 140,
+          "approval_pct": 98.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8AA",
@@ -345,5 +486,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:40:36.397Z"
+  "updated_at": "2026-07-04T01:29:00.359Z"
 }

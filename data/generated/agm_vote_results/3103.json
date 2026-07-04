@@ -3,6 +3,135 @@
   "company_name": "ユニチカ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNJ9",
+      "submit_date_time": "2026-06-30 13:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNJ9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1392483,
+          "votes_against": 24299,
+          "votes_abstain": 0,
+          "approval_pct": 97.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤井実",
+          "votes_for": 1332800,
+          "votes_against": 83987,
+          "votes_abstain": 0,
+          "approval_pct": 93.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林瑛二",
+          "votes_for": 1401237,
+          "votes_against": 15550,
+          "votes_abstain": 0,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三須修一",
+          "votes_for": 1401152,
+          "votes_against": 15635,
+          "votes_abstain": 0,
+          "approval_pct": 97.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤本慎司",
+          "votes_for": 1401372,
+          "votes_against": 15415,
+          "votes_abstain": 0,
+          "approval_pct": 98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中野信介",
+          "votes_for": 1409721,
+          "votes_against": 7066,
+          "votes_abstain": 0,
+          "approval_pct": 98.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柏木寿深",
+          "votes_for": 1374873,
+          "votes_against": 41914,
+          "votes_abstain": 0,
+          "approval_pct": 96.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "箱守一昭",
+          "votes_for": 1409685,
+          "votes_against": 7102,
+          "votes_abstain": 0,
+          "approval_pct": 98.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀野桂子",
+          "votes_for": 1400963,
+          "votes_against": 15824,
+          "votes_abstain": 0,
+          "approval_pct": 97.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩藤敦史",
+          "votes_for": 1411757,
+          "votes_against": 5030,
+          "votes_abstain": 0,
+          "approval_pct": 98.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9DJ",
@@ -141,5 +270,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:22:55.245Z"
+  "updated_at": "2026-07-04T00:58:59.084Z"
 }

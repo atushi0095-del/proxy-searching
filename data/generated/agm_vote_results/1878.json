@@ -3,6 +3,147 @@
   "company_name": "大東建託",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN8V",
+      "submit_date_time": "2026-06-30 09:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN8V",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2681121,
+          "votes_against": 1564,
+          "votes_abstain": 509,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 2681376,
+          "votes_against": 1318,
+          "votes_abstain": 500,
+          "approval_pct": 99.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "2．守義浩",
+          "votes_for": 2654196,
+          "votes_against": 28650,
+          "votes_abstain": 343,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "3．岡本司",
+          "votes_for": 2650679,
+          "votes_against": 32168,
+          "votes_abstain": 343,
+          "approval_pct": 98.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "4．天野豊",
+          "votes_for": 2653767,
+          "votes_against": 29079,
+          "votes_abstain": 343,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "5．田中良昌",
+          "votes_for": 2609931,
+          "votes_against": 72916,
+          "votes_abstain": 343,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "6．高橋由崇",
+          "votes_for": 2609929,
+          "votes_against": 72918,
+          "votes_abstain": 343,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "7．入谷淳",
+          "votes_for": 2650031,
+          "votes_against": 32816,
+          "votes_abstain": 343,
+          "approval_pct": 98.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "8．大和田順子",
+          "votes_for": 2672796,
+          "votes_against": 10051,
+          "votes_abstain": 343,
+          "approval_pct": 99.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "9．阿部晃一",
+          "votes_for": 2655849,
+          "votes_against": 26998,
+          "votes_abstain": 343,
+          "approval_pct": 98.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）10名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "10．浅川京子",
+          "votes_for": 2672794,
+          "votes_against": 10053,
+          "votes_abstain": 343,
+          "approval_pct": 99.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W89F",
@@ -309,5 +450,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:40:56.214Z"
+  "updated_at": "2026-07-04T01:02:34.797Z"
 }

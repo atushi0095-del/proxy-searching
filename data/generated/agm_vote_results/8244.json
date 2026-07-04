@@ -3,6 +3,147 @@
   "company_name": "近鉄百貨店",
   "meetings": [
     {
+      "meeting_date": "2026-06-02",
+      "meeting_year": 2026,
+      "doc_id": "S100Y869",
+      "submit_date_time": "2026-06-02 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y869",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "秋田拓士",
+          "votes_for": 324995,
+          "votes_against": 14529,
+          "votes_abstain": 0,
+          "approval_pct": 95.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "梶間隆弘",
+          "votes_for": 318643,
+          "votes_against": 20881,
+          "votes_abstain": 0,
+          "approval_pct": 93.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長野公俊",
+          "votes_for": 330972,
+          "votes_against": 8552,
+          "votes_abstain": 0,
+          "approval_pct": 97.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "八木徹",
+          "votes_for": 330932,
+          "votes_against": 8592,
+          "votes_abstain": 0,
+          "approval_pct": 97.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林哲也",
+          "votes_for": 334549,
+          "votes_against": 4975,
+          "votes_abstain": 0,
+          "approval_pct": 98.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣瀬恭子",
+          "votes_for": 334756,
+          "votes_against": 4768,
+          "votes_abstain": 0,
+          "approval_pct": 98.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和束紀明",
+          "votes_for": 336989,
+          "votes_against": 2535,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊東知康",
+          "votes_for": 335541,
+          "votes_against": 3983,
+          "votes_abstain": 0,
+          "approval_pct": 98.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平山みゆき",
+          "votes_for": 336790,
+          "votes_against": 2734,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 315536,
+          "votes_against": 23988,
+          "votes_abstain": 0,
+          "approval_pct": 92.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 315525,
+          "votes_against": 23999,
+          "votes_abstain": 0,
+          "approval_pct": 92.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-31",
       "meeting_year": 2024,
       "doc_id": "S100TJAC",
@@ -180,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:31:49.101Z"
+  "updated_at": "2026-07-04T02:05:34.272Z"
 }

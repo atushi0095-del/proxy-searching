@@ -3,6 +3,255 @@
   "company_name": "東日本旅客鉄道",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YFPX",
+      "submit_date_time": "2026-06-19 16:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFPX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 9707396,
+          "votes_against": 25972,
+          "votes_abstain": 1906,
+          "approval_pct": 99.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "深澤祐二",
+          "votes_for": 9190961,
+          "votes_against": 542310,
+          "votes_abstain": 1906,
+          "approval_pct": 94.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "喜㔟陽一",
+          "votes_for": 9230487,
+          "votes_against": 478948,
+          "votes_abstain": 25744,
+          "approval_pct": 94.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡利千春",
+          "votes_for": 9417693,
+          "votes_against": 315583,
+          "votes_abstain": 1906,
+          "approval_pct": 96.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田裕彦",
+          "votes_for": 9424730,
+          "votes_against": 308546,
+          "votes_abstain": 1906,
+          "approval_pct": 96.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川晴美",
+          "votes_for": 9559742,
+          "votes_against": 173534,
+          "votes_abstain": 1906,
+          "approval_pct": 97.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内田英志",
+          "votes_for": 9559674,
+          "votes_against": 173602,
+          "votes_abstain": 1906,
+          "approval_pct": 97.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白山弘子",
+          "votes_for": 9551816,
+          "votes_against": 181460,
+          "votes_abstain": 1906,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河本宏子",
+          "votes_for": 9485837,
+          "votes_against": 247434,
+          "votes_abstain": 1906,
+          "approval_pct": 97.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩本敏男",
+          "votes_for": 9613216,
+          "votes_against": 120062,
+          "votes_abstain": 1906,
+          "approval_pct": 98.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野田由美子",
+          "votes_for": 9636245,
+          "votes_against": 97034,
+          "votes_abstain": 1906,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大橋弘",
+          "votes_for": 9638011,
+          "votes_against": 95268,
+          "votes_abstain": 1906,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "栗原美津枝",
+          "votes_for": 9645611,
+          "votes_against": 87668,
+          "votes_abstain": 1906,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安田浩己",
+          "votes_for": 9650104,
+          "votes_against": 83281,
+          "votes_abstain": 1906,
+          "approval_pct": 98.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "天谷知子",
+          "votes_for": 9625029,
+          "votes_against": 108356,
+          "votes_abstain": 1906,
+          "approval_pct": 98.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 514487,
+          "votes_against": 9216185,
+          "votes_abstain": 3664,
+          "approval_pct": 5.26,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 542864,
+          "votes_against": 9187875,
+          "votes_abstain": 3664,
+          "approval_pct": 5.55,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 603481,
+          "votes_against": 9120573,
+          "votes_abstain": 10362,
+          "approval_pct": 6.18,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 470533,
+          "votes_against": 9254985,
+          "votes_abstain": 8916,
+          "approval_pct": 4.81,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 430103,
+          "votes_against": 9300625,
+          "votes_abstain": 3664,
+          "approval_pct": 4.4,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W1JQ",
@@ -213,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:14:41.180Z"
+  "updated_at": "2026-07-04T01:57:10.422Z"
 }

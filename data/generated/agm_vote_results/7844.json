@@ -1,0 +1,52 @@
+{
+  "company_code": "7844",
+  "company_name": "マーベラス",
+  "meetings": [
+    {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJI9",
+      "submit_date_time": "2026-06-24 15:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJI9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件照井慎一野口千博土手真悟中村俊一有馬誠ShinJoonOh古西桜子岡村秀樹髙橋竜",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 4.178684621454781e+53,
+          "votes_against": 6.618521909599658e+43,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役2名選任の件長谷川眞澄安田恵",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 467774480575,
+          "votes_against": 162803480,
+          "votes_abstain": 0,
+          "approval_pct": 99.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案会計監査人選任の件",
+          "proposal_category": "会計監査人選任",
+          "candidate_name": null,
+          "votes_for": 480241,
+          "votes_against": 3542,
+          "votes_abstain": 271,
+          "approval_pct": 99.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-04T01:46:30.259Z"
+}

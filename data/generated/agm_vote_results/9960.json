@@ -3,6 +3,87 @@
   "company_name": "東テク",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLTA",
+      "submit_date_time": "2026-06-26 12:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLTA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 342692,
+          "votes_against": 205,
+          "votes_abstain": 0,
+          "approval_pct": 99.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小山馨",
+          "votes_for": 298604,
+          "votes_against": 44295,
+          "votes_abstain": 0,
+          "approval_pct": 86.946,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉川浩二",
+          "votes_for": 340863,
+          "votes_against": 2039,
+          "votes_abstain": 0,
+          "approval_pct": 99.251,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "若元淳二",
+          "votes_for": 340019,
+          "votes_against": 2883,
+          "votes_abstain": 0,
+          "approval_pct": 99.005,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福居賢悟",
+          "votes_for": 341908,
+          "votes_against": 996,
+          "votes_abstain": 0,
+          "approval_pct": 99.555,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宇佐美敦子",
+          "votes_for": 341883,
+          "votes_against": 1020,
+          "votes_abstain": 0,
+          "approval_pct": 99.548,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8AG",
@@ -213,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:40:31.428Z"
+  "updated_at": "2026-07-04T01:27:19.007Z"
 }

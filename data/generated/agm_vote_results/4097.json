@@ -3,6 +3,87 @@
   "company_name": "高圧ガス工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKC7",
+      "submit_date_time": "2026-06-25 09:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKC7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 467558,
+          "votes_against": 8159,
+          "votes_abstain": 0,
+          "approval_pct": 98.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "黒木幹也",
+          "votes_for": 447033,
+          "votes_against": 28704,
+          "votes_abstain": 0,
+          "approval_pct": 93.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "説田和洋",
+          "votes_for": 448445,
+          "votes_against": 27292,
+          "votes_abstain": 0,
+          "approval_pct": 94.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森本孝",
+          "votes_for": 449342,
+          "votes_against": 26395,
+          "votes_abstain": 0,
+          "approval_pct": 94.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "池田佳弘",
+          "votes_for": 449345,
+          "votes_against": 26392,
+          "votes_abstain": 0,
+          "approval_pct": 94.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中野健次",
+          "votes_for": 427401,
+          "votes_against": 48336,
+          "votes_abstain": 0,
+          "approval_pct": 89.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W56F",
@@ -225,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:02:38.137Z"
+  "updated_at": "2026-07-04T01:42:34.107Z"
 }

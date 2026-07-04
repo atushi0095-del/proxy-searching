@@ -3,6 +3,99 @@
   "company_name": "松井証券",
   "meetings": [
     {
+      "meeting_date": "2026-06-28",
+      "meeting_year": 2026,
+      "doc_id": "S100YN4V",
+      "submit_date_time": "2026-06-29 16:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN4V",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2114380,
+          "votes_against": 3354,
+          "votes_abstain": 197,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "和里田聰",
+          "votes_for": 2109168,
+          "votes_against": 8447,
+          "votes_abstain": 266,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鵜澤慎一",
+          "votes_for": 2110386,
+          "votes_against": 7299,
+          "votes_abstain": 197,
+          "approval_pct": 99.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松井道太郎",
+          "votes_for": 2109930,
+          "votes_against": 7755,
+          "votes_abstain": 197,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小貫聡",
+          "votes_for": 2108061,
+          "votes_against": 9624,
+          "votes_abstain": 197,
+          "approval_pct": 99.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "堀俊明",
+          "votes_for": 2109755,
+          "votes_against": 7932,
+          "votes_abstain": 197,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川西拓人",
+          "votes_for": 2111427,
+          "votes_against": 6242,
+          "votes_abstain": 197,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-29",
       "meeting_year": 2025,
       "doc_id": "S100W9EB",
@@ -333,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:16:43.907Z"
+  "updated_at": "2026-07-04T01:04:46.041Z"
 }

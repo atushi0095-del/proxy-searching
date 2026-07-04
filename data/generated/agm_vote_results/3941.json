@@ -3,6 +3,147 @@
   "company_name": "レンゴー",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNC8",
+      "submit_date_time": "2026-06-30 09:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNC8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大坪清",
+          "votes_for": 1940744,
+          "votes_against": 231719,
+          "votes_abstain": 127,
+          "approval_pct": 89.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川本洋祐",
+          "votes_for": 1919781,
+          "votes_against": 252684,
+          "votes_abstain": 127,
+          "approval_pct": 88.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三部廣美",
+          "votes_for": 2147338,
+          "votes_against": 25256,
+          "votes_abstain": 0,
+          "approval_pct": 98.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長谷川一郎",
+          "votes_for": 2147138,
+          "votes_against": 25456,
+          "votes_abstain": 0,
+          "approval_pct": 98.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀博史",
+          "votes_for": 2147599,
+          "votes_against": 24995,
+          "votes_abstain": 0,
+          "approval_pct": 98.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上貞登士",
+          "votes_for": 2148573,
+          "votes_against": 24021,
+          "votes_abstain": 0,
+          "approval_pct": 98.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤義雄",
+          "votes_for": 2063870,
+          "votes_against": 108724,
+          "votes_abstain": 0,
+          "approval_pct": 95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥正之",
+          "votes_for": 2020931,
+          "votes_against": 151662,
+          "votes_abstain": 0,
+          "approval_pct": 93.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "玉岡かおる",
+          "votes_for": 2162945,
+          "votes_against": 9650,
+          "votes_abstain": 0,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "住田功一",
+          "votes_for": 2163273,
+          "votes_against": 9322,
+          "votes_abstain": 0,
+          "approval_pct": 99.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊加井真弓",
+          "votes_for": 2171219,
+          "votes_against": 2271,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WA52",
@@ -297,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:11:23.232Z"
+  "updated_at": "2026-07-04T01:02:48.819Z"
 }

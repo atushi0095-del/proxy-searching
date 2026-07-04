@@ -3,6 +3,39 @@
   "company_name": "帝人",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YGAA",
+      "submit_date_time": "2026-06-22 10:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGAA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案内川哲茂森山直彦中原雄司津谷正明楠瀬玲子前田東一",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 9.234551272611134e+40,
+          "votes_against": 4.256187647011706e+28,
+          "votes_abstain": 0,
+          "approval_pct": 68.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案浜島直樹",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1289509,
+          "votes_against": 59775,
+          "votes_abstain": 0,
+          "approval_pct": 95.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W70J",
@@ -141,5 +174,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:51:58.618Z"
+  "updated_at": "2026-07-04T01:56:18.492Z"
 }

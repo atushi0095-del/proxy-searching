@@ -3,6 +3,99 @@
   "company_name": "アップガレージグループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJRE",
+      "submit_date_time": "2026-06-26 09:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJRE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 64291,
+          "votes_against": 192,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 64294,
+          "votes_against": 190,
+          "votes_abstain": null,
+          "approval_pct": 99.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "石田誠",
+          "votes_for": 64161,
+          "votes_against": 323,
+          "votes_abstain": null,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "河野映彦",
+          "votes_for": 64163,
+          "votes_against": 321,
+          "votes_abstain": null,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福島泰三",
+          "votes_for": 64271,
+          "votes_against": 213,
+          "votes_abstain": null,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤麻子",
+          "votes_for": 64266,
+          "votes_against": 218,
+          "votes_abstain": null,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中山勇",
+          "votes_for": 64269,
+          "votes_against": 215,
+          "votes_abstain": null,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8F9",
@@ -213,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:38:52.244Z"
+  "updated_at": "2026-07-04T01:31:38.388Z"
 }

@@ -3,6 +3,39 @@
   "company_name": "井村屋グループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YFNP",
+      "submit_date_time": "2026-06-22 09:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFNP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 86583,
+          "votes_against": 1651,
+          "votes_abstain": 0,
+          "approval_pct": 98.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "若林正清",
+          "votes_for": 86543,
+          "votes_against": 1808,
+          "votes_abstain": 0,
+          "approval_pct": 97.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W1YM",
@@ -81,5 +114,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:13:53.936Z"
+  "updated_at": "2026-07-04T01:56:53.324Z"
 }

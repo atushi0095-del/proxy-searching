@@ -3,6 +3,147 @@
   "company_name": "大氣社",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKFG",
+      "submit_date_time": "2026-06-25 11:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKFG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 545577,
+          "votes_against": 225,
+          "votes_abstain": 0,
+          "approval_pct": 99.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長田雅士",
+          "votes_for": 497814,
+          "votes_against": 47949,
+          "votes_abstain": 36,
+          "approval_pct": 91.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中島靖",
+          "votes_for": 537224,
+          "votes_against": 8575,
+          "votes_abstain": 0,
+          "approval_pct": 98.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "祖父江正",
+          "votes_for": 542228,
+          "votes_against": 3575,
+          "votes_abstain": 0,
+          "approval_pct": 99.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福永卓司",
+          "votes_for": 542411,
+          "votes_against": 3392,
+          "votes_abstain": 0,
+          "approval_pct": 99.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松田吉弘",
+          "votes_for": 542407,
+          "votes_against": 3396,
+          "votes_abstain": 0,
+          "approval_pct": 99.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "彦坂浩一",
+          "votes_for": 519261,
+          "votes_against": 26544,
+          "votes_abstain": 0,
+          "approval_pct": 95.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "早田順幸",
+          "votes_for": 521160,
+          "votes_against": 24642,
+          "votes_abstain": 0,
+          "approval_pct": 95.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "副島寿香",
+          "votes_for": 543897,
+          "votes_against": 1908,
+          "votes_abstain": 0,
+          "approval_pct": 99.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中田平将",
+          "votes_for": 544153,
+          "votes_against": 1652,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 544460,
+          "votes_against": 1342,
+          "votes_abstain": 0,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W875",
@@ -333,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:40:41.366Z"
+  "updated_at": "2026-07-04T01:41:13.593Z"
 }

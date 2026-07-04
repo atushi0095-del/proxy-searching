@@ -3,6 +3,111 @@
   "company_name": "中央可鍛工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLNW",
+      "submit_date_time": "2026-06-26 10:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLNW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 115587,
+          "votes_against": 5621,
+          "votes_abstain": 0,
+          "approval_pct": 95.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "武山尚生",
+          "votes_for": 110152,
+          "votes_against": 11056,
+          "votes_abstain": 0,
+          "approval_pct": 90.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "武山豊",
+          "votes_for": 110181,
+          "votes_against": 11027,
+          "votes_abstain": 0,
+          "approval_pct": 90.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "畠山浩之",
+          "votes_for": 110196,
+          "votes_against": 11012,
+          "votes_abstain": 0,
+          "approval_pct": 90.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "野村英司",
+          "votes_for": 110174,
+          "votes_against": 11034,
+          "votes_abstain": 0,
+          "approval_pct": 90.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "星文雄",
+          "votes_for": 110105,
+          "votes_against": 11103,
+          "votes_abstain": 0,
+          "approval_pct": 90.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "上畑廣高",
+          "votes_for": 110135,
+          "votes_against": 11073,
+          "votes_abstain": 0,
+          "approval_pct": 90.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森琢也",
+          "votes_for": 110158,
+          "votes_against": 11050,
+          "votes_abstain": 0,
+          "approval_pct": 90.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W55E",
@@ -285,5 +390,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:02:45.620Z"
+  "updated_at": "2026-07-04T01:30:30.497Z"
 }

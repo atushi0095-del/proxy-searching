@@ -3,6 +3,147 @@
   "company_name": "デリカフーズホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMRZ",
+      "submit_date_time": "2026-06-30 12:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMRZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 113626,
+          "votes_against": 452,
+          "votes_abstain": 0,
+          "approval_pct": 99.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 113483,
+          "votes_against": 595,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大﨑善保",
+          "votes_for": 113201,
+          "votes_against": 877,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小林憲司",
+          "votes_for": 113222,
+          "votes_against": 856,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "仲山紺之",
+          "votes_for": 113213,
+          "votes_against": 865,
+          "votes_abstain": 0,
+          "approval_pct": 99.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "市野真理子",
+          "votes_for": 113270,
+          "votes_against": 808,
+          "votes_abstain": 0,
+          "approval_pct": 99.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "尾崎弘之",
+          "votes_for": 113155,
+          "votes_against": 923,
+          "votes_abstain": 0,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "柴田美鈴",
+          "votes_for": 113251,
+          "votes_against": 827,
+          "votes_abstain": 0,
+          "approval_pct": 99.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高力美由紀",
+          "votes_for": 113128,
+          "votes_against": 950,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "藤井敏行",
+          "votes_for": 113229,
+          "votes_against": 843,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山口裕允",
+          "votes_for": 113166,
+          "votes_against": 906,
+          "votes_abstain": 0,
+          "approval_pct": 99.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8D8",
@@ -201,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:24:44.809Z"
+  "updated_at": "2026-07-04T00:59:43.588Z"
 }

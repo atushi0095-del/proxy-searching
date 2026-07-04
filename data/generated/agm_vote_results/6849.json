@@ -3,6 +3,171 @@
   "company_name": "日本光電工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YMIM",
+      "submit_date_time": "2026-06-29 10:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMIM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1411903,
+          "votes_against": 985,
+          "votes_abstain": 0,
+          "approval_pct": 99.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "荻野博一",
+          "votes_for": 1298698,
+          "votes_against": 45863,
+          "votes_abstain": 68321,
+          "approval_pct": 91.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田中栄一",
+          "votes_for": 1401575,
+          "votes_against": 11312,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉竹康博",
+          "votes_for": 1401619,
+          "votes_against": 11268,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "加藤一弘",
+          "votes_for": 1401546,
+          "votes_against": 11341,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森田純恵",
+          "votes_for": 1404631,
+          "votes_against": 8256,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "DannyRisberg",
+          "votes_for": 1404652,
+          "votes_against": 8235,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森田守",
+          "votes_for": 1404561,
+          "votes_against": 8326,
+          "votes_abstain": 0,
+          "approval_pct": 99.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三村孝仁",
+          "votes_for": 1411250,
+          "votes_against": 1638,
+          "votes_abstain": 0,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "泉田文男",
+          "votes_for": 1264324,
+          "votes_against": 148557,
+          "votes_abstain": 0,
+          "approval_pct": 89.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "清水一男",
+          "votes_for": 1404716,
+          "votes_against": 8171,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐藤郁美",
+          "votes_for": 1400013,
+          "votes_against": 12874,
+          "votes_abstain": 0,
+          "approval_pct": 99.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森脇純夫",
+          "votes_for": 1411446,
+          "votes_against": 1441,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8EL",
@@ -321,5 +486,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:25:12.287Z"
+  "updated_at": "2026-07-04T01:14:41.151Z"
 }

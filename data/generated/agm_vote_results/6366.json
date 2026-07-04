@@ -3,6 +3,147 @@
   "company_name": "千代田化工建設",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YM6P",
+      "submit_date_time": "2026-06-26 15:51",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM6P",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1639686,
+          "votes_against": 8450,
+          "votes_abstain": 2746,
+          "approval_pct": 98.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "太田光治",
+          "votes_for": 1612488,
+          "votes_against": 38185,
+          "votes_abstain": 0,
+          "approval_pct": 96.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "紺野哲哉",
+          "votes_for": 1633052,
+          "votes_against": 14876,
+          "votes_abstain": 2746,
+          "approval_pct": 97.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林直樹",
+          "votes_for": 1627692,
+          "votes_against": 20235,
+          "votes_abstain": 2746,
+          "approval_pct": 97.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "出口篤",
+          "votes_for": 1626666,
+          "votes_against": 21261,
+          "votes_abstain": 2746,
+          "approval_pct": 97.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤聡",
+          "votes_for": 1630796,
+          "votes_against": 17132,
+          "votes_abstain": 2746,
+          "approval_pct": 97.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "救仁郷豊",
+          "votes_for": 1632061,
+          "votes_against": 15868,
+          "votes_abstain": 2746,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒木彰子",
+          "votes_for": 1627057,
+          "votes_against": 20871,
+          "votes_abstain": 2746,
+          "approval_pct": 97.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大澤豊",
+          "votes_for": 1638765,
+          "votes_against": 9166,
+          "votes_abstain": 2746,
+          "approval_pct": 98.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松尾祐美子",
+          "votes_for": 1638930,
+          "votes_against": 8754,
+          "votes_abstain": 2746,
+          "approval_pct": 98.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹内淳",
+          "votes_for": 1616619,
+          "votes_against": 31497,
+          "votes_abstain": 2746,
+          "approval_pct": 96.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7F8",
@@ -309,5 +450,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:36:50.404Z"
+  "updated_at": "2026-07-04T01:20:46.209Z"
 }

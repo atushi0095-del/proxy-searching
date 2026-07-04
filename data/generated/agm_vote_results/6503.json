@@ -3,6 +3,159 @@
   "company_name": "三菱電機",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLJ6",
+      "submit_date_time": "2026-06-26 16:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLJ6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 17163788,
+          "votes_against": 5668,
+          "votes_abstain": 1752,
+          "approval_pct": 99.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小坂達朗",
+          "votes_for": 16639320,
+          "votes_against": 515024,
+          "votes_abstain": 16848,
+          "approval_pct": 96.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柳弘之",
+          "votes_for": 16893824,
+          "votes_against": 275838,
+          "votes_abstain": 1536,
+          "approval_pct": 98.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "江川雅子",
+          "votes_for": 16944944,
+          "votes_against": 224718,
+          "votes_abstain": 1536,
+          "approval_pct": 98.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松山遙",
+          "votes_for": 17113563,
+          "votes_against": 56108,
+          "votes_abstain": 1536,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "皆川邦仁",
+          "votes_for": 17110063,
+          "votes_against": 59608,
+          "votes_abstain": 1536,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ピーターD.ピーダーセン",
+          "votes_for": 17109975,
+          "votes_against": 59696,
+          "votes_abstain": 1536,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中林美恵子",
+          "votes_for": 17101247,
+          "votes_against": 68425,
+          "votes_abstain": 1536,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "漆間啓",
+          "votes_for": 16280618,
+          "votes_against": 889037,
+          "votes_abstain": 1536,
+          "approval_pct": 94.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藪重洋",
+          "votes_for": 16565663,
+          "votes_against": 603999,
+          "votes_abstain": 1536,
+          "approval_pct": 96.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高澤範行",
+          "votes_for": 16992469,
+          "votes_against": 177193,
+          "votes_abstain": 1536,
+          "approval_pct": 98.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤本健一郎",
+          "votes_for": 16592664,
+          "votes_against": 576999,
+          "votes_abstain": 1536,
+          "approval_pct": 96.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W5BO",
@@ -285,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:46:14.536Z"
+  "updated_at": "2026-07-04T01:20:17.497Z"
 }

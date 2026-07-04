@@ -3,6 +3,135 @@
   "company_name": "ＳＰＫ",
   "meetings": [
     {
+      "meeting_date": "2026-07-01",
+      "meeting_year": 2026,
+      "doc_id": "S100YK8J",
+      "submit_date_time": "2026-07-01 09:29",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YK8J",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 76475,
+          "votes_against": 145,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "沖恭一郎",
+          "votes_for": 73529,
+          "votes_against": 3090,
+          "votes_abstain": 1,
+          "approval_pct": 95.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村彰良",
+          "votes_for": 73871,
+          "votes_against": 2748,
+          "votes_abstain": 1,
+          "approval_pct": 96.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上田耕司",
+          "votes_for": 73870,
+          "votes_against": 2749,
+          "votes_abstain": 1,
+          "approval_pct": 96.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小河昌史",
+          "votes_for": 73873,
+          "votes_against": 2746,
+          "votes_abstain": 1,
+          "approval_pct": 96.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西島康二",
+          "votes_for": 73774,
+          "votes_against": 2845,
+          "votes_abstain": 1,
+          "approval_pct": 95.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本創",
+          "votes_for": 75714,
+          "votes_against": 905,
+          "votes_abstain": 1,
+          "approval_pct": 98.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赤崎雄作",
+          "votes_for": 73799,
+          "votes_against": 2820,
+          "votes_abstain": 1,
+          "approval_pct": 96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤原友江",
+          "votes_for": 73917,
+          "votes_against": 2702,
+          "votes_abstain": 1,
+          "approval_pct": 96.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 75526,
+          "votes_against": 1073,
+          "votes_abstain": 21,
+          "approval_pct": 98.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W3CY",
@@ -213,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:48:36.249Z"
+  "updated_at": "2026-07-04T00:53:02.242Z"
 }

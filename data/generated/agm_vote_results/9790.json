@@ -3,6 +3,159 @@
   "company_name": "福井コンピュータホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN4A",
+      "submit_date_time": "2026-06-30 14:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN4A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 186518,
+          "votes_against": 48,
+          "votes_abstain": 0,
+          "approval_pct": 99.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 184980,
+          "votes_against": 1568,
+          "votes_abstain": 18,
+          "approval_pct": 99.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 184975,
+          "votes_against": 1591,
+          "votes_abstain": 0,
+          "approval_pct": 99.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤浩一",
+          "votes_for": 186258,
+          "votes_against": 308,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本彰",
+          "votes_for": 186381,
+          "votes_against": 185,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉田直",
+          "votes_for": 186384,
+          "votes_against": 182,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂口賢司",
+          "votes_for": 186383,
+          "votes_against": 183,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小笹文",
+          "votes_for": 186380,
+          "votes_against": 186,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "梶原理加",
+          "votes_for": 186402,
+          "votes_against": 164,
+          "votes_abstain": 0,
+          "approval_pct": 99.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋勝",
+          "votes_for": 149164,
+          "votes_against": 37402,
+          "votes_abstain": 0,
+          "approval_pct": 79.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神田輝生",
+          "votes_for": 186417,
+          "votes_against": 149,
+          "votes_abstain": 0,
+          "approval_pct": 99.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三橋明史",
+          "votes_for": 186415,
+          "votes_against": 151,
+          "votes_abstain": 0,
+          "approval_pct": 99.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W3W1",
@@ -225,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:05:53.138Z"
+  "updated_at": "2026-07-04T00:57:16.938Z"
 }

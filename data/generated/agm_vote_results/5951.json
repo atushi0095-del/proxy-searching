@@ -3,6 +3,123 @@
   "company_name": "ダイニチ工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLBQ",
+      "submit_date_time": "2026-06-26 09:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLBQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 120113,
+          "votes_against": 328,
+          "votes_abstain": null,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉井久夫",
+          "votes_for": 113545,
+          "votes_against": 6896,
+          "votes_abstain": null,
+          "approval_pct": 94.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉井唯",
+          "votes_for": 113564,
+          "votes_against": 6877,
+          "votes_abstain": null,
+          "approval_pct": 94.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野口武嗣",
+          "votes_for": 120070,
+          "votes_against": 371,
+          "votes_abstain": null,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "海保雅裕",
+          "votes_for": 120080,
+          "votes_against": 361,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀江淳",
+          "votes_for": 120079,
+          "votes_against": 362,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "矢作太一",
+          "votes_for": 120079,
+          "votes_against": 362,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 119893,
+          "votes_against": 548,
+          "votes_abstain": null,
+          "approval_pct": 99.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 115794,
+          "votes_against": 4647,
+          "votes_abstain": null,
+          "approval_pct": 96.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W82C",
@@ -225,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:43:17.828Z"
+  "updated_at": "2026-07-04T01:31:47.836Z"
 }

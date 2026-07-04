@@ -3,6 +3,75 @@
   "company_name": "日本電子材料",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM9J",
+      "submit_date_time": "2026-06-26 16:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM9J",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "坂田輝久",
+          "votes_for": 73965,
+          "votes_against": 11051,
+          "votes_abstain": 1330,
+          "approval_pct": 85.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮本佳幸",
+          "votes_for": 81104,
+          "votes_against": 3914,
+          "votes_abstain": 1330,
+          "approval_pct": 93.93,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "龍圭一",
+          "votes_for": 80298,
+          "votes_against": 4720,
+          "votes_abstain": 1330,
+          "approval_pct": 92.99,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮島渉",
+          "votes_for": 81277,
+          "votes_against": 3741,
+          "votes_abstain": 1330,
+          "approval_pct": 94.13,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山根武夫",
+          "votes_for": 83608,
+          "votes_against": 1436,
+          "votes_abstain": 1330,
+          "approval_pct": 96.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7JT",
@@ -177,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:46:53.724Z"
+  "updated_at": "2026-07-04T01:20:03.528Z"
 }

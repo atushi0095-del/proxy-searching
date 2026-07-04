@@ -3,6 +3,87 @@
   "company_name": "ポート",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YGUJ",
+      "submit_date_time": "2026-06-22 15:31",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGUJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 77024,
+          "votes_against": 474,
+          "votes_abstain": 25,
+          "approval_pct": 99.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 77087,
+          "votes_against": 411,
+          "votes_abstain": 25,
+          "approval_pct": 99.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "春日博文",
+          "votes_for": 64673,
+          "votes_against": 12825,
+          "votes_abstain": 25,
+          "approval_pct": 83.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役(監査等委員である取締役を除く。)2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "丸山侑佑",
+          "votes_for": 76805,
+          "votes_against": 693,
+          "votes_abstain": 25,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大森(伊田)愛久美",
+          "votes_for": 76991,
+          "votes_against": 507,
+          "votes_abstain": 25,
+          "approval_pct": 99.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "冨岡大悟",
+          "votes_for": 77014,
+          "votes_against": 484,
+          "votes_abstain": 25,
+          "approval_pct": 99.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2NT",
@@ -165,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:10:34.553Z"
+  "updated_at": "2026-07-04T01:54:52.001Z"
 }

@@ -3,6 +3,123 @@
   "company_name": "コロワイド",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLLB",
+      "submit_date_time": "2026-06-26 09:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLLB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "蔵人金男",
+          "votes_for": 550417,
+          "votes_against": 61123,
+          "votes_abstain": 0,
+          "approval_pct": 86.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野尻公平",
+          "votes_for": 551947,
+          "votes_against": 59592,
+          "votes_abstain": 0,
+          "approval_pct": 86.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "蔵人賢樹",
+          "votes_for": 603275,
+          "votes_against": 8267,
+          "votes_abstain": 0,
+          "approval_pct": 94.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "磯野健雄",
+          "votes_for": 583542,
+          "votes_against": 28000,
+          "votes_abstain": 0,
+          "approval_pct": 91.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松見大輔",
+          "votes_for": 583492,
+          "votes_against": 28050,
+          "votes_abstain": 0,
+          "approval_pct": 91.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杢野純子",
+          "votes_for": 582338,
+          "votes_against": 29203,
+          "votes_abstain": 0,
+          "approval_pct": 91.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福田守雄",
+          "votes_for": 602577,
+          "votes_against": 8966,
+          "votes_abstain": 0,
+          "approval_pct": 94.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 577413,
+          "votes_against": 34310,
+          "votes_abstain": 21,
+          "approval_pct": 90.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 589951,
+          "votes_against": 21787,
+          "votes_abstain": 21,
+          "approval_pct": 92.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W7R4",
@@ -132,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:43:03.021Z"
+  "updated_at": "2026-07-04T01:31:57.199Z"
 }

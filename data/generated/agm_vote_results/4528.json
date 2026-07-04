@@ -3,6 +3,99 @@
   "company_name": "小野薬品工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YDVI",
+      "submit_date_time": "2026-06-19 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YDVI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 3829225,
+          "votes_against": 3695,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "相良暁",
+          "votes_for": 3576408,
+          "votes_against": 251246,
+          "votes_abstain": 11312,
+          "approval_pct": 93.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "滝野十一",
+          "votes_for": 3682967,
+          "votes_against": 156003,
+          "votes_abstain": 0,
+          "approval_pct": 95.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "辻中聡浩",
+          "votes_for": 3737843,
+          "votes_against": 101129,
+          "votes_abstain": 0,
+          "approval_pct": 97.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "野村雅男",
+          "votes_for": 3800552,
+          "votes_against": 36930,
+          "votes_abstain": 1497,
+          "approval_pct": 99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "奥野明子",
+          "votes_for": 3805597,
+          "votes_against": 33382,
+          "votes_abstain": 0,
+          "approval_pct": 99.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長榮周作",
+          "votes_for": 3800294,
+          "votes_against": 37188,
+          "votes_abstain": 1497,
+          "approval_pct": 98.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100VYFV",
@@ -213,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:17:47.277Z"
+  "updated_at": "2026-07-04T01:59:36.027Z"
 }

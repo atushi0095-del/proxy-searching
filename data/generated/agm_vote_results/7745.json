@@ -3,6 +3,123 @@
   "company_name": "Ａ＆Ｄホロンホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLTW",
+      "submit_date_time": "2026-06-26 11:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLTW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 167315,
+          "votes_against": 1449,
+          "votes_abstain": 28745,
+          "approval_pct": 84.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森島泰信",
+          "votes_for": 154149,
+          "votes_against": 43360,
+          "votes_abstain": 0,
+          "approval_pct": 78.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "張皓",
+          "votes_for": 165532,
+          "votes_against": 31977,
+          "votes_abstain": 0,
+          "approval_pct": 83.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高橋浩二",
+          "votes_for": 165030,
+          "votes_against": 32479,
+          "votes_abstain": 0,
+          "approval_pct": 83.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大聖泰弘",
+          "votes_for": 165399,
+          "votes_against": 32110,
+          "votes_abstain": 0,
+          "approval_pct": 83.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "重光文明",
+          "votes_for": 165502,
+          "votes_against": 32007,
+          "votes_abstain": 0,
+          "approval_pct": 83.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ルディー和子",
+          "votes_for": 165213,
+          "votes_against": 32296,
+          "votes_abstain": 0,
+          "approval_pct": 83.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "上出邦郎",
+          "votes_for": 165444,
+          "votes_against": 32065,
+          "votes_abstain": 0,
+          "approval_pct": 83.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "岩永克也",
+          "votes_for": 194258,
+          "votes_against": 3249,
+          "votes_abstain": 0,
+          "approval_pct": 98.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7DX",
@@ -225,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:45:52.012Z"
+  "updated_at": "2026-07-04T01:27:49.699Z"
 }

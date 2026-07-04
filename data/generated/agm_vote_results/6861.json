@@ -3,6 +3,159 @@
   "company_name": "株式会社キーエンス",
   "meetings": [
     {
+      "meeting_date": "2026-06-12",
+      "meeting_year": 2026,
+      "doc_id": "S100YBHM",
+      "submit_date_time": "2026-06-16 09:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YBHM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2039091,
+          "votes_against": 179691,
+          "votes_abstain": 34,
+          "approval_pct": 91.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 2107564,
+          "votes_against": 111193,
+          "votes_abstain": 51,
+          "approval_pct": 94.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中野鉄也",
+          "votes_for": 1925032,
+          "votes_against": 286095,
+          "votes_abstain": 7663,
+          "approval_pct": 86.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山口昭司",
+          "votes_for": 2029142,
+          "votes_against": 178399,
+          "votes_abstain": 11273,
+          "approval_pct": 91.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山本寛明",
+          "votes_for": 2019715,
+          "votes_against": 187826,
+          "votes_abstain": 11273,
+          "approval_pct": 91.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "寺田一彦",
+          "votes_for": 2084142,
+          "votes_against": 123399,
+          "votes_abstain": 11273,
+          "approval_pct": 93.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中田有",
+          "votes_for": 2011419,
+          "votes_against": 196122,
+          "votes_abstain": 11273,
+          "approval_pct": 90.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "谷口誓一",
+          "votes_for": 2108911,
+          "votes_against": 109220,
+          "votes_abstain": 695,
+          "approval_pct": 95.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "末永久美子",
+          "votes_for": 2110142,
+          "votes_against": 108292,
+          "votes_abstain": 392,
+          "approval_pct": 95.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉岡理文",
+          "votes_for": 2106607,
+          "votes_against": 111523,
+          "votes_abstain": 695,
+          "approval_pct": 94.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "里見良子",
+          "votes_for": 2215711,
+          "votes_against": 2725,
+          "votes_abstain": 392,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山本雅春",
+          "votes_for": 2214260,
+          "votes_against": 4197,
+          "votes_abstain": 323,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-13",
       "meeting_year": 2025,
       "doc_id": "S100VYGE",
@@ -321,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:20:47.881Z"
+  "updated_at": "2026-07-04T02:02:05.495Z"
 }

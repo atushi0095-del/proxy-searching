@@ -3,6 +3,111 @@
   "company_name": "ｳｪﾙｽ･ﾏﾈｼﾞﾒﾝﾄ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YNIX",
+      "submit_date_time": "2026-06-30 16:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNIX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 148410,
+          "votes_against": 622,
+          "votes_abstain": 0,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千野和俊",
+          "votes_for": 147483,
+          "votes_against": 1549,
+          "votes_abstain": 0,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三原大介",
+          "votes_for": 147692,
+          "votes_against": 1340,
+          "votes_abstain": 0,
+          "approval_pct": 98.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "門田守人",
+          "votes_for": 147910,
+          "votes_against": 1122,
+          "votes_abstain": 0,
+          "approval_pct": 98.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙濱芳仁",
+          "votes_for": 147746,
+          "votes_against": 1286,
+          "votes_abstain": 0,
+          "approval_pct": 98.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "近持淳",
+          "votes_for": 147657,
+          "votes_against": 1375,
+          "votes_abstain": 0,
+          "approval_pct": 98.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "太田将",
+          "votes_for": 147704,
+          "votes_against": 1328,
+          "votes_abstain": 0,
+          "approval_pct": 98.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中谷百合子",
+          "votes_for": 147679,
+          "votes_against": 1353,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8Z3",
@@ -177,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:29:33.696Z"
+  "updated_at": "2026-07-04T00:53:56.522Z"
 }

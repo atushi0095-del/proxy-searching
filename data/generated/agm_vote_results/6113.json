@@ -3,6 +3,171 @@
   "company_name": "アマダ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YO9I",
+      "submit_date_time": "2026-07-02 10:17",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO9I",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2447556,
+          "votes_against": 1054,
+          "votes_abstain": 396,
+          "approval_pct": 99.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 2384423,
+          "votes_against": 64184,
+          "votes_abstain": 396,
+          "approval_pct": 97.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "磯部任",
+          "votes_for": 2380844,
+          "votes_against": 60219,
+          "votes_abstain": 7935,
+          "approval_pct": 97.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山梨貴昭",
+          "votes_for": 2397916,
+          "votes_against": 50687,
+          "votes_abstain": 396,
+          "approval_pct": 97.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "青木優和",
+          "votes_for": 2441816,
+          "votes_against": 6791,
+          "votes_abstain": 396,
+          "approval_pct": 99.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤井佳子",
+          "votes_for": 2445702,
+          "votes_against": 2907,
+          "votes_abstain": 396,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三輪和彦",
+          "votes_for": 2389533,
+          "votes_against": 59105,
+          "votes_abstain": 396,
+          "approval_pct": 97.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "笹宏行",
+          "votes_for": 2440858,
+          "votes_against": 7782,
+          "votes_abstain": 396,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "望月晶子",
+          "votes_for": 1956038,
+          "votes_against": 492602,
+          "votes_abstain": 396,
+          "approval_pct": 79.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "青木優和",
+          "votes_for": 2428628,
+          "votes_against": 20013,
+          "votes_abstain": 396,
+          "approval_pct": 99.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役（監査等委員である取締役を除く。）の報酬等の額及び内容決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 2442954,
+          "votes_against": 5485,
+          "votes_abstain": 596,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案監査等委員である取締役の報酬等の額決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 2443574,
+          "votes_against": 4865,
+          "votes_abstain": 596,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案取締役等（社外取締役及び監査等委員である取締役を除く。）に対する株式報酬等の額及び内容決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 2442103,
+          "votes_against": 6537,
+          "votes_abstain": 396,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WAPC",
@@ -321,5 +486,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:03:50.501Z"
+  "updated_at": "2026-07-04T00:48:26.770Z"
 }

@@ -3,6 +3,63 @@
   "company_name": "ホシデン",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YOI1",
+      "submit_date_time": "2026-07-03 16:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOI1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 404819,
+          "votes_against": 6792,
+          "votes_abstain": 0,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "吉永隆行",
+          "votes_for": 357112,
+          "votes_against": 54433,
+          "votes_abstain": 59,
+          "approval_pct": 86.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "森正士",
+          "votes_for": 410982,
+          "votes_against": 629,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案役員賞与支給の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 404573,
+          "votes_against": 7037,
+          "votes_abstain": 0,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WBDP",
@@ -237,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T20:59:56.218Z"
+  "updated_at": "2026-07-04T00:45:12.893Z"
 }

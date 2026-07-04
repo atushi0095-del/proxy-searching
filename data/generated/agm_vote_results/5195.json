@@ -3,6 +3,123 @@
   "company_name": "バンドー化学",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKBE",
+      "submit_date_time": "2026-06-25 14:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKBE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 350653,
+          "votes_against": 175,
+          "votes_abstain": 0,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "植野富夫",
+          "votes_for": 349968,
+          "votes_against": 858,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "染田厚",
+          "votes_for": 349980,
+          "votes_against": 846,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林一志",
+          "votes_for": 349973,
+          "votes_against": 853,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "米田小百合",
+          "votes_for": 350034,
+          "votes_against": 792,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "富田健司",
+          "votes_for": 350016,
+          "votes_against": 810,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久川秀仁",
+          "votes_for": 350031,
+          "votes_against": 795,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡田勉",
+          "votes_for": 349305,
+          "votes_against": 1521,
+          "votes_abstain": 0,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小寺美帆",
+          "votes_for": 350319,
+          "votes_against": 508,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W6Y3",
@@ -213,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:50:06.520Z"
+  "updated_at": "2026-07-04T01:38:54.564Z"
 }

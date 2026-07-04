@@ -3,6 +3,63 @@
   "company_name": "ＳＢＩアルヒ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YL4U",
+      "submit_date_time": "2026-06-25 15:40",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL4U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 351890,
+          "votes_against": 1597,
+          "votes_abstain": null,
+          "approval_pct": 99.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉村猛",
+          "votes_for": 330625,
+          "votes_against": 22966,
+          "votes_abstain": null,
+          "approval_pct": 93.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊久間努",
+          "votes_for": 327617,
+          "votes_against": 25974,
+          "votes_abstain": null,
+          "approval_pct": 92.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "高橋和彦",
+          "votes_for": 339473,
+          "votes_against": 14118,
+          "votes_abstain": null,
+          "approval_pct": 96.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W5YO",
@@ -261,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:58:31.433Z"
+  "updated_at": "2026-07-04T01:35:11.461Z"
 }

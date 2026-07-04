@@ -3,6 +3,159 @@
   "company_name": "大垣共立銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YLQH",
+      "submit_date_time": "2026-06-29 10:19",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLQH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 339916,
+          "votes_against": 4281,
+          "votes_abstain": 71,
+          "approval_pct": 98.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "境敏幸",
+          "votes_for": 289058,
+          "votes_against": 55138,
+          "votes_abstain": 71,
+          "approval_pct": 83.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林敬治",
+          "votes_for": 276562,
+          "votes_against": 67636,
+          "votes_abstain": 71,
+          "approval_pct": 80.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "土屋諭",
+          "votes_for": 320366,
+          "votes_against": 23832,
+          "votes_abstain": 71,
+          "approval_pct": 92.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "五藤義徳",
+          "votes_for": 336817,
+          "votes_against": 7381,
+          "votes_abstain": 71,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金森靖",
+          "votes_for": 336750,
+          "votes_against": 7448,
+          "votes_abstain": 71,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池剛",
+          "votes_for": 336819,
+          "votes_against": 7379,
+          "votes_abstain": 71,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森口祐子",
+          "votes_for": 318509,
+          "votes_against": 25688,
+          "votes_abstain": 71,
+          "approval_pct": 92.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水千弘",
+          "votes_for": 337053,
+          "votes_against": 7146,
+          "votes_abstain": 71,
+          "approval_pct": 97.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鮎京正訓",
+          "votes_for": 336817,
+          "votes_against": 7382,
+          "votes_abstain": 71,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "祖父江敏雄",
+          "votes_for": 338927,
+          "votes_against": 5270,
+          "votes_abstain": 71,
+          "approval_pct": 98.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "毛利哲朗",
+          "votes_for": 338720,
+          "votes_against": 5483,
+          "votes_abstain": 71,
+          "approval_pct": 98.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W9S4",
@@ -309,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:18:08.492Z"
+  "updated_at": "2026-07-04T01:15:23.705Z"
 }

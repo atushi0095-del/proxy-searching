@@ -3,6 +3,99 @@
   "company_name": "シナネンホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLQ1",
+      "submit_date_time": "2026-06-26 11:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLQ1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 98680,
+          "votes_against": 17,
+          "votes_abstain": null,
+          "approval_pct": 99.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中込太郎",
+          "votes_for": 98299,
+          "votes_against": 398,
+          "votes_abstain": null,
+          "approval_pct": 99.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村哲也",
+          "votes_for": 98381,
+          "votes_against": 316,
+          "votes_abstain": null,
+          "approval_pct": 99.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川進弘",
+          "votes_for": 98558,
+          "votes_against": 139,
+          "votes_abstain": null,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大橋弘幸",
+          "votes_for": 90207,
+          "votes_against": 8490,
+          "votes_abstain": null,
+          "approval_pct": 91.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "南部朋子",
+          "votes_for": 98579,
+          "votes_against": 118,
+          "votes_abstain": null,
+          "approval_pct": 99.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西山英彦",
+          "votes_for": 98548,
+          "votes_against": 149,
+          "votes_abstain": null,
+          "approval_pct": 99.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6SX",
@@ -225,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:53:20.610Z"
+  "updated_at": "2026-07-04T01:28:41.533Z"
 }

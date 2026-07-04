@@ -3,6 +3,111 @@
   "company_name": "中電工",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YL2E",
+      "submit_date_time": "2026-06-26 09:51",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL2E",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 447181,
+          "votes_against": 166,
+          "votes_abstain": 703,
+          "approval_pct": 96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "迫谷章",
+          "votes_for": 421699,
+          "votes_against": 25642,
+          "votes_abstain": 739,
+          "approval_pct": 90,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "重藤隆文",
+          "votes_for": 424003,
+          "votes_against": 23340,
+          "votes_abstain": 739,
+          "approval_pct": 91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "谷口実男",
+          "votes_for": 436519,
+          "votes_against": 10860,
+          "votes_abstain": 703,
+          "approval_pct": 93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "稲本信秀",
+          "votes_for": 437073,
+          "votes_against": 10308,
+          "votes_abstain": 703,
+          "approval_pct": 94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "餘利野直人",
+          "votes_for": 437776,
+          "votes_against": 9605,
+          "votes_abstain": 703,
+          "approval_pct": 94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "江國成基",
+          "votes_for": 437785,
+          "votes_against": 9596,
+          "votes_abstain": 703,
+          "approval_pct": 94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "村田治子",
+          "votes_for": 437835,
+          "votes_against": 9546,
+          "votes_abstain": 703,
+          "approval_pct": 94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W69K",
@@ -261,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:42:07.768Z"
+  "updated_at": "2026-07-04T01:31:36.040Z"
 }

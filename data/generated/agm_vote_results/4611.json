@@ -3,6 +3,159 @@
   "company_name": "大日本塗料",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YNG7",
+      "submit_date_time": "2026-06-30 14:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNG7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 212133,
+          "votes_against": 788,
+          "votes_abstain": 0,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 211491,
+          "votes_against": 1424,
+          "votes_abstain": 0,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "里隆幸",
+          "votes_for": 160808,
+          "votes_against": 52111,
+          "votes_abstain": 0,
+          "approval_pct": 75.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永野達彦",
+          "votes_for": 202737,
+          "votes_against": 10182,
+          "votes_abstain": 0,
+          "approval_pct": 95.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本基弘",
+          "votes_for": 202907,
+          "votes_against": 10012,
+          "votes_abstain": 0,
+          "approval_pct": 95.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三宅章弘",
+          "votes_for": 211254,
+          "votes_against": 1665,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "馬場浩司",
+          "votes_for": 210740,
+          "votes_against": 2179,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村正博",
+          "votes_for": 210695,
+          "votes_against": 2224,
+          "votes_abstain": 0,
+          "approval_pct": 98.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "八代華代子",
+          "votes_for": 210633,
+          "votes_against": 2286,
+          "votes_abstain": 0,
+          "approval_pct": 98.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤井浩之",
+          "votes_for": 156671,
+          "votes_against": 56245,
+          "votes_abstain": 0,
+          "approval_pct": 73.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林紀美代",
+          "votes_for": 201836,
+          "votes_against": 11080,
+          "votes_abstain": 0,
+          "approval_pct": 94.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案澁谷昌弘",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 187161,
+          "votes_against": 25757,
+          "votes_abstain": 0,
+          "approval_pct": 87.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W97V",
@@ -321,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:27:23.105Z"
+  "updated_at": "2026-07-04T00:57:53.303Z"
 }

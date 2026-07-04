@@ -1,0 +1,28 @@
+{
+  "company_code": "4689",
+  "company_name": "ＬＩＮＥヤフー",
+  "meetings": [
+    {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YLCN",
+      "submit_date_time": "2026-06-26 10:51",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLCN",
+      "proposals": [
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役（監査等委員である取締役を除く。）に対する株式報酬等の内容一部改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 59340893,
+          "votes_against": 2531854,
+          "votes_abstain": 7717,
+          "approval_pct": 95.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-04T01:29:19.094Z"
+}

@@ -3,6 +3,99 @@
   "company_name": "わかもと製薬",
   "meetings": [
     {
+      "meeting_date": "2026-06-22",
+      "meeting_year": 2026,
+      "doc_id": "S100YKND",
+      "submit_date_time": "2026-06-25 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKND",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 297955,
+          "votes_against": 1176,
+          "votes_abstain": null,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平井友行",
+          "votes_for": 257453,
+          "votes_against": 41668,
+          "votes_abstain": null,
+          "approval_pct": 85.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "五十嵐新",
+          "votes_for": 257351,
+          "votes_against": 41770,
+          "votes_abstain": null,
+          "approval_pct": 85.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "葛西洋芳",
+          "votes_for": 258217,
+          "votes_against": 2247,
+          "votes_abstain": 38657,
+          "approval_pct": 86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷口誠",
+          "votes_for": 258177,
+          "votes_against": 2287,
+          "votes_abstain": 38657,
+          "approval_pct": 85.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "樋川加奈",
+          "votes_for": 297027,
+          "votes_against": 2104,
+          "votes_abstain": null,
+          "approval_pct": 98.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 51286,
+          "votes_against": 247775,
+          "votes_abstain": null,
+          "approval_pct": 17.08,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W8EO",
@@ -309,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:29:16.908Z"
+  "updated_at": "2026-07-04T01:36:18.803Z"
 }

@@ -3,6 +3,183 @@
   "company_name": "コタ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YGY0",
+      "submit_date_time": "2026-06-23 10:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGY0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 179299,
+          "votes_against": 12065,
+          "votes_abstain": 1,
+          "approval_pct": 93.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 189630,
+          "votes_against": 1733,
+          "votes_abstain": 0,
+          "approval_pct": 99.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案退任取締役に対する退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 166333,
+          "votes_against": 25032,
+          "votes_abstain": 0,
+          "approval_pct": 86.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小田博英",
+          "votes_for": 181739,
+          "votes_against": 9440,
+          "votes_abstain": 33,
+          "approval_pct": 95.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "廣瀬俊二",
+          "votes_for": 184590,
+          "votes_against": 6589,
+          "votes_abstain": 33,
+          "approval_pct": 96.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "平田律雄",
+          "votes_for": 184344,
+          "votes_against": 6835,
+          "votes_abstain": 33,
+          "approval_pct": 96.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "河村省吾",
+          "votes_for": 184762,
+          "votes_against": 6417,
+          "votes_abstain": 33,
+          "approval_pct": 96.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田茂治",
+          "votes_for": 184859,
+          "votes_against": 6320,
+          "votes_abstain": 33,
+          "approval_pct": 96.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西村充弘",
+          "votes_for": 184810,
+          "votes_against": 6369,
+          "votes_abstain": 33,
+          "approval_pct": 96.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "沖村英明",
+          "votes_for": 184417,
+          "votes_against": 6762,
+          "votes_abstain": 33,
+          "approval_pct": 96.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "原正和",
+          "votes_for": 184530,
+          "votes_against": 6649,
+          "votes_abstain": 33,
+          "approval_pct": 96.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山中智香",
+          "votes_for": 184735,
+          "votes_against": 6444,
+          "votes_abstain": 33,
+          "approval_pct": 96.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "本城蓮華",
+          "votes_for": 184175,
+          "votes_against": 7147,
+          "votes_abstain": 33,
+          "approval_pct": 96.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小田尚江",
+          "votes_for": 188481,
+          "votes_against": 2874,
+          "votes_abstain": 0,
+          "approval_pct": 98.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2XK",
@@ -285,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:08:22.868Z"
+  "updated_at": "2026-07-04T01:53:25.124Z"
 }

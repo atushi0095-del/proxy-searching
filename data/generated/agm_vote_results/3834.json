@@ -3,6 +3,99 @@
   "company_name": "朝日ネット",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKJR",
+      "submit_date_time": "2026-06-25 11:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKJR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 189761,
+          "votes_against": 446,
+          "votes_abstain": null,
+          "approval_pct": 99.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小松大",
+          "votes_for": 181870,
+          "votes_against": 8337,
+          "votes_abstain": null,
+          "approval_pct": 95.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "溝上聡司",
+          "votes_for": 188313,
+          "votes_against": 1894,
+          "votes_abstain": null,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井上福造",
+          "votes_for": 185583,
+          "votes_against": 4624,
+          "votes_abstain": null,
+          "approval_pct": 97.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "八尾紀子",
+          "votes_for": 188450,
+          "votes_against": 1757,
+          "votes_abstain": null,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "本田徹",
+          "votes_for": 186813,
+          "votes_against": 3394,
+          "votes_abstain": null,
+          "approval_pct": 98.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "樋口一磨",
+          "votes_for": 189095,
+          "votes_against": 1113,
+          "votes_abstain": null,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W92D",
@@ -201,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:25:46.585Z"
+  "updated_at": "2026-07-04T01:41:06.584Z"
 }

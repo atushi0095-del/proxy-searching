@@ -3,6 +3,159 @@
   "company_name": "栄研化学",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YI7N",
+      "submit_date_time": "2026-06-24 10:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YI7N",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "瀨川雄司",
+          "votes_for": 291694,
+          "votes_against": 10032,
+          "votes_abstain": null,
+          "approval_pct": 96.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森安義",
+          "votes_for": 164950,
+          "votes_against": 136777,
+          "votes_abstain": null,
+          "approval_pct": 54.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "工藤知博",
+          "votes_for": 165494,
+          "votes_against": 136232,
+          "votes_abstain": null,
+          "approval_pct": 54.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井潔",
+          "votes_for": 192450,
+          "votes_against": 109275,
+          "votes_abstain": null,
+          "approval_pct": 63.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村規代実",
+          "votes_for": 193253,
+          "votes_against": 108474,
+          "votes_abstain": null,
+          "approval_pct": 64.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤吉彰",
+          "votes_for": 193433,
+          "votes_against": 108292,
+          "votes_abstain": null,
+          "approval_pct": 64.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松竹直喜",
+          "votes_for": 193510,
+          "votes_against": 108215,
+          "votes_abstain": null,
+          "approval_pct": 64.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "植木理恵",
+          "votes_for": 193664,
+          "votes_against": 108063,
+          "votes_abstain": null,
+          "approval_pct": 64.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木野瀨祐太",
+          "votes_for": 300397,
+          "votes_against": 1293,
+          "votes_abstain": 37,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "戸田達喜",
+          "votes_for": 299960,
+          "votes_against": 1730,
+          "votes_abstain": 37,
+          "approval_pct": 99.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西田真澄",
+          "votes_for": 137993,
+          "votes_against": 163554,
+          "votes_abstain": 74,
+          "approval_pct": 45.75,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水落一隆",
+          "votes_for": 137985,
+          "votes_against": 163562,
+          "votes_abstain": 74,
+          "approval_pct": 45.75,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W4NB",
@@ -168,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:02:53.083Z"
+  "updated_at": "2026-07-04T01:49:51.263Z"
 }

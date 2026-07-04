@@ -1,0 +1,28 @@
+{
+  "company_code": "8793",
+  "company_name": "ＮＥＣキャピタルソリューション",
+  "meetings": [
+    {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YM5X",
+      "submit_date_time": "2026-06-29 10:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM5X",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "小泉吉之",
+          "votes_for": 183918,
+          "votes_against": 5104,
+          "votes_abstain": 14,
+          "approval_pct": 97.29,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-04T01:16:06.387Z"
+}

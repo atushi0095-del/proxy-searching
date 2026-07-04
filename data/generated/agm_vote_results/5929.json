@@ -3,6 +3,135 @@
   "company_name": "三和ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKFL",
+      "submit_date_time": "2026-06-25 10:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKFL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1489618,
+          "votes_against": 206,
+          "votes_abstain": 0,
+          "approval_pct": 99.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙山靖司",
+          "votes_for": 1284139,
+          "votes_against": 81228,
+          "votes_abstain": 124414,
+          "approval_pct": 88.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山崎弘之",
+          "votes_for": 1353300,
+          "votes_against": 17307,
+          "votes_abstain": 119179,
+          "approval_pct": 92.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "道場敏明",
+          "votes_for": 1353315,
+          "votes_against": 17292,
+          "votes_abstain": 119179,
+          "approval_pct": 92.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙山盟司",
+          "votes_for": 1353341,
+          "votes_against": 17266,
+          "votes_abstain": 119179,
+          "approval_pct": 92.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "横田正仲",
+          "votes_for": 1355849,
+          "votes_against": 14759,
+          "votes_abstain": 119179,
+          "approval_pct": 92.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "石村弘子",
+          "votes_for": 1366015,
+          "votes_against": 4593,
+          "votes_abstain": 119179,
+          "approval_pct": 93.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "米澤常克",
+          "votes_for": 1291825,
+          "votes_against": 78817,
+          "votes_abstain": 119179,
+          "approval_pct": 88.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山岡直人",
+          "votes_for": 1324502,
+          "votes_against": 46139,
+          "votes_abstain": 119179,
+          "approval_pct": 90.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鈴木恵美子",
+          "votes_for": 1368103,
+          "votes_against": 2542,
+          "votes_abstain": 119179,
+          "approval_pct": 93.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7CY",
@@ -249,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:49:20.462Z"
+  "updated_at": "2026-07-04T01:41:50.414Z"
 }

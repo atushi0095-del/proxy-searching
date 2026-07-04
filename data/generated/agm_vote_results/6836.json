@@ -3,6 +3,87 @@
   "company_name": "ぷらっとホーム",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMQW",
+      "submit_date_time": "2026-06-29 11:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMQW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木友康",
+          "votes_for": 20871,
+          "votes_against": 557,
+          "votes_abstain": 0,
+          "approval_pct": 96.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹内敬呂",
+          "votes_for": 20871,
+          "votes_against": 557,
+          "votes_abstain": 0,
+          "approval_pct": 96.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本多基記",
+          "votes_for": 20873,
+          "votes_against": 555,
+          "votes_abstain": 0,
+          "approval_pct": 96.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅谷常三郎",
+          "votes_for": 20871,
+          "votes_against": 557,
+          "votes_abstain": 0,
+          "approval_pct": 96.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大川康徳",
+          "votes_for": 20872,
+          "votes_against": 556,
+          "votes_abstain": 0,
+          "approval_pct": 96.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤﨑忍",
+          "votes_for": 20872,
+          "votes_against": 556,
+          "votes_abstain": 0,
+          "approval_pct": 96.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W981",
@@ -213,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:26:22.665Z"
+  "updated_at": "2026-07-04T01:13:27.666Z"
 }

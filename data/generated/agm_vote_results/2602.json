@@ -3,6 +3,159 @@
   "company_name": "日清オイリオグループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJ7R",
+      "submit_date_time": "2026-06-24 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJ7R",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "剰余金の処分の件",
+          "votes_for": 243762,
+          "votes_against": 464,
+          "votes_abstain": null,
+          "approval_pct": 99.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久野貴久",
+          "votes_for": 242518,
+          "votes_against": 1690,
+          "votes_abstain": 16,
+          "approval_pct": 99.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤将祐",
+          "votes_for": 242746,
+          "votes_against": 1480,
+          "votes_abstain": null,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "寺口太二",
+          "votes_for": 242736,
+          "votes_against": 1490,
+          "votes_abstain": null,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池賢二",
+          "votes_for": 242746,
+          "votes_against": 1480,
+          "votes_abstain": null,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹島智春",
+          "votes_for": 242711,
+          "votes_against": 1515,
+          "votes_abstain": null,
+          "approval_pct": 99.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野中公陽",
+          "votes_for": 242755,
+          "votes_against": 1471,
+          "votes_abstain": null,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本功",
+          "votes_for": 242975,
+          "votes_against": 1252,
+          "votes_abstain": null,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "江藤尚美",
+          "votes_for": 242961,
+          "votes_against": 1266,
+          "votes_abstain": null,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "志濟聡子",
+          "votes_for": 242906,
+          "votes_against": 1320,
+          "votes_abstain": null,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺信行",
+          "votes_for": 230989,
+          "votes_against": 13233,
+          "votes_abstain": null,
+          "approval_pct": 94.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松村龍彦",
+          "votes_for": 243494,
+          "votes_against": 737,
+          "votes_abstain": null,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5LH",
@@ -309,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:58:26.530Z"
+  "updated_at": "2026-07-04T01:46:58.412Z"
 }

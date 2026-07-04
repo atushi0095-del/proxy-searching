@@ -3,6 +3,99 @@
   "company_name": "シュッピン",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLPK",
+      "submit_date_time": "2026-06-26 10:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLPK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 159768,
+          "votes_against": 1511,
+          "votes_abstain": 0,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "齋藤仁志",
+          "votes_for": 157607,
+          "votes_against": 3676,
+          "votes_abstain": 0,
+          "approval_pct": 97.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "滝ヶ﨑裕二",
+          "votes_for": 158912,
+          "votes_against": 2371,
+          "votes_abstain": 0,
+          "approval_pct": 98.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "信実克哉",
+          "votes_for": 159074,
+          "votes_against": 2209,
+          "votes_abstain": 0,
+          "approval_pct": 98.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渡辺絢",
+          "votes_for": 158951,
+          "votes_against": 2332,
+          "votes_abstain": 0,
+          "approval_pct": 98.55,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "白石卓也",
+          "votes_for": 158959,
+          "votes_against": 2324,
+          "votes_abstain": 0,
+          "approval_pct": 98.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役の報酬額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 158275,
+          "votes_against": 3008,
+          "votes_abstain": 0,
+          "approval_pct": 98.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5Z2",
@@ -165,5 +258,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:58:40.861Z"
+  "updated_at": "2026-07-04T01:29:43.375Z"
 }

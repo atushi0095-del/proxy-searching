@@ -3,6 +3,99 @@
   "company_name": "ヨシックスホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YKT5",
+      "submit_date_time": "2026-06-26 10:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKT5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 79927,
+          "votes_against": 1230,
+          "votes_abstain": null,
+          "approval_pct": 98.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉岡昌成",
+          "votes_for": 68892,
+          "votes_against": 12266,
+          "votes_abstain": null,
+          "approval_pct": 84.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "瀬川雅人",
+          "votes_for": 69063,
+          "votes_against": 12095,
+          "votes_abstain": null,
+          "approval_pct": 85.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉岡裕太郎",
+          "votes_for": 78437,
+          "votes_against": 2721,
+          "votes_abstain": null,
+          "approval_pct": 96.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "伊達富夫",
+          "votes_for": 78444,
+          "votes_against": 2714,
+          "votes_abstain": null,
+          "approval_pct": 96.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）の報酬金額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 80364,
+          "votes_against": 788,
+          "votes_abstain": null,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役（監査等委員である取締役を除く。）に対する譲渡制限付株式付与のための報酬の上限金額、上限株式数の変更の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 69766,
+          "votes_against": 11392,
+          "votes_abstain": null,
+          "approval_pct": 85.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W55L",
@@ -189,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:02:48.084Z"
+  "updated_at": "2026-07-04T01:30:02.053Z"
 }

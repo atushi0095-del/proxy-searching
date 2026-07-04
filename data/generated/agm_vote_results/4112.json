@@ -3,6 +3,63 @@
   "company_name": "保土谷化学工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YNED",
+      "submit_date_time": "2026-06-30 10:26",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNED",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 86080,
+          "votes_against": 36485,
+          "votes_abstain": null,
+          "approval_pct": 69.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本祐人",
+          "votes_for": 105575,
+          "votes_against": 17036,
+          "votes_abstain": null,
+          "approval_pct": 85.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横山紀昌",
+          "votes_for": 114401,
+          "votes_against": 8210,
+          "votes_abstain": null,
+          "approval_pct": 92.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤伸一",
+          "votes_for": 114397,
+          "votes_against": 8214,
+          "votes_abstain": null,
+          "approval_pct": 92.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W96Y",
@@ -201,5 +258,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:27:40.378Z"
+  "updated_at": "2026-07-04T01:01:09.572Z"
 }

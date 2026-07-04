@@ -3,6 +3,99 @@
   "company_name": "バッファロー",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YHNK",
+      "submit_date_time": "2026-06-23 11:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHNK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 15530,
+          "votes_against": 35,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂本裕二",
+          "votes_for": 15188,
+          "votes_against": 377,
+          "votes_abstain": 0,
+          "approval_pct": 97.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "牧野博章",
+          "votes_for": 15509,
+          "votes_against": 56,
+          "votes_abstain": 0,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "日下部直喜",
+          "votes_for": 15509,
+          "votes_against": 56,
+          "votes_abstain": 0,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤田俊介",
+          "votes_for": 15481,
+          "votes_against": 84,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井手秀博",
+          "votes_for": 15171,
+          "votes_against": 394,
+          "votes_abstain": 0,
+          "approval_pct": 97.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口乾",
+          "votes_for": 15474,
+          "votes_against": 91,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W3YK",
@@ -153,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:06:26.043Z"
+  "updated_at": "2026-07-04T01:52:52.125Z"
 }

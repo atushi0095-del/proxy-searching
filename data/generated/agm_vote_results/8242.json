@@ -3,6 +3,27 @@
   "company_name": "エイチ・ツー・オー　リテイリング",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YEI8",
+      "submit_date_time": "2026-06-25 16:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YEI8",
+      "proposals": [
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 852086,
+          "votes_against": 8076,
+          "votes_abstain": 126,
+          "approval_pct": 99.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W754",
@@ -69,5 +90,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:47:33.172Z"
+  "updated_at": "2026-07-04T01:33:44.722Z"
 }

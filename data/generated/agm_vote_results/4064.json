@@ -3,6 +3,99 @@
   "company_name": "日本カーバイド工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMXC",
+      "submit_date_time": "2026-06-30 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMXC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 54671,
+          "votes_against": 145,
+          "votes_abstain": 0,
+          "approval_pct": 96.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉山孝久",
+          "votes_for": 47454,
+          "votes_against": 7570,
+          "votes_abstain": 0,
+          "approval_pct": 83.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横田祐一",
+          "votes_for": 49113,
+          "votes_against": 5911,
+          "votes_abstain": 0,
+          "approval_pct": 86.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三宅弘",
+          "votes_for": 54777,
+          "votes_against": 247,
+          "votes_abstain": 0,
+          "approval_pct": 96.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉岡早月",
+          "votes_for": 49172,
+          "votes_against": 5852,
+          "votes_abstain": 0,
+          "approval_pct": 86.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "門向裕三",
+          "votes_for": 54744,
+          "votes_against": 280,
+          "votes_abstain": 0,
+          "approval_pct": 96.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "桑原千香",
+          "votes_for": 54758,
+          "votes_against": 266,
+          "votes_abstain": 0,
+          "approval_pct": 96.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9PT",
@@ -249,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:07:08.143Z"
+  "updated_at": "2026-07-04T00:54:59.417Z"
 }

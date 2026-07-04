@@ -3,6 +3,39 @@
   "company_name": "バルカー",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YEW1",
+      "submit_date_time": "2026-06-19 10:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YEW1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 140710,
+          "votes_against": 125,
+          "votes_abstain": 151,
+          "approval_pct": 99.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋秀法",
+          "votes_for": 110384,
+          "votes_against": 31136,
+          "votes_abstain": 151,
+          "approval_pct": 77.92,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6OC",
@@ -189,5 +222,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:54:46.636Z"
+  "updated_at": "2026-07-04T01:59:29.011Z"
 }

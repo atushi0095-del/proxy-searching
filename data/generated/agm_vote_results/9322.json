@@ -3,6 +3,123 @@
   "company_name": "川西倉庫",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YN2E",
+      "submit_date_time": "2026-06-30 09:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN2E",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 66220,
+          "votes_against": 159,
+          "votes_abstain": 0,
+          "approval_pct": 99.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川西二郎",
+          "votes_for": 66151,
+          "votes_against": 227,
+          "votes_abstain": 0,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高杉誠",
+          "votes_for": 66145,
+          "votes_against": 233,
+          "votes_abstain": 0,
+          "approval_pct": 99.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "笠原謙",
+          "votes_for": 66157,
+          "votes_against": 221,
+          "votes_abstain": 0,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長島聡",
+          "votes_for": 66158,
+          "votes_against": 220,
+          "votes_abstain": 0,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横山正典",
+          "votes_for": 66154,
+          "votes_against": 224,
+          "votes_abstain": 0,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "八杉勝英",
+          "votes_for": 66157,
+          "votes_against": 220,
+          "votes_abstain": 0,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村田吾郎",
+          "votes_for": 66158,
+          "votes_against": 219,
+          "votes_abstain": 0,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "古谷一夫",
+          "votes_for": 66120,
+          "votes_against": 258,
+          "votes_abstain": 0,
+          "approval_pct": 99.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W97S",
@@ -213,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:25:44.131Z"
+  "updated_at": "2026-07-04T01:03:07.742Z"
 }

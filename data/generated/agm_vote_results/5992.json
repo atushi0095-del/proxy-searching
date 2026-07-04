@@ -3,6 +3,99 @@
   "company_name": "中央発條",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YFNZ",
+      "submit_date_time": "2026-06-19 16:28",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFNZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北浦啓一",
+          "votes_for": 198729,
+          "votes_against": 369,
+          "votes_abstain": 0,
+          "approval_pct": 99.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "脇坂一行",
+          "votes_for": 198845,
+          "votes_against": 254,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "矢澤文希",
+          "votes_for": 198880,
+          "votes_against": 219,
+          "votes_abstain": 0,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安田加奈",
+          "votes_for": 198885,
+          "votes_against": 214,
+          "votes_abstain": 0,
+          "approval_pct": 99.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴木公子",
+          "votes_for": 198957,
+          "votes_against": 142,
+          "votes_abstain": 0,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "伊東新",
+          "votes_for": 182358,
+          "votes_against": 16737,
+          "votes_abstain": 0,
+          "approval_pct": 91.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "米倉浩司",
+          "votes_for": 195632,
+          "votes_against": 3466,
+          "votes_abstain": 0,
+          "approval_pct": 98.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W3DY",
@@ -225,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:08:40.156Z"
+  "updated_at": "2026-07-04T01:57:32.758Z"
 }

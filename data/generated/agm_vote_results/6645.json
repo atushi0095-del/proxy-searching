@@ -3,6 +3,135 @@
   "company_name": "オムロン",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJYP",
+      "submit_date_time": "2026-06-24 16:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJYP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1727988,
+          "votes_against": 2444,
+          "votes_abstain": 355,
+          "approval_pct": 0.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田義仁",
+          "votes_for": 1267346,
+          "votes_against": 458542,
+          "votes_abstain": 4955,
+          "approval_pct": 26.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "辻永順太",
+          "votes_for": 1153866,
+          "votes_against": 572014,
+          "votes_abstain": 4955,
+          "approval_pct": 33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮田喜一郎",
+          "votes_for": 1420305,
+          "votes_against": 310177,
+          "votes_abstain": 355,
+          "approval_pct": 17.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "冨田雅彦",
+          "votes_for": 1589269,
+          "votes_against": 141222,
+          "votes_abstain": 355,
+          "approval_pct": 8.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "行本閑人",
+          "votes_for": 1589098,
+          "votes_against": 141393,
+          "votes_abstain": 355,
+          "approval_pct": 8.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上釜健宏",
+          "votes_for": 1631737,
+          "votes_against": 98756,
+          "votes_abstain": 355,
+          "approval_pct": 5.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林いずみ",
+          "votes_for": 1645046,
+          "votes_against": 85449,
+          "votes_abstain": 355,
+          "approval_pct": 4.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木善久",
+          "votes_for": 1645387,
+          "votes_against": 85107,
+          "votes_abstain": 355,
+          "approval_pct": 4.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1728523,
+          "votes_against": 1970,
+          "votes_abstain": 355,
+          "approval_pct": 0.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W4RE",
@@ -333,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:00:47.051Z"
+  "updated_at": "2026-07-04T01:43:54.471Z"
 }

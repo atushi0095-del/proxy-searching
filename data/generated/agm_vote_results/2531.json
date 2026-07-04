@@ -3,6 +3,111 @@
   "company_name": "宝ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMRA",
+      "submit_date_time": "2026-06-29 11:58",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMRA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1682680,
+          "votes_against": 2177,
+          "votes_abstain": 2649,
+          "approval_pct": 99.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村睦",
+          "votes_for": 1272002,
+          "votes_against": 414897,
+          "votes_abstain": 602,
+          "approval_pct": 75.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木正直",
+          "votes_for": 1583852,
+          "votes_against": 103050,
+          "votes_abstain": 602,
+          "approval_pct": 93.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤敬",
+          "votes_for": 1583980,
+          "votes_against": 102922,
+          "votes_abstain": 602,
+          "approval_pct": 93.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "友常理子",
+          "votes_for": 1584070,
+          "votes_against": 102832,
+          "votes_abstain": 602,
+          "approval_pct": 93.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川上智子",
+          "votes_for": 1583725,
+          "votes_against": 103177,
+          "votes_abstain": 602,
+          "approval_pct": 93.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本宮孝夫",
+          "votes_for": 1583072,
+          "votes_against": 103830,
+          "votes_abstain": 602,
+          "approval_pct": 93.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白幡清一郎",
+          "votes_for": 1583918,
+          "votes_against": 102984,
+          "votes_abstain": 602,
+          "approval_pct": 93.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9SJ",
@@ -261,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:17:58.627Z"
+  "updated_at": "2026-07-04T01:13:16.108Z"
 }

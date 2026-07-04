@@ -3,6 +3,87 @@
   "company_name": "旭有機材",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YJEQ",
+      "submit_date_time": "2026-06-24 13:41",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJEQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 140545,
+          "votes_against": 12110,
+          "votes_abstain": 0,
+          "approval_pct": 92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中野賀津也",
+          "votes_for": 123294,
+          "votes_against": 29356,
+          "votes_abstain": 0,
+          "approval_pct": 80.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "末留末喜",
+          "votes_for": 142409,
+          "votes_against": 10244,
+          "votes_abstain": 0,
+          "approval_pct": 93.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "氷上英夫",
+          "votes_for": 142312,
+          "votes_against": 10341,
+          "votes_abstain": 0,
+          "approval_pct": 93.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉村温子",
+          "votes_for": 151318,
+          "votes_against": 1336,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福井実",
+          "votes_for": 129407,
+          "votes_against": 23252,
+          "votes_abstain": 0,
+          "approval_pct": 84.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100W30D",
@@ -213,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:09:14.822Z"
+  "updated_at": "2026-07-04T01:48:06.088Z"
 }

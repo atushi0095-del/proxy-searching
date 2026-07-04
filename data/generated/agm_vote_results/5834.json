@@ -3,6 +3,51 @@
   "company_name": "SBIﾘｰｼﾝｸﾞｻｰﾋﾞｽ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM9E",
+      "submit_date_time": "2026-06-29 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM9E",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件佐藤公平階戸雅博吉原寛鈴木治真鍋修平粟野公一郎西堀耕二",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 6.062762274622836e+34,
+          "votes_against": 1.9753283193303293e+21,
+          "votes_abstain": 184184184184184180000,
+          "approval_pct": 96.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件神山聡青木泰岳林清隆",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 622146089862277,
+          "votes_against": 3891705326,
+          "votes_abstain": 184184184,
+          "approval_pct": 99.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 60848,
+          "votes_against": 1755,
+          "votes_abstain": 184,
+          "approval_pct": 96.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W9O4",
@@ -141,5 +186,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:18:03.588Z"
+  "updated_at": "2026-07-04T01:08:36.415Z"
 }

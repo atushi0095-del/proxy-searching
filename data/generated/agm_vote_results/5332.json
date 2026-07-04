@@ -3,6 +3,147 @@
   "company_name": "ＴＯＴＯ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YI9Y",
+      "submit_date_time": "2026-06-23 15:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YI9Y",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1369288,
+          "votes_against": 7968,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清田徳明",
+          "votes_for": 1292698,
+          "votes_against": 80767,
+          "votes_abstain": 3784,
+          "approval_pct": 93.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田村信也",
+          "votes_for": 1298708,
+          "votes_against": 74758,
+          "votes_abstain": 3784,
+          "approval_pct": 94.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林良祐",
+          "votes_for": 1316859,
+          "votes_against": 60395,
+          "votes_abstain": 0,
+          "approval_pct": 95.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田口智之",
+          "votes_for": 1314885,
+          "votes_against": 62369,
+          "votes_abstain": 0,
+          "approval_pct": 95.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "津田純嗣",
+          "votes_for": 1360029,
+          "votes_against": 17227,
+          "votes_abstain": 0,
+          "approval_pct": 98.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田謙次",
+          "votes_for": 1374210,
+          "votes_against": 3047,
+          "votes_abstain": 0,
+          "approval_pct": 99.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉岡雅之",
+          "votes_for": 1218478,
+          "votes_against": 158761,
+          "votes_abstain": 0,
+          "approval_pct": 88.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "家永由佳里",
+          "votes_for": 1361536,
+          "votes_against": 15710,
+          "votes_abstain": 0,
+          "approval_pct": 98.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長沼知穂",
+          "votes_for": 1362214,
+          "votes_against": 15032,
+          "votes_abstain": 0,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀越秀一",
+          "votes_for": 1065912,
+          "votes_against": 311328,
+          "votes_abstain": 0,
+          "approval_pct": 77.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TRIG",
@@ -180,5 +321,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:04:56.120Z"
+  "updated_at": "2026-07-04T01:51:04.120Z"
 }

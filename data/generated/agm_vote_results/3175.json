@@ -3,6 +3,135 @@
   "company_name": "エー・ピーホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLY8",
+      "submit_date_time": "2026-06-26 14:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLY8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 88668,
+          "votes_against": 1229,
+          "votes_abstain": 0,
+          "approval_pct": 98.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 88767,
+          "votes_against": 1130,
+          "votes_abstain": 0,
+          "approval_pct": 98.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案第三者割当の方法によるＣ種優先株式の発行の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 88451,
+          "votes_against": 1446,
+          "votes_abstain": 0,
+          "approval_pct": 98.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員でない取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "米山久",
+          "votes_for": 88927,
+          "votes_against": 970,
+          "votes_abstain": 0,
+          "approval_pct": 98.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員でない取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "横澤将司",
+          "votes_for": 88906,
+          "votes_against": 991,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員でない取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐竹祐樹",
+          "votes_for": 88919,
+          "votes_against": 978,
+          "votes_abstain": 0,
+          "approval_pct": 98.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員でない取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "近内理恵",
+          "votes_for": 88901,
+          "votes_against": 996,
+          "votes_abstain": 0,
+          "approval_pct": 98.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "尾崎智史",
+          "votes_for": 88977,
+          "votes_against": 918,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "田路至弘",
+          "votes_for": 88885,
+          "votes_against": 1010,
+          "votes_abstain": 0,
+          "approval_pct": 98.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小栗悠夫",
+          "votes_for": 88937,
+          "votes_against": 958,
+          "votes_abstain": 0,
+          "approval_pct": 98.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY84",
@@ -120,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:27:21.988Z"
+  "updated_at": "2026-07-04T01:25:24.796Z"
 }

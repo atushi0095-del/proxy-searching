@@ -3,6 +3,123 @@
   "company_name": "モリ工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YL9U",
+      "submit_date_time": "2026-06-26 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL9U",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 298611,
+          "votes_against": 8924,
+          "votes_abstain": 0,
+          "approval_pct": 97.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森宏明",
+          "votes_for": 283066,
+          "votes_against": 24469,
+          "votes_abstain": 0,
+          "approval_pct": 92.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "浅野弘明",
+          "votes_for": 304809,
+          "votes_against": 2726,
+          "votes_abstain": 0,
+          "approval_pct": 99.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "元山耕一",
+          "votes_for": 304897,
+          "votes_against": 2638,
+          "votes_abstain": 0,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "新田竜一",
+          "votes_for": 304903,
+          "votes_against": 2632,
+          "votes_abstain": 0,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "奥村輝一",
+          "votes_for": 304509,
+          "votes_against": 3026,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "林修一",
+          "votes_for": 268538,
+          "votes_against": 38997,
+          "votes_abstain": 0,
+          "approval_pct": 87.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岩崎泰史",
+          "votes_for": 304712,
+          "votes_against": 2823,
+          "votes_abstain": 0,
+          "approval_pct": 99.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "齋藤友紀",
+          "votes_for": 304908,
+          "votes_against": 2627,
+          "votes_abstain": 0,
+          "approval_pct": 99.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W82S",
@@ -225,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:44:23.416Z"
+  "updated_at": "2026-07-04T01:32:51.565Z"
 }

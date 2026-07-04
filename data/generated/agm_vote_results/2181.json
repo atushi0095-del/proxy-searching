@@ -3,6 +3,159 @@
   "company_name": "パーソルホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJ3H",
+      "submit_date_time": "2026-06-24 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJ3H",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 18279539,
+          "votes_against": 12632,
+          "votes_abstain": 16000,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 18265408,
+          "votes_against": 26784,
+          "votes_abstain": 16000,
+          "approval_pct": 99.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水田正道",
+          "votes_for": 17484700,
+          "votes_against": 250610,
+          "votes_abstain": 572857,
+          "approval_pct": 95.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和田孝雄",
+          "votes_for": 17705668,
+          "votes_against": 544338,
+          "votes_abstain": 58158,
+          "approval_pct": 96.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山内雅喜",
+          "votes_for": 18131892,
+          "votes_against": 160277,
+          "votes_abstain": 16000,
+          "approval_pct": 99.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉澤和弘",
+          "votes_for": 18130461,
+          "votes_against": 161708,
+          "votes_abstain": 16000,
+          "approval_pct": 99.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "DebraA.Hazelton",
+          "votes_for": 17953762,
+          "votes_against": 338405,
+          "votes_abstain": 16000,
+          "approval_pct": 98.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村林聡",
+          "votes_for": 17846145,
+          "votes_against": 446021,
+          "votes_abstain": 16000,
+          "approval_pct": 97.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "友田和彦",
+          "votes_for": 15487283,
+          "votes_against": 2804825,
+          "votes_abstain": 16000,
+          "approval_pct": 84.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小幡忍",
+          "votes_for": 18048211,
+          "votes_against": 243911,
+          "votes_abstain": 16000,
+          "approval_pct": 98.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉澤和弘",
+          "votes_for": 17498687,
+          "votes_against": 793477,
+          "votes_abstain": 16000,
+          "approval_pct": 95.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 18154055,
+          "votes_against": 138090,
+          "votes_abstain": 16000,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W8B9",
@@ -249,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:33:19.571Z"
+  "updated_at": "2026-07-04T01:46:11.059Z"
 }

@@ -3,6 +3,195 @@
   "company_name": "東京センチュリー",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLNE",
+      "submit_date_time": "2026-06-26 12:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLNE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 4620524,
+          "votes_against": 1923,
+          "votes_abstain": 1122,
+          "approval_pct": 99.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "雪矢正隆",
+          "votes_for": 4569827,
+          "votes_against": 52511,
+          "votes_abstain": 1221,
+          "approval_pct": 98.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤原弘治",
+          "votes_for": 4536796,
+          "votes_against": 85541,
+          "votes_abstain": 1221,
+          "approval_pct": 98.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村明雄",
+          "votes_for": 4570243,
+          "votes_against": 52203,
+          "votes_abstain": 1122,
+          "approval_pct": 98.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "浅野敏雄",
+          "votes_for": 4608940,
+          "votes_against": 13505,
+          "votes_abstain": 1122,
+          "approval_pct": 99.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中美穂",
+          "votes_for": 4616037,
+          "votes_against": 6409,
+          "votes_abstain": 1122,
+          "approval_pct": 99.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "沼上幹",
+          "votes_for": 4609819,
+          "votes_against": 12627,
+          "votes_abstain": 1122,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小笠原浩",
+          "votes_for": 4569466,
+          "votes_against": 52977,
+          "votes_abstain": 1122,
+          "approval_pct": 98.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "原真帆子",
+          "votes_for": 4604472,
+          "votes_against": 17973,
+          "votes_abstain": 1122,
+          "approval_pct": 99.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "平崎達也",
+          "votes_for": 4604953,
+          "votes_against": 17492,
+          "votes_abstain": 1122,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "米津隆史",
+          "votes_for": 4604785,
+          "votes_against": 17660,
+          "votes_abstain": 1122,
+          "approval_pct": 99.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "今井雅啓",
+          "votes_for": 4603387,
+          "votes_against": 19058,
+          "votes_abstain": 1122,
+          "approval_pct": 99.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "坪井聖司",
+          "votes_for": 4484339,
+          "votes_against": 138110,
+          "votes_abstain": 1122,
+          "approval_pct": 96.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "鶯地隆継",
+          "votes_for": 4294041,
+          "votes_against": 328408,
+          "votes_abstain": 1122,
+          "approval_pct": 92.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "相良由里子",
+          "votes_for": 4619326,
+          "votes_against": 3131,
+          "votes_abstain": 1122,
+          "approval_pct": 99.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W3IN",
@@ -405,5 +594,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:06:38.095Z"
+  "updated_at": "2026-07-04T01:27:28.450Z"
 }

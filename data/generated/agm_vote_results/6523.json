@@ -3,6 +3,147 @@
   "company_name": "ＰＨＣホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKQK",
+      "submit_date_time": "2026-06-25 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKQK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1039402,
+          "votes_against": 3323,
+          "votes_abstain": 5,
+          "approval_pct": 99.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "出口恭子",
+          "votes_for": 1026345,
+          "votes_against": 16395,
+          "votes_abstain": 8,
+          "approval_pct": 98.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤浩一郎",
+          "votes_for": 1028344,
+          "votes_against": 14375,
+          "votes_abstain": 29,
+          "approval_pct": 98.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口快樹",
+          "votes_for": 1036087,
+          "votes_against": 6635,
+          "votes_abstain": 29,
+          "approval_pct": 99.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平野博文",
+          "votes_for": 981012,
+          "votes_against": 61710,
+          "votes_abstain": 29,
+          "approval_pct": 94.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷田川英治",
+          "votes_for": 981590,
+          "votes_against": 61132,
+          "votes_abstain": 29,
+          "approval_pct": 94.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "イヴァン・トルノス",
+          "votes_for": 1033119,
+          "votes_against": 9604,
+          "votes_abstain": 29,
+          "approval_pct": 99.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "デイビッド・スナイダー",
+          "votes_for": 1033021,
+          "votes_against": 9702,
+          "votes_abstain": 29,
+          "approval_pct": 99.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "行本閑人",
+          "votes_for": 1036856,
+          "votes_against": 5868,
+          "votes_abstain": 29,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野口昌邦",
+          "votes_for": 978899,
+          "votes_against": 63801,
+          "votes_abstain": 29,
+          "approval_pct": 93.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北川哲雄",
+          "votes_for": 1039977,
+          "votes_against": 2747,
+          "votes_abstain": 29,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6XZ",
@@ -333,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:48:20.409Z"
+  "updated_at": "2026-07-04T01:35:53.154Z"
 }

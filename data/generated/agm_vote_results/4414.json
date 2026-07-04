@@ -3,6 +3,99 @@
   "company_name": "ﾌﾚｸﾄ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJ4O",
+      "submit_date_time": "2026-06-24 11:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJ4O",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒川幸治",
+          "votes_for": 33744,
+          "votes_against": 1852,
+          "votes_abstain": null,
+          "approval_pct": 94.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大橋正興",
+          "votes_for": 35089,
+          "votes_against": 507,
+          "votes_abstain": null,
+          "approval_pct": 97.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "銕川陽介",
+          "votes_for": 35093,
+          "votes_against": 503,
+          "votes_abstain": null,
+          "approval_pct": 97.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤原章一",
+          "votes_for": 35092,
+          "votes_against": 504,
+          "votes_abstain": null,
+          "approval_pct": 97.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川周哉",
+          "votes_for": 35113,
+          "votes_against": 483,
+          "votes_abstain": null,
+          "approval_pct": 97.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 33660,
+          "votes_against": 1936,
+          "votes_abstain": null,
+          "approval_pct": 93.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 33664,
+          "votes_against": 1932,
+          "votes_abstain": null,
+          "approval_pct": 93.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-20",
       "meeting_year": 2024,
       "doc_id": "S100TPFM",
@@ -108,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:20:26.776Z"
+  "updated_at": "2026-07-04T01:49:18.558Z"
 }

@@ -3,6 +3,87 @@
   "company_name": "トピー工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YL39",
+      "submit_date_time": "2026-06-26 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL39",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 178113,
+          "votes_against": 349,
+          "votes_abstain": 0,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋正年藤木靖久牧野真也",
+          "votes_for": 171039155091157570,
+          "votes_against": 74232337120890,
+          "votes_abstain": 0,
+          "approval_pct": 99.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保伸介",
+          "votes_for": 177970,
+          "votes_against": 493,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 177788,
+          "votes_against": 675,
+          "votes_abstain": 0,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 177817,
+          "votes_against": 646,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 177790,
+          "votes_against": 673,
+          "votes_abstain": 0,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TR7P",
@@ -132,5 +213,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:11:39.245Z"
+  "updated_at": "2026-07-04T01:22:08.972Z"
 }

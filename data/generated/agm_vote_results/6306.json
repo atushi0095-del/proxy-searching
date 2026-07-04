@@ -3,6 +3,135 @@
   "company_name": "日工",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLMW",
+      "submit_date_time": "2026-06-26 11:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLMW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 262254,
+          "votes_against": 4782,
+          "votes_abstain": 0,
+          "approval_pct": 98.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "辻勝",
+          "votes_for": 241452,
+          "votes_against": 25582,
+          "votes_abstain": 0,
+          "approval_pct": 90.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中山知巳",
+          "votes_for": 241200,
+          "votes_against": 25834,
+          "votes_abstain": 0,
+          "approval_pct": 90.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川上晃一",
+          "votes_for": 248643,
+          "votes_against": 18391,
+          "votes_abstain": 0,
+          "approval_pct": 93.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "曾根武志",
+          "votes_for": 248647,
+          "votes_against": 18387,
+          "votes_abstain": 0,
+          "approval_pct": 93.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田和寛",
+          "votes_for": 261076,
+          "votes_against": 5958,
+          "votes_abstain": 0,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "石井正文",
+          "votes_for": 248300,
+          "votes_against": 18734,
+          "votes_abstain": 0,
+          "approval_pct": 92.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐伯里香",
+          "votes_for": 248394,
+          "votes_against": 18640,
+          "votes_abstain": 0,
+          "approval_pct": 93.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "貞苅茂",
+          "votes_for": 248144,
+          "votes_against": 18890,
+          "votes_abstain": 0,
+          "approval_pct": 92.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件小川晴弘",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 261424,
+          "votes_against": 5612,
+          "votes_abstain": 0,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8TB",
@@ -297,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:32:36.011Z"
+  "updated_at": "2026-07-04T01:27:47.338Z"
 }

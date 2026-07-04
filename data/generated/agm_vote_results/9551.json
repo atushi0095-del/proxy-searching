@@ -3,6 +3,135 @@
   "company_name": "メタウォーター",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YHW6",
+      "submit_date_time": "2026-06-23 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHW6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山口賢二",
+          "votes_for": 371111,
+          "votes_against": 11616,
+          "votes_abstain": 492,
+          "approval_pct": 96.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤井泉智夫",
+          "votes_for": 378430,
+          "votes_against": 4320,
+          "votes_abstain": 475,
+          "approval_pct": 98.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "伊藤一",
+          "votes_for": 378488,
+          "votes_against": 4262,
+          "votes_abstain": 475,
+          "approval_pct": 98.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "青樹和彦",
+          "votes_for": 378485,
+          "votes_against": 4265,
+          "votes_abstain": 475,
+          "approval_pct": 98.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小棹ふみ子",
+          "votes_for": 379611,
+          "votes_against": 3140,
+          "votes_abstain": 475,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田内常夫",
+          "votes_for": 379041,
+          "votes_against": 3710,
+          "votes_abstain": 475,
+          "approval_pct": 98.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松本貴久",
+          "votes_for": 379542,
+          "votes_against": 3210,
+          "votes_abstain": 475,
+          "approval_pct": 99.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "楠政己",
+          "votes_for": 382004,
+          "votes_against": 754,
+          "votes_abstain": 475,
+          "approval_pct": 99.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "吉葉幸臣",
+          "votes_for": 369453,
+          "votes_against": 13301,
+          "votes_abstain": 475,
+          "approval_pct": 96.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "正田賢司",
+          "votes_for": 382474,
+          "votes_against": 284,
+          "votes_abstain": 475,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W35Z",
@@ -120,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:05:30.566Z"
+  "updated_at": "2026-07-04T01:51:13.176Z"
 }

@@ -3,6 +3,123 @@
   "company_name": "東亜道路工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN08",
+      "submit_date_time": "2026-06-29 14:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN08",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 326854,
+          "votes_against": 928,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森下協一",
+          "votes_for": 319231,
+          "votes_against": 8550,
+          "votes_abstain": 0,
+          "approval_pct": 97.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "堀之内悟",
+          "votes_for": 320677,
+          "votes_against": 7105,
+          "votes_abstain": 0,
+          "approval_pct": 97.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "仲村直規",
+          "votes_for": 326111,
+          "votes_against": 1671,
+          "votes_abstain": 0,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "梶岡聡",
+          "votes_for": 326106,
+          "votes_against": 1676,
+          "votes_abstain": 0,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "楠美雅堂",
+          "votes_for": 325914,
+          "votes_against": 1868,
+          "votes_abstain": 0,
+          "approval_pct": 99.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田原裕子",
+          "votes_for": 325918,
+          "votes_against": 1864,
+          "votes_abstain": 0,
+          "approval_pct": 99.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "市川祐一郎",
+          "votes_for": 325828,
+          "votes_against": 1954,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "大川努",
+          "votes_for": 309512,
+          "votes_against": 18269,
+          "votes_abstain": 0,
+          "approval_pct": 94.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W8S3",
@@ -225,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:14:07.116Z"
+  "updated_at": "2026-07-04T01:08:57.662Z"
 }

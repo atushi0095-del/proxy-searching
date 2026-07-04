@@ -3,6 +3,111 @@
   "company_name": "日伝",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YI2D",
+      "submit_date_time": "2026-06-23 14:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YI2D",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "福家利一",
+          "votes_for": 228928,
+          "votes_against": 8488,
+          "votes_abstain": null,
+          "approval_pct": 91.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡本賢一",
+          "votes_for": 231705,
+          "votes_against": 5713,
+          "votes_abstain": null,
+          "approval_pct": 92.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "寒川睦志",
+          "votes_for": 233484,
+          "votes_against": 3934,
+          "votes_abstain": null,
+          "approval_pct": 93.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森田淳二",
+          "votes_for": 233482,
+          "votes_against": 3936,
+          "votes_abstain": null,
+          "approval_pct": 93.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "古田清和",
+          "votes_for": 226612,
+          "votes_against": 10804,
+          "votes_abstain": null,
+          "approval_pct": 90.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "川上勝",
+          "votes_for": 224939,
+          "votes_against": 12829,
+          "votes_abstain": null,
+          "approval_pct": 90.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "寺嶋康子",
+          "votes_for": 236540,
+          "votes_against": 1228,
+          "votes_abstain": null,
+          "approval_pct": 94.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "鬼頭佳子",
+          "votes_for": 227847,
+          "votes_against": 9921,
+          "votes_abstain": null,
+          "approval_pct": 91.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W4IB",
@@ -237,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:04:19.375Z"
+  "updated_at": "2026-07-04T01:51:53.908Z"
 }

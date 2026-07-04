@@ -3,6 +3,123 @@
   "company_name": "新日本理化",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKGM",
+      "submit_date_time": "2026-06-25 11:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKGM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 228173,
+          "votes_against": 2281,
+          "votes_abstain": 65,
+          "approval_pct": 98.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三浦芳樹",
+          "votes_for": 218731,
+          "votes_against": 11723,
+          "votes_abstain": 65,
+          "approval_pct": 94.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "盛田賀容子",
+          "votes_for": 218908,
+          "votes_against": 11546,
+          "votes_abstain": 65,
+          "approval_pct": 94.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本惠司",
+          "votes_for": 228407,
+          "votes_against": 2047,
+          "votes_abstain": 65,
+          "approval_pct": 98.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉本雅史",
+          "votes_for": 228466,
+          "votes_against": 1988,
+          "votes_abstain": 65,
+          "approval_pct": 98.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川原康行",
+          "votes_for": 228396,
+          "votes_against": 2058,
+          "votes_abstain": 65,
+          "approval_pct": 98.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹林満浩",
+          "votes_for": 228283,
+          "votes_against": 2171,
+          "votes_abstain": 65,
+          "approval_pct": 98.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山畑博史",
+          "votes_for": 228457,
+          "votes_against": 1997,
+          "votes_abstain": 65,
+          "approval_pct": 98.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "萩野伸一",
+          "votes_for": 227399,
+          "votes_against": 3120,
+          "votes_abstain": 0,
+          "approval_pct": 98.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W4I1",
@@ -213,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:59:23.102Z"
+  "updated_at": "2026-07-04T01:41:04.259Z"
 }

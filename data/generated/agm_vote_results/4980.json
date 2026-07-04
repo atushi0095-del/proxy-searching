@@ -3,6 +3,87 @@
   "company_name": "デクセリアルズ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YO0T",
+      "submit_date_time": "2026-07-01 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO0T",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1433388,
+          "votes_against": 1987,
+          "votes_abstain": 1860,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新家由久",
+          "votes_for": 1394038,
+          "votes_against": 41384,
+          "votes_abstain": 1965,
+          "approval_pct": 96.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北所克史",
+          "votes_for": 1420850,
+          "votes_against": 14678,
+          "votes_abstain": 1860,
+          "approval_pct": 98.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "細谷和男",
+          "votes_for": 1429764,
+          "votes_against": 5768,
+          "votes_abstain": 1860,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "萩原利仁",
+          "votes_for": 1430193,
+          "votes_against": 5339,
+          "votes_abstain": 1860,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松葉香子",
+          "votes_for": 1433079,
+          "votes_against": 2454,
+          "votes_abstain": 1860,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100WAMV",
@@ -249,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:03:52.983Z"
+  "updated_at": "2026-07-04T00:50:27.429Z"
 }

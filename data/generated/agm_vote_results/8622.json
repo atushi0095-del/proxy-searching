@@ -3,6 +3,159 @@
   "company_name": "水戸証券",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJJ6",
+      "submit_date_time": "2026-06-25 09:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJJ6",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 463770,
+          "votes_against": 1242,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林克徳",
+          "votes_for": 419178,
+          "votes_against": 45835,
+          "votes_abstain": 0,
+          "approval_pct": 90.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "須田恭通",
+          "votes_for": 452308,
+          "votes_against": 12705,
+          "votes_abstain": 0,
+          "approval_pct": 97.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浦辺紀行",
+          "votes_for": 460553,
+          "votes_against": 4460,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "毛塚徹也",
+          "votes_for": 460585,
+          "votes_against": 4428,
+          "votes_abstain": 0,
+          "approval_pct": 99.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "栗原寿",
+          "votes_for": 460581,
+          "votes_against": 4432,
+          "votes_abstain": 0,
+          "approval_pct": 99.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小祝寿彦",
+          "votes_for": 453673,
+          "votes_against": 11340,
+          "votes_abstain": 0,
+          "approval_pct": 97.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森本学",
+          "votes_for": 461868,
+          "votes_against": 3145,
+          "votes_abstain": 0,
+          "approval_pct": 99.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井口英樹",
+          "votes_for": 452282,
+          "votes_against": 12729,
+          "votes_abstain": 0,
+          "approval_pct": 97.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大西美世恵",
+          "votes_for": 454586,
+          "votes_against": 10425,
+          "votes_abstain": 0,
+          "approval_pct": 97.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浦部明子",
+          "votes_for": 432699,
+          "votes_against": 32312,
+          "votes_abstain": 0,
+          "approval_pct": 93.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 432408,
+          "votes_against": 32605,
+          "votes_abstain": 0,
+          "approval_pct": 92.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5JK",
@@ -261,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:01:13.920Z"
+  "updated_at": "2026-07-04T01:43:21.979Z"
 }

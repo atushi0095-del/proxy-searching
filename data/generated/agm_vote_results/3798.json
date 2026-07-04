@@ -3,6 +3,111 @@
   "company_name": "ＵＬＳグループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YMYX",
+      "submit_date_time": "2026-06-29 14:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMYX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 442109,
+          "votes_against": 3227,
+          "votes_abstain": 81,
+          "approval_pct": 96.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 445061,
+          "votes_against": 275,
+          "votes_abstain": 81,
+          "approval_pct": 97.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "漆原茂",
+          "votes_for": 402092,
+          "votes_against": 43244,
+          "votes_abstain": 81,
+          "approval_pct": 88.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横山芳成",
+          "votes_for": 399720,
+          "votes_against": 45616,
+          "votes_abstain": 81,
+          "approval_pct": 87.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋敬一",
+          "votes_for": 424672,
+          "votes_against": 20664,
+          "votes_abstain": 81,
+          "approval_pct": 93.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "古澤憲一",
+          "votes_for": 425270,
+          "votes_against": 20066,
+          "votes_abstain": 81,
+          "approval_pct": 93.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "犬伏靖",
+          "votes_for": 425495,
+          "votes_against": 19841,
+          "votes_abstain": 81,
+          "approval_pct": 93.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 441563,
+          "votes_against": 3773,
+          "votes_abstain": 81,
+          "approval_pct": 96.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8FC",
@@ -177,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:36:21.082Z"
+  "updated_at": "2026-07-04T01:09:25.088Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "小松製作所",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKGY",
+      "submit_date_time": "2026-06-25 11:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKGY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7175504,
+          "votes_against": 5397,
+          "votes_abstain": 331,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川啓之",
+          "votes_for": 6874238,
+          "votes_against": 286409,
+          "votes_abstain": 20636,
+          "approval_pct": 95.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今吉琢也",
+          "votes_for": 6857239,
+          "votes_against": 303404,
+          "votes_abstain": 20636,
+          "approval_pct": 94.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "草場泰介",
+          "votes_for": 6919351,
+          "votes_against": 261596,
+          "votes_abstain": 331,
+          "approval_pct": 95.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横本美津子",
+          "votes_for": 6983762,
+          "votes_against": 197518,
+          "votes_abstain": 4,
+          "approval_pct": 96.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "國部毅",
+          "votes_for": 6748533,
+          "votes_against": 432417,
+          "votes_abstain": 331,
+          "approval_pct": 93.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "齋木尚子",
+          "votes_for": 7136493,
+          "votes_against": 44470,
+          "votes_abstain": 331,
+          "approval_pct": 98.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤田道隆",
+          "votes_for": 7123877,
+          "votes_against": 57083,
+          "votes_abstain": 331,
+          "approval_pct": 98.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "トーマスＭ．クラーク",
+          "votes_for": 7156799,
+          "votes_against": 24167,
+          "votes_abstain": 331,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小坂達朗",
+          "votes_for": 7146451,
+          "votes_against": 34521,
+          "votes_abstain": 331,
+          "approval_pct": 98.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W23G",
@@ -321,5 +450,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:13:24.843Z"
+  "updated_at": "2026-07-04T01:41:18.278Z"
 }

@@ -3,6 +3,147 @@
   "company_name": "三井化学",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKNP",
+      "submit_date_time": "2026-06-25 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKNP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2854037,
+          "votes_against": 1747,
+          "votes_abstain": 4987,
+          "approval_pct": 99.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本修",
+          "votes_for": 2425540,
+          "votes_against": 430290,
+          "votes_abstain": 4987,
+          "approval_pct": 84.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "市村聡",
+          "votes_for": 2544769,
+          "votes_against": 302700,
+          "votes_abstain": 13349,
+          "approval_pct": 88.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平原彰男",
+          "votes_for": 2686224,
+          "votes_against": 169612,
+          "votes_abstain": 4987,
+          "approval_pct": 93.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "表利彦",
+          "votes_for": 2796672,
+          "votes_against": 59165,
+          "votes_abstain": 4987,
+          "approval_pct": 97.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田修",
+          "votes_for": 2796524,
+          "votes_against": 59313,
+          "votes_abstain": 4987,
+          "approval_pct": 97.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "馬渕晃",
+          "votes_for": 2670305,
+          "votes_against": 185535,
+          "votes_abstain": 4987,
+          "approval_pct": 92.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三村孝仁",
+          "votes_for": 2676300,
+          "votes_against": 179540,
+          "votes_abstain": 4987,
+          "approval_pct": 92.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木原民",
+          "votes_for": 2823762,
+          "votes_against": 32078,
+          "votes_abstain": 4987,
+          "approval_pct": 98.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "朱殷卿",
+          "votes_for": 1748526,
+          "votes_against": 1107306,
+          "votes_abstain": 4987,
+          "approval_pct": 60.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "舩越広充",
+          "votes_for": 2841282,
+          "votes_against": 19364,
+          "votes_abstain": 181,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W4SR",
@@ -261,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:59:38.458Z"
+  "updated_at": "2026-07-04T01:37:21.314Z"
 }

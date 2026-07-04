@@ -3,6 +3,75 @@
   "company_name": "ＴＲＥホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJ95",
+      "submit_date_time": "2026-06-24 13:48",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJ95",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 320771,
+          "votes_against": 693,
+          "votes_abstain": null,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 317194,
+          "votes_against": 4274,
+          "votes_abstain": null,
+          "approval_pct": 97.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松岡直人",
+          "votes_for": 315113,
+          "votes_against": 6325,
+          "votes_abstain": 28,
+          "approval_pct": 96.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部光男",
+          "votes_for": 315159,
+          "votes_against": 6279,
+          "votes_abstain": 28,
+          "approval_pct": 96.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青山美和",
+          "votes_for": 315287,
+          "votes_against": 6179,
+          "votes_abstain": null,
+          "approval_pct": 96.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W5PX",
@@ -201,5 +270,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:59:10.999Z"
+  "updated_at": "2026-07-04T01:47:56.858Z"
 }

@@ -3,6 +3,123 @@
   "company_name": "大成ラミックグループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJOI",
+      "submit_date_time": "2026-06-25 09:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJOI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 39907,
+          "votes_against": 1147,
+          "votes_abstain": 0,
+          "approval_pct": 97.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木村義成",
+          "votes_for": 36203,
+          "votes_against": 4853,
+          "votes_abstain": 0,
+          "approval_pct": 88.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長谷部正",
+          "votes_for": 36413,
+          "votes_against": 4643,
+          "votes_abstain": 0,
+          "approval_pct": 88.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "富田一郎",
+          "votes_for": 40391,
+          "votes_against": 665,
+          "votes_abstain": 0,
+          "approval_pct": 98.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北條洋史",
+          "votes_for": 38760,
+          "votes_against": 2296,
+          "votes_abstain": 0,
+          "approval_pct": 94.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "友野直子",
+          "votes_for": 38675,
+          "votes_against": 2381,
+          "votes_abstain": 0,
+          "approval_pct": 94.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴木道孝",
+          "votes_for": 38534,
+          "votes_against": 2522,
+          "votes_abstain": 0,
+          "approval_pct": 93.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "村田泰彦",
+          "votes_for": 40307,
+          "votes_against": 749,
+          "votes_abstain": 0,
+          "approval_pct": 98.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "角坂佐和子",
+          "votes_for": 36786,
+          "votes_against": 4270,
+          "votes_abstain": 0,
+          "approval_pct": 89.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5C3",
@@ -261,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:52:15.918Z"
+  "updated_at": "2026-07-04T01:43:12.507Z"
 }

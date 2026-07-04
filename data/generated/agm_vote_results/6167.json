@@ -3,6 +3,135 @@
   "company_name": "冨士ダイス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YM4P",
+      "submit_date_time": "2026-06-26 15:32",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM4P",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 112264,
+          "votes_against": 485,
+          "votes_abstain": 0,
+          "approval_pct": 99.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "春田善和",
+          "votes_for": 99165,
+          "votes_against": 13889,
+          "votes_abstain": 0,
+          "approval_pct": 87.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "津田雅宣",
+          "votes_for": 106120,
+          "votes_against": 6934,
+          "votes_abstain": 0,
+          "approval_pct": 93.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "篠宮護",
+          "votes_for": 107171,
+          "votes_against": 5883,
+          "votes_abstain": 0,
+          "approval_pct": 94.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "馬渡和幸",
+          "votes_for": 107170,
+          "votes_against": 5884,
+          "votes_abstain": 0,
+          "approval_pct": 94.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松岡恭弘",
+          "votes_for": 107171,
+          "votes_against": 5883,
+          "votes_abstain": 0,
+          "approval_pct": 94.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙安真生",
+          "votes_for": 110075,
+          "votes_against": 2979,
+          "votes_abstain": 0,
+          "approval_pct": 97.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "輪竹暢久",
+          "votes_for": 110087,
+          "votes_against": 2967,
+          "votes_abstain": 0,
+          "approval_pct": 97.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "内田伊知郎",
+          "votes_for": 109901,
+          "votes_against": 3153,
+          "votes_abstain": 0,
+          "approval_pct": 97.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）9名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "上田典由",
+          "votes_for": 107256,
+          "votes_against": 5798,
+          "votes_abstain": 0,
+          "approval_pct": 94.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W7FO",
@@ -417,5 +546,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:47:27.429Z"
+  "updated_at": "2026-07-04T01:21:47.781Z"
 }

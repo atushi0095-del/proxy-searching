@@ -3,6 +3,99 @@
   "company_name": "アンリツ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YKM0",
+      "submit_date_time": "2026-06-25 16:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKM0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1018182,
+          "votes_against": 2182,
+          "votes_abstain": 1588,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濱田宏一",
+          "votes_for": 1003359,
+          "votes_against": 16889,
+          "votes_abstain": 1706,
+          "approval_pct": 98.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉田俊一",
+          "votes_for": 1009750,
+          "votes_against": 10616,
+          "votes_abstain": 1588,
+          "approval_pct": 98.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "島岳史",
+          "votes_for": 1014218,
+          "votes_against": 6150,
+          "votes_abstain": 1588,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上田望美",
+          "votes_for": 1017155,
+          "votes_against": 4430,
+          "votes_abstain": 370,
+          "approval_pct": 99.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平山景子",
+          "votes_for": 1018564,
+          "votes_against": 3023,
+          "votes_abstain": 370,
+          "approval_pct": 99.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1014356,
+          "votes_against": 6001,
+          "votes_abstain": 1598,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W73V",
@@ -249,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:51:25.859Z"
+  "updated_at": "2026-07-04T01:33:42.370Z"
 }

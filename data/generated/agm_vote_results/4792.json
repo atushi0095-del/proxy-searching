@@ -3,6 +3,99 @@
   "company_name": "山田コンサルティンググループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJYB",
+      "submit_date_time": "2026-06-24 16:43",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJYB",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西口泰夫",
+          "votes_for": 149996,
+          "votes_against": 1536,
+          "votes_abstain": 4,
+          "approval_pct": 98.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "増田慶作",
+          "votes_for": 150039,
+          "votes_against": 1493,
+          "votes_abstain": 4,
+          "approval_pct": 99.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "辻剛",
+          "votes_for": 150236,
+          "votes_against": 1296,
+          "votes_abstain": 4,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "布施麻記子",
+          "votes_for": 149779,
+          "votes_against": 1753,
+          "votes_abstain": 4,
+          "approval_pct": 98.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "首藤秀司",
+          "votes_for": 150194,
+          "votes_against": 1338,
+          "votes_abstain": 4,
+          "approval_pct": 99.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "住澤整",
+          "votes_for": 150215,
+          "votes_against": 1317,
+          "votes_abstain": 4,
+          "approval_pct": 99.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "土谷晃浩",
+          "votes_for": 150232,
+          "votes_against": 1300,
+          "votes_abstain": 4,
+          "approval_pct": 99.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W4MR",
@@ -213,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:04:04.663Z"
+  "updated_at": "2026-07-04T01:43:45.212Z"
 }

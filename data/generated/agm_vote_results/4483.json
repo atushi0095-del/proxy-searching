@@ -3,6 +3,87 @@
   "company_name": "ＪＭＤＣ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM9S",
+      "submit_date_time": "2026-06-26 16:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM9S",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松島陽介",
+          "votes_for": 572276,
+          "votes_against": 14282,
+          "votes_abstain": 198,
+          "approval_pct": 97.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野口亮",
+          "votes_for": 582058,
+          "votes_against": 4501,
+          "votes_abstain": 198,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山元雄太",
+          "votes_for": 581953,
+          "votes_against": 4610,
+          "votes_abstain": 198,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹田誠治",
+          "votes_for": 582145,
+          "votes_against": 4418,
+          "votes_abstain": 198,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "李智賢",
+          "votes_for": 582338,
+          "votes_against": 4225,
+          "votes_abstain": 198,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田宮菜奈子",
+          "votes_for": 585437,
+          "votes_against": 1215,
+          "votes_abstain": 198,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8H2",
@@ -201,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:38:18.745Z"
+  "updated_at": "2026-07-04T01:20:08.174Z"
 }

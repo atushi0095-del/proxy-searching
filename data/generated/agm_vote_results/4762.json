@@ -3,6 +3,87 @@
   "company_name": "エックスネット",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNHM",
+      "submit_date_time": "2026-06-30 14:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNHM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 37576,
+          "votes_against": 182,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "茂谷武彦",
+          "votes_for": 37067,
+          "votes_against": 695,
+          "votes_abstain": 0,
+          "approval_pct": 98.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "新島毅",
+          "votes_for": 37060,
+          "votes_against": 702,
+          "votes_abstain": 0,
+          "approval_pct": 98.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川﨑裕介",
+          "votes_for": 37044,
+          "votes_against": 718,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柳原博史",
+          "votes_for": 37045,
+          "votes_against": 717,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坪田浩司",
+          "votes_for": 37065,
+          "votes_against": 697,
+          "votes_abstain": 0,
+          "approval_pct": 98.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WAHY",
@@ -225,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:05:31.565Z"
+  "updated_at": "2026-07-04T00:57:14.587Z"
 }

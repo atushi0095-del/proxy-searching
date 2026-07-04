@@ -3,6 +3,159 @@
   "company_name": "京阪ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YGBM",
+      "submit_date_time": "2026-06-23 10:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGBM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 692925,
+          "votes_against": 2197,
+          "votes_abstain": 110,
+          "approval_pct": 96.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤好文",
+          "votes_for": 583424,
+          "votes_against": 111787,
+          "votes_abstain": 172,
+          "approval_pct": 81.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平川良浩",
+          "votes_for": 596052,
+          "votes_against": 99160,
+          "votes_abstain": 172,
+          "approval_pct": 83.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上野正哉",
+          "votes_for": 684756,
+          "votes_against": 10519,
+          "votes_abstain": 110,
+          "approval_pct": 95.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "道本能久",
+          "votes_for": 684914,
+          "votes_against": 10361,
+          "votes_abstain": 110,
+          "approval_pct": 95.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松下靖",
+          "votes_for": 684891,
+          "votes_against": 10384,
+          "votes_abstain": 110,
+          "approval_pct": 95.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上欣也",
+          "votes_for": 684947,
+          "votes_against": 10328,
+          "votes_abstain": 110,
+          "approval_pct": 95.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋爪紳也",
+          "votes_for": 684475,
+          "votes_against": 10801,
+          "votes_abstain": 110,
+          "approval_pct": 95.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ケン・チャン・チェン・ウェイ",
+          "votes_for": 684447,
+          "votes_against": 10829,
+          "votes_abstain": 110,
+          "approval_pct": 95.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本竹彦",
+          "votes_for": 684430,
+          "votes_against": 10846,
+          "votes_abstain": 110,
+          "approval_pct": 95.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 687388,
+          "votes_against": 7666,
+          "votes_abstain": 171,
+          "approval_pct": 96.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 687880,
+          "votes_against": 7472,
+          "votes_abstain": 171,
+          "approval_pct": 96.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100VX9P",
@@ -321,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:17:04.946Z"
+  "updated_at": "2026-07-04T01:53:08.692Z"
 }

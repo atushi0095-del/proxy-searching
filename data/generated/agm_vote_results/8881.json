@@ -3,6 +3,135 @@
   "company_name": "日神グループホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN66",
+      "submit_date_time": "2026-06-29 16:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN66",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 347121,
+          "votes_against": 1476,
+          "votes_abstain": null,
+          "approval_pct": 99.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 299132,
+          "votes_against": 49466,
+          "votes_abstain": null,
+          "approval_pct": 85.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神山隆志",
+          "votes_for": 315181,
+          "votes_against": 33415,
+          "votes_abstain": null,
+          "approval_pct": 90,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒岩英樹",
+          "votes_for": 315138,
+          "votes_against": 33458,
+          "votes_abstain": null,
+          "approval_pct": 89.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂入尚",
+          "votes_for": 324814,
+          "votes_against": 23782,
+          "votes_abstain": null,
+          "approval_pct": 92.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "島田克美",
+          "votes_for": 324802,
+          "votes_against": 23794,
+          "votes_abstain": null,
+          "approval_pct": 92.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤俊也",
+          "votes_for": 343008,
+          "votes_against": 5588,
+          "votes_abstain": null,
+          "approval_pct": 97.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部泰彦",
+          "votes_for": 327510,
+          "votes_against": 21087,
+          "votes_abstain": null,
+          "approval_pct": 93.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "齊藤広子",
+          "votes_for": 344853,
+          "votes_against": 3744,
+          "votes_abstain": null,
+          "approval_pct": 98.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤和子",
+          "votes_for": 346038,
+          "votes_against": 2559,
+          "votes_abstain": null,
+          "approval_pct": 98.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-26",
       "meeting_year": 2024,
       "doc_id": "S100TYEB",
@@ -144,5 +273,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:24:22.340Z"
+  "updated_at": "2026-07-04T01:03:38.238Z"
 }

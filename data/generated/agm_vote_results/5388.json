@@ -3,6 +3,159 @@
   "company_name": "クニミネ工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMTS",
+      "submit_date_time": "2026-06-29 13:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMTS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 87015,
+          "votes_against": 636,
+          "votes_abstain": 0,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "友山貴之",
+          "votes_for": 85718,
+          "votes_against": 1933,
+          "votes_abstain": 0,
+          "approval_pct": 97.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "玉木悟史",
+          "votes_for": 87415,
+          "votes_against": 236,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒田克弘",
+          "votes_for": 87365,
+          "votes_against": 286,
+          "votes_abstain": 0,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塗師尾努",
+          "votes_for": 87405,
+          "votes_against": 246,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙田裕二",
+          "votes_for": 87413,
+          "votes_against": 238,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "國峯宏美",
+          "votes_for": 87313,
+          "votes_against": 338,
+          "votes_abstain": 0,
+          "approval_pct": 99.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鷲巣信太郎",
+          "votes_for": 87315,
+          "votes_against": 336,
+          "votes_abstain": 0,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "滝田博",
+          "votes_for": 87395,
+          "votes_against": 256,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀越孝",
+          "votes_for": 85116,
+          "votes_against": 2535,
+          "votes_abstain": 0,
+          "approval_pct": 97.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赤石健",
+          "votes_for": 87159,
+          "votes_against": 492,
+          "votes_abstain": 0,
+          "approval_pct": 99.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田崇史",
+          "votes_for": 87349,
+          "votes_against": 302,
+          "votes_abstain": 0,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8EI",
@@ -261,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:38:35.408Z"
+  "updated_at": "2026-07-04T01:12:41.038Z"
 }

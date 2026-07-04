@@ -3,6 +3,159 @@
   "company_name": "スルガ銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YMB3",
+      "submit_date_time": "2026-06-29 09:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMB3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "加藤広亮",
+          "votes_for": 1433749,
+          "votes_against": 9276,
+          "votes_abstain": 4351,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "戸谷友樹",
+          "votes_for": 1439458,
+          "votes_against": 7716,
+          "votes_abstain": 202,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "佐藤富士夫",
+          "votes_for": 1441775,
+          "votes_against": 5399,
+          "votes_abstain": 202,
+          "approval_pct": 99.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙橋直樹",
+          "votes_for": 1439025,
+          "votes_against": 8149,
+          "votes_abstain": 202,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "草木頼幸",
+          "votes_for": 1427190,
+          "votes_against": 19984,
+          "votes_abstain": 202,
+          "approval_pct": 98.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山本幸央",
+          "votes_for": 1441595,
+          "votes_against": 5579,
+          "votes_abstain": 202,
+          "approval_pct": 99.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岩木川雅司",
+          "votes_for": 1441548,
+          "votes_against": 5626,
+          "votes_abstain": 202,
+          "approval_pct": 99.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款の一部変更の件（被害者救済に関連する現在の和解方針を社内に周知徹底し、これを実行させることについて）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 19957,
+          "votes_against": 1427515,
+          "votes_abstain": 503,
+          "approval_pct": 1.38,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案定款の一部変更の件（被害者救済に関する対外表明事項の記録保存および開示体制の整備について）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 21522,
+          "votes_against": 1425937,
+          "votes_abstain": 503,
+          "approval_pct": 1.49,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案定款の一部変更の件（被害者救済の履行状況に関する取締役会の定期検証について）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 19954,
+          "votes_against": 1427518,
+          "votes_abstain": 503,
+          "approval_pct": 1.38,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案定款の一部変更の件（被害者救済に関する社外取締役の監督機能の強化について）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 20102,
+          "votes_against": 1427370,
+          "votes_abstain": 503,
+          "approval_pct": 1.39,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案定款の一部変更の件（被害者救済方針の承継および継続性確保について）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 21558,
+          "votes_against": 1425914,
+          "votes_abstain": 503,
+          "approval_pct": 1.49,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W9MK",
@@ -573,5 +726,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:18:57.001Z"
+  "updated_at": "2026-07-04T01:18:26.741Z"
 }

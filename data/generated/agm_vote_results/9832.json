@@ -3,6 +3,75 @@
   "company_name": "オートバックスセブン",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJ2V",
+      "submit_date_time": "2026-06-24 10:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJ2V",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "1.堀井勇吾",
+          "votes_for": 548492,
+          "votes_against": 46003,
+          "votes_abstain": 43,
+          "approval_pct": 92.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "2.藤原伸一",
+          "votes_for": 567782,
+          "votes_against": 26757,
+          "votes_abstain": 0,
+          "approval_pct": 95.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "3.平賀則孝",
+          "votes_for": 589021,
+          "votes_against": 5518,
+          "votes_abstain": 0,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "4.松田洋祐",
+          "votes_for": 589021,
+          "votes_against": 5519,
+          "votes_abstain": 0,
+          "approval_pct": 99.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "5.鴨居達哉",
+          "votes_for": 588794,
+          "votes_against": 5746,
+          "votes_abstain": 0,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W56J",
@@ -177,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:02:35.692Z"
+  "updated_at": "2026-07-04T01:49:39.505Z"
 }

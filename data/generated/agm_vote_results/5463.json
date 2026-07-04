@@ -3,6 +3,135 @@
   "company_name": "丸一鋼管",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKK5",
+      "submit_date_time": "2026-06-25 11:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKK5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 1994335,
+          "votes_against": 1299,
+          "votes_abstain": 0,
+          "approval_pct": 99.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴木博之",
+          "votes_for": 1825775,
+          "votes_against": 25643,
+          "votes_abstain": 144213,
+          "approval_pct": 91.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉村貴典",
+          "votes_for": 1827572,
+          "votes_against": 23847,
+          "votes_abstain": 144213,
+          "approval_pct": 91.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森田渉",
+          "votes_for": 1834750,
+          "votes_against": 16541,
+          "votes_abstain": 144340,
+          "approval_pct": 91.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "マリア・モンセラット・アンダーソン",
+          "votes_for": 1837374,
+          "votes_against": 14045,
+          "votes_abstain": 144213,
+          "approval_pct": 92.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "牛野健一郎",
+          "votes_for": 1759644,
+          "votes_against": 91773,
+          "votes_abstain": 144213,
+          "approval_pct": 88.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤岡由佳",
+          "votes_for": 1842074,
+          "votes_against": 9347,
+          "votes_abstain": 144213,
+          "approval_pct": 92.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "辻幸一",
+          "votes_for": 1842608,
+          "votes_against": 8813,
+          "votes_abstain": 144213,
+          "approval_pct": 92.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山平恵子",
+          "votes_for": 1842700,
+          "votes_against": 8721,
+          "votes_abstain": 144213,
+          "approval_pct": 92.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "高田篤",
+          "votes_for": 1994596,
+          "votes_against": 1038,
+          "votes_abstain": 0,
+          "approval_pct": 99.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W5ME",
@@ -132,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:52:38.407Z"
+  "updated_at": "2026-07-04T01:40:59.523Z"
 }

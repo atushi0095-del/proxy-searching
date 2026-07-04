@@ -3,6 +3,159 @@
   "company_name": "ﾃｸﾉﾎﾗｲｿﾞﾝ",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNG8",
+      "submit_date_time": "2026-06-30 16:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNG8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 63133,
+          "votes_against": 688,
+          "votes_abstain": 0,
+          "approval_pct": 93.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 62803,
+          "votes_against": 1018,
+          "votes_abstain": 0,
+          "approval_pct": 93.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野村拡伸",
+          "votes_for": 53143,
+          "votes_against": 10678,
+          "votes_abstain": 0,
+          "approval_pct": 79.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "口野達也",
+          "votes_for": 62870,
+          "votes_against": 951,
+          "votes_abstain": 0,
+          "approval_pct": 93.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤靖博",
+          "votes_for": 62864,
+          "votes_against": 957,
+          "votes_abstain": 0,
+          "approval_pct": 93.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "寺澤和哉",
+          "votes_for": 62843,
+          "votes_against": 978,
+          "votes_abstain": 0,
+          "approval_pct": 93.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "AnisUzzaman",
+          "votes_for": 62853,
+          "votes_against": 968,
+          "votes_abstain": 0,
+          "approval_pct": 93.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉哲也",
+          "votes_for": 62738,
+          "votes_against": 1083,
+          "votes_abstain": 0,
+          "approval_pct": 93.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田彰好",
+          "votes_for": 52022,
+          "votes_against": 11799,
+          "votes_abstain": 0,
+          "approval_pct": 77.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯田浩之",
+          "votes_for": 52046,
+          "votes_against": 11775,
+          "votes_abstain": 0,
+          "approval_pct": 77.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上龍哉",
+          "votes_for": 52065,
+          "votes_against": 11756,
+          "votes_abstain": 0,
+          "approval_pct": 77.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 62563,
+          "votes_against": 1258,
+          "votes_abstain": 0,
+          "approval_pct": 93.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9VE",
@@ -117,5 +270,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:15:57.331Z"
+  "updated_at": "2026-07-04T00:54:47.804Z"
 }

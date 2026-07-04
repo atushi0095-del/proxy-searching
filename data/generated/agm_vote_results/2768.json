@@ -3,6 +3,135 @@
   "company_name": "双日",
   "meetings": [
     {
+      "meeting_date": "2026-06-30",
+      "meeting_year": 2026,
+      "doc_id": "S100YNUR",
+      "submit_date_time": "2026-07-01 15:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNUR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤本昌義",
+          "votes_for": 1421320,
+          "votes_against": 32286,
+          "votes_abstain": 0,
+          "approval_pct": 97.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "植村幸祐",
+          "votes_for": 1438086,
+          "votes_against": 15520,
+          "votes_abstain": 0,
+          "approval_pct": 98.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "渋谷誠",
+          "votes_for": 1435605,
+          "votes_against": 18003,
+          "votes_abstain": 0,
+          "approval_pct": 98.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "荒川朋美",
+          "votes_for": 1440973,
+          "votes_against": 12635,
+          "votes_abstain": 0,
+          "approval_pct": 98.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "亀岡剛",
+          "votes_for": 1446562,
+          "votes_against": 7046,
+          "votes_abstain": 0,
+          "approval_pct": 99.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "定塚由美子",
+          "votes_for": 1444677,
+          "votes_against": 8932,
+          "votes_abstain": 0,
+          "approval_pct": 99.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森田守",
+          "votes_for": 1448882,
+          "votes_against": 4728,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "真鍋佳樹",
+          "votes_for": 1273365,
+          "votes_against": 180376,
+          "votes_abstain": 0,
+          "approval_pct": 87.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小久江晴子",
+          "votes_for": 1446664,
+          "votes_against": 7086,
+          "votes_abstain": 0,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "渡辺淳子",
+          "votes_for": 1448792,
+          "votes_against": 4959,
+          "votes_abstain": 0,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100W098",
@@ -309,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:18:45.832Z"
+  "updated_at": "2026-07-04T00:50:43.704Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "和弘食品",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKBQ",
+      "submit_date_time": "2026-06-25 10:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKBQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "和山明弘",
+          "votes_for": 17245,
+          "votes_against": 1881,
+          "votes_abstain": 1,
+          "approval_pct": 90.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加世田十七七",
+          "votes_for": 17242,
+          "votes_against": 1884,
+          "votes_abstain": 1,
+          "approval_pct": 90.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加地賢幸",
+          "votes_for": 18904,
+          "votes_against": 222,
+          "votes_abstain": 1,
+          "approval_pct": 98.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "和山信一郎",
+          "votes_for": 18928,
+          "votes_against": 198,
+          "votes_abstain": 1,
+          "approval_pct": 98.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "後藤政弘",
+          "votes_for": 18920,
+          "votes_against": 206,
+          "votes_abstain": 1,
+          "approval_pct": 98.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長岡宏",
+          "votes_for": 18925,
+          "votes_against": 201,
+          "votes_abstain": 1,
+          "approval_pct": 98.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤井一真",
+          "votes_for": 18932,
+          "votes_against": 194,
+          "votes_abstain": 1,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "三瓶由香",
+          "votes_for": 18921,
+          "votes_against": 205,
+          "votes_abstain": 1,
+          "approval_pct": 98.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "兼子稔浩",
+          "votes_for": 19049,
+          "votes_against": 77,
+          "votes_abstain": 1,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案退任取締役に対し退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 17026,
+          "votes_against": 2011,
+          "votes_abstain": 1,
+          "approval_pct": 89.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9HX",
@@ -132,5 +261,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:22:40.865Z"
+  "updated_at": "2026-07-04T01:42:06.526Z"
 }

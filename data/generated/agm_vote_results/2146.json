@@ -3,6 +3,75 @@
   "company_name": "ＵＴグループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-27",
+      "meeting_year": 2026,
+      "doc_id": "S100YLJJ",
+      "submit_date_time": "2026-06-29 13:29",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLJJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "若山陽一",
+          "votes_for": 4512317,
+          "votes_against": 171139,
+          "votes_abstain": 284,
+          "approval_pct": 96.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "外村学",
+          "votes_for": 4516087,
+          "votes_against": 166784,
+          "votes_abstain": 869,
+          "approval_pct": 96.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井垣太介",
+          "votes_for": 4655914,
+          "votes_against": 27686,
+          "votes_abstain": 586,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "林貴子",
+          "votes_for": 4476175,
+          "votes_against": 207424,
+          "votes_abstain": 585,
+          "approval_pct": 95.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "石井隆一",
+          "votes_for": 4662403,
+          "votes_against": 21199,
+          "votes_abstain": 585,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-28",
       "meeting_year": 2025,
       "doc_id": "S100W9G9",
@@ -117,5 +186,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:23:36.495Z"
+  "updated_at": "2026-07-04T01:11:39.607Z"
 }

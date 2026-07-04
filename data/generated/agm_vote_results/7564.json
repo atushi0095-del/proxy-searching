@@ -3,6 +3,87 @@
   "company_name": "ワークマン",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YNBI",
+      "submit_date_time": "2026-06-30 09:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNBI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "剰余金の処分の件",
+          "votes_for": 745162,
+          "votes_against": 891,
+          "votes_abstain": 431,
+          "approval_pct": 98.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "定款一部変更の件",
+          "votes_for": 745570,
+          "votes_against": 480,
+          "votes_abstain": 431,
+          "approval_pct": 98.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大内康二",
+          "votes_for": 695290,
+          "votes_against": 50752,
+          "votes_abstain": 444,
+          "approval_pct": 92.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "土屋哲雄",
+          "votes_for": 732928,
+          "votes_against": 13127,
+          "votes_abstain": 431,
+          "approval_pct": 96.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯塚幸孝",
+          "votes_for": 733021,
+          "votes_against": 13034,
+          "votes_abstain": 431,
+          "approval_pct": 97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濱屋理沙",
+          "votes_for": 704574,
+          "votes_against": 41479,
+          "votes_abstain": 431,
+          "approval_pct": 93.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W91R",
@@ -201,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:27:35.464Z"
+  "updated_at": "2026-07-04T01:02:51.174Z"
 }

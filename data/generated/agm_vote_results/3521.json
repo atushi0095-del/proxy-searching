@@ -3,6 +3,75 @@
   "company_name": "エコナックホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN8W",
+      "submit_date_time": "2026-06-30 09:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN8W",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 175332,
+          "votes_against": 1732,
+          "votes_abstain": 3,
+          "approval_pct": 98.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木隆太",
+          "votes_for": 175659,
+          "votes_against": 1872,
+          "votes_abstain": 3,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤祐蔵",
+          "votes_for": 175660,
+          "votes_against": 1871,
+          "votes_abstain": 3,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "布村洋一",
+          "votes_for": 175632,
+          "votes_against": 1899,
+          "votes_abstain": 3,
+          "approval_pct": 98.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮﨑由美",
+          "votes_for": 175630,
+          "votes_against": 1901,
+          "votes_abstain": 3,
+          "approval_pct": 98.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WA32",
@@ -108,5 +177,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:12:27.969Z"
+  "updated_at": "2026-07-04T01:02:01.823Z"
 }

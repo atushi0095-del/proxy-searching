@@ -3,6 +3,75 @@
   "company_name": "ＹＵ－ＷＡ　Ｃｒｅａｔｉｏｎ　Ｈｏｌｄｉｎｇｓ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YK5D",
+      "submit_date_time": "2026-06-25 13:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YK5D",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 89964,
+          "votes_against": 4432,
+          "votes_abstain": null,
+          "approval_pct": 95.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案資本金の額の減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 88656,
+          "votes_against": 5740,
+          "votes_abstain": null,
+          "approval_pct": 93.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "浅香竜也",
+          "votes_for": 89873,
+          "votes_against": 4523,
+          "votes_abstain": null,
+          "approval_pct": 95.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "橋本和之",
+          "votes_for": 89521,
+          "votes_against": 4875,
+          "votes_abstain": null,
+          "approval_pct": 94.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "有川勉",
+          "votes_for": 89937,
+          "votes_against": 4459,
+          "votes_abstain": null,
+          "approval_pct": 95.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6HK",
@@ -177,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:44:45.404Z"
+  "updated_at": "2026-07-04T01:39:45.818Z"
 }

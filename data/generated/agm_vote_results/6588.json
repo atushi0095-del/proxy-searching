@@ -3,6 +3,51 @@
   "company_name": "東芝テック",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNO7",
+      "submit_date_time": "2026-06-30 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNO7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 458784,
+          "votes_against": 172,
+          "votes_abstain": 8,
+          "approval_pct": 99.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案井澤依子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 458815,
+          "votes_against": 149,
+          "votes_abstain": 0,
+          "approval_pct": 99.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案嵯峨谷厳",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 458773,
+          "votes_against": 191,
+          "votes_abstain": 0,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W5CJ",
@@ -69,5 +114,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:01:53.685Z"
+  "updated_at": "2026-07-04T00:56:42.192Z"
 }

@@ -3,6 +3,147 @@
   "company_name": "ＩＤＥＣ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YFFS",
+      "submit_date_time": "2026-06-19 14:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFFS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "舩木俊之",
+          "votes_for": 212841,
+          "votes_against": 8439,
+          "votes_abstain": 402,
+          "approval_pct": 95.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "舩木幹雄",
+          "votes_for": 212602,
+          "votes_against": 8678,
+          "votes_abstain": 402,
+          "approval_pct": 95.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "舩木崇雄",
+          "votes_for": 216997,
+          "votes_against": 4283,
+          "votes_abstain": 402,
+          "approval_pct": 97.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ルーレイ",
+          "votes_for": 213200,
+          "votes_against": 8080,
+          "votes_abstain": 402,
+          "approval_pct": 96.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林浩",
+          "votes_for": 216913,
+          "votes_against": 4367,
+          "votes_abstain": 402,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大久保秀之",
+          "votes_for": 216912,
+          "votes_against": 4368,
+          "votes_abstain": 402,
+          "approval_pct": 97.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "杉山真理子",
+          "votes_for": 217237,
+          "votes_against": 4043,
+          "votes_abstain": 402,
+          "approval_pct": 97.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "姫岩康雄",
+          "votes_for": 216929,
+          "votes_against": 4351,
+          "votes_abstain": 402,
+          "approval_pct": 97.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金井美智子",
+          "votes_for": 213477,
+          "votes_against": 7803,
+          "votes_abstain": 402,
+          "approval_pct": 96.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中島恵理",
+          "votes_for": 217259,
+          "votes_against": 4021,
+          "votes_abstain": 402,
+          "approval_pct": 97.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "補欠の監査等委員である取締役1名選任の件",
+          "votes_for": 219864,
+          "votes_against": 1416,
+          "votes_abstain": 402,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W1NF",
@@ -237,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:14:21.295Z"
+  "updated_at": "2026-07-04T01:58:36.747Z"
 }

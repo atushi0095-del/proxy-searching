@@ -3,6 +3,111 @@
   "company_name": "日本空調サービス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLHH",
+      "submit_date_time": "2026-06-26 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLHH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 235739,
+          "votes_against": 15586,
+          "votes_abstain": 0,
+          "approval_pct": 92.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "依藤敏明",
+          "votes_for": 216790,
+          "votes_against": 34715,
+          "votes_abstain": 0,
+          "approval_pct": 85.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "諏訪雅人",
+          "votes_for": 248568,
+          "votes_against": 2937,
+          "votes_abstain": 0,
+          "approval_pct": 97.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白石一彦",
+          "votes_for": 248680,
+          "votes_against": 2825,
+          "votes_abstain": 0,
+          "approval_pct": 97.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西川博志",
+          "votes_for": 249354,
+          "votes_against": 2151,
+          "votes_abstain": 0,
+          "approval_pct": 98.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北川ひろみ",
+          "votes_for": 249038,
+          "votes_against": 2467,
+          "votes_abstain": 0,
+          "approval_pct": 98.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西原浩文",
+          "votes_for": 249114,
+          "votes_against": 2391,
+          "votes_abstain": 0,
+          "approval_pct": 98.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柘植里恵",
+          "votes_for": 249095,
+          "votes_against": 2410,
+          "votes_abstain": 0,
+          "approval_pct": 98.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6DO",
@@ -237,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:55:16.375Z"
+  "updated_at": "2026-07-04T01:32:46.896Z"
 }

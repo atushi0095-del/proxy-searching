@@ -3,6 +3,99 @@
   "company_name": "日産車体",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YN2C",
+      "submit_date_time": "2026-06-29 15:23",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN2C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1230944,
+          "votes_against": 1959,
+          "votes_abstain": 45975,
+          "approval_pct": 96.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "本間雅巳",
+          "votes_for": 861229,
+          "votes_against": 417634,
+          "votes_abstain": 12,
+          "approval_pct": 67.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役2名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "浦上一夫",
+          "votes_for": 861205,
+          "votes_against": 417658,
+          "votes_abstain": 12,
+          "approval_pct": 67.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "小滝晋",
+          "votes_for": 1230352,
+          "votes_against": 48515,
+          "votes_abstain": 10,
+          "approval_pct": 96.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "芥川知美",
+          "votes_for": 1232262,
+          "votes_against": 641,
+          "votes_abstain": 45975,
+          "approval_pct": 96.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案剰余金の処分の件（別途積立金の取り崩し）",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 433696,
+          "votes_against": 845099,
+          "votes_abstain": 78,
+          "approval_pct": 33.9,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案剰余金の処分の件（特別配当）",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 430910,
+          "votes_against": 847889,
+          "votes_abstain": 78,
+          "approval_pct": 33.7,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9SM",
@@ -177,5 +270,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:18:01.113Z"
+  "updated_at": "2026-07-04T01:07:37.393Z"
 }

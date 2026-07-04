@@ -3,6 +3,123 @@
   "company_name": "日油",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YM3T",
+      "submit_date_time": "2026-06-29 10:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM3T",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1972294,
+          "votes_against": 1031,
+          "votes_abstain": 3452,
+          "approval_pct": 99.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮道建臣",
+          "votes_for": 1927647,
+          "votes_against": 45690,
+          "votes_abstain": 3452,
+          "approval_pct": 97.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "沢村孝司",
+          "votes_for": 1930218,
+          "votes_against": 38204,
+          "votes_abstain": 8367,
+          "approval_pct": 97.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "姜義哲",
+          "votes_for": 1948298,
+          "votes_against": 25041,
+          "votes_abstain": 3452,
+          "approval_pct": 98.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "斉藤学",
+          "votes_for": 1949590,
+          "votes_against": 23749,
+          "votes_abstain": 3452,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鎌田卓史",
+          "votes_for": 1904104,
+          "votes_against": 69233,
+          "votes_abstain": 3452,
+          "approval_pct": 96.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林いづみ",
+          "votes_for": 1967541,
+          "votes_against": 5801,
+          "votes_abstain": 3452,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1877133,
+          "votes_against": 99379,
+          "votes_abstain": 289,
+          "approval_pct": 94.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1962395,
+          "votes_against": 10975,
+          "votes_abstain": 3452,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W8JS",
@@ -249,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:25:21.981Z"
+  "updated_at": "2026-07-04T01:15:37.927Z"
 }

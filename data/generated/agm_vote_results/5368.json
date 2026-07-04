@@ -3,6 +3,147 @@
   "company_name": "企業 5368",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YL5E",
+      "submit_date_time": "2026-06-25 16:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL5E",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 60146,
+          "votes_against": 5001,
+          "votes_abstain": 0,
+          "approval_pct": 92.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 59095,
+          "votes_against": 6045,
+          "votes_abstain": 0,
+          "approval_pct": 90.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉井智彦",
+          "votes_for": 64737,
+          "votes_against": 410,
+          "votes_abstain": 0,
+          "approval_pct": 99.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中野強",
+          "votes_for": 64812,
+          "votes_against": 335,
+          "votes_abstain": 0,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小野寺一也",
+          "votes_for": 64567,
+          "votes_against": 580,
+          "votes_abstain": 0,
+          "approval_pct": 99.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡秀幸",
+          "votes_for": 64823,
+          "votes_against": 324,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "村中俊哉",
+          "votes_for": 64801,
+          "votes_against": 346,
+          "votes_abstain": 0,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "内村涼子",
+          "votes_for": 47484,
+          "votes_against": 17663,
+          "votes_abstain": 0,
+          "approval_pct": 72.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "横井悟",
+          "votes_for": 64711,
+          "votes_against": 436,
+          "votes_abstain": 0,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "冨田和政",
+          "votes_for": 64845,
+          "votes_against": 302,
+          "votes_abstain": 0,
+          "approval_pct": 99.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案退任取締役に対し退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 63106,
+          "votes_against": 2041,
+          "votes_abstain": 0,
+          "approval_pct": 96.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7S4",
@@ -285,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:45:02.280Z"
+  "updated_at": "2026-07-04T01:34:14.919Z"
 }

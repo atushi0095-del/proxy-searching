@@ -3,6 +3,123 @@
   "company_name": "ＴＯＡ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM28",
+      "submit_date_time": "2026-06-26 15:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM28",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 275077,
+          "votes_against": 5261,
+          "votes_abstain": 0,
+          "approval_pct": 97.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "谷口方啓",
+          "votes_for": 253706,
+          "votes_against": 26631,
+          "votes_abstain": 0,
+          "approval_pct": 90,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "早川宏",
+          "votes_for": 267471,
+          "votes_against": 12866,
+          "votes_abstain": 0,
+          "approval_pct": 94.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西野崇",
+          "votes_for": 278526,
+          "votes_against": 1811,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "半田実",
+          "votes_for": 268328,
+          "votes_against": 12009,
+          "votes_abstain": 0,
+          "approval_pct": 95.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "辻本由起子",
+          "votes_for": 279818,
+          "votes_against": 520,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "西片和代",
+          "votes_for": 279535,
+          "votes_against": 803,
+          "votes_abstain": 0,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "福元隆久",
+          "votes_for": 279710,
+          "votes_against": 629,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案当社株式の大規模買付行為に関する対応方針（買収への対応方針）の継続の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 208205,
+          "votes_against": 72124,
+          "votes_abstain": 0,
+          "approval_pct": 73.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6YD",
@@ -153,5 +270,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:51:28.382Z"
+  "updated_at": "2026-07-04T01:20:53.334Z"
 }

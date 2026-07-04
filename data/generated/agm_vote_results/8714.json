@@ -3,6 +3,147 @@
   "company_name": "池田泉州ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YNM1",
+      "submit_date_time": "2026-07-01 10:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNM1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2114542,
+          "votes_against": 13745,
+          "votes_abstain": 674,
+          "approval_pct": 99.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鵜川淳",
+          "votes_for": 2066735,
+          "votes_against": 61729,
+          "votes_abstain": 494,
+          "approval_pct": 97.08,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "阪口広一",
+          "votes_for": 2084927,
+          "votes_against": 43537,
+          "votes_abstain": 494,
+          "approval_pct": 97.93,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "塚越治",
+          "votes_for": 2108223,
+          "votes_against": 20243,
+          "votes_abstain": 494,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤原孝嘉",
+          "votes_for": 2108432,
+          "votes_against": 20034,
+          "votes_abstain": 494,
+          "approval_pct": 99.04,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "金子啓子",
+          "votes_for": 2108560,
+          "votes_against": 19907,
+          "votes_abstain": 494,
+          "approval_pct": 99.04,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "久川秀仁",
+          "votes_for": 2106322,
+          "votes_against": 22145,
+          "votes_abstain": 494,
+          "approval_pct": 98.94,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "坂田信以",
+          "votes_for": 2108685,
+          "votes_against": 19782,
+          "votes_abstain": 494,
+          "approval_pct": 99.05,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福田健次",
+          "votes_for": 2107443,
+          "votes_against": 21024,
+          "votes_abstain": 494,
+          "approval_pct": 98.99,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山村輝治",
+          "votes_for": 2107535,
+          "votes_against": 20932,
+          "votes_abstain": 494,
+          "approval_pct": 98.99,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤井佳子",
+          "votes_for": 2110507,
+          "votes_against": 17960,
+          "votes_abstain": 494,
+          "approval_pct": 99.13,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100WA0B",
@@ -321,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:05:34.001Z"
+  "updated_at": "2026-07-04T00:52:34.109Z"
 }

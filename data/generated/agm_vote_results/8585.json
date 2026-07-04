@@ -3,6 +3,195 @@
   "company_name": "オリエントコーポレーション",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YMYN",
+      "submit_date_time": "2026-06-29 14:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMYN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1270451,
+          "votes_against": 17870,
+          "votes_abstain": 203711,
+          "approval_pct": 85.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯盛徹夫",
+          "votes_for": 1183944,
+          "votes_against": 306773,
+          "votes_abstain": 1318,
+          "approval_pct": 79.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "梅宮真",
+          "votes_for": 1235748,
+          "votes_against": 254968,
+          "votes_abstain": 1318,
+          "approval_pct": 82.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松岡英行",
+          "votes_for": 1250023,
+          "votes_against": 240789,
+          "votes_abstain": 1223,
+          "approval_pct": 83.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "馬塲一晃",
+          "votes_for": 1249147,
+          "votes_against": 241665,
+          "votes_abstain": 1223,
+          "approval_pct": 83.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西野和美",
+          "votes_for": 1018030,
+          "votes_against": 472785,
+          "votes_abstain": 1223,
+          "approval_pct": 68.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平山景子",
+          "votes_for": 1249811,
+          "votes_against": 241001,
+          "votes_abstain": 1223,
+          "approval_pct": 83.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西畑智博",
+          "votes_for": 1252393,
+          "votes_against": 35913,
+          "votes_abstain": 203733,
+          "approval_pct": 83.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "深澤雄二",
+          "votes_for": 1240255,
+          "votes_against": 250549,
+          "votes_abstain": 1223,
+          "approval_pct": 83.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松井巖",
+          "votes_for": 1231498,
+          "votes_against": 259307,
+          "votes_abstain": 1223,
+          "approval_pct": 82.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小笠原由佳",
+          "votes_for": 1256047,
+          "votes_against": 234758,
+          "votes_abstain": 1223,
+          "approval_pct": 84.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小松幹太",
+          "votes_for": 1256128,
+          "votes_against": 32169,
+          "votes_abstain": 203733,
+          "approval_pct": 84.19,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西畑智博",
+          "votes_for": 1256489,
+          "votes_against": 31755,
+          "votes_abstain": 203733,
+          "approval_pct": 84.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 296364,
+          "votes_against": 1193236,
+          "votes_abstain": 2112,
+          "approval_pct": 19.87,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 375293,
+          "votes_against": 1114509,
+          "votes_abstain": 2112,
+          "approval_pct": 25.16,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W9WB",
@@ -345,5 +534,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:09:09.036Z"
+  "updated_at": "2026-07-04T01:09:11.250Z"
 }

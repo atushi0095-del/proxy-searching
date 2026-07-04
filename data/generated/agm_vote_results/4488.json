@@ -3,6 +3,63 @@
   "company_name": "ＡＩ　ｉｎｓｉｄｅ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN16",
+      "submit_date_time": "2026-06-29 15:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN16",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 25741,
+          "votes_against": 213,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渡久地択",
+          "votes_for": 24585,
+          "votes_against": 1384,
+          "votes_abstain": 0,
+          "approval_pct": 94.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岩松秀樹",
+          "votes_for": 24590,
+          "votes_against": 1379,
+          "votes_abstain": 0,
+          "approval_pct": 94.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役3名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "烏野裕明",
+          "votes_for": 24590,
+          "votes_against": 1379,
+          "votes_abstain": 0,
+          "approval_pct": 94.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9OK",
@@ -96,5 +153,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:19:34.583Z"
+  "updated_at": "2026-07-04T01:06:03.398Z"
 }

@@ -3,6 +3,99 @@
   "company_name": "大分銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKCG",
+      "submit_date_time": "2026-06-25 09:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKCG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 123512,
+          "votes_against": 5130,
+          "votes_abstain": 8,
+          "approval_pct": 96.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤富一郎",
+          "votes_for": 109050,
+          "votes_against": 19735,
+          "votes_abstain": 8,
+          "approval_pct": 84.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋靖英",
+          "votes_for": 109759,
+          "votes_against": 19026,
+          "votes_abstain": 8,
+          "approval_pct": 85.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤泰則",
+          "votes_for": 120294,
+          "votes_against": 8489,
+          "votes_abstain": 8,
+          "approval_pct": 93.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "濱田法男",
+          "votes_for": 124914,
+          "votes_against": 3871,
+          "votes_abstain": 8,
+          "approval_pct": 96.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三浦正敦",
+          "votes_for": 124944,
+          "votes_against": 3841,
+          "votes_abstain": 8,
+          "approval_pct": 97.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "和田久継",
+          "votes_for": 122001,
+          "votes_against": 6784,
+          "votes_abstain": 8,
+          "approval_pct": 94.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W20K",
@@ -273,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:13:44.145Z"
+  "updated_at": "2026-07-04T01:42:31.742Z"
 }

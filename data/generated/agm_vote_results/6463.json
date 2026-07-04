@@ -3,6 +3,135 @@
   "company_name": "ＴＰＲ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKLZ",
+      "submit_date_time": "2026-06-25 12:40",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKLZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 513481,
+          "votes_against": 33493,
+          "votes_abstain": 0,
+          "approval_pct": 93.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大和康二",
+          "votes_for": 539113,
+          "votes_against": 7862,
+          "votes_abstain": 0,
+          "approval_pct": 98.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "末廣博",
+          "votes_for": 524071,
+          "votes_against": 22904,
+          "votes_abstain": 0,
+          "approval_pct": 95.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塚本英貴",
+          "votes_for": 542992,
+          "votes_against": 3983,
+          "votes_abstain": 0,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤敏久",
+          "votes_for": 532481,
+          "votes_against": 14494,
+          "votes_abstain": 0,
+          "approval_pct": 97.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大澤加奈子",
+          "votes_for": 532706,
+          "votes_against": 14269,
+          "votes_abstain": 0,
+          "approval_pct": 97.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宗藤謙治",
+          "votes_for": 532889,
+          "votes_against": 14086,
+          "votes_abstain": 0,
+          "approval_pct": 97.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福田加奈子",
+          "votes_for": 545844,
+          "votes_against": 1131,
+          "votes_abstain": 0,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 464060,
+          "votes_against": 83422,
+          "votes_abstain": 0,
+          "approval_pct": 84.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山中英二郎",
+          "votes_for": 481324,
+          "votes_against": 66157,
+          "votes_abstain": 0,
+          "approval_pct": 87.92,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-27",
       "meeting_year": 2024,
       "doc_id": "S100TY4A",
@@ -168,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:28:15.624Z"
+  "updated_at": "2026-07-04T01:40:15.210Z"
 }

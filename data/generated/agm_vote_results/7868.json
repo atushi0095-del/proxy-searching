@@ -3,6 +3,123 @@
   "company_name": "広済堂ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNAH",
+      "submit_date_time": "2026-06-30 10:20",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNAH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1131658,
+          "votes_against": 24333,
+          "votes_abstain": null,
+          "approval_pct": 97.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1151697,
+          "votes_against": 4295,
+          "votes_abstain": null,
+          "approval_pct": 98.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "羅怡文",
+          "votes_for": 1148694,
+          "votes_against": 7298,
+          "votes_abstain": null,
+          "approval_pct": 98.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "常盤誠",
+          "votes_for": 1149265,
+          "votes_against": 6727,
+          "votes_abstain": null,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉雅之",
+          "votes_for": 1149507,
+          "votes_against": 6485,
+          "votes_abstain": null,
+          "approval_pct": 98.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上村明",
+          "votes_for": 1139433,
+          "votes_against": 16559,
+          "votes_abstain": null,
+          "approval_pct": 97.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹村滋幸",
+          "votes_for": 1149248,
+          "votes_against": 6744,
+          "votes_abstain": null,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中井川俊一",
+          "votes_for": 1149456,
+          "votes_against": 6536,
+          "votes_abstain": null,
+          "approval_pct": 98.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "相澤茜",
+          "votes_for": 1149257,
+          "votes_against": 6735,
+          "votes_abstain": null,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9AJ",
@@ -225,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:14:24.086Z"
+  "updated_at": "2026-07-04T01:01:14.160Z"
 }

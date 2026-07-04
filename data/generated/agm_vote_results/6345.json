@@ -3,6 +3,123 @@
   "company_name": "アイチ　コーポレーション",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YHFD",
+      "submit_date_time": "2026-06-23 11:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHFD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 537420,
+          "votes_against": 6555,
+          "votes_abstain": 0,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": "中澤俊一",
+          "votes_for": 539284,
+          "votes_against": 4668,
+          "votes_abstain": 17,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": "石井智",
+          "votes_for": 539610,
+          "votes_against": 4361,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": "東上清",
+          "votes_for": 542235,
+          "votes_against": 1736,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": "酒井宗二",
+          "votes_for": 542127,
+          "votes_against": 1844,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": "水野陽二郎",
+          "votes_for": 464536,
+          "votes_against": 79434,
+          "votes_abstain": 0,
+          "approval_pct": 85.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": "小西めぐみ",
+          "votes_for": 542164,
+          "votes_against": 1807,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": "澁谷信",
+          "votes_for": 541170,
+          "votes_against": 2802,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": "黒見敦",
+          "votes_for": 463497,
+          "votes_against": 80475,
+          "votes_abstain": 0,
+          "approval_pct": 85.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-13",
       "meeting_year": 2025,
       "doc_id": "S100VYH1",
@@ -177,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:21:21.655Z"
+  "updated_at": "2026-07-04T01:52:40.676Z"
 }

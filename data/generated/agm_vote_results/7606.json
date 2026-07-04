@@ -3,6 +3,135 @@
   "company_name": "ユナイテッドアローズ",
   "meetings": [
     {
+      "meeting_date": "2026-06-22",
+      "meeting_year": 2026,
+      "doc_id": "S100YIH1",
+      "submit_date_time": "2026-06-23 16:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIH1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 199271,
+          "votes_against": 301,
+          "votes_abstain": 0,
+          "approval_pct": 99.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 198406,
+          "votes_against": 1165,
+          "votes_abstain": 0,
+          "approval_pct": 99.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 198357,
+          "votes_against": 1215,
+          "votes_abstain": 0,
+          "approval_pct": 99.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松崎善則",
+          "votes_for": 196490,
+          "votes_against": 3082,
+          "votes_abstain": 0,
+          "approval_pct": 98.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中澤健夫",
+          "votes_for": 198729,
+          "votes_against": 843,
+          "votes_abstain": 0,
+          "approval_pct": 99.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中和安",
+          "votes_for": 198705,
+          "votes_against": 867,
+          "votes_abstain": 0,
+          "approval_pct": 99.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西脇徹",
+          "votes_for": 183845,
+          "votes_against": 15727,
+          "votes_abstain": 0,
+          "approval_pct": 92.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "倉橋雄作",
+          "votes_for": 198651,
+          "votes_against": 921,
+          "votes_abstain": 0,
+          "approval_pct": 99.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鷹野志穂",
+          "votes_for": 198982,
+          "votes_against": 590,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": "蟹澤徹",
+          "votes_for": 198711,
+          "votes_against": 861,
+          "votes_abstain": 0,
+          "approval_pct": 99.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W59O",
@@ -189,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:02:14.004Z"
+  "updated_at": "2026-07-04T01:50:32.091Z"
 }

@@ -3,6 +3,147 @@
   "company_name": "ジーニー",
   "meetings": [
     {
+      "meeting_date": "2026-06-30",
+      "meeting_year": 2026,
+      "doc_id": "S100YON5",
+      "submit_date_time": "2026-07-03 13:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YON5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 77120,
+          "votes_against": 443,
+          "votes_abstain": 3,
+          "approval_pct": 99.43,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "工藤智昭",
+          "votes_for": 76316,
+          "votes_against": 1247,
+          "votes_abstain": 3,
+          "approval_pct": 98.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "越水遥",
+          "votes_for": 77281,
+          "votes_against": 282,
+          "votes_abstain": 3,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤原彰二",
+          "votes_for": 76561,
+          "votes_against": 1002,
+          "votes_abstain": 3,
+          "approval_pct": 98.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "澤田貴司",
+          "votes_for": 77292,
+          "votes_against": 271,
+          "votes_abstain": 3,
+          "approval_pct": 99.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "稲毛裕一",
+          "votes_for": 77322,
+          "votes_against": 241,
+          "votes_abstain": 3,
+          "approval_pct": 99.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "轟幸夫",
+          "votes_for": 77309,
+          "votes_against": 254,
+          "votes_abstain": 3,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案に対する修正動議",
+          "proposal_category": "その他",
+          "candidate_name": "澤野正周",
+          "votes_for": 66699,
+          "votes_against": 10620,
+          "votes_abstain": 247,
+          "approval_pct": 85.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役の報酬額設定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 77147,
+          "votes_against": 416,
+          "votes_abstain": 3,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役の非金銭報酬制度導入の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 77205,
+          "votes_against": 358,
+          "votes_abstain": 3,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案監査役の報酬額設定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 77301,
+          "votes_against": 264,
+          "votes_abstain": 3,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WALO",
@@ -201,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:04:56.709Z"
+  "updated_at": "2026-07-04T00:45:50.274Z"
 }

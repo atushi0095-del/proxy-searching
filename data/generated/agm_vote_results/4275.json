@@ -3,6 +3,135 @@
   "company_name": "カーリット",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMVR",
+      "submit_date_time": "2026-06-29 13:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMVR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 160208,
+          "votes_against": 524,
+          "votes_abstain": 2,
+          "approval_pct": 99.67,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金子洋文",
+          "votes_for": 141683,
+          "votes_against": 19057,
+          "votes_abstain": 1,
+          "approval_pct": 88.14,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡本英夫",
+          "votes_for": 159304,
+          "votes_against": 1436,
+          "votes_abstain": 2,
+          "approval_pct": 99.11,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤晴俊",
+          "votes_for": 159518,
+          "votes_against": 1222,
+          "votes_abstain": 2,
+          "approval_pct": 99.24,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋茂信",
+          "votes_for": 159446,
+          "votes_against": 1294,
+          "votes_abstain": 2,
+          "approval_pct": 99.19,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中津隆一",
+          "votes_for": 159496,
+          "votes_against": 1244,
+          "votes_abstain": 2,
+          "approval_pct": 99.22,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村山由香里",
+          "votes_for": 159311,
+          "votes_against": 1429,
+          "votes_abstain": 2,
+          "approval_pct": 99.11,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤原康弘",
+          "votes_for": 156901,
+          "votes_against": 3839,
+          "votes_abstain": 2,
+          "approval_pct": 97.61,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木周",
+          "votes_for": 159392,
+          "votes_against": 1348,
+          "votes_abstain": 2,
+          "approval_pct": 99.16,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "落合悟",
+          "votes_for": 145512,
+          "votes_against": 15228,
+          "votes_abstain": 2,
+          "approval_pct": 90.53,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9KW",
@@ -297,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:21:13.533Z"
+  "updated_at": "2026-07-04T01:11:27.881Z"
 }

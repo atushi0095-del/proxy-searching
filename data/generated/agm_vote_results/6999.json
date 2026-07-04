@@ -3,6 +3,135 @@
   "company_name": "ＫＯＡ",
   "meetings": [
     {
+      "meeting_date": "2026-06-20",
+      "meeting_year": 2026,
+      "doc_id": "S100YKAI",
+      "submit_date_time": "2026-06-25 10:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKAI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 289017,
+          "votes_against": 958,
+          "votes_abstain": 0,
+          "approval_pct": 99.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "向山浩正",
+          "votes_for": 246140,
+          "votes_against": 43834,
+          "votes_abstain": 1,
+          "approval_pct": 84.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "百瀬克彦",
+          "votes_for": 262127,
+          "votes_against": 27847,
+          "votes_abstain": 1,
+          "approval_pct": 90.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千原臣祐",
+          "votes_for": 286728,
+          "votes_against": 3246,
+          "votes_abstain": 1,
+          "approval_pct": 98.88,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "マイケルジョンコーバー",
+          "votes_for": 232504,
+          "votes_against": 57470,
+          "votes_abstain": 1,
+          "approval_pct": 80.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北川徹",
+          "votes_for": 262314,
+          "votes_against": 27660,
+          "votes_abstain": 1,
+          "approval_pct": 90.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋晃次",
+          "votes_for": 264057,
+          "votes_against": 25917,
+          "votes_abstain": 1,
+          "approval_pct": 91.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小澤仁",
+          "votes_for": 264384,
+          "votes_against": 25590,
+          "votes_abstain": 1,
+          "approval_pct": 91.17,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木下睦子",
+          "votes_for": 289001,
+          "votes_against": 974,
+          "votes_abstain": 0,
+          "approval_pct": 99.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 277257,
+          "votes_against": 12716,
+          "votes_abstain": 2,
+          "approval_pct": 95.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-21",
       "meeting_year": 2025,
       "doc_id": "S100W6PZ",
@@ -393,5 +522,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:53:40.277Z"
+  "updated_at": "2026-07-04T01:42:15.810Z"
 }

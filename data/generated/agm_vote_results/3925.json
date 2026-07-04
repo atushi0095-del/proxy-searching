@@ -3,6 +3,87 @@
   "company_name": "ダブルスタンダード",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNF2",
+      "submit_date_time": "2026-06-30 10:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNF2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 103602,
+          "votes_against": 304,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "福永康寛",
+          "votes_for": 93559,
+          "votes_against": 10348,
+          "votes_abstain": 0,
+          "approval_pct": 89.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中島正三",
+          "votes_for": 97824,
+          "votes_against": 6083,
+          "votes_abstain": 0,
+          "approval_pct": 94.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "飯島学",
+          "votes_for": 97782,
+          "votes_against": 6125,
+          "votes_abstain": 0,
+          "approval_pct": 94.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "德永博久",
+          "votes_for": 96540,
+          "votes_against": 7367,
+          "votes_abstain": 0,
+          "approval_pct": 92.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "赤浦徹",
+          "votes_for": 96038,
+          "votes_against": 7869,
+          "votes_abstain": 0,
+          "approval_pct": 92.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9EM",
@@ -213,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:24:08.028Z"
+  "updated_at": "2026-07-04T01:00:48.555Z"
 }

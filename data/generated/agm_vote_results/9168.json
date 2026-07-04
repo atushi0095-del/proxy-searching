@@ -3,6 +3,111 @@
   "company_name": "ライズ・コンサルティング・グループ",
   "meetings": [
     {
+      "meeting_date": "2026-05-29",
+      "meeting_year": 2026,
+      "doc_id": "S100Y6BT",
+      "submit_date_time": "2026-06-01 12:58",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y6BT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 143603,
+          "votes_against": 13589,
+          "votes_abstain": 0,
+          "approval_pct": 91.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松岡竜大",
+          "votes_for": 140332,
+          "votes_against": 16880,
+          "votes_abstain": 0,
+          "approval_pct": 89.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "和田学",
+          "votes_for": 140345,
+          "votes_against": 16867,
+          "votes_abstain": 0,
+          "approval_pct": 89.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "進藤基浩",
+          "votes_for": 140270,
+          "votes_against": 16942,
+          "votes_abstain": 0,
+          "approval_pct": 88.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "武田智行",
+          "votes_for": 140284,
+          "votes_against": 16928,
+          "votes_abstain": 0,
+          "approval_pct": 88.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "奥田高志",
+          "votes_for": 140243,
+          "votes_against": 16969,
+          "votes_abstain": 0,
+          "approval_pct": 88.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "崔真淑",
+          "votes_for": 141350,
+          "votes_against": 15862,
+          "votes_abstain": 0,
+          "approval_pct": 89.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大倉奨貴",
+          "votes_for": 132167,
+          "votes_against": 25045,
+          "votes_abstain": 0,
+          "approval_pct": 83.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-31",
       "meeting_year": 2024,
       "doc_id": "S100TK2R",
@@ -120,5 +225,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:30:28.502Z"
+  "updated_at": "2026-07-04T02:06:30.032Z"
 }

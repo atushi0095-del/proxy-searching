@@ -3,6 +3,75 @@
   "company_name": "アイ・アールジャパンホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YGAT",
+      "submit_date_time": "2026-06-22 15:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGAT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 136819,
+          "votes_against": 2110,
+          "votes_abstain": 32,
+          "approval_pct": 98.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "寺下史郎",
+          "votes_for": 127450,
+          "votes_against": 11489,
+          "votes_abstain": 32,
+          "approval_pct": 91.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤原豊",
+          "votes_for": 133987,
+          "votes_against": 4952,
+          "votes_abstain": 32,
+          "approval_pct": 96.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案自己株式の取得に関する件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 10813,
+          "votes_against": 128096,
+          "votes_abstain": 32,
+          "approval_pct": 7.78,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案定款の一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 16193,
+          "votes_against": 122716,
+          "votes_abstain": 32,
+          "approval_pct": 11.65,
+          "approval_pct_source": "computed",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-17",
       "meeting_year": 2025,
       "doc_id": "S100VYQE",
@@ -141,5 +210,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:20:20.516Z"
+  "updated_at": "2026-07-04T01:55:17.119Z"
 }

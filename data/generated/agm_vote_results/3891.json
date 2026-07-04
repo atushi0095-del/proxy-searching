@@ -3,6 +3,123 @@
   "company_name": "ニッポン高度紙工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YM3Q",
+      "submit_date_time": "2026-06-26 14:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM3Q",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 79412,
+          "votes_against": 215,
+          "votes_abstain": 0,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山岡俊則",
+          "votes_for": 76483,
+          "votes_against": 3144,
+          "votes_abstain": 0,
+          "approval_pct": 95.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "近森俊二",
+          "votes_for": 76436,
+          "votes_against": 3191,
+          "votes_abstain": 0,
+          "approval_pct": 95.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "矢田部達志",
+          "votes_for": 76243,
+          "votes_against": 3384,
+          "votes_abstain": 0,
+          "approval_pct": 95.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋寿明",
+          "votes_for": 76232,
+          "votes_against": 3395,
+          "votes_abstain": 0,
+          "approval_pct": 95.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡崎明",
+          "votes_for": 76172,
+          "votes_against": 3455,
+          "votes_abstain": 0,
+          "approval_pct": 95.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上浩之",
+          "votes_for": 79395,
+          "votes_against": 232,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥村陽子",
+          "votes_for": 79374,
+          "votes_against": 253,
+          "votes_abstain": 0,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "熊沢慎一郎",
+          "votes_for": 70604,
+          "votes_against": 9023,
+          "votes_abstain": 0,
+          "approval_pct": 88.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W17H",
@@ -213,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:12:04.026Z"
+  "updated_at": "2026-07-04T01:23:49.536Z"
 }

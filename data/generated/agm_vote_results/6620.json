@@ -3,6 +3,75 @@
   "company_name": "宮越ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMWK",
+      "submit_date_time": "2026-06-29 13:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMWK",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "宮越邦正",
+          "votes_for": 352095,
+          "votes_against": 7817,
+          "votes_abstain": null,
+          "approval_pct": 97.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙木昭彦",
+          "votes_for": 357949,
+          "votes_against": 1963,
+          "votes_abstain": null,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役(監査等委員である取締役を除く。)3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "劉嵩",
+          "votes_for": 357928,
+          "votes_against": 1984,
+          "votes_abstain": null,
+          "approval_pct": 99.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案会計監査人選任の件",
+          "proposal_category": "会計監査人選任",
+          "candidate_name": null,
+          "votes_for": 358668,
+          "votes_against": 1244,
+          "votes_abstain": null,
+          "approval_pct": 99.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案退任取締役に対し退職慰労金贈呈の件",
+          "proposal_category": "退職慰労金",
+          "candidate_name": null,
+          "votes_for": 350616,
+          "votes_against": 9296,
+          "votes_abstain": null,
+          "approval_pct": 97.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9AW",
@@ -117,5 +186,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:22:50.480Z"
+  "updated_at": "2026-07-04T01:10:57.344Z"
 }

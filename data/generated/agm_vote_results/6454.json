@@ -3,6 +3,63 @@
   "company_name": "マックス",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNN3",
+      "submit_date_time": "2026-06-30 16:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNN3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 407653,
+          "votes_against": 270,
+          "votes_abstain": 7,
+          "approval_pct": 99.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件小川辰志角芳尋山本将仁石井英之加藤浩二倉澤佳子",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 4.051144052014055e+35,
+          "votes_against": 2.7882719238029012e+23,
+          "votes_abstain": 2477777,
+          "approval_pct": 99.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件松田伸之木内昭二矢島茉莉上野保",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 4.041304065324068e+23,
+          "votes_against": 3790138911266286,
+          "votes_abstain": 7777,
+          "approval_pct": 99.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役（社外取締役及び監査等委員である取締役を除く。）に対する役員賞与支給の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 406640,
+          "votes_against": 1282,
+          "votes_abstain": 7,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W51M",
@@ -105,5 +162,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:03:14.794Z"
+  "updated_at": "2026-07-04T00:53:49.611Z"
 }

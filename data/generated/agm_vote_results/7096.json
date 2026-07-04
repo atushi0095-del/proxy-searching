@@ -3,6 +3,87 @@
   "company_name": "ステムセル研究所",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YI86",
+      "submit_date_time": "2026-06-25 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YI86",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "清水崇文",
+          "votes_for": 78820,
+          "votes_against": 179,
+          "votes_abstain": 1,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "茅野圭",
+          "votes_for": 78819,
+          "votes_against": 180,
+          "votes_abstain": 1,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田智男",
+          "votes_for": 78803,
+          "votes_against": 196,
+          "votes_abstain": 1,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大久保由美",
+          "votes_for": 78825,
+          "votes_against": 174,
+          "votes_abstain": 1,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "坂井和夫",
+          "votes_for": 78812,
+          "votes_against": 191,
+          "votes_abstain": 1,
+          "approval_pct": 99.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案当社の取締役、執行役員及び従業員並びに当社子会社の従業員に対し、ストック・オプションとして新株予約権を発行する件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 78478,
+          "votes_against": 525,
+          "votes_abstain": 1,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7JX",
@@ -189,5 +270,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:47:09.982Z"
+  "updated_at": "2026-07-04T01:36:16.467Z"
 }

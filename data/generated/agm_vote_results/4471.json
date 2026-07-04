@@ -3,6 +3,135 @@
   "company_name": "三洋化成工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YHJJ",
+      "submit_date_time": "2026-06-23 10:59",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHJJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白井文",
+          "votes_for": 183641,
+          "votes_against": 2418,
+          "votes_abstain": 0,
+          "approval_pct": 97.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原田正大",
+          "votes_for": 170731,
+          "votes_against": 15324,
+          "votes_abstain": 0,
+          "approval_pct": 90.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "須崎裕之",
+          "votes_for": 182709,
+          "votes_against": 3347,
+          "votes_abstain": 0,
+          "approval_pct": 97.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥喜之",
+          "votes_for": 182668,
+          "votes_against": 3388,
+          "votes_abstain": 0,
+          "approval_pct": 97.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西村健一",
+          "votes_for": 182707,
+          "votes_against": 3349,
+          "votes_abstain": 0,
+          "approval_pct": 97.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小畑英明",
+          "votes_for": 183612,
+          "votes_against": 2447,
+          "votes_abstain": 0,
+          "approval_pct": 97.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐野由美",
+          "votes_for": 183667,
+          "votes_against": 2392,
+          "votes_abstain": 0,
+          "approval_pct": 97.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "富永浩史",
+          "votes_for": 149997,
+          "votes_against": 36059,
+          "votes_abstain": 0,
+          "approval_pct": 79.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "窪川潤子",
+          "votes_for": 185611,
+          "votes_against": 448,
+          "votes_abstain": 0,
+          "approval_pct": 98.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 185556,
+          "votes_against": 596,
+          "votes_abstain": 17,
+          "approval_pct": 98.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W4NT",
@@ -177,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:03:57.319Z"
+  "updated_at": "2026-07-04T01:52:59.302Z"
 }

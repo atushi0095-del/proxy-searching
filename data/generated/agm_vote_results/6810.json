@@ -3,6 +3,39 @@
   "company_name": "マクセル",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM3B",
+      "submit_date_time": "2026-06-26 15:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM3B",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中村啓次椙棟直人増田憲俊村瀬幸子",
+          "votes_for": 3.046673054473054e+23,
+          "votes_against": 2834219922623685,
+          "votes_abstain": 142000,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "相神一裕青木暢子秦和義",
+          "votes_for": 305894306971305900,
+          "votes_against": 17696931763,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TN77",
@@ -24,5 +57,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:14:10.403Z"
+  "updated_at": "2026-07-04T01:22:48.804Z"
 }

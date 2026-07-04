@@ -3,6 +3,87 @@
   "company_name": "神戸電鉄",
   "meetings": [
     {
+      "meeting_date": "2026-06-17",
+      "meeting_year": 2026,
+      "doc_id": "S100YFQ3",
+      "submit_date_time": "2026-06-19 16:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFQ3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 49573,
+          "votes_against": 450,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案寺田信彦井波洋津山裕昭奥野雅弘糟谷昌俊玉田敏郎森兼浩",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 4.733849294483425e+34,
+          "votes_against": 2.685729168162519e+23,
+          "votes_abstain": 0,
+          "approval_pct": 94.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案畑栄一今井陽子松坂隆廣",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 491944920247757,
+          "votes_against": 8298212266,
+          "votes_abstain": 0,
+          "approval_pct": 98.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 43765,
+          "votes_against": 6258,
+          "votes_abstain": 0,
+          "approval_pct": 87.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 49197,
+          "votes_against": 826,
+          "votes_abstain": 0,
+          "approval_pct": 98.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 49206,
+          "votes_against": 817,
+          "votes_abstain": 0,
+          "approval_pct": 98.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-13",
       "meeting_year": 2025,
       "doc_id": "S100VZ69",
@@ -93,5 +174,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:20:04.762Z"
+  "updated_at": "2026-07-04T01:57:12.772Z"
 }

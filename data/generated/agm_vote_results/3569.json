@@ -3,6 +3,147 @@
   "company_name": "セーレン",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YNXD",
+      "submit_date_time": "2026-07-01 11:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNXD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金配当（第154期期末配当）の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 480862,
+          "votes_against": 339,
+          "votes_abstain": 0,
+          "approval_pct": 99.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川田達男",
+          "votes_for": 466264,
+          "votes_against": 15920,
+          "votes_abstain": 32,
+          "approval_pct": 96.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "于輝",
+          "votes_for": 477323,
+          "votes_against": 4892,
+          "votes_abstain": 0,
+          "approval_pct": 98.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田英幸",
+          "votes_for": 476316,
+          "votes_against": 5867,
+          "votes_abstain": 32,
+          "approval_pct": 98.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川田浩司",
+          "votes_for": 477220,
+          "votes_against": 4995,
+          "votes_abstain": 0,
+          "approval_pct": 98.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "勝木知文",
+          "votes_for": 479123,
+          "votes_against": 3094,
+          "votes_abstain": 0,
+          "approval_pct": 99.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北畑隆生",
+          "votes_for": 374525,
+          "votes_against": 107691,
+          "votes_abstain": 0,
+          "approval_pct": 77.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐々江賢一郎",
+          "votes_for": 480956,
+          "votes_against": 1262,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小林充佳",
+          "votes_for": 481114,
+          "votes_against": 1105,
+          "votes_abstain": 0,
+          "approval_pct": 99.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "橋野知子",
+          "votes_for": 481171,
+          "votes_against": 1048,
+          "votes_abstain": 0,
+          "approval_pct": 99.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役の報酬額改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 481231,
+          "votes_against": 915,
+          "votes_abstain": 94,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W8SV",
@@ -333,5 +474,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:32:40.957Z"
+  "updated_at": "2026-07-04T00:52:10.782Z"
 }

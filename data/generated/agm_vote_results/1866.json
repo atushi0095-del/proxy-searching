@@ -3,6 +3,99 @@
   "company_name": "北野建設",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YM44",
+      "submit_date_time": "2026-06-26 15:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM44",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 189243,
+          "votes_against": 1503,
+          "votes_abstain": null,
+          "approval_pct": 99.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北野貴裕",
+          "votes_for": 180880,
+          "votes_against": 9866,
+          "votes_abstain": null,
+          "approval_pct": 94.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山﨑義勝",
+          "votes_for": 189055,
+          "votes_against": 1691,
+          "votes_abstain": null,
+          "approval_pct": 99.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "久保聡",
+          "votes_for": 189127,
+          "votes_against": 1619,
+          "votes_abstain": null,
+          "approval_pct": 99.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "秋田孝之",
+          "votes_for": 189147,
+          "votes_against": 1599,
+          "votes_abstain": null,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "矢崎ふみ子",
+          "votes_for": 189097,
+          "votes_against": 1649,
+          "votes_abstain": null,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "杉浦康之",
+          "votes_for": 189824,
+          "votes_against": 922,
+          "votes_abstain": null,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5QY",
@@ -153,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:58:02.195Z"
+  "updated_at": "2026-07-04T01:23:19.311Z"
 }

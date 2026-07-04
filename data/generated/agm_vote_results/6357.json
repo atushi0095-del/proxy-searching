@@ -3,6 +3,135 @@
   "company_name": "三精ﾃｸﾉﾛｼﾞｰｽﾞ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMJ2",
+      "submit_date_time": "2026-06-29 09:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMJ2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 141441,
+          "votes_against": 148,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "良知昇",
+          "votes_for": 133952,
+          "votes_against": 8048,
+          "votes_abstain": 0,
+          "approval_pct": 94.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "板垣治",
+          "votes_for": 134022,
+          "votes_against": 7978,
+          "votes_abstain": 0,
+          "approval_pct": 94.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大野慎治",
+          "votes_for": 141380,
+          "votes_against": 620,
+          "votes_abstain": 0,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "野口幸男",
+          "votes_for": 141402,
+          "votes_against": 598,
+          "votes_abstain": 0,
+          "approval_pct": 99.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西山泰治",
+          "votes_for": 141398,
+          "votes_against": 602,
+          "votes_abstain": 0,
+          "approval_pct": 99.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "仲辻猛士",
+          "votes_for": 141397,
+          "votes_against": 603,
+          "votes_abstain": 0,
+          "approval_pct": 99.58,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "アイアトン・ウィリアム",
+          "votes_for": 141284,
+          "votes_against": 716,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安藤よし子",
+          "votes_for": 141561,
+          "votes_against": 439,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川島勇",
+          "votes_for": 141634,
+          "votes_against": 366,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W96F",
@@ -309,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:28:23.309Z"
+  "updated_at": "2026-07-04T01:17:27.914Z"
 }

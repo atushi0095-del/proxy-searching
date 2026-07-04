@@ -3,6 +3,39 @@
   "company_name": "日本ドライケミカル",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YO19",
+      "submit_date_time": "2026-07-01 13:46",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO19",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 51832,
+          "votes_against": 157,
+          "votes_abstain": 158,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川信夫渡慶次憲彦森悦子",
+          "votes_for": 496394260451721,
+          "votes_against": 23519386269,
+          "votes_abstain": 158158158,
+          "approval_pct": 95.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9JK",
@@ -177,5 +210,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:21:54.555Z"
+  "updated_at": "2026-07-04T00:51:23.963Z"
 }

@@ -3,6 +3,63 @@
   "company_name": "フジオーゼックス",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YFD0",
+      "submit_date_time": "2026-06-19 14:14",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFD0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 77621,
+          "votes_against": 526,
+          "votes_abstain": 0,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員でない取締役7名選任の件杉江郁夫福岡聡海野信一茨木徹石川利明山下敏明飯塚嘉津美",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 7.717377510775128e+34,
+          "votes_against": 974637635638630700000,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件岩本順司丹羽哲也川﨑健司東島香織加々美道也",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 7.751077412773688e+24,
+          "votes_against": 630728772660749,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件山田剛己",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 77166,
+          "votes_against": 981,
+          "votes_abstain": 0,
+          "approval_pct": 98.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W0BV",
@@ -141,5 +198,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:18:38.324Z"
+  "updated_at": "2026-07-04T01:58:48.707Z"
 }

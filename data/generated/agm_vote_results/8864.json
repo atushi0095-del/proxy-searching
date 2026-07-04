@@ -3,6 +3,135 @@
   "company_name": "空港施設",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YOBJ",
+      "submit_date_time": "2026-07-02 14:56",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOBJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 381696,
+          "votes_against": 905,
+          "votes_abstain": 0,
+          "approval_pct": 99.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田村滋朗",
+          "votes_for": 335841,
+          "votes_against": 46760,
+          "votes_abstain": 0,
+          "approval_pct": 87.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "笹岡修",
+          "votes_for": 351489,
+          "votes_against": 31112,
+          "votes_abstain": 0,
+          "approval_pct": 91.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西尾忠男",
+          "votes_for": 351911,
+          "votes_against": 30690,
+          "votes_abstain": 0,
+          "approval_pct": 91.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮前利宏",
+          "votes_for": 374176,
+          "votes_against": 8425,
+          "votes_abstain": 0,
+          "approval_pct": 97.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉智",
+          "votes_for": 374403,
+          "votes_against": 8198,
+          "votes_abstain": 0,
+          "approval_pct": 97.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三木泰雄",
+          "votes_for": 374131,
+          "votes_against": 8470,
+          "votes_abstain": 0,
+          "approval_pct": 97.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大橋美香",
+          "votes_for": 373408,
+          "votes_against": 9193,
+          "votes_abstain": 0,
+          "approval_pct": 97.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 371265,
+          "votes_against": 11336,
+          "votes_abstain": 0,
+          "approval_pct": 97.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 381224,
+          "votes_against": 1410,
+          "votes_abstain": 0,
+          "approval_pct": 99.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WALM",
@@ -393,5 +522,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:04:59.265Z"
+  "updated_at": "2026-07-04T00:47:22.154Z"
 }

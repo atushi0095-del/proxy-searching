@@ -3,6 +3,87 @@
   "company_name": "ＴＢＫ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNVO",
+      "submit_date_time": "2026-07-01 09:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNVO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "尾方馨",
+          "votes_for": 229331,
+          "votes_against": 4126,
+          "votes_abstain": 0,
+          "approval_pct": 98.19,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林正登",
+          "votes_for": 229862,
+          "votes_against": 3595,
+          "votes_abstain": 0,
+          "approval_pct": 98.42,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保隆",
+          "votes_for": 228804,
+          "votes_against": 4653,
+          "votes_abstain": 0,
+          "approval_pct": 97.96,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千代田有子",
+          "votes_for": 230118,
+          "votes_against": 3339,
+          "votes_abstain": 0,
+          "approval_pct": 98.53,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村田恵一",
+          "votes_for": 229672,
+          "votes_against": 3785,
+          "votes_abstain": 0,
+          "approval_pct": 98.34,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤田幸弘",
+          "votes_for": 230789,
+          "votes_against": 2704,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "reported",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100WADW",
@@ -201,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:06:56.078Z"
+  "updated_at": "2026-07-04T00:53:18.493Z"
 }

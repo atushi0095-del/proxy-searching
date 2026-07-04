@@ -3,6 +3,135 @@
   "company_name": "ＴＯＫＡＩホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YNLR",
+      "submit_date_time": "2026-07-01 15:37",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNLR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1022566,
+          "votes_against": 2198,
+          "votes_abstain": 0,
+          "approval_pct": 99.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小栗勝男",
+          "votes_for": 957681,
+          "votes_against": 68362,
+          "votes_abstain": 65,
+          "approval_pct": 93.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村俊則",
+          "votes_for": 1014047,
+          "votes_against": 12063,
+          "votes_abstain": 0,
+          "approval_pct": 98.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浜崎貢",
+          "votes_for": 1011385,
+          "votes_against": 14726,
+          "votes_abstain": 0,
+          "approval_pct": 98.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋強",
+          "votes_for": 1013898,
+          "votes_against": 12213,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩本光司",
+          "votes_for": 1013930,
+          "votes_against": 12181,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河島伸子",
+          "votes_for": 1017571,
+          "votes_against": 8541,
+          "votes_abstain": 0,
+          "approval_pct": 99.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "上田亮子",
+          "votes_for": 990131,
+          "votes_against": 35980,
+          "votes_abstain": 0,
+          "approval_pct": 96.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "常峯啓史",
+          "votes_for": 1010324,
+          "votes_against": 15786,
+          "votes_abstain": 0,
+          "approval_pct": 98.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今田智久",
+          "votes_for": 966991,
+          "votes_against": 59117,
+          "votes_abstain": 0,
+          "approval_pct": 94.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WAFX",
@@ -297,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:03:58.078Z"
+  "updated_at": "2026-07-04T00:50:06.324Z"
 }

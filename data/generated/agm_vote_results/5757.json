@@ -3,6 +3,99 @@
   "company_name": "ＣＫサンエツ",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM90",
+      "submit_date_time": "2026-06-26 15:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM90",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 72677,
+          "votes_against": 100,
+          "votes_abstain": null,
+          "approval_pct": 99.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "釣谷宏行",
+          "votes_for": 68798,
+          "votes_against": 3979,
+          "votes_abstain": null,
+          "approval_pct": 94.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "釣谷伸行",
+          "votes_for": 71241,
+          "votes_against": 1536,
+          "votes_abstain": null,
+          "approval_pct": 97.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松井大輔",
+          "votes_for": 71235,
+          "votes_against": 1542,
+          "votes_abstain": null,
+          "approval_pct": 97.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森千恵美",
+          "votes_for": 71224,
+          "votes_against": 1553,
+          "votes_abstain": null,
+          "approval_pct": 97.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "桝田和彦",
+          "votes_for": 67800,
+          "votes_against": 4977,
+          "votes_abstain": null,
+          "approval_pct": 93.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "浜田亘",
+          "votes_for": 71227,
+          "votes_against": 1550,
+          "votes_abstain": null,
+          "approval_pct": 97.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8HX",
@@ -153,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:38:01.704Z"
+  "updated_at": "2026-07-04T01:20:31.964Z"
 }

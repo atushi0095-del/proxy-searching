@@ -1,0 +1,28 @@
+{
+  "company_code": "7060",
+  "company_name": "ギークス",
+  "meetings": [
+    {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN4G",
+      "submit_date_time": "2026-06-29 15:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN4G",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役3名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "山口祥子花木大悟仲江武史",
+          "votes_for": 794587944779442,
+          "votes_against": 248259264,
+          "votes_abstain": 0,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-04T01:06:08.072Z"
+}

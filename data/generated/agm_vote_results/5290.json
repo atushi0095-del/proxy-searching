@@ -3,6 +3,111 @@
   "company_name": "ベルテクスコーポレーション",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLST",
+      "submit_date_time": "2026-06-26 13:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLST",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 365599,
+          "votes_against": 316,
+          "votes_abstain": 7,
+          "approval_pct": 99.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "土屋明秀",
+          "votes_for": 358869,
+          "votes_against": 7045,
+          "votes_abstain": 7,
+          "approval_pct": 98.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山本譲",
+          "votes_for": 359052,
+          "votes_against": 6862,
+          "votes_abstain": 7,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "髙根総",
+          "votes_for": 359310,
+          "votes_against": 6604,
+          "votes_abstain": 7,
+          "approval_pct": 98.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "惠美健一",
+          "votes_for": 365376,
+          "votes_against": 538,
+          "votes_abstain": 7,
+          "approval_pct": 99.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "曽小川久貴",
+          "votes_for": 365309,
+          "votes_against": 605,
+          "votes_abstain": 7,
+          "approval_pct": 99.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "森裕",
+          "votes_for": 365363,
+          "votes_against": 551,
+          "votes_abstain": 7,
+          "approval_pct": 99.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松阿彌初美",
+          "votes_for": 337900,
+          "votes_against": 28015,
+          "votes_abstain": 7,
+          "approval_pct": 92.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W96I",
@@ -177,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:25:34.230Z"
+  "updated_at": "2026-07-04T01:25:53.775Z"
 }

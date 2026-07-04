@@ -3,6 +3,159 @@
   "company_name": "日本冶金工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLKE",
+      "submit_date_time": "2026-06-26 13:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLKE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 95504,
+          "votes_against": 294,
+          "votes_abstain": 22,
+          "approval_pct": 98.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浦田成己",
+          "votes_for": 94989,
+          "votes_against": 809,
+          "votes_abstain": 22,
+          "approval_pct": 98.01,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林伸互",
+          "votes_for": 95114,
+          "votes_against": 684,
+          "votes_abstain": 22,
+          "approval_pct": 98.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "豊田浩",
+          "votes_for": 95165,
+          "votes_against": 633,
+          "votes_abstain": 22,
+          "approval_pct": 98.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田恒",
+          "votes_for": 95195,
+          "votes_against": 603,
+          "votes_abstain": 22,
+          "approval_pct": 98.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "秋本朗",
+          "votes_for": 95225,
+          "votes_against": 573,
+          "votes_abstain": 22,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "早川尚",
+          "votes_for": 95222,
+          "votes_against": 576,
+          "votes_abstain": 22,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "谷謙二",
+          "votes_for": 95084,
+          "votes_against": 714,
+          "votes_abstain": 22,
+          "approval_pct": 98.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅泰三",
+          "votes_for": 95098,
+          "votes_against": 700,
+          "votes_abstain": 22,
+          "approval_pct": 98.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "江藤尚美",
+          "votes_for": 95084,
+          "votes_against": 714,
+          "votes_abstain": 22,
+          "approval_pct": 98.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小川麻理子",
+          "votes_for": 95134,
+          "votes_against": 664,
+          "votes_abstain": 22,
+          "approval_pct": 98.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "星川信行",
+          "votes_for": 95302,
+          "votes_against": 491,
+          "votes_abstain": 22,
+          "approval_pct": 98.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8H0",
@@ -381,5 +534,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:37:56.968Z"
+  "updated_at": "2026-07-04T01:26:17.221Z"
 }

@@ -3,6 +3,87 @@
   "company_name": "ＴＤＣソフト",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMQL",
+      "submit_date_time": "2026-06-29 11:43",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMQL",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 396098,
+          "votes_against": 257,
+          "votes_abstain": 0,
+          "approval_pct": 99.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小林裕嘉",
+          "votes_for": 330575,
+          "votes_against": 65780,
+          "votes_abstain": 0,
+          "approval_pct": 83.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "熊田稔",
+          "votes_for": 395284,
+          "votes_against": 1071,
+          "votes_abstain": 0,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中川順三",
+          "votes_for": 395238,
+          "votes_against": 1117,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "倉本昌和",
+          "votes_for": 390404,
+          "votes_against": 5951,
+          "votes_abstain": 0,
+          "approval_pct": 98.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "佐々木伸悟",
+          "votes_for": 395850,
+          "votes_against": 536,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W96V",
@@ -273,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:27:47.890Z"
+  "updated_at": "2026-07-04T01:13:32.278Z"
 }

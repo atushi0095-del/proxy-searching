@@ -3,6 +3,123 @@
   "company_name": "東和銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YOB7",
+      "submit_date_time": "2026-07-02 11:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOB7",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 276857,
+          "votes_against": 1176,
+          "votes_abstain": 0,
+          "approval_pct": 99.577,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北爪功",
+          "votes_for": 246814,
+          "votes_against": 31248,
+          "votes_abstain": 0,
+          "approval_pct": 88.762,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡部晋",
+          "votes_for": 272706,
+          "votes_against": 5356,
+          "votes_abstain": 0,
+          "approval_pct": 98.073,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木信一郎",
+          "votes_for": 263002,
+          "votes_against": 15060,
+          "votes_abstain": 0,
+          "approval_pct": 94.583,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水口剛",
+          "votes_for": 264228,
+          "votes_against": 13835,
+          "votes_abstain": 0,
+          "approval_pct": 95.024,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "齊藤三希子",
+          "votes_for": 275768,
+          "votes_against": 2295,
+          "votes_abstain": 0,
+          "approval_pct": 99.174,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "舟木諒",
+          "votes_for": 276621,
+          "votes_against": 1442,
+          "votes_abstain": 0,
+          "approval_pct": 99.481,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中陽子",
+          "votes_for": 276856,
+          "votes_against": 1231,
+          "votes_abstain": 0,
+          "approval_pct": 99.557,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "半場秀",
+          "votes_for": 276841,
+          "votes_against": 1253,
+          "votes_abstain": 0,
+          "approval_pct": 99.549,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WAN0",
@@ -345,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:03:06.108Z"
+  "updated_at": "2026-07-04T00:48:12.873Z"
 }

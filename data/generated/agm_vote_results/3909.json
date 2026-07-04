@@ -1,0 +1,88 @@
+{
+  "company_code": "3909",
+  "company_name": "ショーケース",
+  "meetings": [
+    {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNT5",
+      "submit_date_time": "2026-06-30 16:43",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNT5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本高一",
+          "votes_for": 54036,
+          "votes_against": 1626,
+          "votes_abstain": 63,
+          "approval_pct": 91.377,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鵜川太郎",
+          "votes_for": 54020,
+          "votes_against": 1642,
+          "votes_abstain": 63,
+          "approval_pct": 91.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保隆",
+          "votes_for": 54430,
+          "votes_against": 1232,
+          "votes_abstain": 35,
+          "approval_pct": 91.989,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柿沼佑一",
+          "votes_for": 54608,
+          "votes_against": 1054,
+          "votes_abstain": 35,
+          "approval_pct": 92.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "深川裕季",
+          "votes_for": 54580,
+          "votes_against": 1082,
+          "votes_abstain": 35,
+          "approval_pct": 92.242,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西村一彦",
+          "votes_for": 54268,
+          "votes_against": 1439,
+          "votes_abstain": 18,
+          "approval_pct": 91.699,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-04T00:53:51.957Z"
+}

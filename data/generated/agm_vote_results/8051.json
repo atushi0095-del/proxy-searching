@@ -3,6 +3,123 @@
   "company_name": "山善",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJSG",
+      "submit_date_time": "2026-06-25 10:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJSG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岸田貢司",
+          "votes_for": 709543,
+          "votes_against": 643613,
+          "votes_abstain": 41324,
+          "approval_pct": 50.88,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐々木公久",
+          "votes_for": 709544,
+          "votes_against": 650526,
+          "votes_abstain": 34412,
+          "approval_pct": 50.88,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山添正道",
+          "votes_for": 709545,
+          "votes_against": 659837,
+          "votes_abstain": 25102,
+          "approval_pct": 50.88,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山尚律",
+          "votes_for": 709545,
+          "votes_against": 659799,
+          "votes_abstain": 25140,
+          "approval_pct": 50.88,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "隅田博彦",
+          "votes_for": 709546,
+          "votes_against": 662117,
+          "votes_abstain": 22823,
+          "approval_pct": 50.88,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田安希子",
+          "votes_for": 709547,
+          "votes_against": 675416,
+          "votes_abstain": 9525,
+          "approval_pct": 50.88,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清原伸一",
+          "votes_for": 709613,
+          "votes_against": 665850,
+          "votes_abstain": 19157,
+          "approval_pct": 50.88,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "津田佳典",
+          "votes_for": 709613,
+          "votes_against": 569237,
+          "votes_abstain": 115770,
+          "approval_pct": 50.88,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中務尚子",
+          "votes_for": 709617,
+          "votes_against": 671540,
+          "votes_abstain": 13471,
+          "approval_pct": 50.88,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W5EU",
@@ -237,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:54:59.014Z"
+  "updated_at": "2026-07-04T01:42:13.480Z"
 }

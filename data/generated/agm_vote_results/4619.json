@@ -3,6 +3,111 @@
   "company_name": "日本特殊塗料",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKVW",
+      "submit_date_time": "2026-06-25 14:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKVW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 165350,
+          "votes_against": 1484,
+          "votes_abstain": 0,
+          "approval_pct": 99.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田谷純",
+          "votes_for": 164859,
+          "votes_against": 1984,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "遠田比呂志",
+          "votes_for": 164935,
+          "votes_against": 1908,
+          "votes_abstain": 0,
+          "approval_pct": 98.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木裕史",
+          "votes_for": 166621,
+          "votes_against": 222,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村信",
+          "votes_for": 166614,
+          "votes_against": 229,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "矢部耕三",
+          "votes_for": 166624,
+          "votes_against": 219,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅香衣世",
+          "votes_for": 166544,
+          "votes_against": 299,
+          "votes_abstain": 0,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙取芳宏",
+          "votes_for": 166624,
+          "votes_against": 219,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W79Y",
@@ -177,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:50:21.186Z"
+  "updated_at": "2026-07-04T01:38:05.212Z"
 }

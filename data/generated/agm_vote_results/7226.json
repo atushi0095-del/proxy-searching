@@ -3,6 +3,111 @@
   "company_name": "極東開発工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKXI",
+      "submit_date_time": "2026-06-25 15:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKXI",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 311453,
+          "votes_against": 679,
+          "votes_abstain": 797,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 305996,
+          "votes_against": 6136,
+          "votes_abstain": 797,
+          "approval_pct": 97.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）8名選任の件布原達也則光健男堀本昇木津輝幸市村哲也寺川博之金子啓子友廣隆宣",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 2.1510226392428746e+47,
+          "votes_against": 9.702848203246702e+38,
+          "votes_abstain": 7.977977977977978e+23,
+          "approval_pct": 68.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役5名選任の件櫻井晃栗山裕章藤原邦晃浅田修宏山田陽子",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 2.9190629194027084e+29,
+          "votes_against": 2.0220201864129064e+21,
+          "votes_abstain": 797797797797797,
+          "approval_pct": 92.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 311538,
+          "votes_against": 593,
+          "votes_abstain": 797,
+          "approval_pct": 98.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案取締役（監査等委員である取締役を除く。）の報酬額設定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 282202,
+          "votes_against": 29886,
+          "votes_abstain": 840,
+          "approval_pct": 89.65,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案監査等委員である取締役の報酬額設定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 306481,
+          "votes_against": 5607,
+          "votes_abstain": 840,
+          "approval_pct": 97.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案取締役（監査等委員である取締役及び社外取締役を除く。）に対する譲渡制限付株式の付与のための報酬決定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 310697,
+          "votes_against": 1434,
+          "votes_abstain": 797,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W98E",
@@ -69,5 +174,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:26:45.729Z"
+  "updated_at": "2026-07-04T01:36:30.663Z"
 }

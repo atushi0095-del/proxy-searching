@@ -3,6 +3,75 @@
   "company_name": "KDDI株式会社",
   "meetings": [
     {
+      "meeting_date": "2026-06-17",
+      "meeting_year": 2026,
+      "doc_id": "S100YGLR",
+      "submit_date_time": "2026-06-23 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGLR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件注1）",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 31737591,
+          "votes_against": 10673,
+          "votes_abstain": 726,
+          "approval_pct": 98.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役12名選任の件注2）候補者(1）髙橋誠",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 19998171,
+          "votes_against": 11750746,
+          "votes_abstain": 26,
+          "approval_pct": 62.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役2名選任の件注2）候補者(1）増田和彦",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 31474677,
+          "votes_against": 273535,
+          "votes_abstain": 726,
+          "approval_pct": 98.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案取締役等に対する業績連動型株式報酬制度の継続及び一部改定の件注1）",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 29308701,
+          "votes_against": 2440239,
+          "votes_abstain": 26,
+          "approval_pct": 91.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案監査役の報酬額改定の件注1）",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 30934998,
+          "votes_against": 795133,
+          "votes_abstain": 18863,
+          "approval_pct": 96.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100W2ZX",
@@ -105,5 +174,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:05:38.038Z"
+  "updated_at": "2026-07-04T01:51:28.683Z"
 }

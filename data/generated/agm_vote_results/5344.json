@@ -3,6 +3,99 @@
   "company_name": "ＭＡＲＵＷＡ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YFHP",
+      "submit_date_time": "2026-06-19 15:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFHP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 94466,
+          "votes_against": 18991,
+          "votes_abstain": 17,
+          "approval_pct": 83.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林春行",
+          "votes_for": 107647,
+          "votes_against": 5809,
+          "votes_abstain": 17,
+          "approval_pct": 94.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "神戸俊郎",
+          "votes_for": 98069,
+          "votes_against": 15383,
+          "votes_abstain": 17,
+          "approval_pct": 86.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "マニマラン・アントニ",
+          "votes_for": 106956,
+          "votes_against": 6501,
+          "votes_abstain": 17,
+          "approval_pct": 94.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口大介",
+          "votes_for": 107908,
+          "votes_against": 5549,
+          "votes_abstain": 17,
+          "approval_pct": 94.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂口美穂",
+          "votes_for": 108428,
+          "votes_against": 5030,
+          "votes_abstain": 17,
+          "approval_pct": 95.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉田富美香",
+          "votes_for": 113435,
+          "votes_against": 25,
+          "votes_abstain": 17,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2GW",
@@ -189,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:12:01.549Z"
+  "updated_at": "2026-07-04T01:58:29.284Z"
 }

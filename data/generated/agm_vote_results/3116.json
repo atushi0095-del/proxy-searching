@@ -3,6 +3,39 @@
   "company_name": "トヨタ紡織",
   "meetings": [
     {
+      "meeting_date": "2026-06-12",
+      "meeting_year": 2026,
+      "doc_id": "S100YB0Z",
+      "submit_date_time": "2026-06-15 09:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YB0Z",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案豊田周平白柳正義角田浩樹岩森俊一足立記通塩川純子瀬戸章文山崎康彦大村寛子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.5757281561812156e+62,
+          "votes_against": 1.520029115276422e+42,
+          "votes_abstain": 444444440000000,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1592574,
+          "votes_against": 2478,
+          "votes_abstain": 338,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-11",
       "meeting_year": 2025,
       "doc_id": "S100VX1V",
@@ -69,5 +102,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:23:17.583Z"
+  "updated_at": "2026-07-04T02:02:30.974Z"
 }

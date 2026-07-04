@@ -3,6 +3,87 @@
   "company_name": "日本信号",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YDG5",
+      "submit_date_time": "2026-06-23 12:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YDG5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "塚本英彦",
+          "votes_for": 422099,
+          "votes_against": 101041,
+          "votes_abstain": 730,
+          "approval_pct": 80.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "後藤隆一",
+          "votes_for": 436412,
+          "votes_against": 86728,
+          "votes_abstain": 730,
+          "approval_pct": 82.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "堀江徹",
+          "votes_for": 521657,
+          "votes_against": 1483,
+          "votes_abstain": 730,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村田誉之",
+          "votes_for": 521516,
+          "votes_against": 1624,
+          "votes_abstain": 730,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大川容子",
+          "votes_for": 522049,
+          "votes_against": 1091,
+          "votes_abstain": 730,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 521975,
+          "votes_against": 1403,
+          "votes_abstain": 730,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W03Z",
@@ -249,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:14:30.884Z"
+  "updated_at": "2026-07-04T01:52:29.056Z"
 }

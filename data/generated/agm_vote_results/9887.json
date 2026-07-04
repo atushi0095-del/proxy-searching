@@ -3,6 +3,123 @@
   "company_name": "松屋フーズホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YLL2",
+      "submit_date_time": "2026-06-26 09:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLL2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 157000,
+          "votes_against": 3042,
+          "votes_abstain": null,
+          "approval_pct": 94.895,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "瓦葺一利",
+          "votes_for": 146579,
+          "votes_against": 13464,
+          "votes_abstain": null,
+          "approval_pct": 88.595,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村洋一",
+          "votes_for": 154896,
+          "votes_against": 5148,
+          "votes_abstain": null,
+          "approval_pct": 93.622,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "薄井芳人",
+          "votes_for": 155003,
+          "votes_against": 5041,
+          "votes_abstain": null,
+          "approval_pct": 93.686,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤原英理",
+          "votes_for": 154828,
+          "votes_against": 5217,
+          "votes_abstain": null,
+          "approval_pct": 93.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中谷智子",
+          "votes_for": 157077,
+          "votes_against": 2969,
+          "votes_abstain": null,
+          "approval_pct": 94.939,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小堀優",
+          "votes_for": 158864,
+          "votes_against": 1186,
+          "votes_abstain": null,
+          "approval_pct": 96.017,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木和憲",
+          "votes_for": 158721,
+          "votes_against": 1330,
+          "votes_abstain": null,
+          "approval_pct": 95.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 142676,
+          "votes_against": 17371,
+          "votes_abstain": null,
+          "approval_pct": 86.234,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W83W",
@@ -201,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:35:30.142Z"
+  "updated_at": "2026-07-04T01:32:13.643Z"
 }

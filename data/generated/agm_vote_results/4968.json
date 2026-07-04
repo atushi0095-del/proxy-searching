@@ -3,6 +3,147 @@
   "company_name": "荒川化学工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLX9",
+      "submit_date_time": "2026-06-29 10:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLX9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 156339,
+          "votes_against": 2932,
+          "votes_abstain": 0,
+          "approval_pct": 98.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高木信之",
+          "votes_for": 136336,
+          "votes_against": 22935,
+          "votes_abstain": 0,
+          "approval_pct": 85.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "延廣徹",
+          "votes_for": 152380,
+          "votes_against": 6891,
+          "votes_abstain": 0,
+          "approval_pct": 95.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡﨑巧",
+          "votes_for": 152575,
+          "votes_against": 6696,
+          "votes_abstain": 0,
+          "approval_pct": 95.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "冨宅伸幸",
+          "votes_for": 158387,
+          "votes_against": 884,
+          "votes_abstain": 0,
+          "approval_pct": 99.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "正宗エリザベス",
+          "votes_for": 152266,
+          "votes_against": 7005,
+          "votes_abstain": 0,
+          "approval_pct": 95.6,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小山俊也",
+          "votes_for": 158289,
+          "votes_against": 982,
+          "votes_abstain": 0,
+          "approval_pct": 99.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "櫻井容子",
+          "votes_for": 158507,
+          "votes_against": 764,
+          "votes_abstain": 0,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水家次朗",
+          "votes_for": 148410,
+          "votes_against": 10861,
+          "votes_abstain": 0,
+          "approval_pct": 93.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "巳波淳",
+          "votes_for": 143919,
+          "votes_against": 15352,
+          "votes_abstain": 0,
+          "approval_pct": 90.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中務正裕",
+          "votes_for": 154402,
+          "votes_against": 4869,
+          "votes_abstain": 0,
+          "approval_pct": 96.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W94V",
@@ -249,5 +390,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:26:48.181Z"
+  "updated_at": "2026-07-04T01:16:33.764Z"
 }

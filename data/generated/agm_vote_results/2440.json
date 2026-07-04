@@ -3,6 +3,99 @@
   "company_name": "ぐるなび",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMPV",
+      "submit_date_time": "2026-06-29 11:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMPV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 361285,
+          "votes_against": 4715,
+          "votes_abstain": 0,
+          "approval_pct": 98.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "滝久雄",
+          "votes_for": 345225,
+          "votes_against": 20775,
+          "votes_abstain": 0,
+          "approval_pct": 94.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "杉原章郎",
+          "votes_for": 336038,
+          "votes_against": 29962,
+          "votes_abstain": 0,
+          "approval_pct": 91.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "藤原裕久",
+          "votes_for": 348880,
+          "votes_against": 17120,
+          "votes_abstain": 0,
+          "approval_pct": 95.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "笠原和彦",
+          "votes_for": 326943,
+          "votes_against": 39057,
+          "votes_abstain": 0,
+          "approval_pct": 89.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安藤公二",
+          "votes_for": 327452,
+          "votes_against": 38548,
+          "votes_abstain": 0,
+          "approval_pct": 89.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松村亮",
+          "votes_for": 327235,
+          "votes_against": 38765,
+          "votes_abstain": 0,
+          "approval_pct": 89.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6LY",
@@ -144,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:54:04.410Z"
+  "updated_at": "2026-07-04T01:13:48.772Z"
 }

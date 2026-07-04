@@ -3,6 +3,87 @@
   "company_name": "日本精化",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKKO",
+      "submit_date_time": "2026-06-26 10:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKKO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 186474,
+          "votes_against": 51,
+          "votes_abstain": 29,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "矢野浩史",
+          "votes_for": 172231,
+          "votes_against": 14382,
+          "votes_abstain": 29,
+          "approval_pct": 91.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川林正信",
+          "votes_for": 185778,
+          "votes_against": 835,
+          "votes_abstain": 29,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大橋幸浩",
+          "votes_for": 185804,
+          "votes_against": 809,
+          "votes_abstain": 29,
+          "approval_pct": 99.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "太田進",
+          "votes_for": 186310,
+          "votes_against": 303,
+          "votes_abstain": 29,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松若恵理子",
+          "votes_for": 186416,
+          "votes_against": 197,
+          "votes_abstain": 29,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W5BG",
@@ -249,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:54:11.761Z"
+  "updated_at": "2026-07-04T01:30:42.154Z"
 }

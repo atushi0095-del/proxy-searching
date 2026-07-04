@@ -3,6 +3,99 @@
   "company_name": "Ｋｕｄａｎ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YJ0Z",
+      "submit_date_time": "2026-06-26 17:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJ0Z",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 51088,
+          "votes_against": 993,
+          "votes_abstain": 0,
+          "approval_pct": 98.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大野智弘",
+          "votes_for": 51049,
+          "votes_against": 1037,
+          "votes_abstain": 0,
+          "approval_pct": 98.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "項大雨",
+          "votes_for": 49984,
+          "votes_against": 2102,
+          "votes_abstain": 0,
+          "approval_pct": 95.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "郝天",
+          "votes_for": 51172,
+          "votes_against": 914,
+          "votes_abstain": 0,
+          "approval_pct": 98.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "浅野礼子",
+          "votes_for": 51168,
+          "votes_against": 918,
+          "votes_abstain": 0,
+          "approval_pct": 98.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "美澤臣一",
+          "votes_for": 51636,
+          "votes_against": 450,
+          "votes_abstain": 0,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "三井田隆",
+          "votes_for": 51611,
+          "votes_against": 475,
+          "votes_abstain": 0,
+          "approval_pct": 99.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W1C4",
@@ -213,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:17:26.047Z"
+  "updated_at": "2026-07-04T01:18:47.908Z"
 }

@@ -3,6 +3,75 @@
   "company_name": "ジャフコ　グループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-16",
+      "meeting_year": 2026,
+      "doc_id": "S100YD4L",
+      "submit_date_time": "2026-06-17 12:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YD4L",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 345139,
+          "votes_against": 409,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "豊貴伸一",
+          "votes_for": 307366,
+          "votes_against": 38179,
+          "votes_abstain": 0,
+          "approval_pct": 88.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三好啓介",
+          "votes_for": 299827,
+          "votes_against": 45720,
+          "votes_abstain": 0,
+          "approval_pct": 86.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "榎本英二",
+          "votes_for": 344803,
+          "votes_against": 745,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林敬子",
+          "votes_for": 344617,
+          "votes_against": 931,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-17",
       "meeting_year": 2025,
       "doc_id": "S100VYYT",
@@ -141,5 +210,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:20:25.478Z"
+  "updated_at": "2026-07-04T02:01:36.212Z"
 }

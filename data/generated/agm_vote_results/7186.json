@@ -3,6 +3,111 @@
   "company_name": "コンコルディア・フィナンシャルグループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YA3A",
+      "submit_date_time": "2026-06-22 14:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YA3A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "片岡達也",
+          "votes_for": 9144619,
+          "votes_against": 169570,
+          "votes_abstain": 2193,
+          "approval_pct": 96.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野寺伸夫",
+          "votes_for": 9282686,
+          "votes_against": 33684,
+          "votes_abstain": 16,
+          "approval_pct": 97.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "勝田道文",
+          "votes_for": 9293131,
+          "votes_against": 23239,
+          "votes_abstain": 16,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "依田真美",
+          "votes_for": 9295449,
+          "votes_against": 20923,
+          "votes_abstain": 16,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石井茂",
+          "votes_for": 9295582,
+          "votes_against": 20790,
+          "votes_abstain": 16,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西田豊",
+          "votes_for": 9309198,
+          "votes_against": 7174,
+          "votes_abstain": 16,
+          "approval_pct": 98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "馬渕磨理子",
+          "votes_for": 9303250,
+          "votes_against": 13122,
+          "votes_abstain": 16,
+          "approval_pct": 98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本圭一郎",
+          "votes_for": 9297133,
+          "votes_against": 22136,
+          "votes_abstain": 16,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2Q2",
@@ -309,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:10:13.775Z"
+  "updated_at": "2026-07-04T01:55:21.720Z"
 }

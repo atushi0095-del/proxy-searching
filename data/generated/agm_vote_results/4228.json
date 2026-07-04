@@ -3,6 +3,123 @@
   "company_name": "積水化成品工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKN3",
+      "submit_date_time": "2026-06-25 11:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKN3",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 336859,
+          "votes_against": 887,
+          "votes_abstain": 338747,
+          "approval_pct": 99.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "古林育将",
+          "votes_for": 272713,
+          "votes_against": 65056,
+          "votes_abstain": 0,
+          "approval_pct": 80.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐々木勝已",
+          "votes_for": 306422,
+          "votes_against": 31347,
+          "votes_abstain": 0,
+          "approval_pct": 90.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅田英志",
+          "votes_for": 306182,
+          "votes_against": 31587,
+          "votes_abstain": 0,
+          "approval_pct": 90.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅野泰正",
+          "votes_for": 335044,
+          "votes_against": 2725,
+          "votes_abstain": 0,
+          "approval_pct": 98.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "今西康貴",
+          "votes_for": 334998,
+          "votes_against": 2771,
+          "votes_abstain": 0,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "若林市廊",
+          "votes_for": 321453,
+          "votes_against": 16316,
+          "votes_abstain": 0,
+          "approval_pct": 94.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小椋悟",
+          "votes_for": 335313,
+          "votes_against": 2456,
+          "votes_abstain": 0,
+          "approval_pct": 98.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "其田真理",
+          "votes_for": 335087,
+          "votes_against": 2682,
+          "votes_abstain": 0,
+          "approval_pct": 98.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W7IG",
@@ -297,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:47:48.052Z"
+  "updated_at": "2026-07-04T01:40:31.242Z"
 }

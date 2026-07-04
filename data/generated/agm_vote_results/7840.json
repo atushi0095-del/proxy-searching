@@ -3,6 +3,111 @@
   "company_name": "フランスベッドホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLR8",
+      "submit_date_time": "2026-06-29 09:58",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLR8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 251760,
+          "votes_against": 1370,
+          "votes_abstain": 0,
+          "approval_pct": 98.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田茂",
+          "votes_for": 250306,
+          "votes_against": 2824,
+          "votes_abstain": 0,
+          "approval_pct": 98.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田一実",
+          "votes_for": 251514,
+          "votes_against": 1616,
+          "votes_abstain": 0,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "桑田龍弘",
+          "votes_for": 251410,
+          "votes_against": 1720,
+          "votes_abstain": 0,
+          "approval_pct": 98.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長田明彦",
+          "votes_for": 251681,
+          "votes_against": 1449,
+          "votes_abstain": 0,
+          "approval_pct": 98.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木村昭仁",
+          "votes_for": 251502,
+          "votes_against": 1626,
+          "votes_abstain": 0,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村秀一",
+          "votes_for": 218457,
+          "votes_against": 34671,
+          "votes_abstain": 0,
+          "approval_pct": 85.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邊敏",
+          "votes_for": 251083,
+          "votes_against": 2045,
+          "votes_abstain": 0,
+          "approval_pct": 98.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W7VS",
@@ -237,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:34:45.563Z"
+  "updated_at": "2026-07-04T01:16:55.243Z"
 }

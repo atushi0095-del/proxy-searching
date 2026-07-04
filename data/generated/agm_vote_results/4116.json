@@ -3,6 +3,135 @@
   "company_name": "大日精化工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YHP2",
+      "submit_date_time": "2026-06-29 10:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHP2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 137167,
+          "votes_against": 242,
+          "votes_abstain": 1,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 137110,
+          "votes_against": 300,
+          "votes_abstain": null,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋弘二",
+          "votes_for": 126213,
+          "votes_against": 11197,
+          "votes_abstain": null,
+          "approval_pct": 91.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青葉匡彦",
+          "votes_for": 131699,
+          "votes_against": 5710,
+          "votes_abstain": null,
+          "approval_pct": 95.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "竹田治",
+          "votes_for": 134067,
+          "votes_against": 3342,
+          "votes_abstain": null,
+          "approval_pct": 97.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山高志",
+          "votes_for": 134044,
+          "votes_against": 3365,
+          "votes_abstain": null,
+          "approval_pct": 97.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川義章",
+          "votes_for": 134060,
+          "votes_against": 3350,
+          "votes_abstain": null,
+          "approval_pct": 97.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長濱晶子",
+          "votes_for": 134146,
+          "votes_against": 3264,
+          "votes_abstain": null,
+          "approval_pct": 97.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中野淳文",
+          "votes_for": 134151,
+          "votes_against": 3259,
+          "votes_abstain": null,
+          "approval_pct": 97.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 96485,
+          "votes_against": 40925,
+          "votes_abstain": null,
+          "approval_pct": 69.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W90S",
@@ -321,5 +450,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:25:00.109Z"
+  "updated_at": "2026-07-04T01:14:53.322Z"
 }

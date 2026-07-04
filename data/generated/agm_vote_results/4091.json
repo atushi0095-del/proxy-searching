@@ -3,6 +3,123 @@
   "company_name": "日本酸素ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-17",
+      "meeting_year": 2026,
+      "doc_id": "S100YG85",
+      "submit_date_time": "2026-06-23 09:27",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YG85",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉忠治",
+          "votes_for": 4013206,
+          "votes_against": 28055,
+          "votes_abstain": 3917,
+          "approval_pct": 99.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永田研二",
+          "votes_for": 4032955,
+          "votes_against": 12196,
+          "votes_abstain": 30,
+          "approval_pct": 99.52,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ラウル・ジュディチ",
+          "votes_for": 4033267,
+          "votes_against": 11884,
+          "votes_abstain": 30,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "アラン・デビッド・ドレイパー",
+          "votes_for": 4030625,
+          "votes_against": 14524,
+          "votes_abstain": 30,
+          "approval_pct": 99.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原美里",
+          "votes_for": 4041752,
+          "votes_against": 3399,
+          "votes_abstain": 30,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長澤克己",
+          "votes_for": 4040956,
+          "votes_against": 4195,
+          "votes_abstain": 30,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮武雅子",
+          "votes_for": 4041626,
+          "votes_against": 3525,
+          "votes_abstain": 30,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中島秀夫",
+          "votes_for": 4040991,
+          "votes_against": 4127,
+          "votes_abstain": 30,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山地勝仁",
+          "votes_for": 3999489,
+          "votes_against": 37562,
+          "votes_abstain": 8123,
+          "approval_pct": 98.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100VXJX",
@@ -261,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:12:48.260Z"
+  "updated_at": "2026-07-04T01:53:36.796Z"
 }

@@ -3,6 +3,159 @@
   "company_name": "不動テトラ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YJTW",
+      "submit_date_time": "2026-06-24 16:40",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJTW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 114248,
+          "votes_against": 838,
+          "votes_abstain": 250,
+          "approval_pct": 99.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "奥田眞也",
+          "votes_for": 110753,
+          "votes_against": 4542,
+          "votes_abstain": 250,
+          "approval_pct": 95.85,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大林淳",
+          "votes_for": 111824,
+          "votes_against": 3472,
+          "votes_abstain": 250,
+          "approval_pct": 96.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐藤敬",
+          "votes_for": 114206,
+          "votes_against": 1091,
+          "votes_abstain": 250,
+          "approval_pct": 98.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大沢真理",
+          "votes_for": 114020,
+          "votes_against": 1277,
+          "votes_abstain": 250,
+          "approval_pct": 98.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川村倫大",
+          "votes_for": 114164,
+          "votes_against": 1133,
+          "votes_abstain": 250,
+          "approval_pct": 98.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三浦久美子",
+          "votes_for": 113753,
+          "votes_against": 1543,
+          "votes_abstain": 250,
+          "approval_pct": 98.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒田清行",
+          "votes_for": 114257,
+          "votes_against": 1040,
+          "votes_abstain": 250,
+          "approval_pct": 98.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木昌治",
+          "votes_for": 114384,
+          "votes_against": 913,
+          "votes_abstain": 250,
+          "approval_pct": 98.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前田清",
+          "votes_for": 114381,
+          "votes_against": 916,
+          "votes_abstain": 250,
+          "approval_pct": 98.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井上寅喜",
+          "votes_for": 114365,
+          "votes_against": 932,
+          "votes_abstain": 250,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "足立学",
+          "votes_for": 114398,
+          "votes_against": 899,
+          "votes_abstain": 250,
+          "approval_pct": 99.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W60D",
@@ -249,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:55:36.299Z"
+  "updated_at": "2026-07-04T01:43:49.940Z"
 }

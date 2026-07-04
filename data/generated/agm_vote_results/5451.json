@@ -3,6 +3,135 @@
   "company_name": "淀川製鋼所",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YGC8",
+      "submit_date_time": "2026-06-24 15:02",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGC8",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中栄一",
+          "votes_for": 1114936,
+          "votes_against": 121431,
+          "votes_abstain": 80,
+          "approval_pct": 90.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "隈元稔夫",
+          "votes_for": 1122047,
+          "votes_against": 114390,
+          "votes_abstain": 11,
+          "approval_pct": 90.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "服部格",
+          "votes_for": 1119475,
+          "votes_against": 116962,
+          "votes_abstain": 11,
+          "approval_pct": 90.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "崎永清一",
+          "votes_for": 1122128,
+          "votes_against": 114309,
+          "votes_abstain": 11,
+          "approval_pct": 90.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小林貞人",
+          "votes_for": 1123607,
+          "votes_against": 112831,
+          "votes_abstain": 11,
+          "approval_pct": 90.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久世勝之",
+          "votes_for": 1124497,
+          "votes_against": 111941,
+          "votes_abstain": 11,
+          "approval_pct": 90.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石原美保",
+          "votes_for": 1124487,
+          "votes_against": 111951,
+          "votes_abstain": 11,
+          "approval_pct": 90.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安原徹",
+          "votes_for": 1126356,
+          "votes_against": 4466,
+          "votes_abstain": 105628,
+          "approval_pct": 90.94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1066553,
+          "votes_against": 169731,
+          "votes_abstain": 165,
+          "approval_pct": 86.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1209365,
+          "votes_against": 26919,
+          "votes_abstain": 165,
+          "approval_pct": 97.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W0N9",
@@ -381,5 +510,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:59:28.538Z"
+  "updated_at": "2026-07-04T01:46:53.735Z"
 }

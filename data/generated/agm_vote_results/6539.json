@@ -3,6 +3,63 @@
   "company_name": "ＭＳ－Ｊａｐａｎ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YLR2",
+      "submit_date_time": "2026-06-26 11:06",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLR2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 190069,
+          "votes_against": 964,
+          "votes_abstain": 4,
+          "approval_pct": 99.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案有本隆浩藤江眞之山本拓西田穣",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.8764218773218954e+23,
+          "votes_against": 3395330514891711,
+          "votes_abstain": 0,
+          "approval_pct": 98.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案和田育子大浦善光坂元英峰",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 189368187360189340,
+          "votes_against": 166936771708,
+          "votes_abstain": 0,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案阿久津透",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 189859,
+          "votes_against": 1178,
+          "votes_abstain": 0,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W9A8",
@@ -93,5 +150,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:25:48.905Z"
+  "updated_at": "2026-07-04T01:28:46.270Z"
 }

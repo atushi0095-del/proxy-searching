@@ -1,0 +1,52 @@
+{
+  "company_code": "8303",
+  "company_name": "ＳＢＩ新生銀行",
+  "meetings": [
+    {
+      "meeting_date": "2026-06-22",
+      "meeting_year": 2026,
+      "doc_id": "S100YJ5Z",
+      "submit_date_time": "2026-06-24 11:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJ5Z",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案川島克哉寺澤英輔藤崎圭小倉將信寺田昌弘瀧口友里奈谷崎勝教林眞琴迫田裕治",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7.436725757510076e+62,
+          "votes_against": 1.7298734612372444e+45,
+          "votes_abstain": 0,
+          "approval_pct": 97.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7557179,
+          "votes_against": 53241,
+          "votes_abstain": 0,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 7558123,
+          "votes_against": 52322,
+          "votes_abstain": 0,
+          "approval_pct": 98.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-04T01:49:13.949Z"
+}

@@ -3,6 +3,135 @@
   "company_name": "オイレス工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNVN",
+      "submit_date_time": "2026-07-01 09:17",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNVN",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 237754,
+          "votes_against": 504,
+          "votes_abstain": null,
+          "approval_pct": 99.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "飯田昌弥",
+          "votes_for": 236561,
+          "votes_against": 1697,
+          "votes_abstain": null,
+          "approval_pct": 99.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂入良和",
+          "votes_for": 236890,
+          "votes_against": 1367,
+          "votes_abstain": null,
+          "approval_pct": 99.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田邊和治",
+          "votes_for": 237464,
+          "votes_against": 794,
+          "votes_abstain": null,
+          "approval_pct": 99.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮川理加",
+          "votes_for": 236599,
+          "votes_against": 1659,
+          "votes_abstain": null,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野呂政樹",
+          "votes_for": 236613,
+          "votes_against": 1645,
+          "votes_abstain": null,
+          "approval_pct": 99.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "米山操",
+          "votes_for": 235501,
+          "votes_against": 2757,
+          "votes_abstain": null,
+          "approval_pct": 98.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "榊原健郎",
+          "votes_for": 237140,
+          "votes_against": 1118,
+          "votes_abstain": null,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "萩谷麻衣子",
+          "votes_for": 236723,
+          "votes_against": 1535,
+          "votes_abstain": null,
+          "approval_pct": 99.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩﨑哲也",
+          "votes_for": 237128,
+          "votes_against": 1130,
+          "votes_abstain": null,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WA29",
@@ -309,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:12:45.432Z"
+  "updated_at": "2026-07-04T00:53:06.836Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "日本触媒",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YG4V",
+      "submit_date_time": "2026-06-22 16:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YG4V",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1154309,
+          "votes_against": 4386,
+          "votes_abstain": null,
+          "approval_pct": 99.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "野田和宏",
+          "votes_for": 932146,
+          "votes_against": 226523,
+          "votes_abstain": 106,
+          "approval_pct": 80.44,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "住田康隆",
+          "votes_for": 1095084,
+          "votes_against": 63699,
+          "votes_abstain": null,
+          "approval_pct": 94.5,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松本行弘",
+          "votes_for": 1095472,
+          "votes_against": 63311,
+          "votes_abstain": null,
+          "approval_pct": 94.54,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "薦田健二郎",
+          "votes_for": 1147118,
+          "votes_against": 11665,
+          "votes_abstain": null,
+          "approval_pct": 98.99,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "原田茂",
+          "votes_for": 1144559,
+          "votes_against": 14223,
+          "votes_abstain": null,
+          "approval_pct": 98.77,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "櫻井美幸",
+          "votes_for": 1102385,
+          "votes_against": 56400,
+          "votes_abstain": null,
+          "approval_pct": 95.13,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "池田安希子",
+          "votes_for": 1153232,
+          "votes_against": 5553,
+          "votes_abstain": null,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "寳來茂",
+          "votes_for": 1155513,
+          "votes_against": 3273,
+          "votes_abstain": null,
+          "approval_pct": 99.72,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "上田賢一",
+          "votes_for": 1075319,
+          "votes_against": 83461,
+          "votes_abstain": null,
+          "approval_pct": 92.8,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W0OP",
@@ -285,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:15:22.939Z"
+  "updated_at": "2026-07-04T01:54:16.457Z"
 }

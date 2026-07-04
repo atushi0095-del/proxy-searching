@@ -3,6 +3,147 @@
   "company_name": "東邦銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNTT",
+      "submit_date_time": "2026-07-01 09:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNTT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2053279,
+          "votes_against": 38495,
+          "votes_abstain": 1,
+          "approval_pct": 98.16,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "1佐藤稔",
+          "votes_for": 2013468,
+          "votes_against": 78333,
+          "votes_abstain": 1,
+          "approval_pct": 96.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "2遠藤勝利",
+          "votes_for": 2013722,
+          "votes_against": 78080,
+          "votes_abstain": 1,
+          "approval_pct": 96.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "3関根貴",
+          "votes_for": 2049801,
+          "votes_against": 42001,
+          "votes_abstain": 1,
+          "approval_pct": 97.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "4金成倫",
+          "votes_for": 2048007,
+          "votes_against": 43795,
+          "votes_abstain": 1,
+          "approval_pct": 97.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "5小西雅子",
+          "votes_for": 2015092,
+          "votes_against": 76712,
+          "votes_abstain": 1,
+          "approval_pct": 96.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役以外の取締役6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "6畠利行",
+          "votes_for": 2050881,
+          "votes_against": 40923,
+          "votes_abstain": 1,
+          "approval_pct": 98.04,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "1高橋由美子",
+          "votes_for": 2030179,
+          "votes_against": 61619,
+          "votes_abstain": 1,
+          "approval_pct": 97.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "2久田高正",
+          "votes_for": 2049092,
+          "votes_against": 42712,
+          "votes_abstain": 1,
+          "approval_pct": 97.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "3小田徹",
+          "votes_for": 2049292,
+          "votes_against": 42512,
+          "votes_abstain": 1,
+          "approval_pct": 97.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役4名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "4高木侑子",
+          "votes_for": 2051337,
+          "votes_against": 40467,
+          "votes_abstain": 1,
+          "approval_pct": 98.07,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9VD",
@@ -237,5 +378,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:13:34.972Z"
+  "updated_at": "2026-07-04T00:53:13.852Z"
 }

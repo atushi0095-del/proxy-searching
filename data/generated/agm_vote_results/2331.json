@@ -3,6 +3,147 @@
   "company_name": "綜合警備保障",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100Y7EE",
+      "submit_date_time": "2026-06-29 13:05",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y7EE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 4068449,
+          "votes_against": 6344,
+          "votes_abstain": 230,
+          "approval_pct": 99.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村井豪",
+          "votes_for": 3724124,
+          "votes_against": 341458,
+          "votes_abstain": 9439,
+          "approval_pct": 91.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "百武尚樹",
+          "votes_for": 3988665,
+          "votes_against": 86128,
+          "votes_abstain": 230,
+          "approval_pct": 97.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林新一郎",
+          "votes_for": 3992574,
+          "votes_against": 82222,
+          "votes_abstain": 230,
+          "approval_pct": 97.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野誠司",
+          "votes_for": 3975802,
+          "votes_against": 98994,
+          "votes_abstain": 230,
+          "approval_pct": 97.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "米田聖",
+          "votes_for": 3988547,
+          "votes_against": 86249,
+          "votes_abstain": 230,
+          "approval_pct": 97.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池永肇恵",
+          "votes_for": 4048116,
+          "votes_against": 26681,
+          "votes_abstain": 230,
+          "approval_pct": 99.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森田宏之",
+          "votes_for": 4036546,
+          "votes_against": 38251,
+          "votes_abstain": 230,
+          "approval_pct": 98.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田中里沙",
+          "votes_for": 3965445,
+          "votes_against": 109351,
+          "votes_abstain": 230,
+          "approval_pct": 97.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "半田禎",
+          "votes_for": 3982345,
+          "votes_against": 92450,
+          "votes_abstain": 230,
+          "approval_pct": 97.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池山成俊",
+          "votes_for": 4069961,
+          "votes_against": 4844,
+          "votes_abstain": 230,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W968",
@@ -381,5 +522,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:22:36.068Z"
+  "updated_at": "2026-07-04T01:12:45.808Z"
 }

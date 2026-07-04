@@ -3,6 +3,111 @@
   "company_name": "高知銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNS0",
+      "submit_date_time": "2026-07-01 15:43",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNS0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 69745,
+          "votes_against": 865,
+          "votes_abstain": 8,
+          "approval_pct": 98.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 69706,
+          "votes_against": 844,
+          "votes_abstain": 68,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案海治勝彦河合祐子吉村卓浩寺川智文植田伸一野﨑博通",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6.596467027685686e+29,
+          "votes_against": 4.616355320122011e+21,
+          "votes_abstain": 383838383838,
+          "approval_pct": 93.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案山田浩石田惠美衛藤公洋松尾晋次",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 69513695196951670000,
+          "votes_against": 9889829851088,
+          "votes_abstain": 117117117117,
+          "approval_pct": 98.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 69339,
+          "votes_against": 1218,
+          "votes_abstain": 61,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 69335,
+          "votes_against": 1160,
+          "votes_abstain": 123,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 7,
+          "proposal_title": "第7号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 69341,
+          "votes_against": 1216,
+          "votes_abstain": 61,
+          "approval_pct": 98.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 8,
+          "proposal_title": "第8号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 69646,
+          "votes_against": 907,
+          "votes_abstain": 65,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7UK",
@@ -81,5 +186,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:29:02.022Z"
+  "updated_at": "2026-07-04T00:49:56.758Z"
 }

@@ -3,6 +3,159 @@
   "company_name": "東洋エンジニアリング",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YM0C",
+      "submit_date_time": "2026-06-26 14:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM0C",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案資本準備金の額の減少および剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 272650,
+          "votes_against": 3689,
+          "votes_abstain": 0,
+          "approval_pct": 98.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 273445,
+          "votes_against": 2895,
+          "votes_abstain": 0,
+          "approval_pct": 98.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松室健",
+          "votes_for": 271685,
+          "votes_against": 4628,
+          "votes_abstain": 16,
+          "approval_pct": 98.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "細井栄治",
+          "votes_for": 263588,
+          "votes_against": 12721,
+          "votes_abstain": 16,
+          "approval_pct": 95.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鳥越紀良",
+          "votes_for": 271110,
+          "votes_against": 5219,
+          "votes_abstain": 0,
+          "approval_pct": 98.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鈴木恭孝",
+          "votes_for": 271884,
+          "votes_against": 4445,
+          "votes_abstain": 0,
+          "approval_pct": 98.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "三代川康雄",
+          "votes_for": 271993,
+          "votes_against": 4396,
+          "votes_abstain": 0,
+          "approval_pct": 98.41,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田代真巳",
+          "votes_for": 271662,
+          "votes_against": 4667,
+          "votes_abstain": 0,
+          "approval_pct": 98.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "寺澤達也",
+          "votes_for": 272047,
+          "votes_against": 4282,
+          "votes_abstain": 0,
+          "approval_pct": 98.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "宮入小夜子",
+          "votes_for": 271688,
+          "votes_against": 4641,
+          "votes_abstain": 0,
+          "approval_pct": 98.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "都築豊久",
+          "votes_for": 265183,
+          "votes_against": 11140,
+          "votes_abstain": 0,
+          "approval_pct": 95.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役2名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "松尾英喜",
+          "votes_for": 257118,
+          "votes_against": 19203,
+          "votes_abstain": 0,
+          "approval_pct": 93.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W5FK",
@@ -285,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:45:29.812Z"
+  "updated_at": "2026-07-04T01:24:24.691Z"
 }

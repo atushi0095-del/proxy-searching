@@ -3,6 +3,159 @@
   "company_name": "秀英予備校",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMSW",
+      "submit_date_time": "2026-06-29 12:56",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMSW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 46288,
+          "votes_against": 638,
+          "votes_abstain": 0,
+          "approval_pct": 98.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺武",
+          "votes_for": 45963,
+          "votes_against": 965,
+          "votes_abstain": 0,
+          "approval_pct": 97.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺喜代子",
+          "votes_for": 45955,
+          "votes_against": 973,
+          "votes_abstain": 0,
+          "approval_pct": 97.93,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木高宏",
+          "votes_for": 46034,
+          "votes_against": 894,
+          "votes_abstain": 0,
+          "approval_pct": 98.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤和也",
+          "votes_for": 46036,
+          "votes_against": 892,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "紅林信宏",
+          "votes_for": 46017,
+          "votes_against": 911,
+          "votes_abstain": 0,
+          "approval_pct": 98.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小俣光永",
+          "votes_for": 46035,
+          "votes_against": 893,
+          "votes_abstain": 0,
+          "approval_pct": 98.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中山孝介",
+          "votes_for": 46032,
+          "votes_against": 896,
+          "votes_abstain": 0,
+          "approval_pct": 98.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中島秀一",
+          "votes_for": 46000,
+          "votes_against": 928,
+          "votes_abstain": 0,
+          "approval_pct": 98.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水崇仁",
+          "votes_for": 46086,
+          "votes_against": 842,
+          "votes_abstain": 0,
+          "approval_pct": 98.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐竹利文",
+          "votes_for": 46026,
+          "votes_against": 902,
+          "votes_abstain": 0,
+          "approval_pct": 98.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横山秀雄",
+          "votes_for": 46002,
+          "votes_against": 926,
+          "votes_abstain": 0,
+          "approval_pct": 98.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9IA",
@@ -213,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:22:16.470Z"
+  "updated_at": "2026-07-04T01:12:59.810Z"
 }

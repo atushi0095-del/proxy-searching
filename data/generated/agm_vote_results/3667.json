@@ -1,0 +1,40 @@
+{
+  "company_code": "3667",
+  "company_name": "ｅｎｉｓｈ",
+  "meetings": [
+    {
+      "meeting_date": "2026-06-09",
+      "meeting_year": 2026,
+      "doc_id": "S100YAD9",
+      "submit_date_time": "2026-06-11 10:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YAD9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 180526,
+          "votes_against": 14146,
+          "votes_abstain": null,
+          "approval_pct": 92.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役1名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 177556,
+          "votes_against": 17126,
+          "votes_abstain": null,
+          "approval_pct": 91.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-07-04T02:03:19.384Z"
+}

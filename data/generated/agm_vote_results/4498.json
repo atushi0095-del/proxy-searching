@@ -3,6 +3,135 @@
   "company_name": "サイバートラスト",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YL2V",
+      "submit_date_time": "2026-06-25 15:21",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL2V",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 132456,
+          "votes_against": 2973,
+          "votes_abstain": 0,
+          "approval_pct": 97.8,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北村裕司",
+          "votes_for": 130217,
+          "votes_against": 5222,
+          "votes_abstain": 0,
+          "approval_pct": 95.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水哲也",
+          "votes_for": 131326,
+          "votes_against": 4113,
+          "votes_abstain": 0,
+          "approval_pct": 96.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田村光義",
+          "votes_for": 131641,
+          "votes_against": 3798,
+          "votes_abstain": 0,
+          "approval_pct": 97.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺真生",
+          "votes_for": 131481,
+          "votes_against": 3958,
+          "votes_abstain": 0,
+          "approval_pct": 96.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田島弓子",
+          "votes_for": 131351,
+          "votes_against": 4088,
+          "votes_abstain": 0,
+          "approval_pct": 96.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石田佳久",
+          "votes_for": 131235,
+          "votes_against": 4204,
+          "votes_abstain": 0,
+          "approval_pct": 96.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西本逸郎",
+          "votes_for": 131328,
+          "votes_against": 4111,
+          "votes_abstain": 0,
+          "approval_pct": 96.81,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒住哲理",
+          "votes_for": 130813,
+          "votes_against": 4616,
+          "votes_abstain": 0,
+          "approval_pct": 96.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 132897,
+          "votes_against": 2542,
+          "votes_abstain": 0,
+          "approval_pct": 98.12,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9D2",
@@ -261,5 +390,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:16:46.375Z"
+  "updated_at": "2026-07-04T01:36:33.057Z"
 }

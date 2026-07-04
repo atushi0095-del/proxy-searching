@@ -3,6 +3,87 @@
   "company_name": "ﾇｰﾗﾎﾞ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJRR",
+      "submit_date_time": "2026-06-25 16:53",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJRR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 42518,
+          "votes_against": 151,
+          "votes_abstain": 0,
+          "approval_pct": 99.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "橋本正徳",
+          "votes_for": 39615,
+          "votes_against": 3054,
+          "votes_abstain": 0,
+          "approval_pct": 92.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小川淳",
+          "votes_for": 42475,
+          "votes_against": 194,
+          "votes_abstain": 0,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中島成一朗",
+          "votes_for": 42453,
+          "votes_against": 216,
+          "votes_abstain": 0,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役4名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小笹文",
+          "votes_for": 42436,
+          "votes_against": 233,
+          "votes_abstain": 0,
+          "approval_pct": 99.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役に対する譲渡制限付株式報酬制度導入の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 40810,
+          "votes_against": 1859,
+          "votes_abstain": 0,
+          "approval_pct": 95.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W735",
@@ -120,5 +201,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:25:41.627Z"
+  "updated_at": "2026-07-04T01:33:06.711Z"
 }

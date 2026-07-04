@@ -3,6 +3,123 @@
   "company_name": "日本管財ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLU9",
+      "submit_date_time": "2026-06-26 14:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLU9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 293466,
+          "votes_against": 6710,
+          "votes_abstain": 0,
+          "approval_pct": 97.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福田武",
+          "votes_for": 284601,
+          "votes_against": 15592,
+          "votes_abstain": 6,
+          "approval_pct": 94.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福田慎太郎",
+          "votes_for": 276555,
+          "votes_against": 23638,
+          "votes_abstain": 6,
+          "approval_pct": 92.12,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "安田守",
+          "votes_for": 296397,
+          "votes_against": 3802,
+          "votes_abstain": 0,
+          "approval_pct": 98.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "徳山良一",
+          "votes_for": 296449,
+          "votes_against": 3750,
+          "votes_abstain": 0,
+          "approval_pct": 98.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "栗原達司",
+          "votes_for": 298206,
+          "votes_against": 1993,
+          "votes_abstain": 0,
+          "approval_pct": 99.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "原田康弘",
+          "votes_for": 296593,
+          "votes_against": 3606,
+          "votes_abstain": 0,
+          "approval_pct": 98.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松浦秀隆",
+          "votes_for": 296623,
+          "votes_against": 3576,
+          "votes_abstain": 0,
+          "approval_pct": 98.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員であるものを除く。)8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高田康行",
+          "votes_for": 296095,
+          "votes_against": 4104,
+          "votes_abstain": 0,
+          "approval_pct": 98.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100VZSN",
@@ -309,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:13:17.503Z"
+  "updated_at": "2026-07-04T01:25:34.196Z"
 }

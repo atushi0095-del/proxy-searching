@@ -3,6 +3,123 @@
   "company_name": "月島ホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJDG",
+      "submit_date_time": "2026-06-24 14:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJDG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川﨑淳",
+          "votes_for": 256663,
+          "votes_against": 65938,
+          "votes_abstain": 10,
+          "approval_pct": 79.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高野亨",
+          "votes_for": 311730,
+          "votes_against": 10871,
+          "votes_abstain": 10,
+          "approval_pct": 96.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "福沢義之",
+          "votes_for": 321058,
+          "votes_against": 1543,
+          "votes_abstain": 10,
+          "approval_pct": 99.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鷹取啓太",
+          "votes_for": 320899,
+          "votes_against": 1702,
+          "votes_abstain": 10,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "増田暢也",
+          "votes_for": 321505,
+          "votes_against": 1096,
+          "votes_abstain": 10,
+          "approval_pct": 99.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "志村直子",
+          "votes_for": 286549,
+          "votes_against": 36052,
+          "votes_abstain": 10,
+          "approval_pct": 88.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田中達也",
+          "votes_for": 313891,
+          "votes_against": 7995,
+          "votes_abstain": 725,
+          "approval_pct": 97.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "和田篤也",
+          "votes_for": 321601,
+          "votes_against": 1000,
+          "votes_abstain": 10,
+          "approval_pct": 99.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 310246,
+          "votes_against": 12403,
+          "votes_abstain": 10,
+          "approval_pct": 96.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W2EO",
@@ -285,5 +402,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:11:49.336Z"
+  "updated_at": "2026-07-04T01:47:26.127Z"
 }

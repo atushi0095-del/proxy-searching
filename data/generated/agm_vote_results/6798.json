@@ -3,6 +3,111 @@
   "company_name": "ＳＭＫ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YM5Q",
+      "submit_date_time": "2026-06-26 15:18",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM5Q",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 44038,
+          "votes_against": 4695,
+          "votes_abstain": 0,
+          "approval_pct": 90.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 48140,
+          "votes_against": 593,
+          "votes_abstain": 0,
+          "approval_pct": 98.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "池田靖光",
+          "votes_for": 34955,
+          "votes_against": 13778,
+          "votes_abstain": 0,
+          "approval_pct": 71.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "池尾政信",
+          "votes_for": 38836,
+          "votes_against": 9894,
+          "votes_abstain": 0,
+          "approval_pct": 79.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "ポールエヴァンス",
+          "votes_for": 45676,
+          "votes_against": 3056,
+          "votes_abstain": 0,
+          "approval_pct": 93.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村利雄",
+          "votes_for": 42217,
+          "votes_against": 6516,
+          "votes_abstain": 0,
+          "approval_pct": 86.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "石川薫",
+          "votes_for": 41513,
+          "votes_against": 7220,
+          "votes_abstain": 0,
+          "approval_pct": 85.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "高橋琴美",
+          "votes_for": 43784,
+          "votes_against": 4949,
+          "votes_abstain": 0,
+          "approval_pct": 89.84,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W8LW",
@@ -153,5 +258,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:35:39.821Z"
+  "updated_at": "2026-07-04T01:22:44.159Z"
 }

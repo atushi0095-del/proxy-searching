@@ -3,6 +3,87 @@
   "company_name": "オンコセラピー・サイエンス",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YKB2",
+      "submit_date_time": "2026-06-25 09:55",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKB2",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "嶋田順一",
+          "votes_for": 1366571,
+          "votes_against": 93316,
+          "votes_abstain": null,
+          "approval_pct": 94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤肇夫",
+          "votes_for": 1363503,
+          "votes_against": 96384,
+          "votes_abstain": null,
+          "approval_pct": 93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "朴在賢",
+          "votes_for": 1368731,
+          "votes_against": 91156,
+          "votes_abstain": null,
+          "approval_pct": 94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三木義男",
+          "votes_for": 1367740,
+          "votes_against": 92147,
+          "votes_abstain": null,
+          "approval_pct": 94,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小峰雄一",
+          "votes_for": 1363917,
+          "votes_against": 95970,
+          "votes_abstain": null,
+          "approval_pct": 93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1393680,
+          "votes_against": 77221,
+          "votes_abstain": null,
+          "approval_pct": 95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W6N4",
@@ -129,5 +210,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:53:04.926Z"
+  "updated_at": "2026-07-04T01:42:22.719Z"
 }

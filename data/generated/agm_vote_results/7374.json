@@ -3,6 +3,159 @@
   "company_name": "コンフィデンス・インターワークス",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNHS",
+      "submit_date_time": "2026-06-30 13:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNHS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 44700,
+          "votes_against": 66,
+          "votes_abstain": null,
+          "approval_pct": 99.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 44697,
+          "votes_against": 69,
+          "votes_abstain": null,
+          "approval_pct": 99.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 44702,
+          "votes_against": 64,
+          "votes_abstain": null,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤岻宣之",
+          "votes_for": 44665,
+          "votes_against": 101,
+          "votes_abstain": null,
+          "approval_pct": 99.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "吉川拓朗",
+          "votes_for": 44665,
+          "votes_against": 101,
+          "votes_abstain": null,
+          "approval_pct": 99.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永井晃司",
+          "votes_for": 44664,
+          "votes_against": 102,
+          "votes_abstain": null,
+          "approval_pct": 99.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "雨宮玲於奈",
+          "votes_for": 44661,
+          "votes_against": 105,
+          "votes_abstain": null,
+          "approval_pct": 99.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水谷翠",
+          "votes_for": 44662,
+          "votes_against": 104,
+          "votes_abstain": null,
+          "approval_pct": 99.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三木寛文",
+          "votes_for": 44662,
+          "votes_against": 104,
+          "votes_abstain": null,
+          "approval_pct": 99.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河野弘",
+          "votes_for": 44658,
+          "votes_against": 108,
+          "votes_abstain": null,
+          "approval_pct": 99.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤森健也",
+          "votes_for": 42677,
+          "votes_against": 2089,
+          "votes_abstain": null,
+          "approval_pct": 95.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 44674,
+          "votes_against": 82,
+          "votes_abstain": null,
+          "approval_pct": 99.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-23",
       "meeting_year": 2025,
       "doc_id": "S100W32D",
@@ -153,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:05:42.976Z"
+  "updated_at": "2026-07-04T00:59:22.406Z"
 }

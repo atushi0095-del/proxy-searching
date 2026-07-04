@@ -3,6 +3,111 @@
   "company_name": "アルビス",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YHQR",
+      "submit_date_time": "2026-06-23 13:15",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHQR",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 67625,
+          "votes_against": 276,
+          "votes_abstain": 0,
+          "approval_pct": 99.59,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "池田和男",
+          "votes_for": 59242,
+          "votes_against": 8660,
+          "votes_abstain": 0,
+          "approval_pct": 87.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "上野弘樹",
+          "votes_for": 64126,
+          "votes_against": 3776,
+          "votes_abstain": 0,
+          "approval_pct": 94.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤井秀亮",
+          "votes_for": 67320,
+          "votes_against": 582,
+          "votes_abstain": 0,
+          "approval_pct": 99.14,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "日笠亮",
+          "votes_for": 67309,
+          "votes_against": 593,
+          "votes_abstain": 0,
+          "approval_pct": 99.13,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加世多達也",
+          "votes_for": 64348,
+          "votes_against": 3554,
+          "votes_abstain": 0,
+          "approval_pct": 94.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松村篤樹",
+          "votes_for": 64390,
+          "votes_against": 3512,
+          "votes_abstain": 0,
+          "approval_pct": 94.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "樋尾亜佐子",
+          "votes_for": 59142,
+          "votes_against": 8760,
+          "votes_abstain": 0,
+          "approval_pct": 87.1,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W26L",
@@ -189,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:08:37.610Z"
+  "updated_at": "2026-07-04T01:52:19.542Z"
 }

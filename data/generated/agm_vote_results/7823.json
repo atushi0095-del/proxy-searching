@@ -3,6 +3,171 @@
   "company_name": "アートネイチャー",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YMFE",
+      "submit_date_time": "2026-06-29 14:38",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMFE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 267296,
+          "votes_against": 353,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "五十嵐祥剛",
+          "votes_for": 250442,
+          "votes_against": 17200,
+          "votes_abstain": 0,
+          "approval_pct": 93.57,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "五十嵐啓介",
+          "votes_for": 258153,
+          "votes_against": 9489,
+          "votes_abstain": 0,
+          "approval_pct": 96.45,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "重松小百合",
+          "votes_for": 266982,
+          "votes_against": 660,
+          "votes_abstain": 0,
+          "approval_pct": 99.75,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本多敏男",
+          "votes_for": 266976,
+          "votes_against": 666,
+          "votes_abstain": 0,
+          "approval_pct": 99.75,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "柳沢公男",
+          "votes_for": 266947,
+          "votes_against": 695,
+          "votes_abstain": 0,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石木淳夫",
+          "votes_for": 266921,
+          "votes_against": 721,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清永敬文",
+          "votes_for": 261653,
+          "votes_against": 5989,
+          "votes_abstain": 0,
+          "approval_pct": 97.76,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宇都宮優子",
+          "votes_for": 267153,
+          "votes_against": 489,
+          "votes_abstain": 0,
+          "approval_pct": 99.81,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小宮山典子",
+          "votes_for": 267230,
+          "votes_against": 412,
+          "votes_abstain": 0,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村田勝也",
+          "votes_for": 267290,
+          "votes_against": 359,
+          "votes_abstain": 0,
+          "approval_pct": 99.86,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "檜山聡",
+          "votes_for": 267244,
+          "votes_against": 405,
+          "votes_abstain": 0,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "本坊嘉章",
+          "votes_for": 267241,
+          "votes_against": 408,
+          "votes_abstain": 0,
+          "approval_pct": 99.84,
+          "approval_pct_source": "reported",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-21",
       "meeting_year": 2024,
       "doc_id": "S100TREC",
@@ -132,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:51:27.830Z"
+  "updated_at": "2026-07-04T01:09:20.502Z"
 }

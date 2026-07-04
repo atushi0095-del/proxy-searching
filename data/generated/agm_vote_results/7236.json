@@ -3,6 +3,99 @@
   "company_name": "ティラド",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YNPO",
+      "submit_date_time": "2026-06-30 15:34",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNPO",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 46007,
+          "votes_against": 17,
+          "votes_abstain": null,
+          "approval_pct": 99.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮﨑富夫",
+          "votes_for": 45277,
+          "votes_against": 746,
+          "votes_abstain": null,
+          "approval_pct": 98.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊山辰也",
+          "votes_for": 45534,
+          "votes_against": 489,
+          "votes_abstain": null,
+          "approval_pct": 98.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋良定",
+          "votes_for": 44753,
+          "votes_against": 1270,
+          "votes_abstain": null,
+          "approval_pct": 97.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村田隆一",
+          "votes_for": 45498,
+          "votes_against": 525,
+          "votes_abstain": null,
+          "approval_pct": 98.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "屠錦寧",
+          "votes_for": 45531,
+          "votes_against": 492,
+          "votes_abstain": null,
+          "approval_pct": 98.93,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤井寿",
+          "votes_for": 45990,
+          "votes_against": 37,
+          "votes_abstain": null,
+          "approval_pct": 99.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W7SL",
@@ -213,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:44:57.323Z"
+  "updated_at": "2026-07-04T00:55:55.606Z"
 }

@@ -3,6 +3,123 @@
   "company_name": "サンドラッグ",
   "meetings": [
     {
+      "meeting_date": "2026-06-27",
+      "meeting_year": 2026,
+      "doc_id": "S100YN9X",
+      "submit_date_time": "2026-06-30 13:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN9X",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1037841,
+          "votes_against": 528,
+          "votes_abstain": 551,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "貞方宏司",
+          "votes_for": 892486,
+          "votes_against": 145879,
+          "votes_abstain": 551,
+          "approval_pct": 85.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "多田直樹",
+          "votes_for": 944133,
+          "votes_against": 94235,
+          "votes_abstain": 551,
+          "approval_pct": 90.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "坂井義光",
+          "votes_for": 1031904,
+          "votes_against": 6465,
+          "votes_abstain": 551,
+          "approval_pct": 99.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "多田高志",
+          "votes_for": 1031922,
+          "votes_against": 6447,
+          "votes_abstain": 551,
+          "approval_pct": 99.33,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松本正人",
+          "votes_for": 1036139,
+          "votes_against": 2231,
+          "votes_abstain": 551,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "辻智子",
+          "votes_for": 1036118,
+          "votes_against": 2252,
+          "votes_abstain": 551,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役7名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "齋藤律子",
+          "votes_for": 1036231,
+          "votes_against": 2139,
+          "votes_abstain": 551,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "和田希志子",
+          "votes_for": 1036827,
+          "votes_against": 1545,
+          "votes_abstain": 551,
+          "approval_pct": 99.8,
+          "approval_pct_source": "computed",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W5N3",
@@ -225,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:00:51.815Z"
+  "updated_at": "2026-07-04T00:58:14.507Z"
 }

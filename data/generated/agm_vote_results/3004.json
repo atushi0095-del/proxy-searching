@@ -3,6 +3,147 @@
   "company_name": "神栄",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YKPF",
+      "submit_date_time": "2026-06-25 13:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKPF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 29065,
+          "votes_against": 157,
+          "votes_abstain": 0,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "赤澤秀朗",
+          "votes_for": 28925,
+          "votes_against": 297,
+          "votes_abstain": 0,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川太郎",
+          "votes_for": 28972,
+          "votes_against": 250,
+          "votes_abstain": 0,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "長尾謙一",
+          "votes_for": 28977,
+          "votes_against": 245,
+          "votes_abstain": 0,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小西則一",
+          "votes_for": 28977,
+          "votes_against": 245,
+          "votes_abstain": 0,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林貴之",
+          "votes_for": 28963,
+          "votes_against": 259,
+          "votes_abstain": 0,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山水教賢",
+          "votes_for": 28971,
+          "votes_against": 251,
+          "votes_abstain": 0,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "西原健二",
+          "votes_for": 28950,
+          "votes_against": 272,
+          "votes_abstain": 0,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中尾一彦",
+          "votes_for": 28929,
+          "votes_against": 293,
+          "votes_abstain": 0,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小島幸保",
+          "votes_for": 28966,
+          "votes_against": 256,
+          "votes_abstain": 0,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村尾佳子",
+          "votes_for": 28957,
+          "votes_against": 265,
+          "votes_abstain": 0,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W793",
@@ -201,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:49:29.924Z"
+  "updated_at": "2026-07-04T01:39:53.387Z"
 }

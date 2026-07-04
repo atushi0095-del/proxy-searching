@@ -3,6 +3,99 @@
   "company_name": "ファナック株式会社",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLIG",
+      "submit_date_time": "2026-06-26 13:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLIG",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 7439570,
+          "votes_against": 1698,
+          "votes_abstain": 335,
+          "approval_pct": 99.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山口賢治",
+          "votes_for": 7396191,
+          "votes_against": 44970,
+          "votes_abstain": 3882,
+          "approval_pct": 99.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "流石柳二",
+          "votes_for": 7398530,
+          "votes_against": 46513,
+          "votes_abstain": 0,
+          "approval_pct": 99.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "マイケルジェイチコ",
+          "votes_for": 7410484,
+          "votes_against": 34560,
+          "votes_abstain": 0,
+          "approval_pct": 99.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山崎直子",
+          "votes_for": 7422753,
+          "votes_against": 22293,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "魚住弘人",
+          "votes_for": 7418501,
+          "votes_against": 26543,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く）6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "武田洋子",
+          "votes_for": 7423194,
+          "votes_against": 21852,
+          "votes_abstain": 0,
+          "approval_pct": 99.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9YH",
@@ -249,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:04:30.117Z"
+  "updated_at": "2026-07-04T01:26:10.161Z"
 }

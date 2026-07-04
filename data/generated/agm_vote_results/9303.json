@@ -3,6 +3,147 @@
   "company_name": "住友倉庫",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YIW0",
+      "submit_date_time": "2026-06-29 15:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIW0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 673472,
+          "votes_against": 600,
+          "votes_abstain": 56,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野孝則",
+          "votes_for": 527017,
+          "votes_against": 147060,
+          "votes_abstain": 56,
+          "approval_pct": 78.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "永田昭仁",
+          "votes_for": 538871,
+          "votes_against": 135205,
+          "votes_abstain": 56,
+          "approval_pct": 79.79,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "星野公彦",
+          "votes_for": 633632,
+          "votes_against": 40447,
+          "votes_abstain": 56,
+          "approval_pct": 93.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "黒木郁雄",
+          "votes_for": 651195,
+          "votes_against": 22884,
+          "votes_abstain": 56,
+          "approval_pct": 96.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本年可",
+          "votes_for": 651202,
+          "votes_against": 22877,
+          "votes_abstain": 56,
+          "approval_pct": 96.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "河井英明",
+          "votes_for": 633183,
+          "votes_against": 40897,
+          "votes_abstain": 56,
+          "approval_pct": 93.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊賀真理",
+          "votes_for": 634600,
+          "votes_against": 39480,
+          "votes_abstain": 56,
+          "approval_pct": 93.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "戸塚健彦",
+          "votes_for": 650186,
+          "votes_against": 23896,
+          "votes_abstain": 56,
+          "approval_pct": 96.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "北本満純",
+          "votes_for": 651639,
+          "votes_against": 22441,
+          "votes_abstain": 56,
+          "approval_pct": 96.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "八澤健三郎",
+          "votes_for": 650390,
+          "votes_against": 23692,
+          "votes_abstain": 56,
+          "approval_pct": 96.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W5PB",
@@ -273,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:20:11.802Z"
+  "updated_at": "2026-07-04T01:07:39.776Z"
 }

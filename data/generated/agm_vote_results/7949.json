@@ -3,6 +3,75 @@
   "company_name": "小松ウオール工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YEE1",
+      "submit_date_time": "2026-06-19 13:59",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YEE1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案第59期剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 128821,
+          "votes_against": 313,
+          "votes_abstain": 0,
+          "approval_pct": 99.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件加納慎也山田新一綾由紀夫蜂谷俊雄古谷まゆみ",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 1.250461273051273e+29,
+          "votes_against": 40871828184619490000,
+          "votes_abstain": 0,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "比嘉正人松山純子",
+          "votes_for": 127351127389,
+          "votes_against": 17801742,
+          "votes_abstain": 0,
+          "approval_pct": 99.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役の報酬額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 127715,
+          "votes_against": 1417,
+          "votes_abstain": 0,
+          "approval_pct": 98.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役に対する株式報酬制度改定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 127866,
+          "votes_against": 1268,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W5SK",
@@ -213,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:51:53.675Z"
+  "updated_at": "2026-07-04T01:58:53.288Z"
 }

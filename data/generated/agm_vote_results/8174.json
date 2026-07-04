@@ -3,6 +3,99 @@
   "company_name": "日本瓦斯",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YNRY",
+      "submit_date_time": "2026-06-30 16:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNRY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 892432,
+          "votes_against": 143,
+          "votes_abstain": 30,
+          "approval_pct": 99.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "柏谷邦彦",
+          "votes_for": 838639,
+          "votes_against": 53931,
+          "votes_abstain": 30,
+          "approval_pct": 93.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉田恵一",
+          "votes_for": 867790,
+          "votes_against": 24521,
+          "votes_abstain": 291,
+          "approval_pct": 97.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "土屋友紀",
+          "votes_for": 867803,
+          "votes_against": 24508,
+          "votes_abstain": 291,
+          "approval_pct": 97.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田剛志",
+          "votes_for": 870892,
+          "votes_against": 21681,
+          "votes_abstain": 30,
+          "approval_pct": 97.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "里中恵理子",
+          "votes_for": 890996,
+          "votes_against": 1578,
+          "votes_abstain": 30,
+          "approval_pct": 99.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 888161,
+          "votes_against": 4413,
+          "votes_abstain": 30,
+          "approval_pct": 99.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7PT",
@@ -201,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:45:12.019Z"
+  "updated_at": "2026-07-04T00:54:38.447Z"
 }

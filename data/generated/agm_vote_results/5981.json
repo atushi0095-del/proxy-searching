@@ -3,6 +3,147 @@
   "company_name": "東京製綱",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMUX",
+      "submit_date_time": "2026-06-29 13:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMUX",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "原田英幸",
+          "votes_for": 90419,
+          "votes_against": 4372,
+          "votes_abstain": 0,
+          "approval_pct": 95.39,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "寺園雅明",
+          "votes_for": 90700,
+          "votes_against": 4091,
+          "votes_abstain": 0,
+          "approval_pct": 95.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森忠大",
+          "votes_for": 90808,
+          "votes_against": 3983,
+          "votes_abstain": 0,
+          "approval_pct": 95.8,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "喜旦康司",
+          "votes_for": 90545,
+          "votes_against": 4246,
+          "votes_abstain": 0,
+          "approval_pct": 95.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "樋口靖",
+          "votes_for": 90355,
+          "votes_against": 4436,
+          "votes_abstain": 0,
+          "approval_pct": 95.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "上山丈夫",
+          "votes_for": 90335,
+          "votes_against": 4456,
+          "votes_abstain": 0,
+          "approval_pct": 95.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "葛岡利明",
+          "votes_for": 90337,
+          "votes_against": 4454,
+          "votes_abstain": 0,
+          "approval_pct": 95.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "名取勝也",
+          "votes_for": 90591,
+          "votes_against": 4200,
+          "votes_abstain": 0,
+          "approval_pct": 95.57,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "狩野麻里",
+          "votes_for": 90643,
+          "votes_against": 4148,
+          "votes_abstain": 0,
+          "approval_pct": 95.62,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役10名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山本千鶴子",
+          "votes_for": 90464,
+          "votes_against": 4327,
+          "votes_abstain": 0,
+          "approval_pct": 95.44,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "安田憲生",
+          "votes_for": 94777,
+          "votes_against": 491,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9KR",
@@ -297,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:21:23.759Z"
+  "updated_at": "2026-07-04T01:11:55.882Z"
 }

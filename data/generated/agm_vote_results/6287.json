@@ -3,6 +3,147 @@
   "company_name": "サトー",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YLNA",
+      "submit_date_time": "2026-06-26 11:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLNA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 242010,
+          "votes_against": 160,
+          "votes_abstain": 0,
+          "approval_pct": 99.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小沼宏行",
+          "votes_for": 240591,
+          "votes_against": 1578,
+          "votes_abstain": 0,
+          "approval_pct": 99.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "笹原美徳",
+          "votes_for": 239926,
+          "votes_against": 2243,
+          "votes_abstain": 0,
+          "approval_pct": 98.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鳴海達夫",
+          "votes_for": 239117,
+          "votes_against": 3052,
+          "votes_abstain": 0,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田秀雄",
+          "votes_for": 201818,
+          "votes_against": 21308,
+          "votes_abstain": 19043,
+          "approval_pct": 83.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤重貞慶",
+          "votes_for": 240669,
+          "votes_against": 1501,
+          "votes_abstain": 0,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野々垣好子",
+          "votes_for": 240707,
+          "votes_against": 1463,
+          "votes_abstain": 0,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "酒井由香里",
+          "votes_for": 241618,
+          "votes_against": 552,
+          "votes_abstain": 0,
+          "approval_pct": 99.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "近藤克幸",
+          "votes_for": 241704,
+          "votes_against": 466,
+          "votes_abstain": 0,
+          "approval_pct": 99.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部善",
+          "votes_for": 229008,
+          "votes_against": 13159,
+          "votes_abstain": 0,
+          "approval_pct": 94.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤雅人",
+          "votes_for": 230827,
+          "votes_against": 11342,
+          "votes_abstain": 0,
+          "approval_pct": 95.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W6P8",
@@ -297,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:53:59.641Z"
+  "updated_at": "2026-07-04T01:28:20.722Z"
 }

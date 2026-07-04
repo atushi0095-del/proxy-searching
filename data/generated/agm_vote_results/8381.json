@@ -3,6 +3,135 @@
   "company_name": "山陰合同銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YM1Z",
+      "submit_date_time": "2026-06-26 14:22",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YM1Z",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1101953,
+          "votes_against": 2965,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "山崎徹",
+          "votes_for": 1070430,
+          "votes_against": 34486,
+          "votes_abstain": 0,
+          "approval_pct": 96.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉川浩",
+          "votes_for": 1075169,
+          "votes_against": 29748,
+          "votes_abstain": 0,
+          "approval_pct": 97.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "吉岡佐和子",
+          "votes_for": 1096876,
+          "votes_against": 8041,
+          "votes_abstain": 0,
+          "approval_pct": 99.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "生田博久",
+          "votes_for": 1098082,
+          "votes_against": 6835,
+          "votes_abstain": 0,
+          "approval_pct": 99.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "倉都康行",
+          "votes_for": 1076744,
+          "votes_against": 28175,
+          "votes_abstain": 0,
+          "approval_pct": 97.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "後藤康浩",
+          "votes_for": 1076368,
+          "votes_against": 28551,
+          "votes_abstain": 0,
+          "approval_pct": 97.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "本井稚恵",
+          "votes_for": 1076789,
+          "votes_against": 28130,
+          "votes_abstain": 0,
+          "approval_pct": 97.45,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く)8名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "GraemeDavidKnowd",
+          "votes_for": 1098286,
+          "votes_against": 6633,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "橋澤加世",
+          "votes_for": 1100862,
+          "votes_against": 4011,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WAAI",
@@ -333,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:08:41.049Z"
+  "updated_at": "2026-07-04T01:24:31.786Z"
 }

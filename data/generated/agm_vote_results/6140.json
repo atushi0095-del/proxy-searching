@@ -3,6 +3,147 @@
   "company_name": "旭ダイヤモンド工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YN0Y",
+      "submit_date_time": "2026-06-29 14:57",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN0Y",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 276156,
+          "votes_against": 1749,
+          "votes_abstain": 92,
+          "approval_pct": 99.34,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "片岡和喜",
+          "votes_for": 204745,
+          "votes_against": 72975,
+          "votes_abstain": 343,
+          "approval_pct": 73.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "原智彦",
+          "votes_for": 225183,
+          "votes_against": 52537,
+          "votes_abstain": 343,
+          "approval_pct": 80.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "萩原利昌",
+          "votes_for": 256990,
+          "votes_against": 20730,
+          "votes_abstain": 343,
+          "approval_pct": 92.42,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松田順一",
+          "votes_for": 257367,
+          "votes_against": 20353,
+          "votes_abstain": 343,
+          "approval_pct": 92.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川合宏明",
+          "votes_for": 275535,
+          "votes_against": 2185,
+          "votes_abstain": 343,
+          "approval_pct": 99.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "兼本憲一",
+          "votes_for": 275415,
+          "votes_against": 2305,
+          "votes_abstain": 343,
+          "approval_pct": 99.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "市川祐子",
+          "votes_for": 259582,
+          "votes_against": 18138,
+          "votes_abstain": 343,
+          "approval_pct": 93.35,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川尻恵理子",
+          "votes_for": 259663,
+          "votes_against": 18057,
+          "votes_abstain": 343,
+          "approval_pct": 93.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中村哲也",
+          "votes_for": 275520,
+          "votes_against": 2200,
+          "votes_abstain": 343,
+          "approval_pct": 99.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件松崎剛実",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 275007,
+          "votes_against": 1898,
+          "votes_abstain": 1157,
+          "approval_pct": 98.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W8GD",
@@ -285,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:38:40.334Z"
+  "updated_at": "2026-07-04T01:08:45.770Z"
 }

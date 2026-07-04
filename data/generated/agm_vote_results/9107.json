@@ -3,6 +3,147 @@
   "company_name": "川崎汽船",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YJPF",
+      "submit_date_time": "2026-06-25 11:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJPF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 5390321,
+          "votes_against": 4445,
+          "votes_abstain": 1210,
+          "approval_pct": 99.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "明珍幸一",
+          "votes_for": 5298633,
+          "votes_against": 99873,
+          "votes_abstain": 1228,
+          "approval_pct": 98.05,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "五十嵐武宣",
+          "votes_for": 5380805,
+          "votes_against": 17706,
+          "votes_abstain": 1228,
+          "approval_pct": 99.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "荒井邦彦",
+          "votes_for": 5334900,
+          "votes_against": 63613,
+          "votes_abstain": 1228,
+          "approval_pct": 98.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山田啓二",
+          "votes_for": 5317314,
+          "votes_against": 81197,
+          "votes_abstain": 1228,
+          "approval_pct": 98.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内田龍平",
+          "votes_for": 4326734,
+          "votes_against": 1071767,
+          "votes_abstain": 1228,
+          "approval_pct": 80.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小高功嗣",
+          "votes_for": 5333344,
+          "votes_against": 65168,
+          "votes_abstain": 1228,
+          "approval_pct": 98.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "牧寛之",
+          "votes_for": 5386854,
+          "votes_against": 11668,
+          "votes_abstain": 1228,
+          "approval_pct": 99.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "政井貴子",
+          "votes_for": 5338252,
+          "votes_against": 60260,
+          "votes_abstain": 1228,
+          "approval_pct": 98.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "原澤敦美",
+          "votes_for": 5389468,
+          "votes_against": 9054,
+          "votes_abstain": 1228,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "久保伸介",
+          "votes_for": 5387253,
+          "votes_against": 11269,
+          "votes_abstain": 1228,
+          "approval_pct": 99.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W48O",
@@ -201,5 +342,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:05:47.975Z"
+  "updated_at": "2026-07-04T01:41:01.900Z"
 }

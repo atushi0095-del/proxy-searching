@@ -3,6 +3,159 @@
   "company_name": "ＤＭ三井製糖",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YB2H",
+      "submit_date_time": "2026-06-24 10:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YB2H",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 264081,
+          "votes_against": 438,
+          "votes_abstain": 0,
+          "approval_pct": 99.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森本卓",
+          "votes_for": 261110,
+          "votes_against": 3397,
+          "votes_abstain": 1,
+          "approval_pct": 98.72,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中祖一夫",
+          "votes_for": 263091,
+          "votes_against": 1416,
+          "votes_abstain": 1,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "津田琢哉",
+          "votes_for": 263118,
+          "votes_against": 1389,
+          "votes_abstain": 1,
+          "approval_pct": 99.47,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森雅彦",
+          "votes_for": 263168,
+          "votes_against": 1340,
+          "votes_abstain": 1,
+          "approval_pct": 99.49,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小竹貴子",
+          "votes_for": 263335,
+          "votes_against": 1176,
+          "votes_abstain": 1,
+          "approval_pct": 99.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "下石川哲",
+          "votes_for": 237723,
+          "votes_against": 26784,
+          "votes_abstain": 1,
+          "approval_pct": 89.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "武川聡",
+          "votes_for": 237717,
+          "votes_against": 26790,
+          "votes_abstain": 1,
+          "approval_pct": 89.87,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小塚智広",
+          "votes_for": 261018,
+          "votes_against": 3494,
+          "votes_abstain": 0,
+          "approval_pct": 98.68,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "曽我辺美保子",
+          "votes_for": 261962,
+          "votes_against": 2555,
+          "votes_abstain": 0,
+          "approval_pct": 99.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千原真衣子",
+          "votes_for": 261923,
+          "votes_against": 2594,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "玉井裕人",
+          "votes_for": 261815,
+          "votes_against": 2702,
+          "votes_abstain": 0,
+          "approval_pct": 98.98,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100VVUI",
@@ -261,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:03:00.228Z"
+  "updated_at": "2026-07-04T01:49:53.589Z"
 }

@@ -3,6 +3,51 @@
   "company_name": "東洋紡",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLBM",
+      "submit_date_time": "2026-06-26 09:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLBM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 606227,
+          "votes_against": 24268,
+          "votes_abstain": 1,
+          "approval_pct": 96.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案楢原誠慈竹内郁夫酒井太市池田和仁播磨政明福士博司髙瀬正子神崎夕紀",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 5.742025424455584e+47,
+          "votes_against": 5.631988079721456e+37,
+          "votes_abstain": 1111111111111111,
+          "approval_pct": 100,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 605065,
+          "votes_against": 25503,
+          "votes_abstain": 1,
+          "approval_pct": 95.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7KY",
@@ -153,5 +198,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:38:30.679Z"
+  "updated_at": "2026-07-04T01:32:54.840Z"
 }

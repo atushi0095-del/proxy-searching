@@ -3,6 +3,147 @@
   "company_name": "サンフロンティア不動産",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YIXW",
+      "submit_date_time": "2026-06-24 09:44",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIXW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "堀口智顕",
+          "votes_for": 425124,
+          "votes_against": 23462,
+          "votes_abstain": 155,
+          "approval_pct": 94.74,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "齋藤清一",
+          "votes_for": 419251,
+          "votes_against": 29334,
+          "votes_abstain": 155,
+          "approval_pct": 93.43,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川西健太郎",
+          "votes_for": 445048,
+          "votes_against": 3541,
+          "votes_abstain": 155,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "平原健志",
+          "votes_for": 445415,
+          "votes_against": 3174,
+          "votes_abstain": 155,
+          "approval_pct": 99.26,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "音道慶太郎",
+          "votes_for": 445497,
+          "votes_against": 3092,
+          "votes_abstain": 155,
+          "approval_pct": 99.28,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "浅井恵一",
+          "votes_for": 444852,
+          "votes_against": 3738,
+          "votes_abstain": 155,
+          "approval_pct": 99.13,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監等委員でない取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡本秀彰",
+          "votes_for": 394927,
+          "votes_against": 53660,
+          "votes_abstain": 155,
+          "approval_pct": 88.01,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "石水功一",
+          "votes_for": 445340,
+          "votes_against": 3250,
+          "votes_abstain": 155,
+          "approval_pct": 99.24,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大久保和孝",
+          "votes_for": 427449,
+          "votes_against": 21006,
+          "votes_abstain": 287,
+          "approval_pct": 95.25,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "枝廣恭子",
+          "votes_for": 445559,
+          "votes_against": 3031,
+          "votes_abstain": 155,
+          "approval_pct": 99.29,
+          "approval_pct_source": "computed",
+          "result": null
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 446642,
+          "votes_against": 1949,
+          "votes_abstain": 155,
+          "approval_pct": 99.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-25",
       "meeting_year": 2024,
       "doc_id": "S100TUYN",
@@ -168,5 +309,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T09:56:01.419Z"
+  "updated_at": "2026-07-04T01:50:05.296Z"
 }

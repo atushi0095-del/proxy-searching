@@ -3,6 +3,135 @@
   "company_name": "エンシュウ",
   "meetings": [
     {
+      "meeting_date": "2026-06-29",
+      "meeting_year": 2026,
+      "doc_id": "S100YOCP",
+      "submit_date_time": "2026-07-02 13:25",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOCP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "剰余金の処分の件",
+          "votes_for": 44499,
+          "votes_against": 383,
+          "votes_abstain": 44986,
+          "approval_pct": 98.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "勝倉宏和",
+          "votes_for": 44063,
+          "votes_against": 820,
+          "votes_abstain": 44986,
+          "approval_pct": 97.9,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松山智彦",
+          "votes_for": 44150,
+          "votes_against": 733,
+          "votes_abstain": 44986,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木敦士",
+          "votes_for": 44146,
+          "votes_against": 737,
+          "votes_abstain": 44986,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田代繁甲",
+          "votes_for": 44216,
+          "votes_against": 667,
+          "votes_abstain": 44986,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山地勝仁",
+          "votes_for": 43379,
+          "votes_against": 1504,
+          "votes_abstain": 44986,
+          "approval_pct": 96.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村松靖",
+          "votes_for": 44148,
+          "votes_against": 734,
+          "votes_abstain": 44986,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村松奈緒美",
+          "votes_for": 43372,
+          "votes_against": 1510,
+          "votes_abstain": 44986,
+          "approval_pct": 96.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大石高之",
+          "votes_for": 44205,
+          "votes_against": 677,
+          "votes_abstain": 44986,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石塚伸",
+          "votes_for": 44122,
+          "votes_against": 761,
+          "votes_abstain": 44986,
+          "approval_pct": 98.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W975",
@@ -201,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:27:07.676Z"
+  "updated_at": "2026-07-04T00:47:44.577Z"
 }

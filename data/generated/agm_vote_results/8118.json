@@ -3,6 +3,159 @@
   "company_name": "キング",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMY9",
+      "submit_date_time": "2026-06-29 14:17",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMY9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田幸雄",
+          "votes_for": 119886,
+          "votes_against": 10201,
+          "votes_abstain": null,
+          "approval_pct": 92.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "木原伸一",
+          "votes_for": 124480,
+          "votes_against": 5607,
+          "votes_abstain": null,
+          "approval_pct": 95.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長島希吉",
+          "votes_for": 129343,
+          "votes_against": 744,
+          "votes_abstain": null,
+          "approval_pct": 99.43,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "澤田眞治郎",
+          "votes_for": 129717,
+          "votes_against": 370,
+          "votes_abstain": null,
+          "approval_pct": 99.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "藤井卓也",
+          "votes_for": 129297,
+          "votes_against": 790,
+          "votes_abstain": null,
+          "approval_pct": 99.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "浅見雄輔",
+          "votes_for": 129750,
+          "votes_against": 337,
+          "votes_abstain": null,
+          "approval_pct": 99.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "髙井晶治",
+          "votes_for": 129213,
+          "votes_against": 858,
+          "votes_abstain": null,
+          "approval_pct": 99.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 7628,
+          "votes_against": 122447,
+          "votes_abstain": null,
+          "approval_pct": 5.86,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 6,
+          "proposal_title": "第6号議案定款一部変更の件（剰余金の処分等の決定機関に関する変更）",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 7537,
+          "votes_against": 122538,
+          "votes_abstain": null,
+          "approval_pct": 5.79,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 9,
+          "proposal_title": "第9号議案定款一部変更の件（自己株式の消却）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 6583,
+          "votes_against": 123491,
+          "votes_abstain": null,
+          "approval_pct": 5.06,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 10,
+          "proposal_title": "第10号議案定款一部変更の件（政策保有株式の縮減）",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 6852,
+          "votes_against": 123223,
+          "votes_abstain": null,
+          "approval_pct": 5.27,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        },
+        {
+          "proposal_no": 11,
+          "proposal_title": "第11号議案買収防衛策撤廃の件",
+          "proposal_category": "買収防衛策",
+          "candidate_name": null,
+          "votes_for": 7433,
+          "votes_against": 122642,
+          "votes_abstain": null,
+          "approval_pct": 5.71,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W96T",
@@ -81,5 +234,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:28:07.246Z"
+  "updated_at": "2026-07-04T01:10:02.994Z"
 }

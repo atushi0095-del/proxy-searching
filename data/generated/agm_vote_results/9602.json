@@ -3,6 +3,135 @@
   "company_name": "東宝",
   "meetings": [
     {
+      "meeting_date": "2026-05-28",
+      "meeting_year": 2026,
+      "doc_id": "S100Y70G",
+      "submit_date_time": "2026-06-01 12:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y70G",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1398515,
+          "votes_against": 5806,
+          "votes_abstain": 1,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松岡宏泰",
+          "votes_for": 1260814,
+          "votes_against": 143491,
+          "votes_abstain": 4,
+          "approval_pct": 89.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "太古伸幸",
+          "votes_for": 1351595,
+          "votes_against": 52713,
+          "votes_abstain": 4,
+          "approval_pct": 96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "市川南",
+          "votes_for": 1387962,
+          "votes_against": 16349,
+          "votes_abstain": 4,
+          "approval_pct": 98.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大田圭二",
+          "votes_for": 1390975,
+          "votes_against": 13334,
+          "votes_abstain": 4,
+          "approval_pct": 98.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "嶋田泰夫",
+          "votes_for": 1350351,
+          "votes_against": 53958,
+          "votes_abstain": 4,
+          "approval_pct": 95.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "緒方栄一",
+          "votes_for": 1357974,
+          "votes_against": 46334,
+          "votes_abstain": 1,
+          "approval_pct": 96.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安藤知史",
+          "votes_for": 1310822,
+          "votes_against": 93492,
+          "votes_abstain": 1,
+          "approval_pct": 93.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大越いづみ",
+          "votes_for": 1377863,
+          "votes_against": 26448,
+          "votes_abstain": 1,
+          "approval_pct": 97.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "太田大三",
+          "votes_for": 1402233,
+          "votes_against": 2086,
+          "votes_abstain": 1,
+          "approval_pct": 99.6,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-05-29",
       "meeting_year": 2025,
       "doc_id": "S100VUZ9",
@@ -108,5 +237,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:26:40.023Z"
+  "updated_at": "2026-07-04T02:06:34.770Z"
 }

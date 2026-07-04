@@ -3,6 +3,99 @@
   "company_name": "兼松エンジニアリング",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YMW5",
+      "submit_date_time": "2026-06-30 09:49",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMW5",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 28803,
+          "votes_against": 103,
+          "votes_abstain": null,
+          "approval_pct": 99.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山本琴一",
+          "votes_for": 27699,
+          "votes_against": 1227,
+          "votes_abstain": null,
+          "approval_pct": 95.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "北村和則",
+          "votes_for": 27720,
+          "votes_against": 1206,
+          "votes_abstain": null,
+          "approval_pct": 95.83,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "黒田誠",
+          "votes_for": 28547,
+          "votes_against": 379,
+          "votes_abstain": null,
+          "approval_pct": 98.69,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田辺良彦",
+          "votes_for": 28534,
+          "votes_against": 392,
+          "votes_abstain": null,
+          "approval_pct": 98.64,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "長山育男",
+          "votes_for": 28604,
+          "votes_against": 322,
+          "votes_abstain": null,
+          "approval_pct": 98.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "十川智基",
+          "votes_for": 28606,
+          "votes_against": 320,
+          "votes_abstain": null,
+          "approval_pct": 98.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100W89U",
@@ -225,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:24:49.523Z"
+  "updated_at": "2026-07-04T01:02:09.018Z"
 }

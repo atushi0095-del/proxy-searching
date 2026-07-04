@@ -3,6 +3,123 @@
   "company_name": "ドウシシャ",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YNIZ",
+      "submit_date_time": "2026-07-01 10:39",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNIZ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 290331,
+          "votes_against": 20338,
+          "votes_abstain": 1109,
+          "approval_pct": 93.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野村正治",
+          "votes_for": 287269,
+          "votes_against": 23443,
+          "votes_abstain": 1109,
+          "approval_pct": 92.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野村正幸",
+          "votes_for": 295713,
+          "votes_against": 14984,
+          "votes_abstain": 1122,
+          "approval_pct": 94.83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金原利根里",
+          "votes_for": 298342,
+          "votes_against": 12367,
+          "votes_abstain": 1109,
+          "approval_pct": 95.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本崇裕",
+          "votes_for": 307149,
+          "votes_against": 3563,
+          "votes_abstain": 1109,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小栁伸成",
+          "votes_for": 307152,
+          "votes_against": 3560,
+          "votes_abstain": 1109,
+          "approval_pct": 98.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "熊本倫章",
+          "votes_for": 305325,
+          "votes_against": 5228,
+          "votes_abstain": 1270,
+          "approval_pct": 97.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高舛啓次",
+          "votes_for": 287888,
+          "votes_against": 22826,
+          "votes_abstain": 1109,
+          "approval_pct": 92.32,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "越知覚子",
+          "votes_for": 307411,
+          "votes_against": 3303,
+          "votes_abstain": 1109,
+          "approval_pct": 98.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WA1W",
@@ -297,5 +414,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:13:07.503Z"
+  "updated_at": "2026-07-04T00:52:27.006Z"
 }

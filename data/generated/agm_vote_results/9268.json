@@ -3,6 +3,135 @@
   "company_name": "ｵﾌﾟﾃｨﾏｽｸﾞﾙｰﾌﾟ",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YN7A",
+      "submit_date_time": "2026-06-30 09:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN7A",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山中信哉",
+          "votes_for": 456412,
+          "votes_against": 8034,
+          "votes_abstain": null,
+          "approval_pct": 98.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ロバート・アンドリュー・ヤング",
+          "votes_for": 456494,
+          "votes_against": 7952,
+          "votes_abstain": null,
+          "approval_pct": 98.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "マーティン・フレイザー・マッカラック",
+          "votes_for": 456181,
+          "votes_against": 8265,
+          "votes_abstain": null,
+          "approval_pct": 98.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ジョン・スタターリ",
+          "votes_for": 456531,
+          "votes_against": 7915,
+          "votes_abstain": null,
+          "approval_pct": 98.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩岡廣明",
+          "votes_for": 455972,
+          "votes_against": 8474,
+          "votes_abstain": null,
+          "approval_pct": 98.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "布施伸章",
+          "votes_for": 456961,
+          "votes_against": 7485,
+          "votes_abstain": null,
+          "approval_pct": 98.39,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森正邦",
+          "votes_for": 456398,
+          "votes_against": 8048,
+          "votes_abstain": null,
+          "approval_pct": 98.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "若林陽介",
+          "votes_for": 456100,
+          "votes_against": 8346,
+          "votes_abstain": null,
+          "approval_pct": 98.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "横澤靖子",
+          "votes_for": 456418,
+          "votes_against": 8028,
+          "votes_abstain": null,
+          "approval_pct": 98.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 454548,
+          "votes_against": 9898,
+          "votes_abstain": null,
+          "approval_pct": 97.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W7PB",
@@ -117,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:37:24.641Z"
+  "updated_at": "2026-07-04T01:02:37.122Z"
 }

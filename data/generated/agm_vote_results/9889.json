@@ -3,6 +3,99 @@
   "company_name": "ＪＢＣＣホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YJ1R",
+      "submit_date_time": "2026-06-24 10:50",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJ1R",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "東上征司",
+          "votes_for": 482057,
+          "votes_against": 15729,
+          "votes_abstain": 0,
+          "approval_pct": 96.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅利信治",
+          "votes_for": 482461,
+          "votes_against": 15325,
+          "votes_abstain": 0,
+          "approval_pct": 96.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "井戸潔",
+          "votes_for": 484506,
+          "votes_against": 13280,
+          "votes_abstain": 0,
+          "approval_pct": 97.33,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山﨑健",
+          "votes_for": 478779,
+          "votes_against": 19003,
+          "votes_abstain": 4,
+          "approval_pct": 96.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺善子",
+          "votes_for": 484284,
+          "votes_against": 13498,
+          "votes_abstain": 4,
+          "approval_pct": 97.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "千代田有子",
+          "votes_for": 485873,
+          "votes_against": 11909,
+          "votes_abstain": 4,
+          "approval_pct": 97.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "瀬尾英重",
+          "votes_for": 488140,
+          "votes_against": 9646,
+          "votes_abstain": 0,
+          "approval_pct": 98.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-06-18",
       "meeting_year": 2024,
       "doc_id": "S100TP96",
@@ -156,5 +249,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:21:26.765Z"
+  "updated_at": "2026-07-04T01:49:34.977Z"
 }

@@ -3,6 +3,123 @@
   "company_name": "北海道瓦斯",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YL95",
+      "submit_date_time": "2026-06-26 10:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL95",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大槻博",
+          "votes_for": 587623,
+          "votes_against": 61482,
+          "votes_abstain": 0,
+          "approval_pct": 90.53,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "川村智郷",
+          "votes_for": 598618,
+          "votes_against": 50487,
+          "votes_abstain": 0,
+          "approval_pct": 92.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "井澤文俊",
+          "votes_for": 626475,
+          "votes_against": 22631,
+          "votes_abstain": 0,
+          "approval_pct": 96.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "前谷浩樹",
+          "votes_for": 626487,
+          "votes_against": 22619,
+          "votes_abstain": 0,
+          "approval_pct": 96.52,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "八木渉",
+          "votes_for": 628404,
+          "votes_against": 20702,
+          "votes_abstain": 0,
+          "approval_pct": 96.81,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "岡田美弥子",
+          "votes_for": 626122,
+          "votes_against": 22984,
+          "votes_abstain": 0,
+          "approval_pct": 96.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小磯修二",
+          "votes_for": 625516,
+          "votes_against": 23590,
+          "votes_abstain": 0,
+          "approval_pct": 96.37,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役8名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "綿貫泰之",
+          "votes_for": 607767,
+          "votes_against": 41339,
+          "votes_abstain": 0,
+          "approval_pct": 93.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "中田雅幸",
+          "votes_for": 581903,
+          "votes_against": 67848,
+          "votes_abstain": 0,
+          "approval_pct": 89.56,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W43F",
@@ -237,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:06:15.994Z"
+  "updated_at": "2026-07-04T01:30:37.526Z"
 }

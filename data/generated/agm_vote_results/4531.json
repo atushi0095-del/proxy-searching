@@ -3,6 +3,111 @@
   "company_name": "有機合成薬品工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKFT",
+      "submit_date_time": "2026-06-26 10:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKFT",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 152543,
+          "votes_against": 834,
+          "votes_abstain": 0,
+          "approval_pct": 99.46,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松本清一郎",
+          "votes_for": 149806,
+          "votes_against": 3570,
+          "votes_abstain": 0,
+          "approval_pct": 97.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "草野正浩",
+          "votes_for": 151855,
+          "votes_against": 1521,
+          "votes_abstain": 0,
+          "approval_pct": 99.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "石川大洋",
+          "votes_for": 151869,
+          "votes_against": 1507,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "須藤尚武",
+          "votes_for": 151842,
+          "votes_against": 1535,
+          "votes_abstain": 0,
+          "approval_pct": 99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "大堀徳人",
+          "votes_for": 149927,
+          "votes_against": 3450,
+          "votes_abstain": 0,
+          "approval_pct": 97.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "板倉江利子",
+          "votes_for": 152339,
+          "votes_against": 1038,
+          "votes_abstain": 0,
+          "approval_pct": 99.32,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "林知一",
+          "votes_for": 147062,
+          "votes_against": 950,
+          "votes_abstain": 0,
+          "approval_pct": 99.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W2VX",
@@ -189,5 +294,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:07:46.651Z"
+  "updated_at": "2026-07-04T01:30:39.912Z"
 }

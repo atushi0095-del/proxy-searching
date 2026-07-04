@@ -3,6 +3,51 @@
   "company_name": "企業 5285",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YNVH",
+      "submit_date_time": "2026-07-01 09:17",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNVH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 64597,
+          "votes_against": 3038,
+          "votes_abstain": null,
+          "approval_pct": 95.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 66607,
+          "votes_against": 1028,
+          "votes_abstain": null,
+          "approval_pct": 98.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 66734,
+          "votes_against": 901,
+          "votes_abstain": null,
+          "approval_pct": 98.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W96B",
@@ -129,5 +174,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:11:38.310Z"
+  "updated_at": "2026-07-04T00:53:09.073Z"
 }

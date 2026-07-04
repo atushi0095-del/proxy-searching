@@ -3,6 +3,99 @@
   "company_name": "バロックジャパンリミテッド",
   "meetings": [
     {
+      "meeting_date": "2026-05-27",
+      "meeting_year": 2026,
+      "doc_id": "S100Y7S9",
+      "submit_date_time": "2026-06-01 09:56",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y7S9",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案資本準備金の額の減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 273971,
+          "votes_against": 2698,
+          "votes_abstain": 0,
+          "approval_pct": 99.02,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "村井博之",
+          "votes_for": 256491,
+          "votes_against": 20185,
+          "votes_abstain": 0,
+          "approval_pct": 92.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "趙珊",
+          "votes_for": 273090,
+          "votes_against": 3586,
+          "votes_abstain": 0,
+          "approval_pct": 98.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "松﨑曉",
+          "votes_for": 268962,
+          "votes_against": 7714,
+          "votes_abstain": 0,
+          "approval_pct": 97.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "奥村萬壽雄",
+          "votes_for": 268688,
+          "votes_against": 7988,
+          "votes_abstain": 0,
+          "approval_pct": 97.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役5名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "盛放",
+          "votes_for": 256227,
+          "votes_against": 20449,
+          "votes_abstain": 0,
+          "approval_pct": 92.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役に対する業績連動型譲渡制限付株式報酬制度導入の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 272206,
+          "votes_against": 4472,
+          "votes_abstain": 0,
+          "approval_pct": 98.38,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-05-27",
       "meeting_year": 2025,
       "doc_id": "S100VVDZ",
@@ -237,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:25:47.810Z"
+  "updated_at": "2026-07-04T02:06:49.211Z"
 }

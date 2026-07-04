@@ -3,6 +3,123 @@
   "company_name": "株式会社オリエンタルランド",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMNW",
+      "submit_date_time": "2026-06-29 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMNW",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加賀見俊夫",
+          "votes_for": 12565787,
+          "votes_against": 699860,
+          "votes_abstain": 0,
+          "approval_pct": 94.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙野由美子",
+          "votes_for": 12699267,
+          "votes_against": 563044,
+          "votes_abstain": 3336,
+          "approval_pct": 95.57,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋渉",
+          "votes_for": 12712900,
+          "votes_against": 520726,
+          "votes_abstain": 32021,
+          "approval_pct": 95.67,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金木有一",
+          "votes_for": 12775328,
+          "votes_against": 490330,
+          "votes_abstain": 0,
+          "approval_pct": 96.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "花田力",
+          "votes_for": 9924590,
+          "votes_against": 3341061,
+          "votes_abstain": 0,
+          "approval_pct": 74.69,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "茂木友三郎",
+          "votes_for": 12365819,
+          "votes_against": 899837,
+          "votes_abstain": 0,
+          "approval_pct": 93.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "田尻邦夫",
+          "votes_for": 12844350,
+          "votes_against": 421308,
+          "votes_abstain": 0,
+          "approval_pct": 96.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊池節",
+          "votes_for": 11672038,
+          "votes_against": 1593610,
+          "votes_abstain": 0,
+          "approval_pct": 87.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉光一郎",
+          "votes_for": 13119962,
+          "votes_against": 145697,
+          "votes_abstain": 0,
+          "approval_pct": 98.74,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9J7",
@@ -321,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:21:59.471Z"
+  "updated_at": "2026-07-04T01:07:13.768Z"
 }

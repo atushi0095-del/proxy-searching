@@ -3,6 +3,123 @@
   "company_name": "平河ヒューテック",
   "meetings": [
     {
+      "meeting_date": "2026-07-02",
+      "meeting_year": 2026,
+      "doc_id": "S100YOF0",
+      "submit_date_time": "2026-07-02 15:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOF0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 97772,
+          "votes_against": 15087,
+          "votes_abstain": 232,
+          "approval_pct": 86.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "隅田和夫",
+          "votes_for": 93478,
+          "votes_against": 19381,
+          "votes_abstain": 232,
+          "approval_pct": 82.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "篠祐一",
+          "votes_for": 103429,
+          "votes_against": 9430,
+          "votes_abstain": 232,
+          "approval_pct": 91.46,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "目黒裕次",
+          "votes_for": 97078,
+          "votes_against": 15781,
+          "votes_abstain": 232,
+          "approval_pct": 85.84,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "戸田哲郎",
+          "votes_for": 97690,
+          "votes_against": 15043,
+          "votes_abstain": 232,
+          "approval_pct": 86.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山本夕子",
+          "votes_for": 112372,
+          "votes_against": 361,
+          "votes_abstain": 232,
+          "approval_pct": 99.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙宮勝也",
+          "votes_for": 112363,
+          "votes_against": 370,
+          "votes_abstain": 232,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "三木悠輔",
+          "votes_for": 112472,
+          "votes_against": 261,
+          "votes_abstain": 232,
+          "approval_pct": 99.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石﨑修久",
+          "votes_for": 99860,
+          "votes_against": 12873,
+          "votes_abstain": 232,
+          "approval_pct": 88.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-07-03",
       "meeting_year": 2025,
       "doc_id": "S100WAR1",
@@ -213,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:02:16.325Z"
+  "updated_at": "2026-07-04T00:47:12.844Z"
 }

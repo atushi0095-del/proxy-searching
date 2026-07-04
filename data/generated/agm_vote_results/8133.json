@@ -3,6 +3,135 @@
   "company_name": "伊藤忠エネクス",
   "meetings": [
     {
+      "meeting_date": "2026-06-17",
+      "meeting_year": 2026,
+      "doc_id": "S100YE2S",
+      "submit_date_time": "2026-06-18 15:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YE2S",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案（剰余金処分の件）",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 1017391,
+          "votes_against": 421,
+          "votes_abstain": 50,
+          "approval_pct": 99.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（取締役8名選任の件）",
+          "proposal_category": "取締役選任",
+          "candidate_name": "田畑信幸",
+          "votes_for": 830384,
+          "votes_against": 187427,
+          "votes_abstain": 50,
+          "approval_pct": 81.58,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（取締役8名選任の件）",
+          "proposal_category": "取締役選任",
+          "candidate_name": "西村邦夫",
+          "votes_for": 977451,
+          "votes_against": 40361,
+          "votes_abstain": 50,
+          "approval_pct": 96.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（取締役8名選任の件）",
+          "proposal_category": "取締役選任",
+          "candidate_name": "渡辺聡",
+          "votes_for": 977011,
+          "votes_against": 40801,
+          "votes_abstain": 50,
+          "approval_pct": 95.99,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（取締役8名選任の件）",
+          "proposal_category": "取締役選任",
+          "candidate_name": "山田哲也",
+          "votes_for": 977327,
+          "votes_against": 40485,
+          "votes_abstain": 50,
+          "approval_pct": 96.02,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（取締役8名選任の件）",
+          "proposal_category": "取締役選任",
+          "candidate_name": "森川卓也",
+          "votes_for": 977513,
+          "votes_against": 40301,
+          "votes_abstain": 50,
+          "approval_pct": 96.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（取締役8名選任の件）",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤智恵",
+          "votes_for": 977498,
+          "votes_against": 40316,
+          "votes_abstain": 50,
+          "approval_pct": 96.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（取締役8名選任の件）",
+          "proposal_category": "取締役選任",
+          "candidate_name": "德田省三",
+          "votes_for": 977406,
+          "votes_against": 40408,
+          "votes_abstain": 50,
+          "approval_pct": 96.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案（取締役8名選任の件）",
+          "proposal_category": "取締役選任",
+          "candidate_name": "細谷武俊",
+          "votes_for": 1002045,
+          "votes_against": 15767,
+          "votes_abstain": 50,
+          "approval_pct": 98.45,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案（補欠監査役1名選任の件）",
+          "proposal_category": "監査役選任",
+          "candidate_name": "細川昭子",
+          "votes_for": 1016886,
+          "votes_against": 894,
+          "votes_abstain": 50,
+          "approval_pct": 99.91,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-18",
       "meeting_year": 2025,
       "doc_id": "S100W06S",
@@ -297,5 +426,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:18:55.721Z"
+  "updated_at": "2026-07-04T02:00:12.981Z"
 }

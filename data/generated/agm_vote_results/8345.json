@@ -3,6 +3,147 @@
   "company_name": "岩手銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YMJP",
+      "submit_date_time": "2026-06-29 10:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMJP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 135109,
+          "votes_against": 1119,
+          "votes_abstain": 0,
+          "approval_pct": 99.18,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岩山徹",
+          "votes_for": 112013,
+          "votes_against": 24213,
+          "votes_abstain": 2,
+          "approval_pct": 82.22,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菊地文彦",
+          "votes_for": 130722,
+          "votes_against": 5502,
+          "votes_abstain": 2,
+          "approval_pct": 95.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅原和宏",
+          "votes_for": 130719,
+          "votes_against": 5505,
+          "votes_abstain": 2,
+          "approval_pct": 95.96,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小原透",
+          "votes_for": 134549,
+          "votes_against": 1675,
+          "votes_abstain": 2,
+          "approval_pct": 98.77,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "宮野谷篤",
+          "votes_for": 129730,
+          "votes_against": 6495,
+          "votes_abstain": 2,
+          "approval_pct": 95.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部俊徳",
+          "votes_for": 130886,
+          "votes_against": 5339,
+          "votes_abstain": 2,
+          "approval_pct": 96.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松本真一",
+          "votes_for": 118842,
+          "votes_against": 17384,
+          "votes_abstain": 0,
+          "approval_pct": 87.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡辺正和",
+          "votes_for": 132968,
+          "votes_against": 3259,
+          "votes_abstain": 0,
+          "approval_pct": 97.61,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "前田千香子",
+          "votes_for": 117644,
+          "votes_against": 18583,
+          "votes_abstain": 0,
+          "approval_pct": 86.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松澤一美",
+          "votes_for": 122642,
+          "votes_against": 13586,
+          "votes_abstain": 0,
+          "approval_pct": 90.03,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W99B",
@@ -309,5 +450,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:08:43.493Z"
+  "updated_at": "2026-07-04T01:16:31.360Z"
 }

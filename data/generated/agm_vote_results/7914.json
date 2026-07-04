@@ -3,6 +3,123 @@
   "company_name": "共同印刷",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YN1Y",
+      "submit_date_time": "2026-06-29 15:16",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YN1Y",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 207058,
+          "votes_against": 1850,
+          "votes_abstain": 0,
+          "approval_pct": 99.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤森康彰",
+          "votes_for": 187872,
+          "votes_against": 21084,
+          "votes_abstain": 0,
+          "approval_pct": 89.91,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大橋輝臣",
+          "votes_for": 177849,
+          "votes_against": 31107,
+          "votes_abstain": 0,
+          "approval_pct": 85.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邉秀典",
+          "votes_for": 198413,
+          "votes_against": 10543,
+          "votes_abstain": 0,
+          "approval_pct": 94.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙橋孝治",
+          "votes_for": 198673,
+          "votes_against": 10283,
+          "votes_abstain": 0,
+          "approval_pct": 95.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "髙岡美佳",
+          "votes_for": 199001,
+          "votes_against": 9955,
+          "votes_abstain": 0,
+          "approval_pct": 95.24,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "光定洋介",
+          "votes_for": 200029,
+          "votes_against": 8927,
+          "votes_abstain": 0,
+          "approval_pct": 95.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大内智重子",
+          "votes_for": 206567,
+          "votes_against": 2389,
+          "votes_abstain": 0,
+          "approval_pct": 98.86,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 197810,
+          "votes_against": 11146,
+          "votes_abstain": 0,
+          "approval_pct": 94.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W8CR",
@@ -249,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:39:39.253Z"
+  "updated_at": "2026-07-04T01:07:53.823Z"
 }

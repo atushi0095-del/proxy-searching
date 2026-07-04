@@ -3,6 +3,111 @@
   "company_name": "筑波銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJSW",
+      "submit_date_time": "2026-06-25 09:08",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJSW",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案資本金の額の減少の件",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 496283,
+          "votes_against": 11940,
+          "votes_abstain": 0,
+          "approval_pct": 97.65,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "生田雅彦",
+          "votes_for": 449740,
+          "votes_against": 59600,
+          "votes_abstain": 0,
+          "approval_pct": 88.3,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "篠原智",
+          "votes_for": 449794,
+          "votes_against": 59546,
+          "votes_abstain": 0,
+          "approval_pct": 88.31,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡野強志",
+          "votes_for": 474945,
+          "votes_against": 34395,
+          "votes_abstain": 0,
+          "approval_pct": 93.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "木幡浩",
+          "votes_for": 490120,
+          "votes_against": 19220,
+          "votes_abstain": 0,
+          "approval_pct": 96.23,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "岡野信裕",
+          "votes_for": 490219,
+          "votes_against": 19121,
+          "votes_abstain": 0,
+          "approval_pct": 96.25,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "益子邦広",
+          "votes_for": 496682,
+          "votes_against": 12658,
+          "votes_abstain": 0,
+          "approval_pct": 97.51,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役（監査等委員である取締役を除く。）7名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "齋藤仁",
+          "votes_for": 489197,
+          "votes_against": 20143,
+          "votes_abstain": 0,
+          "approval_pct": 96.05,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W4DZ",
@@ -249,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:54:06.859Z"
+  "updated_at": "2026-07-04T01:43:10.193Z"
 }

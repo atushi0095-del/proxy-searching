@@ -3,6 +3,135 @@
   "company_name": "丸全昭和運輸",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMI0",
+      "submit_date_time": "2026-06-29 09:24",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMI0",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 173144,
+          "votes_against": 7941,
+          "votes_abstain": 4,
+          "approval_pct": 95.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅井俊之",
+          "votes_for": 150309,
+          "votes_against": 30777,
+          "votes_abstain": 0,
+          "approval_pct": 83,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡田廣次",
+          "votes_for": 145606,
+          "votes_against": 35478,
+          "votes_abstain": 0,
+          "approval_pct": 80.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村匡宏",
+          "votes_for": 156892,
+          "votes_against": 24194,
+          "votes_abstain": 0,
+          "approval_pct": 86.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "安藤雄一",
+          "votes_for": 162019,
+          "votes_against": 19068,
+          "votes_abstain": 0,
+          "approval_pct": 89.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澁谷康弘",
+          "votes_for": 154943,
+          "votes_against": 26141,
+          "votes_abstain": 0,
+          "approval_pct": 85.56,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "内藤彰信",
+          "votes_for": 123189,
+          "votes_against": 57897,
+          "votes_abstain": 0,
+          "approval_pct": 68.03,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "桑野和泉",
+          "votes_for": 169786,
+          "votes_against": 11302,
+          "votes_abstain": 0,
+          "approval_pct": 93.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川口恵都子",
+          "votes_for": 169987,
+          "votes_against": 11102,
+          "votes_abstain": 0,
+          "approval_pct": 93.87,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 120488,
+          "votes_against": 60601,
+          "votes_abstain": 0,
+          "approval_pct": 66.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9JP",
@@ -201,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:21:52.257Z"
+  "updated_at": "2026-07-04T01:18:02.858Z"
 }

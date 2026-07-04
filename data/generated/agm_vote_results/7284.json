@@ -3,6 +3,99 @@
   "company_name": "盟和産業",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YMVJ",
+      "submit_date_time": "2026-06-29 13:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMVJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 20770,
+          "votes_against": 76,
+          "votes_abstain": null,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "飯塚清",
+          "votes_for": 20050,
+          "votes_against": 815,
+          "votes_abstain": null,
+          "approval_pct": 95.96,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "丸茂康弘",
+          "votes_for": 20089,
+          "votes_against": 776,
+          "votes_abstain": null,
+          "approval_pct": 96.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "高桑重徳",
+          "votes_for": 20084,
+          "votes_against": 781,
+          "votes_abstain": null,
+          "approval_pct": 96.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "桐生直規",
+          "votes_for": 20104,
+          "votes_against": 761,
+          "votes_abstain": null,
+          "approval_pct": 96.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "市川一郎",
+          "votes_for": 20078,
+          "votes_against": 787,
+          "votes_abstain": null,
+          "approval_pct": 96.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役(監査等委員である取締役を除く。)6名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小川直樹",
+          "votes_for": 20763,
+          "votes_against": 102,
+          "votes_abstain": null,
+          "approval_pct": 99.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9VN",
@@ -189,5 +282,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:16:14.430Z"
+  "updated_at": "2026-07-04T01:11:20.801Z"
 }

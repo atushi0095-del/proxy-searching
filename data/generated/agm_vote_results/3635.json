@@ -3,6 +3,195 @@
   "company_name": "コーエーテクモホールディングス",
   "meetings": [
     {
+      "meeting_date": "2026-06-23",
+      "meeting_year": 2026,
+      "doc_id": "S100YI4W",
+      "submit_date_time": "2026-06-23 15:13",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YI4W",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 3002421,
+          "votes_against": 12589,
+          "votes_abstain": 1221,
+          "approval_pct": 99.54,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "襟川恵子",
+          "votes_for": 2976966,
+          "votes_against": 37990,
+          "votes_abstain": 1301,
+          "approval_pct": 98.7,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "襟川陽一",
+          "votes_for": 2841669,
+          "votes_against": 173279,
+          "votes_abstain": 1301,
+          "approval_pct": 94.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "鯉沼久史",
+          "votes_for": 2863960,
+          "votes_against": 150988,
+          "votes_abstain": 1301,
+          "approval_pct": 94.95,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "襟川芽衣",
+          "votes_for": 2975871,
+          "votes_against": 39085,
+          "votes_abstain": 1301,
+          "approval_pct": 98.66,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "柿原康晴",
+          "votes_for": 2976062,
+          "votes_against": 38894,
+          "votes_abstain": 1301,
+          "approval_pct": 98.67,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "手嶋雅夫",
+          "votes_for": 2646143,
+          "votes_against": 368805,
+          "votes_abstain": 1301,
+          "approval_pct": 87.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小林宏",
+          "votes_for": 2933847,
+          "votes_against": 81106,
+          "votes_abstain": 1301,
+          "approval_pct": 97.27,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "佐藤辰男",
+          "votes_for": 2978055,
+          "votes_against": 36904,
+          "votes_abstain": 1301,
+          "approval_pct": 98.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小笠原倫明",
+          "votes_for": 2978034,
+          "votes_against": 36925,
+          "votes_abstain": 1301,
+          "approval_pct": 98.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "上沼紫野",
+          "votes_for": 2978740,
+          "votes_against": 36219,
+          "votes_abstain": 1301,
+          "approval_pct": 98.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役11名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "小山内いづ美",
+          "votes_for": 2979400,
+          "votes_against": 35560,
+          "votes_abstain": 1301,
+          "approval_pct": 98.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "木村正樹",
+          "votes_for": 2594331,
+          "votes_against": 420569,
+          "votes_abstain": 1321,
+          "approval_pct": 86.01,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案ストック・オプションとして新株予約権を発行する件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 2811540,
+          "votes_against": 203078,
+          "votes_abstain": 1627,
+          "approval_pct": 93.21,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案取締役に対する譲渡制限付株式の付与のための報酬決定の件",
+          "proposal_category": "役員報酬",
+          "candidate_name": null,
+          "votes_for": 2886753,
+          "votes_against": 127305,
+          "votes_abstain": 2190,
+          "approval_pct": 95.71,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W3B7",
@@ -393,5 +582,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:08:18.384Z"
+  "updated_at": "2026-07-04T01:51:44.708Z"
 }

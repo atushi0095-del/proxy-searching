@@ -3,6 +3,159 @@
   "company_name": "共英製鋼",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YKPE",
+      "submit_date_time": "2026-06-25 14:10",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKPE",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高島秀一郎",
+          "votes_for": 390119,
+          "votes_against": 4459,
+          "votes_abstain": 105,
+          "approval_pct": 98.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "坂本尚吾",
+          "votes_for": 390086,
+          "votes_against": 4480,
+          "votes_abstain": 116,
+          "approval_pct": 98.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "菅哲哉",
+          "votes_for": 392605,
+          "votes_against": 1973,
+          "votes_abstain": 105,
+          "approval_pct": 99.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "廣冨靖以",
+          "votes_for": 390537,
+          "votes_against": 4041,
+          "votes_abstain": 105,
+          "approval_pct": 98.66,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "林進",
+          "votes_for": 392671,
+          "votes_against": 1907,
+          "votes_abstain": 105,
+          "approval_pct": 99.2,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "川邊辰也",
+          "votes_for": 390790,
+          "votes_against": 3791,
+          "votes_abstain": 105,
+          "approval_pct": 98.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "船戸貴美子",
+          "votes_for": 390918,
+          "votes_against": 3663,
+          "votes_abstain": 105,
+          "approval_pct": 98.76,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "松家優香子",
+          "votes_for": 392508,
+          "votes_against": 2070,
+          "votes_abstain": 105,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小口光",
+          "votes_for": 366282,
+          "votes_against": 28300,
+          "votes_abstain": 105,
+          "approval_pct": 92.53,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中谷進亮",
+          "votes_for": 385333,
+          "votes_against": 9247,
+          "votes_abstain": 105,
+          "approval_pct": 97.35,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "介川康弘",
+          "votes_for": 317730,
+          "votes_against": 76850,
+          "votes_abstain": 105,
+          "approval_pct": 80.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 392797,
+          "votes_against": 1754,
+          "votes_abstain": 135,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W715",
@@ -144,5 +297,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:51:33.384Z"
+  "updated_at": "2026-07-04T01:38:35.607Z"
 }

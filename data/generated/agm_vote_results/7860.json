@@ -3,6 +3,123 @@
   "company_name": "エイベックス",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMSM",
+      "submit_date_time": "2026-06-29 15:36",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMSM",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "松浦勝人",
+          "votes_for": 286202,
+          "votes_against": 24349,
+          "votes_abstain": 0,
+          "approval_pct": 92.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "黒岩克巳",
+          "votes_for": 286279,
+          "votes_against": 24272,
+          "votes_abstain": 0,
+          "approval_pct": 92.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "林真司",
+          "votes_for": 286386,
+          "votes_against": 24165,
+          "votes_abstain": 0,
+          "approval_pct": 92.21,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "見城徹",
+          "votes_for": 292057,
+          "votes_against": 18494,
+          "votes_abstain": 0,
+          "approval_pct": 94.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案取締役（監査等委員である取締役を除く）5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "瀧口友里奈",
+          "votes_for": 307317,
+          "votes_against": 3235,
+          "votes_abstain": 0,
+          "approval_pct": 98.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小林伸之",
+          "votes_for": 283512,
+          "votes_against": 27040,
+          "votes_abstain": 0,
+          "approval_pct": 91.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "杉本佳英",
+          "votes_for": 280875,
+          "votes_against": 29677,
+          "votes_abstain": 0,
+          "approval_pct": 90.44,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役3名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "安田恵",
+          "votes_for": 307699,
+          "votes_against": 2854,
+          "votes_abstain": 0,
+          "approval_pct": 99.08,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "飯田直樹",
+          "votes_for": 308332,
+          "votes_against": 2222,
+          "votes_abstain": 0,
+          "approval_pct": 99.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W9RG",
@@ -189,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:17:16.136Z"
+  "updated_at": "2026-07-04T01:06:35.858Z"
 }

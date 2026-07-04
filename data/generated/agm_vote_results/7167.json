@@ -3,6 +3,87 @@
   "company_name": "めぶきフィナンシャルグループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLPA",
+      "submit_date_time": "2026-06-26 10:35",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLPA",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水和幸",
+          "votes_for": 7533758,
+          "votes_against": 139075,
+          "votes_abstain": 496,
+          "approval_pct": 97.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小野利彦",
+          "votes_for": 7556441,
+          "votes_against": 116396,
+          "votes_abstain": 496,
+          "approval_pct": 97.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大塚浩樹",
+          "votes_for": 7556142,
+          "votes_against": 116695,
+          "votes_abstain": 496,
+          "approval_pct": 97.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鳥羽吉嗣",
+          "votes_for": 7555977,
+          "votes_against": 116860,
+          "votes_abstain": 496,
+          "approval_pct": 97.71,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "戸塚正一郎",
+          "votes_for": 7608437,
+          "votes_against": 64400,
+          "votes_abstain": 496,
+          "approval_pct": 98.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "朱純美",
+          "votes_for": 7633172,
+          "votes_against": 39665,
+          "votes_abstain": 496,
+          "approval_pct": 98.7,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-24",
       "meeting_year": 2025,
       "doc_id": "S100W69V",
@@ -165,5 +246,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:53:50.177Z"
+  "updated_at": "2026-07-04T01:29:45.774Z"
 }

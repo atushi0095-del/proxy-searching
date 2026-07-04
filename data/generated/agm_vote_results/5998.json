@@ -3,6 +3,135 @@
   "company_name": "アドバネクス",
   "meetings": [
     {
+      "meeting_date": "2026-06-25",
+      "meeting_year": 2026,
+      "doc_id": "S100YOCF",
+      "submit_date_time": "2026-07-02 13:07",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOCF",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 29986,
+          "votes_against": 530,
+          "votes_abstain": 0,
+          "approval_pct": 98.26,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案定款一部変更の件",
+          "proposal_category": "定款変更",
+          "candidate_name": null,
+          "votes_for": 29991,
+          "votes_against": 525,
+          "votes_abstain": 0,
+          "approval_pct": 98.28,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "朝田英太郎",
+          "votes_for": 29850,
+          "votes_against": 666,
+          "votes_abstain": 0,
+          "approval_pct": 97.82,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "吉原哲也",
+          "votes_for": 29874,
+          "votes_against": 642,
+          "votes_abstain": 0,
+          "approval_pct": 97.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "加藤精也",
+          "votes_for": 29888,
+          "votes_against": 628,
+          "votes_abstain": 0,
+          "approval_pct": 97.94,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大柿健一",
+          "votes_for": 29869,
+          "votes_against": 647,
+          "votes_abstain": 0,
+          "approval_pct": 97.88,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "杉井孝",
+          "votes_for": 29873,
+          "votes_against": 643,
+          "votes_abstain": 0,
+          "approval_pct": 97.89,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役6名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "新田都志子",
+          "votes_for": 29876,
+          "votes_against": 640,
+          "votes_abstain": 0,
+          "approval_pct": 97.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "中村慈美",
+          "votes_for": 29924,
+          "votes_against": 592,
+          "votes_abstain": 0,
+          "approval_pct": 98.06,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案補欠監査役1名選任の件",
+          "proposal_category": "監査役選任",
+          "candidate_name": "岩本生",
+          "votes_for": 29902,
+          "votes_against": 614,
+          "votes_abstain": 0,
+          "approval_pct": 97.99,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100WALC",
@@ -201,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:05:04.418Z"
+  "updated_at": "2026-07-04T00:47:49.280Z"
 }

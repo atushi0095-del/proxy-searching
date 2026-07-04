@@ -3,6 +3,135 @@
   "company_name": "ハークスレイ",
   "meetings": [
     {
+      "meeting_date": "2026-06-22",
+      "meeting_year": 2026,
+      "doc_id": "S100YGNJ",
+      "submit_date_time": "2026-06-22 13:43",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGNJ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 145637,
+          "votes_against": 559,
+          "votes_abstain": 0,
+          "approval_pct": 99.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 145650,
+          "votes_against": 546,
+          "votes_abstain": 0,
+          "approval_pct": 99.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "青木達也",
+          "votes_for": 139586,
+          "votes_against": 6610,
+          "votes_abstain": 0,
+          "approval_pct": 95.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤田忠雄",
+          "votes_for": 140524,
+          "votes_against": 5672,
+          "votes_abstain": 0,
+          "approval_pct": 96.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "水野治彦",
+          "votes_for": 144916,
+          "votes_against": 1280,
+          "votes_abstain": 0,
+          "approval_pct": 99.12,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部豊明",
+          "votes_for": 145095,
+          "votes_against": 1101,
+          "votes_abstain": 0,
+          "approval_pct": 99.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "道畑富美",
+          "votes_for": 140429,
+          "votes_against": 5767,
+          "votes_abstain": 0,
+          "approval_pct": 90.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "清水誠三",
+          "votes_for": 144873,
+          "votes_against": 1323,
+          "votes_abstain": 0,
+          "approval_pct": 99.1,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴鹿良夫",
+          "votes_for": 141743,
+          "votes_against": 4453,
+          "votes_abstain": 0,
+          "approval_pct": 96.95,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山口裕敬",
+          "votes_for": 145094,
+          "votes_against": 1097,
+          "votes_abstain": 0,
+          "approval_pct": 99.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100VWK0",
@@ -189,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:49:54.225Z"
+  "updated_at": "2026-07-04T01:55:43.640Z"
 }

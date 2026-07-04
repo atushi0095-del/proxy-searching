@@ -3,6 +3,75 @@
   "company_name": "アリアケジャパン",
   "meetings": [
     {
+      "meeting_date": "2026-06-19",
+      "meeting_year": 2026,
+      "doc_id": "S100YJVC",
+      "submit_date_time": "2026-06-24 16:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJVC",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 288148,
+          "votes_against": 133,
+          "votes_abstain": 291,
+          "approval_pct": 99.63,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 288138,
+          "votes_against": 142,
+          "votes_abstain": 291,
+          "approval_pct": 99.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案白川直樹亀岡正彦松本幸一岩城幸司世知原圭司高濱明佐々木隆彦神元佳子",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 2.3374328449328453e+47,
+          "votes_against": 5.453837883770375e+31,
+          "votes_abstain": 2.912912912912913e+23,
+          "approval_pct": 80.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案星野誠之井川真由美",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 283630287313,
+          "votes_against": 4651968,
+          "votes_abstain": 291291,
+          "approval_pct": 98.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 5,
+          "proposal_title": "第5号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 272861,
+          "votes_against": 15420,
+          "votes_abstain": 291,
+          "approval_pct": 94.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-20",
       "meeting_year": 2025,
       "doc_id": "S100W5ZN",
@@ -165,5 +234,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:58:04.633Z"
+  "updated_at": "2026-07-04T01:44:26.334Z"
 }

@@ -3,6 +3,135 @@
   "company_name": "ｺﾒ兵ﾎｰﾙﾃﾞｨﾝｸﾞｽ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YJZQ",
+      "submit_date_time": "2026-06-24 16:47",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJZQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石原卓児",
+          "votes_for": 74216,
+          "votes_against": 130,
+          "votes_abstain": null,
+          "approval_pct": 95.82,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "沢田登志雄",
+          "votes_for": 74203,
+          "votes_against": 143,
+          "votes_abstain": null,
+          "approval_pct": 95.8,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "山内祐也",
+          "votes_for": 74167,
+          "votes_against": 179,
+          "votes_abstain": null,
+          "approval_pct": 95.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平内優",
+          "votes_for": 74142,
+          "votes_against": 204,
+          "votes_abstain": null,
+          "approval_pct": 95.72,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中原義子",
+          "votes_for": 74178,
+          "votes_against": 168,
+          "votes_abstain": null,
+          "approval_pct": 95.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高岡淳二",
+          "votes_for": 74166,
+          "votes_against": 180,
+          "votes_abstain": null,
+          "approval_pct": 95.75,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鳥田一利",
+          "votes_for": 73685,
+          "votes_against": 661,
+          "votes_abstain": null,
+          "approval_pct": 95.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "皆見幸",
+          "votes_for": 74112,
+          "votes_against": 234,
+          "votes_abstain": null,
+          "approval_pct": 95.68,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役（監査等委員である取締役を除く。）の報酬額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 73959,
+          "votes_against": 387,
+          "votes_abstain": null,
+          "approval_pct": 95.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案監査等委員である取締役の報酬額改定の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": null,
+          "votes_for": 73899,
+          "votes_against": 447,
+          "votes_abstain": null,
+          "approval_pct": 95.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W7K1",
@@ -237,5 +366,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:46:37.449Z"
+  "updated_at": "2026-07-04T01:43:40.462Z"
 }

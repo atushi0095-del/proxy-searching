@@ -3,6 +3,111 @@
   "company_name": "丸紅建材リース",
   "meetings": [
     {
+      "meeting_date": "2026-06-22",
+      "meeting_year": 2026,
+      "doc_id": "S100YHZH",
+      "submit_date_time": "2026-06-23 13:45",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHZH",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "井ノ上雅弘",
+          "votes_for": 22510,
+          "votes_against": 194,
+          "votes_abstain": 0,
+          "approval_pct": 99.14,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "倉科淳",
+          "votes_for": 22531,
+          "votes_against": 173,
+          "votes_abstain": 0,
+          "approval_pct": 99.23,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "新井祐宏",
+          "votes_for": 22528,
+          "votes_against": 176,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "小島邦秋",
+          "votes_for": 22528,
+          "votes_against": 176,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案監査等委員でない取締役5名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "中西孝平",
+          "votes_for": 22515,
+          "votes_against": 189,
+          "votes_abstain": 0,
+          "approval_pct": 99.16,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "北澤康一",
+          "votes_for": 22533,
+          "votes_against": 171,
+          "votes_abstain": 0,
+          "approval_pct": 99.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査等委員である取締役2名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "樋口達",
+          "votes_for": 22536,
+          "votes_against": 168,
+          "votes_abstain": 0,
+          "approval_pct": 99.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案補欠の監査等委員である取締役1名選任の件",
+          "proposal_category": "取締役選任(監査等委員)",
+          "candidate_name": "棚橋栄蔵",
+          "votes_for": 22528,
+          "votes_against": 176,
+          "votes_abstain": 0,
+          "approval_pct": 99.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W2EN",
@@ -213,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:12:16.532Z"
+  "updated_at": "2026-07-04T01:52:10.230Z"
 }

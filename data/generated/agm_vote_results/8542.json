@@ -3,6 +3,51 @@
   "company_name": "トマト銀行",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YMJD",
+      "submit_date_time": "2026-06-29 10:04",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMJD",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の処分の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 89208,
+          "votes_against": 295,
+          "votes_abstain": 11,
+          "approval_pct": 98.48,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案監査役1名選任の件奥田哲也",
+          "proposal_category": "監査役選任",
+          "candidate_name": null,
+          "votes_for": 89105,
+          "votes_against": 465,
+          "votes_abstain": 38,
+          "approval_pct": 98.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案取締役1名選任の件高橋俊一",
+          "proposal_category": "取締役選任",
+          "candidate_name": null,
+          "votes_for": 3963,
+          "votes_against": 85548,
+          "votes_abstain": 146,
+          "approval_pct": 4.36,
+          "approval_pct_source": "reported",
+          "result": "否決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WAIJ",
@@ -213,5 +258,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:06:08.037Z"
+  "updated_at": "2026-07-04T01:16:21.909Z"
 }

@@ -3,6 +3,111 @@
   "company_name": "ゼリア新薬工業",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YO4I",
+      "submit_date_time": "2026-07-01 15:33",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO4I",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 386171,
+          "votes_against": 6424,
+          "votes_abstain": 0,
+          "approval_pct": 98.36,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊部幸顕",
+          "votes_for": 345059,
+          "votes_against": 48020,
+          "votes_abstain": 0,
+          "approval_pct": 87.78,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊部充弘",
+          "votes_for": 343450,
+          "votes_against": 49629,
+          "votes_abstain": 0,
+          "approval_pct": 87.37,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小森哲夫",
+          "votes_for": 350767,
+          "votes_against": 42314,
+          "votes_abstain": 0,
+          "approval_pct": 89.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "野本亀久雄",
+          "votes_for": 391293,
+          "votes_against": 1791,
+          "votes_abstain": 0,
+          "approval_pct": 99.54,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "森元誠二",
+          "votes_for": 391669,
+          "votes_against": 1415,
+          "votes_abstain": 0,
+          "approval_pct": 99.64,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岡澤有輝",
+          "votes_for": 390740,
+          "votes_against": 2343,
+          "votes_abstain": 0,
+          "approval_pct": 99.4,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "児林聡美",
+          "votes_for": 392018,
+          "votes_against": 1068,
+          "votes_abstain": 0,
+          "approval_pct": 99.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WAYM",
@@ -201,5 +306,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:02:08.942Z"
+  "updated_at": "2026-07-04T00:50:18.111Z"
 }

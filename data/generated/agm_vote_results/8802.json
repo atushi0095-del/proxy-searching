@@ -3,6 +3,39 @@
   "company_name": "三菱地所",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YBLV",
+      "submit_date_time": "2026-06-29 15:30",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YBLV",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 10589637,
+          "votes_against": 37731,
+          "votes_abstain": 124,
+          "approval_pct": 99.55,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案吉田淳一中島篤四塚雄太郎梅田直樹平井幹人藤岡雄二木村透岡本毅メラニー・ブロック末吉亙薗田綾子織田直祐渡辺一翁百合",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1.0361752102623461e+111,
+          "votes_against": 2.5668936539421982e+76,
+          "votes_abstain": 9.427124124124125e+41,
+          "approval_pct": 97.41,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100W8YM",
@@ -69,5 +102,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:18:30.004Z"
+  "updated_at": "2026-07-04T01:07:04.021Z"
 }

@@ -3,6 +3,39 @@
   "company_name": "ﾏﾙｾﾞﾝ",
   "meetings": [
     {
+      "meeting_date": "2026-05-27",
+      "meeting_year": 2026,
+      "doc_id": "S100Y7IQ",
+      "submit_date_time": "2026-06-01 10:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y7IQ",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 144584,
+          "votes_against": 175,
+          "votes_abstain": 0,
+          "approval_pct": 99.87,
+          "approval_pct_source": "reported",
+          "result": null
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 141796,
+          "votes_against": 2994,
+          "votes_abstain": 0,
+          "approval_pct": 99.93,
+          "approval_pct_source": "reported",
+          "result": null
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-29",
       "meeting_year": 2024,
       "doc_id": "S100TJBZ",
@@ -60,5 +93,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:32:49.392Z"
+  "updated_at": "2026-07-04T02:06:46.852Z"
 }

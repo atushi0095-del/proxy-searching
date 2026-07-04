@@ -3,6 +3,39 @@
   "company_name": "ｵｷｻｲﾄﾞ",
   "meetings": [
     {
+      "meeting_date": "2026-05-29",
+      "meeting_year": 2026,
+      "doc_id": "S100Y7V1",
+      "submit_date_time": "2026-06-01 15:00",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y7V1",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 69124,
+          "votes_against": 121,
+          "votes_abstain": 384,
+          "approval_pct": 99.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案古川保典山本正幸藤浦和夫内田誠二為近恵美GarethC.W.Jones小池美和",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 6.912168935691357e+34,
+          "votes_against": 132318118232127140000,
+          "votes_abstain": 384384384384384400000,
+          "approval_pct": 99.25,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2024-05-30",
       "meeting_year": 2024,
       "doc_id": "S100TJL8",
@@ -48,5 +81,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T10:31:32.251Z"
+  "updated_at": "2026-07-04T02:06:18.436Z"
 }

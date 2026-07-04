@@ -3,6 +3,147 @@
   "company_name": "日本甜菜製糖",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YO1D",
+      "submit_date_time": "2026-07-01 15:09",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO1D",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 89504,
+          "votes_against": 8606,
+          "votes_abstain": 0,
+          "approval_pct": 91.15,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 97790,
+          "votes_against": 317,
+          "votes_abstain": 0,
+          "approval_pct": 99.59,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "石栗秀",
+          "votes_for": 85650,
+          "votes_against": 12460,
+          "votes_abstain": 0,
+          "approval_pct": 87.22,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "木山邦樹",
+          "votes_for": 87369,
+          "votes_against": 10741,
+          "votes_abstain": 0,
+          "approval_pct": 88.97,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "寺澤秀和",
+          "votes_for": 87467,
+          "votes_against": 10643,
+          "votes_abstain": 0,
+          "approval_pct": 89.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "白畑康",
+          "votes_for": 97701,
+          "votes_against": 409,
+          "votes_abstain": 0,
+          "approval_pct": 99.5,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "伊藤政貴",
+          "votes_for": 89090,
+          "votes_against": 9020,
+          "votes_abstain": 0,
+          "approval_pct": 90.73,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "橋本秀一",
+          "votes_for": 85619,
+          "votes_against": 12491,
+          "votes_abstain": 0,
+          "approval_pct": 87.19,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中村規代実",
+          "votes_for": 87457,
+          "votes_against": 10653,
+          "votes_abstain": 0,
+          "approval_pct": 89.06,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浅見裕子",
+          "votes_for": 89136,
+          "votes_against": 8974,
+          "votes_abstain": 0,
+          "approval_pct": 90.77,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 4,
+          "proposal_title": "第4号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 89222,
+          "votes_against": 8888,
+          "votes_abstain": 0,
+          "approval_pct": 90.86,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WASR",
@@ -189,5 +330,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:03:01.032Z"
+  "updated_at": "2026-07-04T00:50:39.038Z"
 }

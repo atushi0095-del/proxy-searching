@@ -3,6 +3,111 @@
   "company_name": "ウィルグループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-27",
+      "meeting_year": 2026,
+      "doc_id": "S100YMPP",
+      "submit_date_time": "2026-06-29 12:01",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMPP",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 170356,
+          "votes_against": 900,
+          "votes_abstain": null,
+          "approval_pct": 99.47,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田良介",
+          "votes_for": 169774,
+          "votes_against": 1482,
+          "votes_abstain": null,
+          "approval_pct": 99.13,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "角裕一",
+          "votes_for": 168365,
+          "votes_against": 2891,
+          "votes_abstain": null,
+          "approval_pct": 98.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "村上秀夫",
+          "votes_for": 169367,
+          "votes_against": 1889,
+          "votes_abstain": null,
+          "approval_pct": 98.89,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "腰塚國博",
+          "votes_for": 169516,
+          "votes_against": 1740,
+          "votes_abstain": null,
+          "approval_pct": 98.98,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "高橋理人",
+          "votes_for": 169628,
+          "votes_against": 1628,
+          "votes_abstain": null,
+          "approval_pct": 99.04,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "市川祐子",
+          "votes_for": 169735,
+          "votes_against": 1521,
+          "votes_abstain": null,
+          "approval_pct": 99.11,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案中島英樹",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 164162,
+          "votes_against": 7094,
+          "votes_abstain": null,
+          "approval_pct": 95.85,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-21",
       "meeting_year": 2025,
       "doc_id": "S100VYUS",
@@ -213,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:10:58.765Z"
+  "updated_at": "2026-07-04T01:13:11.453Z"
 }

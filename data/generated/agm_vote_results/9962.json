@@ -3,6 +3,135 @@
   "company_name": "ミスミグループ本社",
   "meetings": [
     {
+      "meeting_date": "2026-06-18",
+      "meeting_year": 2026,
+      "doc_id": "S100YF16",
+      "submit_date_time": "2026-06-19 11:58",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YF16",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案剰余金の配当の件",
+          "proposal_category": "剰余金処分",
+          "candidate_name": null,
+          "votes_for": 2338617,
+          "votes_against": 258,
+          "votes_abstain": 524,
+          "approval_pct": 99.97,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "清水新",
+          "votes_for": 2117123,
+          "votes_against": 215771,
+          "votes_abstain": 6506,
+          "approval_pct": 90.5,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "大野龍隆",
+          "votes_for": 2192743,
+          "votes_against": 123762,
+          "votes_abstain": 22896,
+          "approval_pct": 93.73,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "金谷知樹",
+          "votes_for": 2193921,
+          "votes_against": 122584,
+          "votes_abstain": 22896,
+          "approval_pct": 93.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "清水重貴",
+          "votes_for": 2193783,
+          "votes_against": 122722,
+          "votes_abstain": 22896,
+          "approval_pct": 93.78,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "徐少淳",
+          "votes_for": 2194030,
+          "votes_against": 122475,
+          "votes_abstain": 22896,
+          "approval_pct": 93.79,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "中野庸一",
+          "votes_for": 2318625,
+          "votes_against": 20254,
+          "votes_abstain": 524,
+          "approval_pct": 99.11,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "栖関智晴",
+          "votes_for": 2319441,
+          "votes_against": 19438,
+          "votes_abstain": 524,
+          "approval_pct": 99.15,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "矢野圭子",
+          "votes_for": 2333375,
+          "votes_against": 5504,
+          "votes_abstain": 524,
+          "approval_pct": 99.74,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案取締役9名選任の件",
+          "proposal_category": "取締役選任",
+          "candidate_name": "FigenULGEN",
+          "votes_for": 2333637,
+          "votes_against": 5242,
+          "votes_abstain": 524,
+          "approval_pct": 99.75,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-19",
       "meeting_year": 2025,
       "doc_id": "S100W18G",
@@ -333,5 +462,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:15:59.283Z"
+  "updated_at": "2026-07-04T01:59:17.312Z"
 }

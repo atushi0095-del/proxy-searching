@@ -3,6 +3,39 @@
   "company_name": "日本アジア投資",
   "meetings": [
     {
+      "meeting_date": "2026-06-30",
+      "meeting_year": 2026,
+      "doc_id": "S100YOFT",
+      "submit_date_time": "2026-07-02 15:58",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YOFT",
+      "proposals": [
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "丸山俊",
+          "votes_for": 182987,
+          "votes_against": 4430,
+          "votes_abstain": null,
+          "approval_pct": 97.49,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "岸本謙司",
+          "votes_for": 183036,
+          "votes_against": 4381,
+          "votes_abstain": null,
+          "approval_pct": 97.51,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-26",
       "meeting_year": 2025,
       "doc_id": "S100W9HW",
@@ -72,5 +105,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:22:31.087Z"
+  "updated_at": "2026-07-04T00:46:56.314Z"
 }

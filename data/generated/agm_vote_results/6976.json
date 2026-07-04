@@ -3,6 +3,135 @@
   "company_name": "太陽誘電",
   "meetings": [
     {
+      "meeting_date": "2026-06-26",
+      "meeting_year": 2026,
+      "doc_id": "S100YO0Z",
+      "submit_date_time": "2026-07-01 13:23",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YO0Z",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 1028998,
+          "votes_against": 1023,
+          "votes_abstain": 0,
+          "approval_pct": 99.9,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "佐瀬克也",
+          "votes_for": 951430,
+          "votes_against": 78587,
+          "votes_abstain": 79,
+          "approval_pct": 92.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "福田智光",
+          "votes_for": 1010275,
+          "votes_against": 19822,
+          "votes_abstain": 0,
+          "approval_pct": 98.08,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "渡邊敏幸",
+          "votes_for": 1024707,
+          "votes_against": 5390,
+          "votes_abstain": 0,
+          "approval_pct": 99.48,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "平岩正史",
+          "votes_for": 1005634,
+          "votes_against": 24461,
+          "votes_abstain": 0,
+          "approval_pct": 97.63,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "小池精一",
+          "votes_for": 1013162,
+          "votes_against": 16937,
+          "votes_abstain": 0,
+          "approval_pct": 98.36,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "浜田恵美子",
+          "votes_for": 949429,
+          "votes_against": 80667,
+          "votes_abstain": 0,
+          "approval_pct": 92.17,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤川巌",
+          "votes_for": 1010390,
+          "votes_against": 19650,
+          "votes_abstain": 0,
+          "approval_pct": 98.09,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "藤田知美",
+          "votes_for": 1027533,
+          "votes_against": 2513,
+          "votes_abstain": 0,
+          "approval_pct": 99.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "角田朋子",
+          "votes_for": 1027556,
+          "votes_against": 2490,
+          "votes_abstain": 0,
+          "approval_pct": 99.76,
+          "approval_pct_source": "computed",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-27",
       "meeting_year": 2025,
       "doc_id": "S100WAKV",
@@ -321,5 +450,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:05:21.972Z"
+  "updated_at": "2026-07-04T00:51:31.135Z"
 }

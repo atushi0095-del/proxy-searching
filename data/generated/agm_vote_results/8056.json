@@ -3,6 +3,147 @@
   "company_name": "ＢＩＰＲＯＧＹ",
   "meetings": [
     {
+      "meeting_date": "2026-06-24",
+      "meeting_year": 2026,
+      "doc_id": "S100YLNS",
+      "submit_date_time": "2026-06-26 10:11",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLNS",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 809057,
+          "votes_against": 214,
+          "votes_abstain": 607,
+          "approval_pct": 99.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 808980,
+          "votes_against": 291,
+          "votes_abstain": 607,
+          "approval_pct": 99.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "齊藤昇",
+          "votes_for": 789816,
+          "votes_against": 18642,
+          "votes_abstain": 1416,
+          "approval_pct": 96.92,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "葛谷幸司",
+          "votes_for": 792385,
+          "votes_against": 16883,
+          "votes_abstain": 607,
+          "approval_pct": 97.24,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "澤上多恵子",
+          "votes_for": 792788,
+          "votes_against": 16480,
+          "votes_abstain": 607,
+          "approval_pct": 97.29,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "金沢貴人",
+          "votes_for": 792895,
+          "votes_against": 16373,
+          "votes_abstain": 607,
+          "approval_pct": 97.3,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "ナリンアドバニ",
+          "votes_for": 803629,
+          "votes_against": 5642,
+          "votes_abstain": 607,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "池田義典",
+          "votes_for": 803645,
+          "votes_against": 5626,
+          "votes_abstain": 607,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "大崎麻子",
+          "votes_for": 803694,
+          "votes_against": 5577,
+          "votes_abstain": 607,
+          "approval_pct": 98.62,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "片山雄一",
+          "votes_for": 792751,
+          "votes_against": 16513,
+          "votes_abstain": 607,
+          "approval_pct": 97.28,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "寺浦康子",
+          "votes_for": 803614,
+          "votes_against": 5657,
+          "votes_abstain": 607,
+          "approval_pct": 98.61,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-25",
       "meeting_year": 2025,
       "doc_id": "S100W858",
@@ -297,5 +438,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T21:39:58.708Z"
+  "updated_at": "2026-07-04T01:30:28.115Z"
 }

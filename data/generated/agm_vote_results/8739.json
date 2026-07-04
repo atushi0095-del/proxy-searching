@@ -3,6 +3,123 @@
   "company_name": "スパークス・グループ",
   "meetings": [
     {
+      "meeting_date": "2026-06-05",
+      "meeting_year": 2026,
+      "doc_id": "S100Y9FY",
+      "submit_date_time": "2026-06-08 13:54",
+      "source": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y9FY",
+      "proposals": [
+        {
+          "proposal_no": 1,
+          "proposal_title": "第1号議案",
+          "proposal_category": "その他",
+          "candidate_name": null,
+          "votes_for": 348523,
+          "votes_against": 361,
+          "votes_abstain": null,
+          "approval_pct": 99.42,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "阿部修平",
+          "votes_for": 334381,
+          "votes_against": 14503,
+          "votes_abstain": null,
+          "approval_pct": 95.38,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "峰松洋志",
+          "votes_for": 347382,
+          "votes_against": 1502,
+          "votes_abstain": null,
+          "approval_pct": 99.09,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "深見正敏",
+          "votes_for": 348154,
+          "votes_against": 730,
+          "votes_abstain": null,
+          "approval_pct": 99.31,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 2,
+          "proposal_title": "第2号議案",
+          "proposal_category": "その他",
+          "candidate_name": "鈴木剛",
+          "votes_for": 347308,
+          "votes_against": 1576,
+          "votes_abstain": null,
+          "approval_pct": 99.07,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "中川俊彦",
+          "votes_for": 340665,
+          "votes_against": 8217,
+          "votes_abstain": null,
+          "approval_pct": 97.18,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "加藤俊行",
+          "votes_for": 348244,
+          "votes_against": 640,
+          "votes_abstain": null,
+          "approval_pct": 99.34,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "勝又幹英",
+          "votes_for": 340960,
+          "votes_against": 7922,
+          "votes_abstain": null,
+          "approval_pct": 97.26,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        },
+        {
+          "proposal_no": 3,
+          "proposal_title": "第3号議案",
+          "proposal_category": "その他",
+          "candidate_name": "齋藤美帆",
+          "votes_for": 340987,
+          "votes_against": 7895,
+          "votes_abstain": null,
+          "approval_pct": 97.27,
+          "approval_pct_source": "reported",
+          "result": "可決"
+        }
+      ]
+    },
+    {
       "meeting_date": "2025-06-06",
       "meeting_year": 2025,
       "doc_id": "S100VWEE",
@@ -153,5 +270,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T22:24:15.907Z"
+  "updated_at": "2026-07-04T02:04:15.383Z"
 }
