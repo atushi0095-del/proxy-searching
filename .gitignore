@@ -41,6 +41,7 @@ data/generated/*_vote_cases.json
 data/generated/pipeline_logs/
 data/generated/opposition_records_by_investor/
 data/generated/analysis.db*
+data/generated/agm_vote_results_audit.json
 
 # env files (can opt-in for committing if needed)
 .env*
