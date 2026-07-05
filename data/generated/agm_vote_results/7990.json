@@ -19,7 +19,8 @@
           "votes_abstain": 74747474747474,
           "approval_pct": 99.22,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 2,
@@ -31,7 +32,8 @@
           "votes_abstain": 747474,
           "approval_pct": 98.68,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 3,
@@ -43,7 +45,8 @@
           "votes_abstain": 74,
           "approval_pct": 99.53,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         }
       ]
     },
@@ -64,7 +67,8 @@
           "votes_abstain": 44444444,
           "approval_pct": 96.63,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 2,
@@ -76,7 +80,8 @@
           "votes_abstain": 4,
           "approval_pct": 99.63,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         }
       ]
     },
@@ -97,7 +102,8 @@
           "votes_abstain": 0,
           "approval_pct": 98.53,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 2,
@@ -109,7 +115,8 @@
           "votes_abstain": 0,
           "approval_pct": 97.96,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 3,
@@ -121,7 +128,8 @@
           "votes_abstain": 0,
           "approval_pct": 99.64,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         }
       ]
     }

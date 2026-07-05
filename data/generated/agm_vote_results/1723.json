@@ -19,7 +19,8 @@
           "votes_abstain": 32,
           "approval_pct": 99.8,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -31,7 +32,8 @@
           "votes_abstain": 37323232,
           "approval_pct": 99.2,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 3,
@@ -43,7 +45,8 @@
           "votes_abstain": 32,
           "approval_pct": 99.7,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         }
       ]
     },
@@ -64,7 +67,8 @@
           "votes_abstain": 37,
           "approval_pct": 99.84,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -76,7 +80,8 @@
           "votes_abstain": 37373737,
           "approval_pct": 98.8,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 3,
@@ -88,7 +93,8 @@
           "votes_abstain": 3737,
           "approval_pct": 86.61,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "suspect"
         }
       ]
     },
@@ -109,7 +115,8 @@
           "votes_abstain": 0,
           "approval_pct": 99.53,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -121,7 +128,8 @@
           "votes_abstain": 555555,
           "approval_pct": 99.47,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 3,
@@ -133,7 +141,8 @@
           "votes_abstain": 5555,
           "approval_pct": 99.41,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "suspect"
         }
       ]
     }

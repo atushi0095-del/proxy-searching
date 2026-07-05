@@ -1,5 +1,6 @@
 // 臨時報告書（議決権行使結果）HTML のパース関数群。
 // edinet-extract-vote-results.mjs から利用。純粋関数のみでテスト可能。
+import { resolveRecord } from "./vote-quality.mjs";
 
 // ── HTML テーブルパース ──────────────────────────────
 export function decodeEntities(text) {
@@ -149,8 +150,9 @@ export function extractRecordsFromTable(rows) {
     // 候補者行: 議案コンテキストがあり数値を持つ行
     if (currentProposalNo !== null && numbers.length >= 2) {
       const candidate = normalizeName(first);
-      // 数字だけ・長文（説明文）は候補者名ではない
-      if (!candidate || /^\d+$/.test(candidate) || candidate.length > 20) continue;
+      // 数字だけ（カンマ・ピリオド含む）・長文（説明文）は候補者名ではない
+      // （得票数が候補者名の列に流れ込むレイアウトずれ対策）
+      if (!candidate || /^[\d,，.]+$/.test(candidate) || candidate.length > 20) continue;
       records.push(makeRecord(currentProposalNo, currentProposalTitle, candidate, numbers, pct, result));
     }
   }
@@ -168,7 +170,7 @@ export function makeRecord(no, title, candidate, numbers, pct, result) {
       pctSource = "computed";
     }
   }
-  return {
+  const record = {
     proposal_no: no,
     proposal_title: title,
     proposal_category: classifyProposal(title),
@@ -180,5 +182,13 @@ export function makeRecord(no, title, candidate, numbers, pct, result) {
     approval_pct_source: pctSource,
     result,
   };
+  // 一部の会社は「賛成（反対）割合」列に実際は反対割合を記載しており、
+  // また別の会社は複数候補者の得票数が1セルに連結され桁が壊れる。
+  // resolveRecord がその2パターンを検出・補正し、信頼できない数値には suspect を立てる。
+  const resolved = resolveRecord(record);
+  record.approval_pct = resolved.approval_pct;
+  record.approval_pct_source = resolved.approval_pct_source;
+  record.data_quality = resolved.data_quality;
+  return record;
 }
 

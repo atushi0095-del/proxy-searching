@@ -19,7 +19,8 @@
           "votes_abstain": 0,
           "approval_pct": 99.9,
           "approval_pct_source": "computed",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         }
       ]
     },
@@ -40,7 +41,8 @@
           "votes_abstain": 137,
           "approval_pct": 99.89,
           "approval_pct_source": "computed",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -52,7 +54,8 @@
           "votes_abstain": 137,
           "approval_pct": 99.91,
           "approval_pct_source": "computed",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 5,
@@ -64,7 +67,8 @@
           "votes_abstain": 137,
           "approval_pct": 95.83,
           "approval_pct_source": "computed",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 6,
@@ -76,7 +80,8 @@
           "votes_abstain": 274,
           "approval_pct": 99.79,
           "approval_pct_source": "computed",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 7,
@@ -88,7 +93,8 @@
           "votes_abstain": 274,
           "approval_pct": 99.8,
           "approval_pct_source": "computed",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 8,
@@ -100,7 +106,8 @@
           "votes_abstain": 604,
           "approval_pct": 99.36,
           "approval_pct_source": "computed",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         }
       ]
     },
@@ -121,7 +128,8 @@
           "votes_abstain": 259,
           "approval_pct": 92.8,
           "approval_pct_source": "computed",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         }
       ]
     }

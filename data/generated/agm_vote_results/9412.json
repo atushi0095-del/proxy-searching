@@ -19,7 +19,8 @@
           "votes_abstain": 23,
           "approval_pct": 97.5,
           "approval_pct_source": "reported",
-          "result": null
+          "result": null,
+          "data_quality": "ok"
         }
       ]
     },
@@ -40,7 +41,8 @@
           "votes_abstain": 106,
           "approval_pct": 99.3,
           "approval_pct_source": "reported",
-          "result": null
+          "result": null,
+          "data_quality": "ok"
         }
       ]
     }

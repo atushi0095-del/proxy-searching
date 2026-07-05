@@ -19,7 +19,8 @@
           "votes_abstain": 2293,
           "approval_pct": 99.1,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -31,7 +32,8 @@
           "votes_abstain": 2293,
           "approval_pct": 89.8,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -43,7 +45,8 @@
           "votes_abstain": 2293,
           "approval_pct": 97.2,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -55,7 +58,8 @@
           "votes_abstain": 2293,
           "approval_pct": 98.4,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -67,7 +71,8 @@
           "votes_abstain": 2293,
           "approval_pct": 98.5,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 3,
@@ -79,7 +84,8 @@
           "votes_abstain": 2293,
           "approval_pct": 98.7,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 4,
@@ -91,7 +97,8 @@
           "votes_abstain": 2318,
           "approval_pct": 98.5,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 5,
@@ -101,9 +108,10 @@
           "votes_for": 35078,
           "votes_against": 1477829,
           "votes_abstain": 3734,
-          "approval_pct": 97.2,
-          "approval_pct_source": "reported",
-          "result": "否決"
+          "approval_pct": 2.31,
+          "approval_pct_source": "corrected_complement",
+          "result": "否決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 6,
@@ -113,9 +121,10 @@
           "votes_for": 35039,
           "votes_against": 1477866,
           "votes_abstain": 3734,
-          "approval_pct": 97.2,
-          "approval_pct_source": "reported",
-          "result": "否決"
+          "approval_pct": 2.31,
+          "approval_pct_source": "corrected_complement",
+          "result": "否決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 7,
@@ -125,9 +134,10 @@
           "votes_for": 29921,
           "votes_against": 1481238,
           "votes_abstain": 5430,
-          "approval_pct": 97.5,
-          "approval_pct_source": "reported",
-          "result": "否決"
+          "approval_pct": 1.97,
+          "approval_pct_source": "corrected_complement",
+          "result": "否決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 8,
@@ -137,9 +147,10 @@
           "votes_for": 62722,
           "votes_against": 1450166,
           "votes_abstain": 3734,
-          "approval_pct": 95.4,
-          "approval_pct_source": "reported",
-          "result": "否決"
+          "approval_pct": 4.14,
+          "approval_pct_source": "corrected_complement",
+          "result": "否決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 9,
@@ -149,9 +160,10 @@
           "votes_for": 33116,
           "votes_against": 1479660,
           "votes_abstain": 3865,
-          "approval_pct": 97.3,
-          "approval_pct_source": "reported",
-          "result": "否決"
+          "approval_pct": 2.18,
+          "approval_pct_source": "corrected_complement",
+          "result": "否決",
+          "data_quality": "ok"
         }
       ]
     },
@@ -172,7 +184,8 @@
           "votes_abstain": 937,
           "approval_pct": 98.8,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -184,7 +197,8 @@
           "votes_abstain": 937,
           "approval_pct": 89.3,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -196,7 +210,8 @@
           "votes_abstain": 937,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -208,7 +223,8 @@
           "votes_abstain": 937,
           "approval_pct": 98.3,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -220,7 +236,8 @@
           "votes_abstain": 937,
           "approval_pct": 98.4,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -232,7 +249,8 @@
           "votes_abstain": 937,
           "approval_pct": 98.4,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -244,7 +262,8 @@
           "votes_abstain": 937,
           "approval_pct": 98.4,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -256,7 +275,8 @@
           "votes_abstain": 937,
           "approval_pct": 98.4,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -268,7 +288,8 @@
           "votes_abstain": 937,
           "approval_pct": 98.4,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 3,
@@ -280,7 +301,8 @@
           "votes_abstain": 937,
           "approval_pct": 91.9,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 3,
@@ -292,7 +314,8 @@
           "votes_abstain": 937,
           "approval_pct": 88.2,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 3,
@@ -304,7 +327,8 @@
           "votes_abstain": 937,
           "approval_pct": 88.2,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 3,
@@ -316,7 +340,8 @@
           "votes_abstain": 937,
           "approval_pct": 98.8,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 3,
@@ -328,7 +353,8 @@
           "votes_abstain": 937,
           "approval_pct": 98.7,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 4,
@@ -338,9 +364,10 @@
           "votes_for": 32345,
           "votes_against": 1446523,
           "votes_abstain": 975,
-          "approval_pct": 97.4,
-          "approval_pct_source": "reported",
-          "result": "否決"
+          "approval_pct": 2.19,
+          "approval_pct_source": "corrected_complement",
+          "result": "否決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 5,
@@ -350,9 +377,10 @@
           "votes_for": 28954,
           "votes_against": 1449905,
           "votes_abstain": 985,
-          "approval_pct": 97.7,
-          "approval_pct_source": "reported",
-          "result": "否決"
+          "approval_pct": 1.96,
+          "approval_pct_source": "corrected_complement",
+          "result": "否決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 6,
@@ -362,9 +390,10 @@
           "votes_for": 28892,
           "votes_against": 1449967,
           "votes_abstain": 985,
-          "approval_pct": 97.7,
-          "approval_pct_source": "reported",
-          "result": "否決"
+          "approval_pct": 1.95,
+          "approval_pct_source": "corrected_complement",
+          "result": "否決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 7,
@@ -374,9 +403,10 @@
           "votes_for": 38373,
           "votes_against": 1439637,
           "votes_abstain": 1838,
-          "approval_pct": 97,
-          "approval_pct_source": "reported",
-          "result": "否決"
+          "approval_pct": 2.59,
+          "approval_pct_source": "corrected_complement",
+          "result": "否決",
+          "data_quality": "ok"
         }
       ]
     },
@@ -397,7 +427,8 @@
           "votes_abstain": 4409,
           "approval_pct": 98.2,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -409,7 +440,8 @@
           "votes_abstain": 4409,
           "approval_pct": 88.9,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -421,7 +453,8 @@
           "votes_abstain": 4409,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -433,7 +466,8 @@
           "votes_abstain": 4409,
           "approval_pct": 97.5,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -445,7 +479,8 @@
           "votes_abstain": 4409,
           "approval_pct": 97.6,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -457,7 +492,8 @@
           "votes_abstain": 4409,
           "approval_pct": 97.6,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -469,7 +505,8 @@
           "votes_abstain": 4409,
           "approval_pct": 97.6,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -481,7 +518,8 @@
           "votes_abstain": 4409,
           "approval_pct": 97.6,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 2,
@@ -493,7 +531,8 @@
           "votes_abstain": 4409,
           "approval_pct": 95.8,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 3,
@@ -505,7 +544,8 @@
           "votes_abstain": 4409,
           "approval_pct": 98,
           "approval_pct_source": "reported",
-          "result": "可決"
+          "result": "可決",
+          "data_quality": "ok"
         },
         {
           "proposal_no": 4,
@@ -517,7 +557,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -529,7 +570,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.1,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -541,7 +583,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -553,7 +596,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -565,7 +609,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -577,7 +622,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -589,7 +635,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -601,7 +648,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -613,7 +661,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -625,7 +674,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -637,7 +687,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -649,7 +700,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.5,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 4,
@@ -661,7 +713,8 @@
           "votes_abstain": 5443,
           "approval_pct": 96.7,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 5,
@@ -673,7 +726,8 @@
           "votes_abstain": 5596,
           "approval_pct": 96,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 6,
@@ -685,7 +739,8 @@
           "votes_abstain": 5596,
           "approval_pct": 96,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 7,
@@ -697,7 +752,8 @@
           "votes_abstain": 5606,
           "approval_pct": 96.2,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         },
         {
           "proposal_no": 8,
@@ -709,7 +765,8 @@
           "votes_abstain": 8840,
           "approval_pct": 95.4,
           "approval_pct_source": "reported",
-          "result": "否決"
+          "result": "否決",
+          "data_quality": "suspect"
         }
       ]
     }

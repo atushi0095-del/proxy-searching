@@ -37,7 +37,9 @@
     "seed:companies": "node scripts/seed-companies-from-jpx.mjs",
     "build:analysis-db": "node scripts/build-analysis-db.mjs",
     "edinet:discover-votes": "node scripts/edinet-discover-vote-reports.mjs",
-    "edinet:extract-votes": "node scripts/edinet-extract-vote-results.mjs"
+    "edinet:extract-votes": "node scripts/edinet-extract-vote-results.mjs",
+    "audit:agm-votes": "node scripts/audit-agm-vote-results.mjs",
+    "fix:agm-votes": "node scripts/apply-vote-quality-flags.mjs"
   },
   "dependencies": {
     "next": "16.2.4",
